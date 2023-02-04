@@ -2045,8 +2045,11 @@
             stanābhyāmabhivahataḥ, tāstvetāstriṃśat savibhāgā vyākhyātāḥ | etābhir ūrdhvaṃ
             nābherudarapārśvapṛṣṭhoraḥskandhagrīvābāhavo dhāryante yāpyante ca || </l>
 
-          <l xml:id="SS.3.9.6"><label>śā.9.6</label> bhavati cātra | ūrdhvaṃgamā(tā)stu kurvanti
-            karmāṇy etāni sarvaśaḥ || adhogamās tu vakṣyāmi karma tāsāṃ <ref rend="superscript
+          <l xml:id="SS.3.9.6"><label>śā.9.6</label> bhavati cātra | </l>
+          
+          <l xml:id="SS.3.9.6.1"><label>śā.9.6.1</label> ūrdhvaṃgamā(tā)stu kurvanti
+            karmāṇy etāni sarvaśaḥ || 
+            <caesura/>adhogamās tu vakṣyāmi karma tāsāṃ <ref rend="superscript
               footnote marker">1</ref>yathāyatham<note type="footnote">'yathātatham'iti pā+</note>
             || </l>
 
@@ -2068,8 +2071,11 @@
             | etābhir adhovābheḥ pakvāśayakaṭīmūtrapurīṣagudabastimeḍhrasakthīni dhāryante yāpyante
             ca || </l>
 
-          <l xml:id="SS.3.9.8"><label>śā.9.8</label> bhavati cātra | adhogamās tu kurvanti karmaṇy
-            etāni sarvaśaḥ || tiryaggāḥ saṃpravakṣyāmi karma cāsāṃ yathāyatham || </l>
+          <l xml:id="SS.3.9.8"><label>śā.9.8</label> bhavati cātra | </l>
+          
+          <l xml:id="SS.3.9.8.1"><label>śā.9.8.1</label> adhogamās tu kurvanti karmaṇy
+            etāni sarvaśaḥ || 
+            <caesura/>tiryaggāḥ saṃpravakṣyāmi karma cāsāṃ yathāyatham || </l>
 
           <l xml:id="SS.3.9.9"><label>śā.9.9</label> tiryaggāṇāṃ tu catasṛṇāṃ dhamanīnāmekaikā
             śatadhā sahasradhā cottarottaraṃ vibhajyante, tāstvasaṅkhyeyāḥ, tābhir idaṃ śarīraṃ
@@ -2083,8 +2089,10 @@
 
           <l xml:id="SS.3.9.10"><label>śā.9.10</label>
             <ref rend="superscript footnote marker">1</ref>bhavataś cātra[<ref rend="superscript
-              footnote marker">1</ref>'bhavataś cātra'iti hastalikhitapustakeṣu nopalabhyate |] |
-            yathā svabhāvataḥ khāni mṛṇāleṣu biseṣu ca || dhamanīnāṃ tathā svāni raso yair upacīyate
+              footnote marker">1</ref>'bhavataś cātra'iti hastalikhitapustakeṣu nopalabhyate |] |</l>
+              
+          <l xml:id="SS.3.9.10.1"><label>śā.9.10.1</label>yathā svabhāvataḥ khāni mṛṇāleṣu biseṣu ca || 
+          <caesura/>dhamanīnāṃ tathā svāni raso yair upacīyate
             || </l>
 
           <l xml:id="SS.3.9.11"><label>śā.9.11</label> pañcābhibhūtāstvatha pañcakṛtvaḥ pañcendriyaṃ
@@ -2117,8 +2125,9 @@
             bastigudaviddhalakṣaṇaṃ prāguktam iti | srotoviddhaṃ tu pratyākhyāyopacaret,
             uddhṛtaśalyaṃ tu kṣatavidhānenopacaret || </l>
 
-          <l xml:id="SS.3.9.13"><label>śā.9.13</label> bhavati cātra |
-            <caesura/>
+          <l xml:id="SS.3.9.13"><label>śā.9.13</label> bhavati cātra |</>
+            
+          <l xml:id="SS.3.9.13.1"><label>śā.9.13.1</label>
              mūlāt khādantaraṃ dehe prasṛtaṃ tv abhivāhi yat ||
             <caesura/>
              srotas tad iti vijñeyaṃ sirādhamanivarjitam ||</l>
