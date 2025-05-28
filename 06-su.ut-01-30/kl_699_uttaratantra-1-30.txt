@@ -198,13 +198,13 @@
             <caesura/>
              upasargādayo do<lb/>ṣā yenāpy āgantavaḥ smṛtāḥ ||</l>
 
-          <l xml:id="SS.6.1.7">triṣaṣṭirasasaṃsarggāḥ svasthavṛttan tathaiva ca |<cb/>
+          <l xml:id="SS.6.1.7">triṣaṣṭir asasaṃsarggāḥ svasthavṛttan tathaiva ca |<cb/>
             <caesura/>
              yuktārthā yuktayaś cāpi doṣabhedāś ca tatvataḥ ||</l>
 
           <l xml:id="SS.6.1.8">yatroktā vividhāś cārthā<milestone facs="153v IMG_0020.JPG"
               n="157v" unit="digital-image"/><pb facs="146" n="157v"/>
-              rogasādha<unclear>na</unclear>hetavaḥ |
+              rogasādha<sic>ṇa</sic>hetavaḥ |
             <caesura/>
              asya tantrasya mahataḥ sāgarākāravarcasaḥ |</l>
 
@@ -223,7 +223,7 @@
 
           <l xml:id="SS.6.1.12">ākāśād aśrumā<cb n="1"/>rgas tu jāyante netra budbude |
             <caesura/>
-             dṛṣṭiś cātra yathā vakṣye tathā vidyādvicakṣaṇaḥ |</l>
+             dṛṣṭiś cātra yathā vakṣye tathā vidyād vicakṣaṇaḥ |</l>
 
           <l xml:id="SS.6.1.13">netrāyāma<unclear>vi</unclear>bhāgas tu kṛṣṇammaṇḍalam
               ucya<cb n="2"/>te |
