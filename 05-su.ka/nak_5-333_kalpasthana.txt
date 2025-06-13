@@ -2969,34 +2969,36 @@
                         <caesura/>
                          dhīraḥ sarvvavikāreṣu tathā cākṣīvapippalaṃ |</l>
 
-                    <l xml:id="SS.5.8.121">kṛcchrasādhyāviṣā hy a<lb n="4"/>ṣṭau lūtā
-                        cikitsitaṃ |
+                    <l xml:id="SS.5.8.121">kṛcchrasādhyā viṣā hy a<lb n="4"/>ṣṭau lūtā
+                        proktā yathākramaṃ ||
                         <caesura/>
-                        <gap extent="2" unit="char"/>raviṣavīryāṇāṃ lakṣaṇā<cb/>ni nivodha
-                        me |</l>
+                        <gap extent="2" unit="char" reason="blank"/>ra<pc
+                        > </pc>viṣavīryāṇāṃ lakṣaṇā<cb/>ni nivodha me |</l>
 
                     <l xml:id="SS.5.8.122">dhyātaḥ sauparṇṇikādaṃśaḥ sapheno
                         matsyagandhikaḥ |
                         <caesura/>
-                         kāsaśvāso jvarastṛṣṇā mūrcchā cātra<lb n="5"/>sudāruṇāḥ ||</l>
+                         kāsaśvāso jvaras tṛṣṇā mūrcchā cātra<lb n="5"/> sudāruṇāḥ ||</l>
 
-                    <l xml:id="SS.5.8.123">dhyāmaḥ pūtiḥ sravedraktamādaṃśe lājavarṇṇayā ||<cb/>
+                    <l xml:id="SS.5.8.123">dhyāmaḥ pūtiḥ sraved raktam ādaṃśe lājavarṇṇayā ||<cb/>
                         <caesura/>
                          dāho mūrcchā ca sārau ca śiroduḥkhañ ca jāyate |</l>
 
-                    <l xml:id="SS.5.8.124">ghorodaṃśaś ca jālinyā rājimānavadīryate ||<lb
-                            n="6"/>
+                    <l xml:id="SS.5.8.124">ghoro daṃśaś ca jālinyā rājimān avadīryate
+                            ||<lb n="6"/>
                         <caesura/>
-                         stambhaḥ śvāsas tamo vṛddhis tāluśoṣaś ca tatkṛtaḥ |</l>
+                         stambhaḥ śvāsas tamovṛddhis tāluśoṣaś ca tatkṛtaḥ |</l>
 
-                    <l xml:id="SS.5.8.125">eṇīpadāmahādāho daṃśaḥ kṛṣṇatilākṛtiḥ ||
+                    <l xml:id="SS.5.8.125">eṇīpadā mahādāho daṃśaḥ kṛṣṇatilākṛtiḥ ||
                         <caesura/>
-                         tṛṣṇā mūrcchā jvaraś ccharddiḥ | śvasakāsasama<unclear
+                         tṛṣṇāmūrcchājvaraśccharddiḥ | śvasakāsasama<unclear
                             reason="faded">nvitaḥ |</unclear></l>
 
-                    <l xml:id="SS.5.8.125.add-1">
-                            kṛṣṇa<unclear>yāhṛṣṇa</unclear>paryanto<pb n="351v"/><lb n="1"
-                        />nimnamadhyoticoṣavān ||
+                    <milestone unit="digital_image" facs="dscn3329 fol 351.jpg"/>
+
+                    <l xml:id="SS.5.8.125.add-1"> kṛṣṇa<unclear>yā
+                            hṛṣṇa</unclear>paryanto<pb n="351v"/><lb n="1"/>nimnamadhyo
+                        ticoṣavān ||
                         <caesura/>
                          pāṇḍumūrcchāvamīdāhaḥ śvasakāsasamanvitaḥ |</l>
 
@@ -3005,16 +3007,16 @@
                         <caesura/>
                          coṣakaṇḍūromaharṣo dāhajvarasamanvitaḥ |<lb n="2"/></l>
 
-                    <l xml:id="SS.5.8.126">daṃśaḥ kākāṇḍikādaṣṭe pāṇḍuraktotivedanaḥ ||
+                    <l xml:id="SS.5.8.126">daṃśaḥ kākāṇḍikādaṣṭe pāṇḍurakto tivedanaḥ ||
                         <caesura/>
                          hikvākā<cb/>satṛṣāmūrcchā nidrāhṛdrogapīḍitaḥ |</l>
 
-                    <l xml:id="SS.5.8.127">rakto daṃśo dhūmagandhirmmālāguṇyādivedanaḥ ||
+                    <l xml:id="SS.5.8.127">rakto daṃśo dhūmagandhir mmālāguṇyādivedanaḥ ||
                         <caesura/>
                          vidīryate ca va<lb n="3"/>hudhā dāhamūrcchājvarānvitaḥ |</l>
 
-                    <l xml:id="SS.5.8.128">asādhyānām api
-                            bhiṣa<unclear>ṣkra<cb/></unclear> yuñjīta cikitsitaṃ ||
+                    <l xml:id="SS.5.8.128">asādhyānām api bhiṣaṣ pra<cb/>yuñjīta
+                        cikitsitaṃ ||
                         <caesura/>
                          doṣocchrāyaviśeṣeṇa cchedakarmmavivarjjitaṃ |</l>
 
@@ -3023,30 +3025,34 @@
                         <caesura/>
                          vṛddhipattreṇa matimān samyag ādaṃśam u<cb/>ddharet </l>
 
-                    <l xml:id="SS.5.8.129.add-1"> jamvoṣṭena sutaptena dahed ākaravāraṇāt
+                    <l xml:id="SS.5.8.129.add-1"> jamvoṣṭhena sutaptena dahed ākaravāraṇāt
                         || </l>
 
 
                     <l xml:id="SS.5.8.131ab">madhusaindhavasaṃyuktair agadair llepayet
-                        tataḥ |<lb n="5"/></l>
+                        tataḥ |</l>
 
 
-                    <l xml:id="SS.5.8.133">kṣīriṇān tvak kaṣāyeṇa kusumbhamadhusaindhavaiḥ
-                        ||</l>
+                    <l xml:id="SS.5.8.133ab"><lb n="5"/> kṣīriṇān tvakkaṣāyeṇa
+                        kusumbhamadhusaindhavaiḥ ||</l>
 
-                    <l xml:id="SS.5.8.137">kiṇvaguggu<cb/>lugodante pārāvatamalair api |
+                    <l xml:id="SS.5.8.137">kiṇva<pc> </pc>guggu<cb/>lu<pc> </pc>godantapārāvatamalair api |
                         <caesura/>
                          viṣavṛddhikarañ cānnaṃ hitvā sabhojanaṃ hitaṃ ||</l>
 
                     <l xml:id="SS.5.8.138">visebhyaḥ khalu sa<lb n="6"/>rvvebhyaḥ
-                        karṇṇikāmarujāṃ sthirāṃ |
+                        karṇṇikām arujāṃ sthirāṃ |
                         <caesura/>
                          pracchayitvā madhuyutaiḥ śodhanīyair upācaret ||
-                        <caesura/>
-                         sadāhapākāny annena cikitsed dṛṣṭavā bhiṣak |</l>
+                    </l>
+                    
+                    <l xml:id="SS.5.8.138.add">
+                         sadāhapākāny annena cikitsed dṛṣṭavān bhiṣak |</l>
+
+<milestone unit="digital_image" facs="dscn 3329 fol 351 lower"/>
 
                     <l xml:id="SS.5.8.139">saptaṣaṣṭhasya kīṭānāṃ śatasyaita<pb n="352r"
-                            /><lb n="1"/>dvibhāgaśaḥ ||
+                            /><lb n="1"/>d vibhāgaśaḥ ||
                         <caesura/>
                          daṣṭalakṣaṇam ākhyātaṃ cikitsāñ cāpy anantaraṃ |</l>
 

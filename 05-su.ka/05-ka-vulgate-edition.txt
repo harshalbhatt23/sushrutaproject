@@ -2808,12 +2808,12 @@
                     <l xml:id="SS.5.8.121"> kṛcchrasādhyaviṣā hy aṣṭau proktā dve ca
                         yadṛcchayā |
                         <caesura/>
-                         avāryaviṣavīryāṇāṃ lakṣaṇāni nibodha me || </l>
+                        avārya<pc> </pc>viṣavīryāṇāṃ lakṣaṇāni nibodha me || </l>
 
                     <l xml:id="SS.5.8.122"> dhyāmaḥ sauvarṇikādaṃśaḥ sapheno
                         matsyagandhakaḥ |
                         <caesura/>
-                         śvāsaḥ kāso jvarastṛṣṇā mūrcchā cātra sudāruṇā || </l>
+                         śvāsaḥ kāso jvaras tṛṣṇā mūrcchā cātra sudāruṇā || </l>
 
                     <l xml:id="SS.5.8.123"> ādaṃśe lājavarṇāyā dhyāmaṃ pūti sraved asṛk |
                         <caesura/>
@@ -2823,13 +2823,13 @@
                         <caesura/>
                          stambhaḥ śvāsas tamovṛddhis tāluśoṣaś ca jāyate || </l>
 
-                    <l xml:id="SS.5.8.125"> eṇīpadmās tathā daṃśo bhavet kṛṣṇatilākṛtiḥ |
+                    <l xml:id="SS.5.8.125"> eṇīpadyās tathā daṃśo bhavet kṛṣṇatilākṛtiḥ |
                         <caesura/>
                          tṛṣṇā mūrcchā jvaracchardikāsaśvāsasamanvitaḥ || </l>
 
                     <l xml:id="SS.5.8.126"> daṃśaḥ kākāṇḍikādaṣṭe pāṇḍurakto 'tivedanaḥ |
                         <caesura/>
-                         tṛṇmūrcchāśvāsahṛdrogahikkākāsāḥ syur uccritāḥ || </l>
+                         tṛṇmūrcchāśvāsahṛdrogahikkākāsāḥ syur ucchritāḥ || </l>
 
                     <l xml:id="SS.5.8.127"> rakto mālāguṇādaṃśo dhūmagandho 'tivedanaḥ |
                         <caesura/>
@@ -2847,7 +2847,7 @@
 
                     <l xml:id="SS.5.8.130"> amarmaṇi vidhānajño varjitasya jvarādibhiḥ |
                         <caesura/>
-                         daṃśasyotkartanaṃ kuyādalpaśvayathukasya ca || </l>
+                         daṃśasyotkartanaṃ kuyād alpaśvayathukasya ca || </l>
 
                     <l xml:id="SS.5.8.131ab"> madhusaindhavasaṃyuktair agadair lepayet
                         tataḥ | </l>
@@ -2860,8 +2860,10 @@
                         <caesura/>
                          vidārīgokṣurakṣaudramadhukaṃ pāyayeta vā || </l>
 
-                    <l xml:id="SS.5.8.133"> kṣīriṇāṃ tvakkaṣāyeṇa suśītena ca secayet |
-                        <caesura/>
+                    <l xml:id="SS.5.8.133ab"> kṣīriṇāṃ tvakkaṣāyeṇa suśītena ca secayet |
+                    </l>
+                    
+                    <l xml:id="SS.5.8.133cd">
                          upadravān yathādoṣaṃ viṣaghnair eva sādhayet || </l>
 
                     <l xml:id="SS.5.8.134"> nasyāñjanābhyañjanapānadhūmaṃ tathā 'vapīḍaṃ
@@ -2882,7 +2884,7 @@
                         <caesura/>
                          viṣavṛddhikaraṃ cānnaṃ hitvā saṃbhojanaṃ hitam || </l>
 
-                    <l xml:id="SS.5.8.138"> viṣebhyaḥ khalu sarvebhyaḥ karṇikāmarujāṃ
+                    <l xml:id="SS.5.8.138"> viṣebhyaḥ khalu sarvebhyaḥ karṇikām arujāṃ
                         sthirām |
                         <caesura/>
                          pracchayitvā madhūnmiśraiḥ śodhanīyair upācaret || </l>
