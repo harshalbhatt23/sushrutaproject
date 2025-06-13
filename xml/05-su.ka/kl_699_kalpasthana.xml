@@ -22,12 +22,14 @@
                             <ref target="https://www.klib.gov.np/">https://www.klib.gov.np/</ref>
                         </repository>
                         <collection>[collection]</collection>
-                        <idno>699</idno>
+                        <idno>KL 699</idno>
                         <idno type="siglum">K</idno>
+
                     </msIdentifier>
 
                     <msContents>
-                        <summary>[description of manuscript]</summary>
+                        <summary>The Uttaratantra of the Suśrutasaṃhitā</summary>
+
                         <msItem defective="true" n="1">
                             <!-- @defective: 'false' for complete, 'true' for incomplete -->
                             <author role="author" xml:lang="sa">Suśruta</author>
@@ -40,69 +42,18 @@
 
                             <filiation corresp="#N">Nep</filiation>
 
-
                         </msItem>
-
                     </msContents>
 
                     <physDesc>
 
-                        <p resp="Harshal Bhatt" style="prose">In the transcription of 5.1,
-                            Harshal Bhatt notes the following: Missing verses: <list>
-                                <item>SS.5.1.5cd </item>
-                                <item>SS.5.1.5ab </item>
-                                <item>SS.5.1.8cd </item>
-                                <item>SS.5.1.9 </item>
-                                <item>SS.5.1.10 </item>
-                                <item>SS.5.1.11ab </item>
-                                <item>SS.5.1.12cd </item>
-                                <item>SS.5.1.13ab </item>
-                                <item>SS.5.1.14 </item>
-                                <item>SS.5.1.15 </item>
-                                <item>SS.5.1.16 </item>
-                                <item>SS.5.1.17ab </item>
-                                <item>SS.5.1.22 </item>
-                                <item>SS.5.1.23cd </item>
-                                <item>SS.5.1.24 </item>
-                                <item>SS.5.1.30ab </item>
-                                <item>SS.5.1.33cd </item>
-                                <item>SS.5.1.34ab </item>
-                                <item>SS.5.1.36ab </item>
-                                <item>SS.5.1.71ab </item>
-                                <item>SS.5.1.72ab</item>
-                            </list> Metre Break <list>
-                                <item>SS.5.1.29 </item>
-                                <item>SS.5.1.54 </item>
-                            </list> According to KL 699 concordance, the first chapters of
-                            SS 1,2,3,4 are missing. </p>
-
-                        <p resp="Harshal Bhatt" style="prose"> In 5.4, <list>
-                                <item>verse no. 29-30 is given after 31</item>
-                                <item>32-33 are missing.</item>
-                                <item>In the KL 699, Metre Break at SS.5.4.20cd</item>
-                            </list></p>
-
-                        <p>
-                            <note resp="Harshal Bhatt"> In 5.5, <list>
-                                    <item>Missing verses 23cd, 24ab, 25cd, 28cd, 33, 47cd,
-                                        51cd, 52, 54cd, 55, 58cd, 78cd, 79-83, 84cd,
-                                        85ab</item>
-                                    <item>Additions 58.1, 52.1,</item>
-                                    <item> Observations - KL 699 Metre break 7ab,
-                                        20cd</item>
-                                    <item> Missing 25</item>
-                                </list>
-                            </note>
-                        </p>
-
                         <objectDesc form="pothi">
-                            <!-- @form can be "pothi", "book", scroll", etc. -->
-                            <supportDesc material="palm-leaf"><!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. --><!-- the following <foliation> tags are examples --></supportDesc>
+                            <supportDesc material="palm-leaf"/>
                         </objectDesc>
                         <scriptDesc>
                             <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa">śa</foreign> and <foreign xml:lang="sa">sa</foreign>
                                 not distinguished.</scriptNote>
-                            <!--                     this śa/sa equivalence may be wrong. Still checking, 2021-06-12  - DW -->
+                            <!-- this śa/sa equivalence may be wrong. Still checking, 2021-06-12  - DW -->
 
                             <scriptNote xml:id="script-ba-va"><foreign xml:lang="ba">ba</foreign> and <foreign xml:lang="va">va</foreign>
                                 not distinguished.</scriptNote>
@@ -118,7 +69,6 @@
                         <origin>
                             <origDate calendar="Nepal" when="0301">M Saṃvat 301 (878
                                 CE).</origDate>
-                            <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
                         </origin>
                     </history>
                 </msDesc>
@@ -134,6 +84,37 @@
             <div n="5" type="sthāna">
 
                 <div n="1" type="adhyāya">
+
+                    <!--                <p resp="Harshal Bhatt" style="prose">In the transcription of 5.1,
+                        Harshal Bhatt notes the following: Missing verses: <list>
+                            <item>SS.5.1.5cd </item>
+                            <item>SS.5.1.5ab </item>
+                            <item>SS.5.1.8cd </item>
+                            <item>SS.5.1.9 </item>
+                            <item>SS.5.1.10 </item>
+                            <item>SS.5.1.11ab </item>
+                            <item>SS.5.1.12cd </item>
+                            <item>SS.5.1.13ab </item>
+                            <item>SS.5.1.14 </item>
+                            <item>SS.5.1.15 </item>
+                            <item>SS.5.1.16 </item>
+                            <item>SS.5.1.17ab </item>
+                            <item>SS.5.1.22 </item>
+                            <item>SS.5.1.23cd </item>
+                            <item>SS.5.1.24 </item>
+                            <item>SS.5.1.30ab </item>
+                            <item>SS.5.1.33cd </item>
+                            <item>SS.5.1.34ab </item>
+                            <item>SS.5.1.36ab </item>
+                            <item>SS.5.1.71ab </item>
+                            <item>SS.5.1.72ab</item>
+                        </list> Metre Break <list>
+                            <item>SS.5.1.29 </item>
+                            <item>SS.5.1.54 </item>
+                        </list> According to KL 699 concordance, the first chapters of
+                        SS 1,2,3,4 are missing. </p>-->
+
+
 
                     <!-- 143r:1 -->
                     <milestone ana="line 1" facs="143r.jpg" n="143r" unit="digital_image"/>
@@ -1196,6 +1177,14 @@
 
 
                 <div n="4" type="adhyāya">
+
+                    <!--            <p resp="Harshal Bhatt" style="prose"> In 5.4, <list>
+                            <item>verse no. 29-30 is given after 31</item>
+                            <item>32-33 are missing.</item>
+                            <item>In the KL 699, Metre Break at SS.5.4.20cd</item>
+                    </list></p>-->
+
+
                     <milestone n="147v" unit="digital_image"/>
 
                     <l xml:id="SS.5.4.1">athātaḥ sarpa<pc> </pc>daṣṭa<pc> </pc>viṣa<pc> </pc>vijñānīyaṃ kalpaṃ
@@ -2681,10 +2670,10 @@ Metre Break
                         <caesura/>
                          kṛ<milestone facs="156r IMG_0024.JPG" n="156r" unit="digital-image"/><pb facs="143" n="156r"/><lb n="1"/>ṣṇāgnimukhyau kākāṇḍā mālāguṇy aṣṭamī smṛtāḥ |</l>
 
-                    <l xml:id="SS.5.8.98">tābhir daṣṭe daṃśako thaḥ pravṛttiḥ<cb n="1"/>
+                    <l xml:id="SS.5.8.98">tābhir daṣṭe daṃśakothaḥ pravṛttiḥ<cb n="1"/>
                         kṣatajasya ca |
                         <caesura/>
-                         jvaro dāhotisāraś ca gadāḥ syuś ca tridoṣajāḥ |</l>
+                         jvaro dāho 'tisāraś ca gadāḥ syuś ca tridoṣajāḥ |</l>
 
                     <l xml:id="SS.5.8.99">piṭakā vividhākārā maṇḍalāni mahānti ca ||
                         <caesura/>
@@ -2704,23 +2693,23 @@ Metre Break
                         <caesura/>
                          nastaḥ karmaṇi śasyante pādābhyaṅgāñjaneṣu ca |</l>
 
-                    <l xml:id="SS.5.8.103">śvetāyāḥ piḍakā<lb n="3"/>daṃśe śvetā kaṇḍūmatī
-                        bhavet |
+                    <l xml:id="SS.5.8.103">śvetāyāḥ piḍakā<lb n="3"/> daṃśe śvetā
+                        kaṇḍūmatī bhavet |
                         <caesura/>
-                         dāhamūrcchā jvaravatī visarpakledarukkarī<cb n="1"/></l>
+                         dāhamūrcchājvaravatī visarpakledarukkarī<cb n="1"/></l>
 
                     <l xml:id="SS.5.8.104">tatra candanarāsnailahareṇunalavañjulāḥ |
                         <caesura/>
-                         kuṣṭha lāmajjakaṃ vakraṃ naladaṃ cāgado hitaḥ |</l>
+                         kuṣṭhalāmajjakaṃ vakraṃ naladaṃ cāgado hitaḥ |</l>
 
-                    <l xml:id="SS.5.8.105">ādaṃśe piṭakāstā<cb n="2"/>mrā sthirā kapilayā
+                    <l xml:id="SS.5.8.105">ādaṃśe piṭakās tā<cb n="2"/>mrā sthirā kapilayā
                         bhavet |
                         <caesura/>
-                         śiraso gauravaṃ dāho bhavejjantoś ca netrayoḥ </l>
+                         śiraso gauravaṃ dāho bhavej jantoś ca netrayoḥ </l>
 
-                    <l xml:id="SS.5.8.106">padma<lb n="4"/>padmakakuṣṭhailakarañjakakubhatvacaḥ |
+                    <l xml:id="SS.5.8.106">padma<pc> </pc><lb n="4"/>padmaka<pc> </pc>kuṣṭhaila<pc> </pc>karañja<pc> </pc>kakubha<pc> </pc>tvacaḥ |
                         <caesura/>
-                         sthirākampiṇyapāmārgadūrvāvrāhmyau<cb n="1"/> viṣāpahāḥ |</l>
+                         sthirā<pc> </pc>kampilyapāmārga<pc> </pc>dūrvā<pc> </pc>vrāhmyau<cb n="1"/> viṣāpahāḥ |</l>
 
                     <l xml:id="SS.5.8.107">ādaṃśe piṭakā pītā pītayā jāyate sthirā |
                         <caesura/>
@@ -2732,34 +2721,32 @@ Metre Break
 
                     <l xml:id="SS.5.8.109">raktamaṇḍalavaddaṃśe piṭakāḥ sarṣapā iva |
                         <caesura/>
-                        <unclear>dū</unclear><cb n="1"/>yate tāluśoṣaś ca dāhaś
-                        calaviṣānvite |</l>
+                         dū<cb n="1"/>yate tāluśoṣaś ca dāhaś calaviṣānvite |</l>
 
                     <l xml:id="SS.5.8.110">tatra priyaṃguhrīverakuṣṭhalāmajjakāni vā |
                         <caesura/>
                          agadaḥ śatapu<cb n="2"/>ṣpā ca sapippalavaṭāṅkurāḥ |</l>
 
-                    <l xml:id="SS.5.8.111">pūtimūtraviṣādaṃśo visarpīkṛṣṇaśoṇitaḥ |<lb n="6"/>
+                    <l xml:id="SS.5.8.111">pūtimūtraviṣādaṃśo visarpī kṛṣṇaśoṇitaḥ |<lb n="6"/>
                         <caesura/>
-                         kāsaśvāsavamīmūrcchā jvaradāhasamanvitaḥ |</l>
+                         kāsaśvāsavamīmūrcchājvaradāhasamanvitaḥ |</l>
 
-                    <l xml:id="SS.5.8.112">manaḥ śilālamadhukakuṣṭha<cb n="1"/>padmakacandanaiḥ |
+                    <l xml:id="SS.5.8.112">manaḥśilālamadhukakuṣṭha<pc> </pc><cb n="1"/>padmakacandanaiḥ |
                         <caesura/>
                          lāmajjakayutais tatra viṣanāśaḥ prakīrttitaḥ |</l>
 
-                    <l xml:id="SS.5.8.113">daṃśaḥ sapāṇḍupiṭako dāha kledasamanvi<cb n="2"/>taḥ |
+                    <l xml:id="SS.5.8.113">daṃśaḥ sapāṇḍupiṭako dāhakledasamanvi<cb n="2"/>taḥ |
                         <caesura/>
                          raktayā raktaparyanto vijñeyaś coṣasaṃyutaḥ |</l>
 
                     <l xml:id="SS.5.8.114">cikitsā tatra hrīveracandano<lb n="7"/>śīrapadmakaiḥ |
                         <caesura/>
-                         karttavyārjunaśelubhyāṃ tvagbhi<unclear reason="torn">rāmrāntaka</unclear>sya ca |</l>
+                         karttavyārjunaśelubhyāṃ tvagbhir <damage agent="torn" cert="high"><supplied>āmrātaka</supplied></damage>sya ca |</l>
 
-                    <l xml:id="SS.5.8.115">picchilaṃ<cb n="1"/>kasanādaṃśārudhiraṃ śītalaṃ
-                        sret |
+                    <l xml:id="SS.5.8.115">picchilaṃ<cb n="1"/> kasanādaṃśā rudhiraṃ
+                        śītalaṃ sravet |
                         <caesura/>
-                         śvāsakāsau ca <unclear reason="torn">tantroktaṃ</unclear>
-                        raktalūtā cikitsitaṃ |</l>
+                         śvāsakāsau ca <damage agent="torn" cert="high"><supplied>tatroktaṃ</supplied></damage> raktalūtācikitsitaṃ |</l>
 
 
                     <l xml:id="SS.5.8.120">sarveṣām eva yuñjī<cb n="2"/>ta viśe
@@ -2767,7 +2754,7 @@ Metre Break
                         <caesura/>
                          dhīraḥ sarvavikāreṣu tathā cākṣīvapippalaṃ |</l>
 
-                    <l xml:id="SS.5.8.121">kṛ<milestone facs="156v IMG_0025.JPG" n="156v" unit="digital-image"/><pb facs="144" n="156v"/><lb n="1"/>cchrasādhyaviṣā hy aṣṭau śūtāḥ proktā yathāgamaṃ |
+                    <l xml:id="SS.5.8.121">kṛ<milestone facs="156v IMG_0025.JPG" n="156v" unit="digital-image"/><pb facs="144" n="156v"/><lb n="1"/>cchrasādhyaviṣā hy aṣṭau lūtāḥ proktā yathāgamaṃ |
                         <caesura/>
                         <unclear reason="torn">avārya</unclear>viṣavīryāṇāṃ lakṣaṇā<cb n="1"/>ni nivodha me |</l>
 

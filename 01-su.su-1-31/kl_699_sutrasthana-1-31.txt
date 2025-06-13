@@ -2834,30 +2834,36 @@
                             a<gap n="576" unit="char"/></l>
 
 
-
                     <!-- folio 22 is missing-->
 
-
+                    <l xml:id="SS.1.23.4"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.5"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.6"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.7"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.8"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.9"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.10"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.11"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.11.1"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.12"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.13"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.14"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.15"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.16"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.17"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.18"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.19"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.20"><gap reason="missing folio"></gap></l>
+                    <l xml:id="SS.1.23.21"><gap reason="missing folio"></gap></l>
+                    
                 </div>
-                <!-- end of chapter 23 of Sūtrasthāna-->
 
+                <!-- end of chapter 23 of Sūtrasthāna-->
 
 
                 <div n="24" type="adhyāya">
 
                     <!-- folio 22 is missing -->
-
-
-
-
-
-
-
-
-
-
-
-
 
                     <milestone facs="023r IMG_0114.JPG" n="23r1" unit="digital_image"/>
 
