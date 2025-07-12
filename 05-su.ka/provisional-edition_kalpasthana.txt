@@ -1,5 +1,7 @@
 ﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
     <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>The Nepalese Version of the Suśrutasaṃhitā, Kalpasthāna, based on
@@ -168,11 +170,8 @@
                          kulīnaṃ dhārmikaṃ snigdham akṛśaṃ satatotthitam | </l>
 
                     <l xml:id="SS.5.1.8cd"/>
-
                     <l xml:id="SS.5.1.9"/>
-
                     <l xml:id="SS.5.1.10"/>
-
                     <l xml:id="SS.5.1.11ab"/>
 
                     <l xml:id="SS.5.1.11cd">
@@ -187,7 +186,6 @@
                          praśastadigdeśakṛtaṃ śucibhāṇḍam mahacchuciḥ | </l>
 
                     <l xml:id="SS.5.1.12cd"/>
-
                     <l xml:id="SS.5.1.13ab"/>
 
                     <l xml:id="SS.5.1.13cd">
@@ -196,11 +194,8 @@
                          parīkṣitastrīpuruṣaṃ bhavec cāpi mahānasam || </l>
 
                     <l xml:id="SS.5.1.14"/>
-
                     <l xml:id="SS.5.1.15"/>
-
                     <l xml:id="SS.5.1.16"/>
-
                     <l xml:id="SS.5.1.17ab"/>
 
                     <l xml:id="SS.5.1.17cd">
@@ -699,8 +694,6 @@
 
 
                     <head>[Adhyāya 2]</head>
-
-
 
                     <l xml:id="SS.5.2.1">
                         <label>1938 ed. 5.2.1</label>
@@ -1406,54 +1399,91 @@
                             > </pc>gudāsthi<pc> </pc>pitta<pc> </pc>śūkaśavāni ||</l>
 
                     <l style="prose" xml:id="SS.5.3.5.1">
-                        <label>1938 ed. 5.3.5</label>
+                        <label>1938 ed. 5.3.5(1)</label>
                         <caesura/>
                          tatra niśvāsadṛṣṭiviṣāḥ divyāḥ sarpāḥ |</l>
-                    <l xml:id="SS.5.3.5.2"> bhaumās tu daṃṣṭrāviṣāḥ ||</l>
 
-                    <l xml:id="SS.5.3.5.3"> mārjāraśva<pc> </pc>vānara<pc
-                            > </pc>nara<pc> </pc>makara<pc> </pc>maṇḍūka<pc
-                            > </pc>pākamatsya<pc> </pc>godhā<pc> </pc>śambūka<pc
-                            > </pc>pracalāka<pc> </pc>gṛhagoḍikāś catuṣpadāś ca kīṭās
-                        tathānye nakhamukhadaṃṣṭrāviṣāḥ |</l>
+                    <l xml:id="SS.5.3.5.2">
+                        <label>1938 ed. 5.3.5(2)</label>
+                        <caesura/>
+                         bhaumās tu daṃṣṭrāviṣāḥ ||</l>
 
-                    <l xml:id="SS.5.3.5.4"> kiṭipa<pc> </pc>picciṭā<pc
-                            > </pc>kaṣāyavāsika<pc> </pc>sarṣapaka<pc
-                            > </pc>toṭaka<pc> </pc>varcaḥkīṭāḥ kauṇḍinyā mūtrapurīṣaviṣāḥ
-                        ||</l>
+                    <l xml:id="SS.5.3.5.3">
+                        <label>1938 ed. 5.3.5(3)</label>
+                        <caesura/>
+                         mārjāraśva<pc> </pc>vānara<pc> </pc>nara<pc> </pc>makara<pc> </pc>maṇḍūka<pc> </pc>pākamatsya<pc> </pc>godhā<pc> </pc>śambūka<pc> </pc>pracalāka<pc> </pc>gṛhagoḍikāś
+                        catuṣpadāś ca kīṭās tathānye nakhamukhadaṃṣṭrāviṣāḥ |</l>
 
-                    <l xml:id="SS.5.3.5.5"> mūṣikāḥ śukraviṣāḥ |</l>
+                    <l xml:id="SS.5.3.5.4">
+                        <label>1938 ed. 5.3.5(4)</label>
+                        <caesura/>
+                         kiṭipa<pc> </pc>picciṭā<pc> </pc>kaṣāyavāsika<pc> </pc>sarṣapaka<pc> </pc>toṭaka<pc> </pc>varcaḥkīṭāḥ
+                        kauṇḍinyā mūtrapurīṣaviṣāḥ ||</l>
 
-                    <l xml:id="SS.5.3.5.6"> vṛścika<pc> </pc>viśvambhara<pc
-                            > </pc>varaki<pc> </pc>matsyocciṭiṅga<pc> </pc>patravṛścikāḥ
+                    <l xml:id="SS.5.3.5.5">
+                        <label>1938 ed. 5.3.5(5)</label>
+                        <caesura/>
+                         mūṣikāḥ śukraviṣāḥ |</l>
+
+                    <l xml:id="SS.5.3.5.6">
+                        <label>1938 ed. 5.3.5(6)</label>
+                        <caesura/>
+                         vṛścika<pc> </pc>viśvambhara<pc> </pc>varaki<pc> </pc>matsyocciṭiṅga<pc> </pc>patravṛścikāḥ
                         śūlaviṣāḥ |</l>
 
-                    <l xml:id="SS.5.3.5.7"> lūtā lālā<pc> </pc>nakha<pc
-                            > </pc>mūtra<pc> </pc>purīṣārtava<pc> </pc>śukra<pc
-                        > </pc>daṃṣṭrāviṣāḥ |</l>
+                    <l xml:id="SS.5.3.5.7">
+                        <label>1938 ed. 5.3.5(7)</label>
+                        <caesura/>
+                         lūtā lālā<pc> </pc>nakha<pc> </pc>mūtra<pc
+                            > </pc>purīṣārtava<pc> </pc>śukra<pc> </pc>daṃṣṭrāviṣāḥ |</l>
 
-                    <l xml:id="SS.5.3.5.8"> makṣikā<pc> </pc>kaṇabha<pc> </pc>jalāyukā
-                        mukhasandaṃśaviṣāḥ |</l>
+                    <l xml:id="SS.5.3.5.8">
+                        <label>1938 ed. 5.3.5(8)</label>
+                        <caesura/>
+                         makṣikā<pc> </pc>kaṇabha<pc> </pc>jalāyukā mukhasandaṃśaviṣāḥ
+                        |</l>
 
-                    <l xml:id="SS.5.3.5.9"> citraśīrṣa<pc> </pc>śarāva<pc
-                            > </pc>kukṣita<pc> </pc>dārukāri<pc> </pc>medaka<pc
-                        > </pc>śārikā mukha<pc> </pc>sandaṃśa<pc
-                            > </pc>daṃṣtrāsyarśāvasarddhita<pc> </pc>guda<pc
-                            > </pc>purīṣa<pc> </pc>viṣāḥ |</l>
+                    <l xml:id="SS.5.3.5.9">
+                        <label>1938 ed. 5.3.5(9)</label>
+                        <caesura/>
+                         citraśīrṣa<pc> </pc>śarāvakurdi<pc> </pc>śatadārukārimedaka<pc> </pc>śārikā
+                            mukha<pc> </pc>sandaṃśa<pc> </pc>daṃṣtrāsyarśā<pc
+                            > </pc>viśarddhita<pc> </pc>guda<pc> </pc>purīṣa<pc
+                        > </pc>viṣāḥ | <anchor n="SS.5.3.5.9-n1"/></l>
 
-                    <l xml:id="SS.5.3.5.10"> viṣahatāsthi sarpakaṇṭakavarakimatsyāsthi
-                        cety asthiviṣāṇi ||</l>
+                    <ab corresp="#SS.5.3.5.9" type="apparatus">
+                        <list type="Notes">
+                            <item corresp="#SS.5.3.5.9-n1">Note that witness H separates
+                                these names with daṇḍas, which is to some extent
+                                helpful.</item>
+                        </list>
+                    </ab>
 
-                    <l xml:id="SS.5.3.5.11"> śakalimatsyaraktarājivakimatsyāḥ pittaviṣā
-                        ||</l>
+                    <l xml:id="SS.5.3.5.10">
+                        <label>1938 ed. 5.3.5(10)</label>
+                        <caesura/>
+                         viṣahatāsthi sarpakaṇṭakavarakimatsyāsthi cety asthiviṣāṇi ||</l>
 
-                    <l xml:id="SS.5.3.5.12"> sūkṣmatuṇḍoc
-                        ciṭiṅgavāraṭiśatapadivalabhikaśṛṅgabhramarāḥ śūkaviṣāḥ |</l>
+                    <l xml:id="SS.5.3.5.11">
+                        <label>1938 ed. 5.3.5(11)</label>
+                        <caesura/>
+                         śakalimatsyaraktarājīvakimatsyāḥ pittaviṣāḥ ||</l>
 
-                    <l xml:id="SS.5.3.5.13"> kīṭasarpadehāvyasavaḥ śavaviṣā |</l>
+                    <l xml:id="SS.5.3.5.12">
+                        <label>1938 ed. 5.3.5(12)</label>
+                        <caesura/>
+                         sūkṣma<pc> </pc>tuṇḍocciṭiṅga<pc> </pc>vāraṭi<pc> </pc>śatapadi<pc> </pc>valabhika<pc> </pc>śṛṅga<pc> </pc>bhramarāḥ
+                        śūkaviṣāḥ |</l>
 
-                    <l xml:id="SS.5.3.5.14"> śeṣās tv anuktā mukhadaṃśaviṣeṣv eva
-                        gaṇayitavyā iti || </l>
+                    <l xml:id="SS.5.3.5.13">
+                        <label>1938 ed. 5.3.5(13)</label>
+                        <caesura/>
+                         kīṭasarpadehā vyasavaḥ śavaviṣāḥ |</l>
+
+                    <l xml:id="SS.5.3.5.14">
+                        <label>1938 ed. 5.3.5(14)</label>
+                        <caesura/>
+                         śeṣās tv anuktā mukhadaṃśaviṣeṣv eva gaṇayitavyā iti || </l>
 
                     <l xml:id="SS.5.3.6">bhavanti cātra ślokāḥ
                         <caesura/>
@@ -1591,7 +1621,7 @@
                          archanti tīvrān nayanāmayāṃś ca ||</l>
 
                     <l xml:id="SS.5.3.17">
-                        <label>1938 ed. 3.17</label>
+                        <label>1938 ed. 5.3.17</label>
                         <caesura/>
                          lākṣāharidrātiviṣābhayāś ca
                         <caesura/>
@@ -1704,7 +1734,17 @@
                     <l xml:id="SS.5.3.32cd">
                         <label>1938 ed. 5.3.32cd</label>
                         <caesura/>
-                         svabhāvād avatiṣṭheta prahārādaṃśayor viṣam |</l>
+                        svabhāvād avatiṣṭheta prahārādaṃśayor viṣam ||<anchor
+                        n="SS.5.3.32cd-n1"/></l>
+                    <ab corresp="#SS.5.3.32cd" type="apparatus">
+                        <list type="Notes">
+                            <item corresp="#SS.5.3.32cd-n1">Vulgate verse 5.3.32ab, 
+                                <foreign>kīṭair daṣṭān ... samupācaret</foreign> does not 
+                            appear here in the Nepalese witnesses, but it does appear,
+                            mutatis mutandis, at 5.8.42
+                            (Ācārya 1938: 588).</item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.5.3.33">
                         <label>1938 ed. 5.3.33</label>
@@ -1823,7 +1863,7 @@
                          tad dhi sthānañ cetanāyāḥ svabhāvād vyāpya tiṣṭhati ||</l>
 
                     <l xml:id="SS.5.3.38">
-                        <label>1938 ed. 3.38</label>
+                        <label>1938 ed. 5.3.38</label>
                         <caesura/>
                          aśvatthadevāyatanaśmaśāna
                         <caesura/>
@@ -2015,7 +2055,17 @@
                         <caesura/>
                          tasya tad vacanaṃ śrutvā prābravīd bhiṣajām varaḥ |
                         <caesura/>
-                         asaṃkhyeyā mahātmāno vāsukītakṣakādayaḥ |</l>
+                         asaṃkhyeyā mahātmāno vāsukītakṣakādayaḥ |<anchor n="SS.5.4.5-n1"
+                        /></l>
+                    <ab corresp="#SS.5.4.5" type="apparatus">
+                        <list type="Notes">
+                            <item corresp="#SS.5.1.5-n1">The Nepalese witnesses agree in
+                                reading <foreign>vāsukī</foreign> with long final
+                                    <foreign>-ī</foreign>. This is probably a transfer of
+                                the type documented in Oberlies 2003: 82-85, para.
+                                3.3.</item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.5.4.6">
                         <label>1938 ed. 5.4.6</label>
@@ -4766,7 +4816,7 @@
                          vyāpādayet martyam atipravṛddhaṃ |</l>
 
                     <l xml:id="SS.5.8.83">
-                        <label>1938 ed. 8.83</label>
+                        <label>1938 ed. 5.8.83</label>
                         <caesura/>
                          yās tīkṣṇacaṇḍograviṣā hi lūtās
                         <caesura/>
@@ -5011,7 +5061,7 @@
                          kuśakāśavaṃśakiṇihīśirīṣakakubhatvacaḥ |</l>
 
                     <l xml:id="SS.5.8.109">
-                        <label>1938 ed. 8.109</label>
+                        <label>1938 ed. 5.8.109</label>
                         <caesura/>
                          raktamaṇḍalavaddaṃśe piṭakāḥ sarṣapā iva |
                         <caesura/>
@@ -5069,7 +5119,7 @@
                          karttavyārjunaśelubhyāṃ tvagbhir āmrātakasya ca |</l>
 
                     <l xml:id="SS.5.8.115">
-                        <label>1938 ed. 8.115</label>
+                        <label>1938 ed. 5.8.115</label>
                         <caesura/>
                          picchilaṃ kasanādaṃśo rudhiraṃ śītalaṃ sravet |
                         <caesura/>
@@ -5198,14 +5248,14 @@
                     </ab>
 
                     <l xml:id="SS.5.8.128">
-                        <label>1938 ed. 8.128</label>
+                        <label>1938 ed. 5.8.128</label>
                         <caesura/>
                          asādhyānām api bhiṣak prayuñjīta cikitsitam ||
                         <caesura/>
                          doṣocchrāyaviśeṣeṇa cchedakarmavivarjitam |</l>
 
                     <l xml:id="SS.5.8.129">
-                        <label>1938 ed. 8.129</label>
+                        <label>1938 ed. 5.8.129</label>
                         <caesura/>
                          sādhyābhir atha lūtābhir daṣṭamātrasya dehinaḥ |
                         <caesura/>
@@ -5246,7 +5296,7 @@
                     <l xml:id="SS.5.8.136"/>
 
                     <l xml:id="SS.5.8.137">
-                        <label>1938 ed. 8.137</label>
+                        <label>1938 ed. 5.8.137</label>
                         <caesura/>
                          kiṇva<pc> </pc>guggula<pc> </pc>godantapārāvatamalair api |
                         <caesura/>
@@ -5272,7 +5322,7 @@
                          daṣṭalakṣaṇam ākhyātaṃ cikitsāñ cāpy ataḥ param |</l>
 
                     <l xml:id="SS.5.8.140">
-                        <label>1938 ed. 8.140</label>
+                        <label>1938 ed. 5.8.140</label>
                         <caesura/>
                          saviṃśam adhyāyaśatam etad uktaṃ vibhāgaśaḥ |
                         <caesura/>
@@ -5281,7 +5331,7 @@
                     <l xml:id="SS.5.8.140.add-1">
                         <label>1938 ed. 5.8.140 add 1</label>
                         <caesura/>
-                         śāstraṃ śāstrasamutpattiṃ vyādhikāryavālāvalaṃ
+                         śāstraṃ śāstrasamutpattiṃ vyādhikāryabālābalaṃ
                         <caesura/>
                          sūtrabhūtaṃ samāsena ślokasthānaṃ pracakṣate ||</l>
 
@@ -5295,21 +5345,39 @@
                     <l xml:id="SS.5.8.140.add-3">
                         <label>1938 ed. 5.8.140 add 3</label>
                         <caesura/>
-                         sambhavaś caiva dehasya dhāturindriyamarmasu |
+                         sambhavaś caiva dehasya dhāturindriyamarmasu |<anchor
+                            n="SS.5.8.140.add-3-n1"/>
                         <caesura/>
                          sirādīnāñ ca sarveṣāṃ śārīre kathitam mayā |</l>
 
+
+
+                    <ab corresp="#SS.5.8.140.add-3" type="apparatus">
+                        <list type="Notes">
+                            <item corresp="#SS.5.8.140.add-3-n1">Irregular epenthetic
+                                sandhi of <foreign>dhātur</foreign>, metri causa.</item>
+                        </list>
+                    </ab>
                     <l xml:id="SS.5.8.140.add-4">
                         <label>1938 ed. 5.8.140 add 4</label>
                         <caesura/>
-                         yathā sthānopadiṣṭānāṃ viditānāñ ca lakṣaṇaiḥ |
+                         yathāsthānopadiṣṭānāṃ viditānāñ ca lakṣaṇaiḥ |<anchor
+                            n="SS.5.8.140.add-4-n1"/>
                         <caesura/>
-                         vyādhīnā sādhanaṃ śāstre cikitsitam iti smṛtāḥ ||</l>
+                         vyādhīnāṃ sādhanaṃ śāstre cikitsitam iti smṛtam || </l>
+
+                    <ab corresp="#SS.5.8.140.add-4" type="apparatus">
+                        <list type="Notes">
+                            <item corresp="#SS.5.8.140.add-4-n1">I witness H, the gap of
+                                four characters after <foreign>vi-</foreign>suggests a
+                                fault at this point in its exemplar.</item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.5.8.140.add-5">
                         <label>1938 ed. 5.8.140 add 5</label>
                         <caesura/>
-                         sthāvare jaṅgame caiva viśe hitavikalpanam |
+                         sthāvare jaṅgame caiva viṣe hitavikalpanam |
                         <caesura/>
                          sādhanaṃ caiva kārtsnye kalpasthānaṃ tad ucyate ||</l>
 
@@ -5318,7 +5386,7 @@
                         <caesura/>
                          sāhasro vistaraḥ pūrvaṃ prajāpatimukhodbhavaḥ |
                         <caesura/>
-                         saviṃśadadhyāyaśataṃ mayā vatsaprakīrttitam ||</l>
+                         saviṃśadadhyāyaśataṃ mayā vatsa prakīrttitam ||</l>
 
                     <l xml:id="SS.5.8.141">
                         <label>1938 ed. 5.8.141</label>
@@ -5328,45 +5396,48 @@
                          dṛṣṭādṛṣṭaphalatvāc ca hitatvāc cāpi dehinām |</l>
 
                     <l xml:id="SS.5.8.142">
-                        <label>1938 ed. 8.142</label>
+                        <label>1938 ed. 5.8.142</label>
                         <caesura/>
                          vāksamūhārthavistārāt pūjitatvāc ca dehiṣu |
                         <caesura/>
-                         cikitsitāt puṇyatamaṃ na kiñcid api suśrutaḥ |</l>
+                         cikitsitāt puṇyatamaṃ na kiñcid api suśruta |</l>
 
-                    <l xml:id="SS.5.8.143">ṛṣer indraprabhāvasya tasmād amṛtajanmanaḥ |
+                    <l xml:id="SS.5.8.143">
+                        <label>1938 ed. 5.8.143</label>
+                        <caesura/>
+                         ṛṣer indraprabhāvasya tasmād amṛtajanmanaḥ |
                         <caesura/>
                          dhārayitvedam amalaṃ matam paramasammatam |
                         <caesura/>
-                         uktācārasamācāraḥ pratyeceha ca nandati |</l>
+                         uktācārasamācāraḥ pretya ceha ca nandati |</l>
 
                     <l xml:id="SS.5.8.143.add-1">
                         <label>1938 ed. 5.8.143 add 1</label>
                         <caesura/>
-                         śeṣāṇām api tantrāṇāṃ yuktijñalokavāndhavaḥ |
-                        <caesura/>
-                         yat kiṃcid āvādhakaran tad yasmāc chalpasañjñitam |</l>
+                         śeṣāṇām api tantrāṇāṃ yuktijño lokabāndhavaḥ | </l>
 
                     <l xml:id="SS.5.8.143.add-2">
                         <label>1938 ed. 5.8.143 add 2</label>
                         <caesura/>
-                         vyāptāny aṅgāny atas tena śalyajñānena sūriṇā |
+                         yat kiṃcid ābādhakaran tad yasmāc chalyasaṃjñitaṃ |
                         <caesura/>
-                         ataś cāsya viśeṣeṇa gatir na pratiṣidhyate |</l>
+                         vyāptāny aṅgāny atas tena śalyajñānena sūriṇā | </l>
 
                     <l xml:id="SS.5.8.143.add-3">
                         <label>1938 ed. 5.8.143 add 3</label>
                         <caesura/>
-                         yathā svaviṣayasthasya rājño valavato gatiḥ |
+                         ataś cāsya viśeṣeṇa gatir na pratiṣidhyate |
                         <caesura/>
-                         upadravānāṃ nirdeśo nidānaṃ vyañjanāni ca |</l>
+                         yathā svaviṣayasthasya rājño balavato gatiḥ |</l>
 
                     <l xml:id="SS.5.8.143.add-4">
                         <label>1938 ed. 5.8.143 add 4</label>
                         <caesura/>
+                         upadravāṇāṃ nirdeśo nidānaṃ vyañjanāni ca |
+                        <caesura/>
                          jvarādīnāñ cikitsārtham uttaran tantram ucyate ||</l>
 
-                    <l xml:id="SS.5.8.143.add-5">
+                    <l xml:id="SS.5.8.143.add-5" met="vaṃśastha">
                         <label>1938 ed. 5.8.143 add 5</label>
                         <caesura/>
                          bhavati cātra ||
@@ -5375,33 +5446,36 @@
                         <caesura/>
                          saviṃśadadhyāyaśataṃ sahottaram |
                         <caesura/>
-                         paṭhet sarājño rhati vaidyapūjitaḥ
+                         paṭhet sa rājño 'rhati vaidyapūjitaḥ |
                         <caesura/>
                          kriyām prayoktuṃ bhiṣag āgatakramaḥ ||</l>
 
                     <l xml:id="SS.5.8.143.add-6">
                         <label>1938 ed. 5.8.143 add 6</label>
                         <caesura/>
-                         annarakṣāsthāvaraviṣaṃ jaṅgamañ ca viṣaṃ tathā |
+                         annarakṣā sthāvaraviṣaṃ jaṅgamañ ca viṣaṃ tathā |
                         <caesura/>
-                         sarpadaṣṭaviṣajñānaṃ sarpadaṣṭacikitsitam ||</l>
+                         sarpadaṣṭaviṣajñānaṃ sarpadaṣṭacikitsitam ||
+                        <caesura/>
+                         mūṣikā dundubhiś caiva kīṭākalpena cāṣṭamaḥ ||<anchor
+                            n="SS.5.8.143.add-6-n1"/>
+                    </l>
 
-                    <l xml:id="SS.5.8.143.add-7">
-                        <label>1938 ed. 5.8.143 add 7</label>
-                        <caesura/>
-                         mūṣikādundubhiś caiva kīṭākalpena cāṣṭamaḥ ||</l>
+                    <ab corresp="#SS.5.8.143.add-6" type="apparatus">
+                        <list type="Notes">
+                            <item corresp="#SS.5.8.143.add-6-n1"> This verse is almost
+                                identical to SS 1.3.27--28.</item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.5.8.trailer">
                         <label>Chapter colophon</label>
+                        <caesura/>
                          sauśrute śalyatantre kalpasthānaṃ samāptam || ❈ ||</l>
 
 
-
                 </div>
-
             </div>
-
-
         </body>
     </text>
 </TEI>

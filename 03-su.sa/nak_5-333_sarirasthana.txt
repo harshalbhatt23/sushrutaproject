@@ -841,13 +841,13 @@ C) Special notes :
                             prāk payaso darśanaṃ | dakṣiṇakukṣimahatvañ
                         ca pūrvvadakṣiṇaṃ sakthi utkarṣayati | bāhulyāc
                         ca punnāmadheyeṣu dravyeṣu <lb n="4"/> dauhṛdam abhidhyāyati |
-                        svapne copalabhate padmotpalakumudāmrāmrātakādīni pun nāmany eva
+                        svapne copalabhate padmotpalakumudāmrāmrātakādīni punnāmany eva
                         vā prasannamukhavarṇṇā ca bhavetāṃ
                             vrūyāt putram iyam
                             prajanayi<lb n="5"/>ṣyatīti || tadviparyaye kanyāṃ || yasyāḥ
                         pārśvadvayam avanata<cb/>m purastān nirggatam udaraṃ prāgabhihitañ
                         ca lakṣaṇan tasyāḥ | napuṃsakam iti vidyāt | yasyā ma<lb n="6"
-                        />dhye nimno droṇī prābhūtam uda<gap n="4" reason="damage"
+                        />dhye nimno droṇīprābhūtam uda<gap n="4" reason="damage"
                             unit="char"/> yugmaṃ prasūyata iti || </l>
 
                     <l xml:id="SS.3.3.35"> bhavati cātra ||
@@ -1583,11 +1583,11 @@ C) Special notes :
 
                     <l xml:id="SS.3.5.49"> tasmāt samasta<cb/>gātram avihatam
                         adīrghavyādhipīḍitaṃ puruṣam apahṛtyāpagāyāṃ | vivaddhaṃ
-                        muñjavalvajaiḥ pañjarastam<lb n="3"/>prakāśe deśe kothayet |
-                        samyak prakuthitañ coddhṛtyāya tad ehaṃ<g ref="#newa-gap-filler"
-                        /><cb/> kṛtvo śīratṛṇeveṣu kurccādīnām anyatamena śanaiḥ śanair
-                        eva ghṛṣyatvagādīn sarvvaān eva vāhyābhyanta<g
-                            ref="#newa-gap-filler"/><lb n="4"/>rāna ṅgapratyaṅgaviśeṣān
+                        muñja<pc> </pc>valvajaiḥ pañjarastham a<lb n="3"/>prakāśe deśe kothayet |
+                        samyak prakuthitañ coddhṛtyāyatadehaṃ<g ref="#newa-gap-filler"
+                        /><cb/> kṛtvośīra<pc> </pc>tṛṇa<pc> </pc>veṇu<pc> </pc>kurccādīnām anyatamena śanaiḥ śanair
+                        eva ghṛṣya tvagādīn sarvvaān eva vāhyābhyanta<g
+                            ref="#newa-gap-filler"/><lb n="4"/>rān aṅgapratyaṅgaviśeṣān
                         yathoktān lakṣayec cakṣuṣā || </l>
 
 
