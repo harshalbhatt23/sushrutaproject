@@ -122,13 +122,13 @@
 %    \end{macrocode}
 %    \end{environment}
 %    \begin{environment}{draftwatermark}
-%  Options for adding a watermark to the whole document; 
-% currently switched off.
+%  Options for adding a watermark to the whole document. 
+% 
 %    \begin{macrocode}
-% \usepackage[
-% text={Draft of \today\ for private study only},
-% color={[gray]{0.95}},
-% scale=.27]{draftwatermark}
+ \usepackage[
+ text={Draft of \today\ \copyright\ Suśrutaproject.org},
+ color={[gray]{0.95}},
+ scale=.2]{draftwatermark}
 %    \end{macrocode}
 %    \end{environment}
 %
@@ -476,7 +476,7 @@
 % \subsection{Load the xcolor package here, just before the document begins}
 % \begin{macro}{xcolor}
 %    \begin{macrocode}
-\usepackage{xcolor} % why here?  Move it to the sty file?
+\usepackage[table]{xcolor} % why here?  Move it to the sty file?
 %    \end{macrocode}
 % \end{macro}
 %
