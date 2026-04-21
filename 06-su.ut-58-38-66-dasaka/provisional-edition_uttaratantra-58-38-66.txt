@@ -49,7 +49,7 @@
                 <date>2020</date>
                 <pubPlace>The University of Alberta</pubPlace>
                 <publisher>The Suśruta Project (<ref
-corresp="http://sushrutaproject.github.io"
+                        corresp="http://sushrutaproject.github.io"
                         >https://sushrutaproject.github.io</ref>)</publisher>
             </publicationStmt>
             <sourceDesc>
@@ -3333,15 +3333,10 @@ corresp="http://sushrutaproject.github.io"
                         <caesura/>
                          tathānnaśuddhāyāṃ klamaparigame kukṣau ca śithile |
                         <caesura/>
-                         prayadeyastv āhāro bhavati </l>
+                         prayadeyas tv āhāro bhavati bhiṣajasātmyaprakriyeti | </l>
 
-                    <l xml:id="SS.6.64.84a">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.84a</label>
-                        <caesura/>
-                         bhiṣajasātmyaprakriyeti | </l>
-
-                    <l xml:id="SS.6.64.84b">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.84b</label>
+                    <l xml:id="SS.6.64.84.add">
+                        <label xml:lang="en">cf. 1938 ed. 6.64.84.add</label>
                         <caesura/>
                          bhagavān āha dhanvantariḥ || </l>
 
@@ -3805,7 +3800,8 @@ corresp="http://sushrutaproject.github.io"
                                 which Dhanvantari is the teacher of the topic of food and
                                 drink. See also J. Birch, D. Wujastyk et. al. (2021),
                                 "Further Insight into the Role of Dhanvantari," p.3 (DOI
-                                <ref target="https://doi.org/10/hbph78">https://doi.org/10/hbph78</ref>).</item>
+                                    <ref target="https://doi.org/10/hbph78"
+                                    >https://doi.org/10/hbph78</ref>).</item>
                         </list>
                     </ab>
 

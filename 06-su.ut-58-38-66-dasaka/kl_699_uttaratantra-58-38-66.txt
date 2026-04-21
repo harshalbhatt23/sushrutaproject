@@ -2423,13 +2423,10 @@ iii) 19ef is placed after 18ab     -->
                          tathā<unclear reason="torn">nna</unclear>śuddhāyāṃ klamaparigame
                         kukṣau ca śithile |
                         <caesura/>
-                         prayadeyastv āhāro bhavati </l>
-
-                    <l xml:id="SS.6.64.84a"> bhiṣaja<unclear>sātmya</unclear>prakriyeti | </l>
-                    <cb/>
-                    <l xml:id="SS.6.64.84b"> bhagavāṃn āha dha<abbr type="suspension"
-                            >dhaṃ</abbr>
-                        <expan><ex>vantariḥ</ex></expan> || </l>
+                         prayadeyastv āhāro bhavati bhiṣaja<unclear>sātmya</unclear>prakriyeti | </l>
+                    
+                    <l xml:id="SS.6.64.84.add"> bhagavāṃn āha dha<abbr type="suspension"
+                            >dhaṃ</abbr><ex>vantariḥ</ex> || </l>
 
                     <l xml:id="SS.6.64.trailer">
                         <abbr type="suspension">kāyaci</abbr>

@@ -2564,7 +2564,7 @@
                     <l xml:id="SS.4.29.12">
                         <label xml:lang="en">cf. 1938 ed. 4.29.12</label>
                         <caesura/>
-                         na cātmānam ādarśe syu vā nirīkṣeta | rūpaśālitvāt tato nyaddaśarātraṃ
+                         na cātmānam ādarśe 'psu vā nirīkṣeta | rūpaśālitvāt tato nyaddaśarātraṃ
                         krodhādīn parihared eṣa sarveṣām upayogaḥ | viśeṣatas tu
                         vallīpratānakṣupādayaḥ somā bhakṣayitavyāḥ | bhavanti teṣāṃmavacaturtho
                         muṣṭayaḥ |</l>

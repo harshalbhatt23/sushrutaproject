@@ -923,7 +923,7 @@ corresp="http://sushrutaproject.github.io"
 
           <l xml:id="SS.6.37.2"/>
 
-            <l xml:id="SS.6.37.2.add"> atha khalu <unclear>vatsa suśruta ||
+            <l xml:id="SS.6.37.2.add"> atha khalu vatsa suśruta ||</l>
 
           <l xml:id="SS.6.37.3">
             <label xml:lang="en">cf. 1938 ed. 6.37.3</label>

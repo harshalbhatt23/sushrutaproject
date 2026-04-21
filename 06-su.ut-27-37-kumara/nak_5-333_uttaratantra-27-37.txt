@@ -782,7 +782,7 @@
                          kuṣṭhaṃ sarjjarasaś caiva tailārthe vargam iṣyate || </l>
 
                     <l xml:id="SS.6.32.5"> hitaṃ ghṛtaṃ tukākṣīryāḥ siddhaṃ madhurakeṣu
-                            <pb ana="dscn3366fol391_bottom.jpg" facs="398" unit="jpeg"/>
+                            <pb ana="dscn3366fol391_bottom.jpg" facs="398" n="???"/>
                         ca |
                         <caesura/>
                          kuṣthatālīsakhadirāḥ sarṣapaiṣṭajane tathā || </l>
@@ -810,7 +810,7 @@
 
                 </div>
                 <div n="33" type="adhyāya">
-                    <pb n="dscn3366fol391_bottom.jpg : 3" unit="folio" facs="399"/>
+                    <pb ana="dscn3366fol391_bottom.jpg" n="line 3" facs="399"/>
 
                     <l xml:id="SS.6.33.1"> athā¦<lb n="4"/>to 'ndhapūtanāpratiṣedham
                         adhyāyam vyākhyāsyāmaḥ ||</l>
@@ -850,7 +850,7 @@
 
                 </div>
                 <div n="34" type="adhyāya">
-                    <pb n="dscn3367fol392_bottom.jpg : 1" unit="folio" facs="401"/>
+                    <pb ana="dscn3367fol392_bottom.jpg" n="line 1" facs="401"/>
 
                     <l xml:id="SS.6.34.1"> athāta<lb n="2"/>ḥ śītapūtanāpratiṣedhanīyam
                         adhyāyam vyākhyāsyāmaḥ ||</l>
@@ -888,7 +888,7 @@
 
                 </div>
                 <div n="35" type="adhyāya">
-                    <pb n="dscn3367fol392_bottom.jpg : 6" unit="folio" facs="402"/>
+                    <pb ana="dscn3367fol392_bottom.jpg" n="line 3?" facs="402"/>
 
                     <l xml:id="SS.6.35.1"> athāto mukhamaṇḍikāpratiṣedhanīyam adhyāyam
                         vyākhyāsyāmaḥ ||</l>
@@ -902,7 +902,7 @@
                         tailaṃ vasāṃ ca saṃyojya paced abhyañjanaṃ śiśāḥ || </l>
 
                     <l xml:id="SS.6.35.5"> madhūlikā payasyā ca tukākṣī<milestone
-                            facs="dscn3367fol392_bottom.jpg"/>dyo gaṇe na ca |
+                            facs="dscn3367fol392_bottom.jpg" unit="jpeg"/>dyo gaṇe na ca |
                         <caesura/>
                          madhuraiḥ pañcamūlyāś ca kanīyasyā ghṛtam pacet || </l>
 
@@ -929,7 +929,7 @@
 
                 </div>
                 <div n="36" type="adhyāya">
-                    <pb n="dscn3367fol392_bottom.jpg : 3" unit="folio" facs="403"/>
+                    <pb ana="dscn3367fol392_bottom.jpg" n="line 3" facs="403"/>
 
                     <l xml:id="SS.6.36.1"> athāto naigameṣapratiṣedhanīyam adhyāyam
                             vyākhyāsyāma<lb n="4"/>ḥ ||</l>
@@ -968,13 +968,13 @@
                 </div>
 
                 <div n="37" type="adhyāya">
-                    <milestone facs="dscn3367fol392_bottom.jpg : 7" unit="jpeg"/>
 
-                    <l xml:id="SS.6.37.1"> athāto grahotpatnāmā<pb n="392" facs="397"
+                    <l xml:id="SS.6.37.1"> athāto grahotpatnāmā<pb n="392, line 7"
+                            facs="397" ana="dscn3367fol392_bottom.jpg"
                         /><!-- facs checked-->dhyāyam vyākhyāsyāmaḥ ||</l>
 
                     <!-- The susruta phrase in K, xml:id 6.37.1.add, is not present here. -->
-                    
+
                     <l xml:id="SS.6.37.3"> navaskandādayaḥ proktā vālānāṃ ya ime grahāḥ |
                         <caesura/>
                          śrīmanto divyavapuṣo nārīpuruṣavigrahāḥ || </l>
