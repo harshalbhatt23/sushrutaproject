@@ -201,12 +201,11 @@
                 <div n="1" type="adhyāya">
 
 
-                    <pb facs="327" n="324r, line 1"/>
+                    <pb ana="dscn3301 fol 323.jpg lower" facs="327" n="324r, line 1"/>
 
 
 
-                    <l xml:id="SS.5.1.1"><milestone facs="dscn3301 fol 323.jpg lower"
-                            unit="jpeg"/><lb n="1"/><g ref="#newa-siddhi"/> athāto
+                    <l xml:id="SS.5.1.1"><lb n="1"/><g ref="#newa-siddhi"/> athāto
                         'nnapānarakṣākalpam vyākhyāsyāmaḥ ||</l>
 
                     <l xml:id="SS.5.1.2">yathovāca bhagavān dhanvantariḥ || <add
@@ -433,8 +432,8 @@
 
                     <l xml:id="SS.5.1.55">utsādane parīṣeke kaṣāye sānulepane |
                         <caesura/>
-                         śayyāvastra<milestone facs="dscn3304 fol 326.jpg upper"
-                            unit="jpeg"/><pb facs="330" n="326v"/><lb n="1"
+                         śayyāvastra<pb ana="dscn3304 fol 326.jpg upper" facs="330"
+                            n="326v"/><lb n="1"
                         /><!-- The scribal foliation of the images on dscn 3303 fol 325.jpg and dscn3304 fol 326.jpg are not in sequence. 
                             So I have transcribed here from dscn 3304 fol 326.jpg upper (scribal folio 326v), which continues from 
                             dscn 3303 fol 325jpg upper (scribal 325v). -->tanutveṣu
@@ -598,7 +597,7 @@
 
 
                 <div n="2" subtype="adhyāya">
-                    <milestone n="327v6" unit="digital_image"/>
+
 
 
                     <l xml:id="SS.5.2.1">athātaḥ sthāvara<pc> </pc>vi<pb
@@ -922,7 +921,7 @@
 
 
                 <div n="3" type="adhyāya">
-                    <milestone n="330r:1" unit="digital_image"/>
+
 
                     <l xml:id="SS.5.3.1">athāto jaṅgamaviṣavijñānīyaṅ kalpaṃ vyākhyāsyā<lb
                             n="2"/>maḥ ||</l>
@@ -969,10 +968,8 @@
                             > </pc>jalāyu<pc> </pc>kā mukhasandaṃśaviṣāḥ|</l>
 
                     <l xml:id="SS.5.3.5.9"> citraśīrṣa<pc> </pc>|śarāvakurdi|<pc
-                            > </pc>śata<pc> </pc>dārukā|ari<pb n="331v" facs="335"
-                            /><milestone
-                            facs="dscn3309                             fol 331.jpg"
-                            unit="digital_image"/><lb n="1"/><pc> </pc>medaka | <pc
+                            > </pc>śata<pc> </pc>dārukā|ari<pb ana="dscn3309 fol 331.jpg"
+                            n="331v" facs="335"/><lb n="1"/><pc> </pc>medaka | <pc
                         > </pc>śarārikā mukha<pc> </pc>sandaṃśa<pc
                             > </pc>daṃṣṭrāsya<pc> </pc><add place="above"
                             >r</add>śāvasarddhita<del>ḥ</del>guda<pc> </pc>purīṣa<pc> </pc>viṣāḥ
@@ -1292,7 +1289,6 @@
 
 
                 <div n="4" type="adhyāya">
-                    <milestone n="333r:2" unit="digital_image"/>
 
                     <l xml:id="SS.5.4.1"> athātaḥ sarppa<pc> </pc>daṣṭa<pc
                         > </pc>vijñānīyaṅ kalpam vyākhyāsyāmaḥ ||</l>
@@ -1591,8 +1587,9 @@
                         <caesura/>
                          vege tu prathame pakṣī dhyāti muhyaty ataḥ paraṃ ||</l>
 
-                    <l xml:id="SS.5.4.45">dvitīye vihvalaḥ kūjan pakṣī <pb n="338v"
-                            facs="342"/><lb n="1"/>maraṇam arcchati |
+                    <l xml:id="SS.5.4.45">dvitīye vihvalaḥ kūjan pakṣī <pb
+                            ana="dscn3316 fol 338.jpg" n="338v" facs="342"/><lb n="1"
+                        />maraṇam arcchati |
                         <caesura/>
                          kecid ekaṃ vihaṃgeṣu viṣavegem uṣanti vai ||
                         <caesura/>
@@ -1613,7 +1610,7 @@
                                     <item> Observations - NAK 5-333 Metre break 76cd</item>
                     -->
 
-                    <milestone facs="dscn3316 fol 338.jpg" unit="digital_image"/>
+
 
                     <l xml:id="SS.5.5.1">athātaḥ sarppa<pc> </pc>daṣṭa<pc> </pc>cikitsitam
                         vyākhyāsyāmaḥ ||</l>
@@ -1704,10 +1701,9 @@
                         <caesura/>
                          prāyo hi vamanenaiva sukhan nirhriyate viṣaṃ ||</l>
 
-                    <l xml:id="SS.5.5.20">phaṇinām viṣavege tu prathamaṃ <milestone
-                            facs="dscn3317 fol                             339.jpg"
-                            unit="jpeg"/><pb n="339v" facs="343"/><lb n="1"/>śoṇitaṃ haret
-                        ||
+                    <l xml:id="SS.5.5.20">phaṇinām viṣavege tu prathamaṃ <pb
+                            ana="dscn3317 fol 339.jpg" n="339v" facs="343"/><lb n="1"
+                        />śoṇitaṃ haret ||
                         <caesura/>
                          dvitīye madhusarppirbhyām agadaṃ saha pāyayet ||</l>
 
@@ -2001,7 +1997,7 @@
                     Additions 63.1
                     Metre Break 62ab
                     -->
-                    <milestone n="dscn3319 fol 341/342r:2" unit="digital_image"/>
+                    <!--       <milestone n="dscn3319 fol 341/342r:2" unit="digital_image"/>-->
 
                     <l xml:id="SS.5.7.1">athāto mūṣikākalpam vyākhyāsyāmaḥ ||</l>
 
@@ -2244,8 +2240,9 @@
                         <caesura/>
                          dadyāt saṃśodhanaṃ tīkṣṇaṃm avasyan tasya dehinaḥ ||</l>
 
-                    <l xml:id="SS.5.7.63ab">aśuddhasya<pb n="344v" facs="348"/><lb n="1"/>
-                        surūḍhe pi vraṇe kupyati tad viṣaṃ |</l>
+                    <l xml:id="SS.5.7.63ab">aśuddhasya<pb ana="dscn3322 fol 344.jpg"
+                            n="344v" facs="348"/><lb n="1"/> surūḍhe pi vraṇe kupyati tad
+                        viṣaṃ |</l>
 
                     <l xml:id="SS.5.7.63.add-1"> prasupto votthito vāpi svasthaḥ svastho
                         na sidhyati ||
@@ -2263,7 +2260,7 @@
 
                 <div n="7" type="adhyāya">
 
-                    <milestone facs="dscn3322 fol 344.jpg" n="344v:2" unit="digital_image"/>
+                    <!--<milestone facs="dscn3322 fol 344.jpg" n="344v:2" unit="digital_image"/>-->
                     <!--              
                     adhyāya 5.7 in the MS
                     Missing verses 8,9,10,11,22cd, 29, 30
@@ -2402,8 +2399,8 @@
 
                     <l xml:id="SS.5.6.28">uṣṇavarjyo vidhiḥ kāryo viṣārttānām vijānatā |
                         <caesura/>
-                         tyaktvā kīṭaviṣan tad dhi śī<pb n="346r" facs="349"/><lb n="1"
-                        />tenābhipravarddhate ||</l>
+                         tyaktvā kīṭaviṣan tad dhi śī<pb ana="dscn3323 fol 345.jpg/346r:3"
+                            n="346r" facs="349"/><lb n="1"/>tenābhipravarddhate ||</l>
 
 
 
@@ -2426,7 +2423,7 @@
 
                 <div n="8" type="adhyāya">
 
-                    <milestone n="dscn3323 fol 345.jpg/346r:3" unit="digital_image"/>
+                    <!--                    <milestone n="dscn3323 fol 345.jpg/346r:3" unit="digital_image"/>-->
 
                     <!-- 
                     Notes from Harshal Bhatt Missing verses 7ab, 14ab, 18, 19, 20ab, 22, 23, 24, 25ab, 27, 28-37, 39, 40, 41, 43cd, 44cd, 45-56abcd, 57ab, 60ab, 62, 64ab, 65cd, 72ab, 92cd, 109cd, 116-119, 130, 131cd, 132, 133cd-136
@@ -2527,10 +2524,10 @@
                     <l xml:id="SS.5.8.21ab">da<unclear>rddru</unclear>ś ca karṇṇikāś caiva
                         visarppāḥ kiṭibhāni ca || </l>
 
-                    <l xml:id="SS.5.8.21.add-1"> bhavanti daṃ<milestone
-                            facs="dscn3324 fol 346                             lower"
-                            unit="digital_image"/><pb n="347r" facs="350"/><lb n="1"
-                        />śaparyante dehe vāpi viṣākule |</l>
+                    <l xml:id="SS.5.8.21.add-1"> bhavanti daṃ<pb
+                            ana="dscn3324 fol 346                             lower"
+                            n="347r" facs="350"/><lb n="1"/>śaparyante dehe vāpi viṣākule
+                        |</l>
 
 
                     <l xml:id="SS.5.8.25cd">ekajātīn atas tūrddhvaṃ kīṭān bhedena vakṣyate
@@ -2576,10 +2573,9 @@
                     <l xml:id="SS.5.8.30-verse-2"> tābhir ddaṣṭarujās tīvrā daṅśaśophaś ca
                         dāruṇaḥ ||
                         <caesura/>
-                         daṃśe ca piṭako<unclear>tpāṭi</unclear>m mūrcchā <milestone
-                            facs="dscn3325                             fol 347 upper"
-                            unit="digital_image"/><pb n="347v" facs="351"/><lb n="1"/>cāpi
-                        sudāruṇā || </l>
+                         daṃśe ca piṭako<unclear>tpāṭi</unclear>m mūrcchā <pb
+                            ana="dscn3325                             fol 347 upper"
+                            n="347v" facs="351"/><lb n="1"/>cāpi sudāruṇā || </l>
 
                     <l xml:id="SS.5.8.31-verse-1"> śvetaś ca kṛṣṇavarṇṇaś ca śaravarṇṇo
                             <add place="above">gnim</add> yam aprabhaḥ ||
@@ -2647,9 +2643,8 @@
                     <l xml:id="SS.5.8.36-verse-2"> maśako hastināmā ca maśakāḥ
                         pañcakīrttitāḥ ||
                         <caesura/>
-                         tair ddaṣṭe roṣa<pb n="348r" facs="351"/><milestone
-                            facs="dscn3325 fol 347 lower" unit="digital_image"/><lb n="1"
-                        />saṃyuktaṃ śūnam ādaṃśamaṇḍalaṃ | </l>
+                         tair ddaṣṭe roṣa<pb ana="dscn3325 fol 347 lower" n="348r"
+                            facs="351"/><lb n="1"/>saṃyuktaṃ śūnam ādaṃśamaṇḍalaṃ | </l>
 
                     <l xml:id="SS.5.8.36-verse-3"> vedanā rāgavahulaṃ kaṇḍūyuktaṃ kṣaraty
                         asṛk || </l>
@@ -2701,9 +2696,9 @@
                     <l xml:id="SS.5.8.63">jihvāśopho rasanasyāpaghāto mūrcchā cogrā
                         madhyaviṣābhidaṣṭe ||
                         <caesura/>
-                        <milestone facs="dscn3326 fol 348.jpg upper" unit="digital_image"/>
-                        <pb n="348v" facs="352"/><lb n="1"/>śvetaḥś citraḥ śavalo
-                        lohitābhaḥ kṛṣṇaḥ śyāvaḥ śvetanīlodarau ca | </l>
+                        <pb ana="dscn3326 fol 348.jpg upper" n="348v" facs="352"/><lb
+                            n="1"/>śvetaḥś citraḥ śavalo lohitābhaḥ kṛṣṇaḥ śyāvaḥ
+                        śvetanīlodarau ca | </l>
 
                     <l xml:id="SS.5.8.64cd">rakto vabhruḥ pūrvvavad ekaparvvā pūrvvā cāpi
                         parvvaṇī dve ca yasya ||</l>
@@ -2749,9 +2744,8 @@
                     <l xml:id="SS.5.8.73">dhūpo<add place="below">mo</add> hanti prayukto
                         yaṃ śīghram vṛścikajam viṣaṃ ||
                         <caesura/>
-                         kurumbhapuṣpaṃ rajanī ni<pb n="349r" facs="352"/><milestone
-                            facs="dscn3326 fol 348.jpg                             lower"
-                            unit="digital_image"/><lb n="1"/>ṣyā vā kṣaudrakam tṛṇaṃ |</l>
+                         kurumbhapuṣpaṃ rajanī ni<pb ana="dscn3326 fol 348.jpg lower"
+                            n="349r" facs="352"/><lb n="1"/>ṣyā vā kṣaudrakam tṛṇaṃ |</l>
 
                     <l xml:id="SS.5.8.74">ebhir ghṛtāktair ddhūpas tu pāyudeśaprayojitaḥ
                         ||
@@ -2893,10 +2887,11 @@
                         <caesura/>
                          viśeṣalakṣaṇan tāsāṃ vakṣyāmi sacikitsitaṃ ||</l>
 
-                    <milestone facs="dscn3328  fol 350.jpg" unit="digital_image"/>
+
 
                     <l xml:id="SS.5.8.101">trimaṇḍalāyā vahalaṃ daṃśaḥ kṛṣṇaḥ kṣa<pb
-                            n="350v" facs="354"/><lb n="1"/>raty asṛk |
+                            ana="dscn3328  fol 350.jpg" n="350v" facs="354"/><lb n="1"
+                        />raty asṛk |
                         <caesura/>
                          vādhiryaṃ kaluṣā dṛṣṭis tathā dāhaś ca netrayoḥ ||</l>
 
@@ -2941,12 +2936,13 @@
                         <caesura/>
                          aguruḥ śatapuṣpā ca sapippalavaṭāṅkurāḥ |</l>
 
-                    <milestone facs="dscn 3328 fol 350.jpg lower" unit="digital_image"/>
+
 
                     <l xml:id="SS.5.8.111">pūtimūtraviṣādaṃśo visarppī kṛṣṇaśoṇitaḥ ||
                         <caesura/>
-                         kāsaśvāsavamīmūrcchājvaradāhasa<pb n="351r" facs="354"/><lb n="1"
-                        />manvitaḥ |</l>
+                         kāsaśvāsavamīmūrcchājvaradāhasa<pb
+                            ana="dscn 3328 fol 350.jpg lower" n="351r" facs="354"/><lb
+                            n="1"/>manvitaḥ |</l>
 
                     <l xml:id="SS.5.8.112">manaḥśilālamadhukakuṣṭha<pc
                         > </pc>padmakacandanaiḥ ||
@@ -2998,11 +2994,11 @@
                          tṛṣṇāmūrcchājvaraśccharddiḥ | śvasakāsasama<unclear
                             reason="faded">nvitaḥ |</unclear></l>
 
-                    <milestone facs="dscn3329 fol 351.jpg" unit="digital_image"/>
+
 
                     <l xml:id="SS.5.8.125.add-1"> kṛṣṇa<unclear>yā
-                            hṛṣṇa</unclear>paryanto<pb n="351v" facs="355"/><lb n="1"
-                        />nimnamadhyo ticoṣavān ||
+                            hṛṣṇa</unclear>paryanto<pb ana="dscn3329 fol 351.jpg" n="351v"
+                            facs="355"/><lb n="1"/>nimnamadhyo ticoṣavān ||
                         <caesura/>
                          pāṇḍumūrcchāvamīdāhaḥ śvasakāsasamanvitaḥ |</l>
 
@@ -3053,10 +3049,11 @@
                     <l xml:id="SS.5.8.138.add"> sadāhapākāny annena cikitsed dṛṣṭavān
                         bhiṣak |</l>
 
-                    <milestone facs="dscn 3329 fol 351 lower" unit="digital_image"/>
 
-                    <l xml:id="SS.5.8.139">saptaṣaṣṭhasya kīṭānāṃ śatasyaita<pb n="352r"
-                            facs="355"/><lb n="1"/>d vibhāgaśaḥ ||
+
+                    <l xml:id="SS.5.8.139">saptaṣaṣṭhasya kīṭānāṃ śatasyaita<pb
+                            ana="dscn 3329 fol 351 lower" n="352r" facs="355"/><lb n="1"
+                        />d vibhāgaśaḥ ||
                         <caesura/>
                          daṣṭalakṣaṇam ākhyātaṃ cikitsāñ cāpy anantaraṃ |</l>
 
@@ -3159,7 +3156,7 @@
                     <l xml:id="SS.5.8.trailer2">sauśrute śalyatantre kalpasthānaṃ samāptaṃ
                         || || ||</l>
 
-                    <milestone n="352v" unit="digital_image"/>
+
                 </div>
 
             </div>
