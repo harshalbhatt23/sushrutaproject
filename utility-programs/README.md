@@ -14,6 +14,10 @@ These are vibe-coded python scripts that have been created for specific file-che
 
 * xml-meld 
   This opens a graphical interface where you can select files (txt or xml) and have their xml:id values compared in a visually helpful way.  This helps to weed out inconsistencies in passage ID numbering across numerous files.
+  
+* pb-edit and tei_pb_editor.py
+
+  These are programs to display just the`<pb>` elements in a TEI file and make them available for editing and renumbering.  pb-edit was produced with Gemini, tei_pb_editor.py with Claude.
 
 Dominik Wujastyk
 April 2026
