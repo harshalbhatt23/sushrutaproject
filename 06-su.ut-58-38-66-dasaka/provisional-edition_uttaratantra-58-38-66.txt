@@ -2376,7 +2376,7 @@
                     <l xml:id="SS.6.64.2b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.2b</label>
                         <caesura/>
-                         prasannātmendriyamanā svastha ity abhidhīyate | </l>
+                         prasannātmendriyamanāḥ svastha ity abhidhīyate | </l>
 
                     <l xml:id="SS.6.64.3ab"/>
 
