@@ -50,7 +50,8 @@
                     <name>The Suśruta Project</name></authority>
                 <date>2020-2022</date>
                 <pubPlace>The University of Alberta</pubPlace>
-                <publisher>The Suśruta Project<ptr target="http://sushrutaproject.org"
+                <publisher>The Suśruta Project<ptr
+target="http://sushrutaproject.github.io"
                     /></publisher>
             </publicationStmt>
 
@@ -966,8 +967,8 @@
                          tatra tejodhātur varṇṇānām prabhavaḥ iti kṛtvā yadā garbhotpattāv
                         apāndhātuprāyam āhāram bhavati tadā garbhbhasya gauratvaṃ |<anchor
                             n="SS.3.2.35-n1"/> pṛthivīdhātuprāyaḥ kṛṣṇatvaṃ |
-                        pṛthivyākāśadhātuprāyaḥ śyāmatvaṃ | yādṛkvarṇṇam āhāram upasevate
-                        garbhbhiṇī tadvarṇṇaḥ prasavo bhavtīty eke bhāṣante | yathā
+                        pṛthivyākāśadhātuprāyaḥ śyāmatvaṃ | yādṛdvarṇṇam āhāram upasevate
+                        garbhbhiṇī tadvarṇṇaḥ prasavo bhavatīty eke bhāṣante | yathā
                         kṛṣṇapītaśvetāsu bhūmiṣu sarppa<pc> </pc>vṛścika<pc
                             > </pc>galagoḍikādayaḥ<anchor n="SS.3.2.35-n3"/> satvāḥ
                         kṛṣṇapītaśvetā iti ||<anchor n="SS.3.2.35-n2"/> tatra dṛṣṭibhāgam
@@ -1986,11 +1987,11 @@
                     <l xml:id="SS.3.4.38">
                         <label xml:lang="en">cf. 1938 ed. 3.4.38</label>
                         <caesura/>
-                         sarvvarttuṣu ca divāsvapnam pratiṣiddho 'nyatra grīṣmāt |
-                        pratiṣiddheṣv api pratiṣiddho
+                         sarvvarttuṣu ca divāsvapnaḥ pratiṣiddho 'nyatra grīṣmāt |
+                        pratiṣiddheṣv api pratiṣiddhaṃ
                         bāla<pc> </pc>vṛddha<pc> </pc>kṣatakṣīṇa<pc> </pc>madya<pc> </pc>pīta<pc> </pc>strī<pc> </pc>yāna<pc> </pc>vāhanādhva<pc> </pc>karmm<pc> </pc>apariśrāntānām
-                        | abhuktavatāṃ medomārutakapharasakṣīṇānāṃ muhūrttam praśaṃsanti |
-                        rātrāv api khalu jāgaritavatāṃ jāgaraṇakālārddhan divāsvapet |
+                         abhuktavatāṃ medomārutakapharasakṣīṇānāṃ muhūrttam praśaṃsanti |
+                        rātrāv api khalu jāgaritavatāṃ jāgaraṇakālārddhan divā svapet |
                         vikṛtis tu divāsvapno nāma tatra svapatāmadharmmaḥ
                         sarvvadoṣaprakopaś ca tat prakopāt kāsaś cāsapratiśyāyaśiro
                         gauravāṅgamarddārocakāgnidaurvvalyāni bhavanti | rātrāv api khalu

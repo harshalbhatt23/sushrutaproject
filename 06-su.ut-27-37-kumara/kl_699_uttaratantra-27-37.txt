@@ -151,7 +151,7 @@
     </revisionDesc>
   </teiHeader>
 
-  <text xml:lang="sa-Latn">
+  <text xml:lang="sa-Latn-t-sa-Deva">
     <body>
       <div n="6" type="sthāna">
 
@@ -697,7 +697,7 @@
 
           <l xml:id="SS.6.37.1"> athāto grahotpattiṃ vyākhyāsyāmaḥ |</l>
 
-          <l xml:id="SS.6.37.2a"> atha khalu van<unclear/></l>
+          <l xml:id="SS.6.37.2.add"> atha khalu vatsa suśruta ||</l>
 
           <l xml:id="SS.6.37.3"> na<cb n="3"/>vaskandādayaḥ proktā vālānāṃ ya ime grahāḥ |
             <caesura/>
@@ -777,7 +777,7 @@
              vaikalyam maraṇam cāpi dhruvaṃ skandagrahe nṛṇām iti || </l>
 
           <l xml:id="SS.6.37.21a">
-            <cb n="3"/> kumārabhṛtye || <unclear/> || 0 || </l>
+            <cb n="3"/> kumārabhṛtye ||  || 0 || </l>
 
           <l xml:id="SS.6.37.22"> skandagrahas tu prathamaḥ skandāpasmāra eva ca ||
             <caesura/>

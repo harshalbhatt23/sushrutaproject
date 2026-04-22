@@ -95,7 +95,7 @@
 
     </teiHeader>
 
-    <text xml:lang="sa-Latn">
+    <text xml:lang="sa-Latn-t-sa-Deva">
 
         <body>
 
@@ -514,7 +514,7 @@ C) Special notes :
                             <unclear>apā</unclear>abdhātu<pb n="163v" facs="167"/>prāyam
                         āhāram bhavati | tadā garbhbhasya gauratvaṃ | pṛthivīdhātuprāyaḥ
                         kṛṣṇatvaṃ | pṛthivyākāśadhātuprāyaḥ śyāmatvaṃ | yādṛkvarṇṇam
-                        āhāram upasevate garbhbhiṇī tadvarṇṇaḥ prasa<lb n="2"/>vo bhavtīty
+                        āhāram upasevate garbhbhiṇī tadvarṇṇaḥ prasa<lb n="2"/>vo bhavatīty
                         eke bhāṣante | yathā kṛṣṇapītasvetāsu bhūmiṣu sa<g
                             ref="#newa-gap-filler"/><cb/>rppa<pc> </pc>vṛścika<pc
                         > </pc>galagoṇḍikādayaḥ satvāḥ kṛṣṇapītasvetā iti || tatra
@@ -2903,7 +2903,7 @@ Half part of 57 found after 64-->
         </body>
     </text>
     <facsimile>
-        <graphic url="https://wujastyk.github.io/sushrutaproject/nak_5-333_manifest.json"
+        <graphic url="https://iiif.archive.org/iiif/5-333/manifest.json"
         />
     </facsimile>
 

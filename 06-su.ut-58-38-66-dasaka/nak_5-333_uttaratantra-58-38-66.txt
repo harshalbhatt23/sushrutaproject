@@ -443,7 +443,7 @@
 
     </teiHeader>
 
-    <text xml:lang="sa-Latn">
+    <text xml:lang="sa-Latn-t-sa-Deva">
         <body>
             <div n="6" type="sthāna">
 
@@ -2690,14 +2690,11 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                          tathānnaśuddhāyā kla<lb n="2"/>maparisame
                         <unclear>ktū</unclear>kṣau śithile |
                         <caesura/>
-                         prayadeyas tv āhāro bhavati | </l>
-
-                    <l xml:id="SS.6.64.84a">
-                        <gap reason="omitted" extent="2" unit="char"/>ṣaja<gap
-                            reason="omitted" extent="3" unit="char"
+                         prayadeyas tv āhāro bhavati | <gap reason="omitted" extent="2"
+                            unit="char"/>ṣaja<gap reason="omitted" extent="3" unit="char"
                             /><unclear>sātmra</unclear>kriyeti | </l>
 
-                    <l xml:id="SS.6.64.84b"> bhagavān āha dhanvantariḥ || </l>
+                    <l xml:id="SS.6.64.84.add"> bhagavān āha dhanvantariḥ || </l>
 
                     <l xml:id="SS.6.64.trailer"> uttare tantre svastharakṣaṇīyaṃ
                         dvāpañcāśattamaḥ kā<lb n="3"/>yacikitsāyām aṣṭāviṃśatitamaḥ ||</l>

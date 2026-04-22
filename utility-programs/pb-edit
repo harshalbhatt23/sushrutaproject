@@ -1,0 +1,159 @@
+#!/usr/bin/env python3
+import tkinter as tk
+from tkinter import filedialog, messagebox, ttk
+from lxml import etree
+import os
+import platform
+import re
+
+class TEIEditor:
+    def __init__(self, root):
+        self.root = root
+        self.root.title("TEI <pb> Attribute Editor")
+        self.root.geometry("900x700")
+        
+        self.tree = None
+        self.file_path = None
+        self.entries = [] 
+
+        self.setup_ui()
+
+    def setup_ui(self):
+        btn_frame = tk.Frame(self.root)
+        btn_frame.pack(fill=tk.X, padx=10, pady=10)
+
+        tk.Button(btn_frame, text="Open TEI/XML File", command=self.load_file).pack(side=tk.LEFT, padx=5)
+        tk.Button(btn_frame, text="Save Edits", command=self.save_file, bg="#4CAF50", fg="white").pack(side=tk.LEFT, padx=5)
+
+        self.canvas = tk.Canvas(self.root)
+        self.scrollbar = ttk.Scrollbar(self.root, orient="vertical", command=self.canvas.yview)
+        self.scrollable_frame = tk.Frame(self.canvas)
+
+        self.scrollable_frame.bind(
+            "<Configure>",
+            lambda e: self.canvas.configure(scrollregion=self.canvas.bbox("all"))
+        )
+
+        self.canvas.create_window((0, 0), window=self.scrollable_frame, anchor="nw")
+        self.canvas.configure(yscrollcommand=self.scrollbar.set)
+
+        self.canvas.bind_all("<MouseWheel>", self._on_mousewheel)
+        self.canvas.bind_all("<Button-4>", self._on_mousewheel)
+        self.canvas.bind_all("<Button-5>", self._on_mousewheel)
+
+        self.canvas.pack(side="left", fill="both", expand=True, padx=10, pady=10)
+        self.scrollbar.pack(side="right", fill="y")
+
+    def _on_mousewheel(self, event):
+        if platform.system() == "Windows":
+            self.canvas.yview_scroll(int(-1 * (event.delta / 120)), "units")
+        elif platform.system() == "Darwin": 
+            self.canvas.yview_scroll(int(-1 * event.delta), "units")
+        else:
+            if event.num == 4: self.canvas.yview_scroll(-1, "units")
+            elif event.num == 5: self.canvas.yview_scroll(1, "units")
+
+    def load_file(self):
+        self.file_path = filedialog.askopenfilename(filetypes=[("XML files", "*.xml"), ("All files", "*.*")])
+        if not self.file_path: return
+        try:
+            parser = etree.XMLParser(remove_blank_text=False)
+            self.tree = etree.parse(self.file_path, parser)
+            self.render_elements()
+        except Exception as e:
+            messagebox.showerror("Error", f"Failed to parse XML: {e}")
+
+    def render_elements(self):
+        for widget in self.scrollable_frame.winfo_children(): widget.destroy()
+        self.entries = []
+
+        pbs = self.tree.xpath("//*[local-name()='pb']")
+        if not pbs:
+            tk.Label(self.scrollable_frame, text="No <pb> elements found.").pack()
+            return
+
+        priority = {"n": 0, "facs": 1, "ana": 2}
+
+        for idx, pb in enumerate(pbs):
+            frame = tk.LabelFrame(self.scrollable_frame, text=f"Page Break {idx + 1}", padx=10, pady=5)
+            frame.pack(fill=tk.X, expand=True, pady=5)
+
+            prev_text = (pb.xpath("preceding-sibling::text()[1]") or [""])[-1][-15:]
+            next_text = (pb.xpath("following-sibling::text()[1]") or [""])[0][:15]
+            tk.Label(frame, text=f"...{prev_text} [ <pb> ] {next_text}...", font=("Courier", 10), fg="#666").pack(anchor="w")
+
+            attr_frame = tk.Frame(frame)
+            attr_frame.pack(fill=tk.X)
+
+            sorted_attrs = sorted(pb.attrib.keys(), key=lambda k: priority.get(k, 99))
+            element_entries = {}
+            
+            for attr_name in sorted_attrs:
+                row = tk.Frame(attr_frame)
+                row.pack(fill=tk.X)
+                tk.Label(row, text=f"{attr_name}:", width=10, anchor="e").pack(side=tk.LEFT)
+                ent = tk.Entry(row)
+                ent.insert(0, pb.attrib[attr_name])
+                ent.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
+                element_entries[attr_name] = ent
+
+            # Add the Renumbering trigger button if 'facs' exists
+            if 'facs' in element_entries:
+                tk.Button(frame, text="Renumber Subsequent facs (Double-increment)", 
+                          command=lambda i=idx: self.renumber_facs(i), 
+                          bg="#e1f5fe", font=("Arial", 8)).pack(anchor="e", pady=2)
+            
+            self.entries.append((pb, element_entries))
+
+    def renumber_facs(self, start_index):
+        """Renumber facs starting from start_index: x, x+1, x+1, x+2, x+2..."""
+        # 1. Get the seed value from the current entry
+        current_val = self.entries[start_index][1]['facs'].get()
+        
+        # Extract the numeric part (e.g., '200' from 'page200' or just '200')
+        match = re.search(r'(\d+)', current_val)
+        if not match:
+            messagebox.showwarning("Warning", "The current facs value does not contain a number.")
+            return
+        
+        start_num = int(match.group(1))
+        prefix = current_val[:match.start()]
+        suffix = current_val[match.end():]
+        padding = len(match.group(1))
+
+        # 2. Iterate through subsequent entries
+        # We start renumbering from the entry AFTER the current one.
+        count = 0
+        current_increment = start_num
+        
+        for i in range(start_index + 1, len(self.entries)):
+            count += 1
+            # Every 2nd step, increment the number
+            if count % 2 == 1:
+                current_increment += 1
+            
+            new_val = f"{prefix}{str(current_increment).zfill(padding)}{suffix}"
+            
+            # Update the UI Entry widget
+            if 'facs' in self.entries[i][1]:
+                self.entries[i][1]['facs'].delete(0, tk.END)
+                self.entries[i][1]['facs'].insert(0, new_val)
+
+    def save_file(self):
+        if self.tree is None: return
+        for pb, attr_dict in self.entries:
+            for attr_name, entry_widget in attr_dict.items():
+                pb.set(attr_name, entry_widget.get())
+
+        base, ext = os.path.splitext(self.file_path)
+        new_path = f"{base}-pb-edits{ext}"
+        try:
+            self.tree.write(new_path, encoding="utf-8", xml_declaration=True, pretty_print=False)
+            messagebox.showinfo("Success", f"Saved to {new_path}")
+        except Exception as e:
+            messagebox.showerror("Error", f"Save failed: {e}")
+
+if __name__ == "__main__":
+    root = tk.Tk()
+    app = TEIEditor(root)
+    root.mainloop()

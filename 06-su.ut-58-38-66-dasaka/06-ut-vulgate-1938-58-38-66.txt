@@ -132,7 +132,7 @@
     </teiHeader>
 
 
-    <text xml:lang="sa-Latn">
+    <text xml:lang="sa-Latn-t-sa-Deva">
 
         <body>
             <div n="6" type="sthāna">
@@ -1962,8 +1962,7 @@
                         <caesura/>
                          pradeyas tv āhāro bhavati bhiṣajāṃ kālaḥ sa tu mataḥ ||</l>
 
-                    <l xml:id="SS.6.64.84a"/>
-
+                  
                     <l xml:id="SS.6.64.trailer">iti suśrutasaṃhitāyām uttaratantre
                         tantrabhūṣaṇādhyāyeṣu svasvavṛttādhyāyo nāma (dvitīyo 'dhyāyaḥ,
                         āditaḥ) catuḥṣaṣṭitamo 'dhyāyaḥ ||64 ||</l>
