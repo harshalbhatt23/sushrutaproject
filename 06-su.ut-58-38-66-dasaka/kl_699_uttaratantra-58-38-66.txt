@@ -1795,7 +1795,7 @@ iii) 19ef is placed after 18ab     -->
 25) 82ab is after 80
 26) 82cd is after 81a -->
                     <l xml:id="SS.6.64.1"> athātaḥ svastharakṣaṇīyaṃ <abbr
-                            type="supention">vyā</abbr>
+                            type="suspension">vyā</abbr>
                         <expan><ex>khyāsyāmaḥ</ex></expan> || </l>
 
 
@@ -1803,7 +1803,7 @@ iii) 19ef is placed after 18ab     -->
                             >gni</unclear>ś ca samadhātuma<lb n="3"/>lakriyaḥ | </l>
 
                     <l xml:id="SS.6.64.2b"> prasannātmendriyamanā svastha ity
-                            a<unclear>ti</unclear>dhīyate | </l>
+                            a<unclear>bhi</unclear>dhīyate | </l>
 
                     <l xml:id="SS.6.64.3cd"> tasya ta<unclear>d</unclear> drakṣaṇaṃ
                             vat<unclear>śa</unclear> cikitsāyāḥ pa<cb/>raṃ hitaṃ | </l>
