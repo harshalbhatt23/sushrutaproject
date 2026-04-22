@@ -1814,10 +1814,10 @@ iii) 19ef is placed after 18ab     -->
                          tasminn athāṃ samāsoktaṃ vistareṇeha
                         vakṣyate | </l>
 
-                    <l xml:id="SS.6.64.5"> yasmin yasminṛtau ye ye doṣāḥ<cb/> kupyanti
+                    <l xml:id="SS.6.64.5"> yasmin yasmin ṛtau ye ye doṣāḥ<cb/> kupyanti
                         dehināṃ |
                         <caesura/>
-                         teṣu teṣu pradātavyā rasāste te vijānatā || </l>
+                         teṣu teṣu pradātavyā rasās te te vijānatā || </l>
 
                     <l xml:id="SS.6.64.6"> praklinnatvāc charīrāṇyaṃ varṣāsu khalu dehi<lb
                             n="4"/>nāṃ |
