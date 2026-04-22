@@ -13,10 +13,12 @@
 \newif \ifkalpa 
 \newif\ifsarira
 \newif\ifcikitsa
+\newif\ifjason
 %
 %\cikitsatrue
 %\kalpatrue
 %\sariratrue
+\jasontrue
 %
 %\includeonly{chapters/introduction}
 \includeonly{chapters/translation 6-64}
@@ -38,7 +40,7 @@
 \date{\texttt{Draft of \today}\\ \copyright\ The Authors}
 
 \newcommand{\ignoreargument}[1]{\empty }
-
+\ifjason
 \ifkalpa 
     \includeonly{
 %chapters/translation 5-introduction,
@@ -64,6 +66,10 @@
     chapters/translation 4-05,
 %  chapters/bibliography and indexes
 }
+\fi
+\ifjason \includeonly{
+    chapters/translation 6-64
+    }
 \fi
 %
 % from 
