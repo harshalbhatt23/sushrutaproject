@@ -2376,7 +2376,7 @@
                     <l xml:id="SS.6.64.2cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.2b</label>
                         <caesura/>
-                         prasannātmendriyamanāḥ svastha ity abhidhīyate | </l>
+                         prasannātmendriyamanāḥ svastha ity abhidhīyate || </l>
 
                     <l xml:id="SS.6.64.3ab"/>
 
@@ -2390,7 +2390,7 @@
                         <caesura/>
                          tasya yad vṛttam uktaṃ hi rakṣaṇañ ca mayāditaḥ ||
                         <caesura/>
-                         tasminn arthāṃ samāsoktaṃ vistareṇaiha vakṣyate | </l>
+                         tasminn arthān samāsoktaṃ vistareṇaiha vakṣyate | </l> 
 
                     <l xml:id="SS.6.64.5">
                         <label xml:lang="en">cf. 1938 ed. 6.64.5</label>

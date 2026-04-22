@@ -2035,7 +2035,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         paraṃ hitaṃ || </l>
 
                     <l xml:id="SS.6.64.4"> tasya yad vṛttam uktaṃ<lb n="6"/>
-                        <g ref="#newa-old-gap-filler"/> hi rakṣaṇañ ca mayāditaḥ ||
+                        <g ref="#newa-old-gap-filler"/> hi rakṣaṇañ ca mayāditaḥ || 
                         <caesura/>
                          tasminn arthān samāsoktaṃ vistareṇeha vakṣyate | </l>
 

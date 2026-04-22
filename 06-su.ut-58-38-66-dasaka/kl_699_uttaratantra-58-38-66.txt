@@ -1803,9 +1803,9 @@ iii) 19ef is placed after 18ab     -->
                             >gni</unclear>ś ca samadhātuma<lb n="3"/>lakriyaḥ | </l>
 
                     <l xml:id="SS.6.64.2cd"> prasannātmendriyamanā svastha ity
-                            a<unclear>bhi</unclear>dhīyate | </l>
+                            a<unclear>bhi</unclear>dhīyate | </l> 
 
-                    <l xml:id="SS.6.64.3cd"> tasya ta<unclear>d</unclear> drakṣaṇaṃ
+                    <l xml:id="SS.6.64.3cd"> tasya ta<unclear>d</unclear>d rakṣaṇaṃ
                             vatsa cikitsāyāḥ pa<cb/>raṃ hitaṃ | </l>
 
                     <l xml:id="SS.6.64.4"> tasya yad vṛttam uktaṃ hi
