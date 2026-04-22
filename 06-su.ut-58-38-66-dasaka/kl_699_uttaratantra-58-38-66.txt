@@ -1799,14 +1799,14 @@ iii) 19ef is placed after 18ab     -->
                         <expan><ex>khyāsyāmaḥ</ex></expan> || </l>
 
 
-                    <l xml:id="SS.6.64.2a"> samadoṣaḥ samā<unclear reason="damage"
+                    <l xml:id="SS.6.64.2ab"> samadoṣaḥ samā<unclear reason="damage"
                             >gni</unclear>ś ca samadhātuma<lb n="3"/>lakriyaḥ | </l>
 
-                    <l xml:id="SS.6.64.2b"> prasannātmendriyamanā svastha ity
+                    <l xml:id="SS.6.64.2cd"> prasannātmendriyamanā svastha ity
                             a<unclear>bhi</unclear>dhīyate | </l>
 
                     <l xml:id="SS.6.64.3cd"> tasya ta<unclear>d</unclear> drakṣaṇaṃ
-                            vat<unclear>śa</unclear> cikitsāyāḥ pa<cb/>raṃ hitaṃ | </l>
+                            vatsa cikitsāyāḥ pa<cb/>raṃ hitaṃ | </l>
 
                     <l xml:id="SS.6.64.4"> tasya yad vṛttam uktaṃ hi
                             rakṣa<unclear>ṇa</unclear>ñ ca mayāditaḥ ||

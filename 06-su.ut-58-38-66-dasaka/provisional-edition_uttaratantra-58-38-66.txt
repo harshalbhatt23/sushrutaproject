@@ -2368,12 +2368,12 @@
                          athātaḥ svastharakṣaṇīyaṃ vyākhyāsyāmaḥ || </l>
 
                     <l xml:id="SS.6.64.2"/>
-                    <l xml:id="SS.6.64.2a">
+                    <l xml:id="SS.6.64.2ab"> <!-- SS.1.15.41 -->
                         <label xml:lang="en">cf. 1938 ed. 6.64.2a</label>
                         <caesura/>
                          samadoṣaḥ samāgniś ca samadhātumalakriyaḥ | </l>
 
-                    <l xml:id="SS.6.64.2b">
+                    <l xml:id="SS.6.64.2cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.2b</label>
                         <caesura/>
                          prasannātmendriyamanāḥ svastha ity abhidhīyate | </l>
@@ -2383,7 +2383,7 @@
                     <l xml:id="SS.6.64.3cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.3cd</label>
                         <caesura/>
-                         tasya tad drakṣaṇaṃ vatśa cikitsāyāḥ paraṃ hitaṃ | </l>
+                         tasya tad rakṣaṇaṃ vatsa cikitsāyāḥ paraṃ hitam | </l>
 
                     <l xml:id="SS.6.64.4">
                         <label xml:lang="en">cf. 1938 ed. 6.64.4</label>

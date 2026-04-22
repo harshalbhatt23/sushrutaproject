@@ -1561,7 +1561,7 @@
                     <l xml:id="SS.6.64.3ab"> sūtrasthāne samuddiṣṭaḥ svastho bhavati
                         yādṛśaḥ | </l>
 
-                    <l xml:id="SS.6.64.3cd"> tasya yadrakṣaṇaṃ taddhi cikitsāyāḥ
+                    <l xml:id="SS.6.64.3cd"> tasya yad rakṣaṇaṃ tad dhi cikitsāyāḥ
                         prayojanam || </l>
 
                     <l xml:id="SS.6.64.4"> tasya yad vṛttam uktaṃ hi rakṣaṇaṃ ca mayāditaḥ

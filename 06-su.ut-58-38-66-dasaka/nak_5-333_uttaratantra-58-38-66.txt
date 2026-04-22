@@ -2024,10 +2024,10 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
 
 
-                    <l xml:id="SS.6.64.2a"> samadoṣaḥ samāgni<lb n="5"/>ś ca
+                    <l xml:id="SS.6.64.2ab"> samadoṣaḥ samāgni<lb n="5"/>ś ca
                         samadhātumalakriyāḥ | </l>
 
-                    <l xml:id="SS.6.64.2b"> prasannātmendriyamanāḥ svastha i<cb/>ty
+                    <l xml:id="SS.6.64.2cd"> prasannātmendriyamanāḥ svastha i<cb/>ty
                         abhidhīyate || </l>
 
 
