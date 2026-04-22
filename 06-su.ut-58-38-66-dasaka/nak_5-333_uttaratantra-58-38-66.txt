@@ -2024,10 +2024,10 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
 
 
-                    <l xml:id="SS.6.64.2a"> samadoṣaḥ samāgni<lb n="5"/>ś ca
+                    <l xml:id="SS.6.64.2ab"> samadoṣaḥ samāgni<lb n="5"/>ś ca
                         samadhātumalakriyāḥ | </l>
 
-                    <l xml:id="SS.6.64.2b"> prasannātmendriyamanāḥ svastha i<cb/>ty
+                    <l xml:id="SS.6.64.2cd"> prasannātmendriyamanāḥ svastha i<cb/>ty
                         abhidhīyate || </l>
 
 
@@ -2035,17 +2035,17 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         paraṃ hitaṃ || </l>
 
                     <l xml:id="SS.6.64.4"> tasya yad vṛttam uktaṃ<lb n="6"/>
-                        <g ref="#newa-old-gap-filler"/> hi rakṣaṇañ ca mayāditaḥ ||
+                        <g ref="#newa-old-gap-filler"/> hi rakṣaṇañ ca mayāditaḥ || 
                         <caesura/>
                          tasminn arthān samāsoktaṃ vistareṇeha vakṣyate | </l>
 
                     <l xml:id="SS.6.64.4a"> yasminn arthān samāsoktaṃ vistareṇe ha
                         vakṣyate ||</l>
 
-                    <l xml:id="SS.6.64.5"> yasmi<pb n="406v" facs="410"/>n yasminṛtau ye
+                    <l xml:id="SS.6.64.5"> yasmi<pb n="406v" facs="410"/>n yasmin ṛtau ye
                         ye doṣāḥ kupyanti dehināṃ |
                         <caesura/>
-                         teṣu teṣu pradātavyā rasāste te vijānatā || </l>
+                         teṣu teṣu pradātavyā rasās te te vijānatā || </l>
 
                     <l xml:id="SS.6.64.6"> praklinnatvāc charīrāṇāṃ varṣāsu khalu dehināṃ|
                         <caesura/>
@@ -2060,7 +2060,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                             ref="#newa-old-gap-filler"/>
                         <g ref="#newa-old-gap-filler"/><g ref="#newa-old-gap-filler"/><g
                             ref="#newa-old-gap-filler"/><g ref="#newa-old-gap-filler"
-                        />tmārutā<cb/>dayaḥ || </l>
+                        />t mārutā<cb/>dayaḥ || </l>
 
                     <l xml:id="SS.6.64.7"> tasmāt kledaviśuddhyarthan doṣasandhāraṇāya ca
                         |

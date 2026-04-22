@@ -2365,46 +2365,46 @@
                     <l xml:id="SS.6.64.1">
                         <label xml:lang="en">cf. 1938 ed. 6.64.1</label>
                         <caesura/>
-                         athātaḥ svastharakṣaṇīyaṃ vyākhyāsyāmaḥ || </l>
+                         athātaḥ svastharakṣaṇīyaṃ vyākhyāsyāmaḥ | </l>
 
                     <l xml:id="SS.6.64.2"/>
-                    <l xml:id="SS.6.64.2a">
+                    <l xml:id="SS.6.64.2ab"> <!-- SS.1.15.41 -->
                         <label xml:lang="en">cf. 1938 ed. 6.64.2a</label>
                         <caesura/>
                          samadoṣaḥ samāgniś ca samadhātumalakriyaḥ | </l>
 
-                    <l xml:id="SS.6.64.2b">
+                    <l xml:id="SS.6.64.2cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.2b</label>
                         <caesura/>
-                         prasannātmendriyamanā svastha ity atidhīyate | </l>
+                         prasannātmendriyamanāḥ svastha ity abhidhīyate || </l>
 
                     <l xml:id="SS.6.64.3ab"/>
 
                     <l xml:id="SS.6.64.3cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.3cd</label>
                         <caesura/>
-                         tasya tad drakṣaṇaṃ vatśa cikitsāyāḥ paraṃ hitaṃ | </l>
+                         tasya tad rakṣaṇaṃ vatsa cikitsāyāḥ paraṃ hitam | </l>
 
                     <l xml:id="SS.6.64.4">
                         <label xml:lang="en">cf. 1938 ed. 6.64.4</label>
                         <caesura/>
-                         tasya yad vṛttam uktaṃ hi rakṣaṇañ ca mayāditaḥ ||
+                         tasya yad vṛttam uktaṃ hi rakṣaṇañ ca mayāditaḥ |
                         <caesura/>
-                         tasminn arthāṃ samāsoktaṃ vistareṇaiha vakṣyate | </l>
+                         tasminn arthaṃ samāsoktaṃ vistareṇeha vakṣyate || </l> 
 
                     <l xml:id="SS.6.64.5">
                         <label xml:lang="en">cf. 1938 ed. 6.64.5</label>
                         <caesura/>
-                         yasmin yasminṛtau ye ye doṣāḥ kupyanti dehināṃ |
+                         yasmin yasmin ṛtau ye ye doṣāḥ kupyanti dehinām |
                         <caesura/>
-                         teṣu teṣu pradātavyā rasāste te vijānatā || </l>
+                         teṣu teṣu pradātavyā rasās te te vijānatā || </l>
 
                     <l xml:id="SS.6.64.6">
                         <label xml:lang="en">cf. 1938 ed. 6.64.6</label>
                         <caesura/>
-                         praklinnatvāc charīrāṇyaṃ varṣāsu khalu dehināṃ |
+                         praklinnatvāc charīrāṇāṃ varṣāsu khalu dehinām |
                         <caesura/>
-                         mandegnau kopam āyānti saṃharṣāt mārutādayaḥ | </l>
+                         mande 'gnau kopam āyānti saṃharṣān mārutādayaḥ | </l>
 
                     <l xml:id="SS.6.64.7">
                         <label xml:lang="en">cf. 1938 ed. 6.64.7</label>

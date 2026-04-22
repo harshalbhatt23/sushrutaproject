@@ -1795,34 +1795,34 @@ iii) 19ef is placed after 18ab     -->
 25) 82ab is after 80
 26) 82cd is after 81a -->
                     <l xml:id="SS.6.64.1"> athātaḥ svastharakṣaṇīyaṃ <abbr
-                            type="supention">vyā</abbr>
+                            type="suspension">vyā</abbr>
                         <expan><ex>khyāsyāmaḥ</ex></expan> || </l>
 
 
-                    <l xml:id="SS.6.64.2a"> samadoṣaḥ samā<unclear reason="damage"
+                    <l xml:id="SS.6.64.2ab"> samadoṣaḥ samā<unclear reason="damage"
                             >gni</unclear>ś ca samadhātuma<lb n="3"/>lakriyaḥ | </l>
 
-                    <l xml:id="SS.6.64.2b"> prasannātmendriyamanā svastha ity
-                            a<unclear>ti</unclear>dhīyate | </l>
+                    <l xml:id="SS.6.64.2cd"> prasannātmendriyamanā svastha ity
+                            a<unclear>bhi</unclear>dhīyate | </l> 
 
-                    <l xml:id="SS.6.64.3cd"> tasya ta<unclear>d</unclear> drakṣaṇaṃ
-                            vat<unclear>śa</unclear> cikitsāyāḥ pa<cb/>raṃ hitaṃ | </l>
+                    <l xml:id="SS.6.64.3cd"> tasya ta<unclear>d</unclear>d rakṣaṇaṃ
+                            vatsa cikitsāyāḥ pa<cb/>raṃ hitaṃ | </l>
 
                     <l xml:id="SS.6.64.4"> tasya yad vṛttam uktaṃ hi
                             rakṣa<unclear>ṇa</unclear>ñ ca mayāditaḥ ||
                         <caesura/>
-                         tasminn a<unclear>r</unclear>thāṃ samāsoktaṃ vistareṇaiha
+                         tasminn athāṃ samāsoktaṃ vistareṇeha
                         vakṣyate | </l>
 
-                    <l xml:id="SS.6.64.5"> yasmin yasminṛtau ye ye doṣāḥ<cb/> kupyanti
+                    <l xml:id="SS.6.64.5"> yasmin yasmin ṛtau ye ye doṣāḥ<cb/> kupyanti
                         dehināṃ |
                         <caesura/>
-                         teṣu teṣu pradātavyā rasāste te vijānatā || </l>
+                         teṣu teṣu pradātavyā rasās te te vijānatā || </l>
 
-                    <l xml:id="SS.6.64.6"> praklinnatvāc charīrāṇyaṃ varṣāsu khalu dehi<lb
+                    <l xml:id="SS.6.64.6"> praklinnatvāc charīrāṇāṃ varṣāsu khalu dehi<lb
                             n="4"/>nāṃ |
                         <caesura/>
-                         mandegnau kopam āyānti saṃharṣāt mārutādayaḥ | </l>
+                         mande gnau kopam āyānti saṃharṣān mārutādayaḥ | </l>
 
                     <l xml:id="SS.6.64.7"> tasmāt kledaviśuddhyathaṃ
                             doṣasaṃdhāra<unclear>ṇa</unclear>ya<cb/> ca |
