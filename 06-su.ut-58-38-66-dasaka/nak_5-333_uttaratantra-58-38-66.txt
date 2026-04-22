@@ -2060,7 +2060,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                             ref="#newa-old-gap-filler"/>
                         <g ref="#newa-old-gap-filler"/><g ref="#newa-old-gap-filler"/><g
                             ref="#newa-old-gap-filler"/><g ref="#newa-old-gap-filler"
-                        />tmārutā<cb/>dayaḥ || </l>
+                        />t mārutā<cb/>dayaḥ || </l>
 
                     <l xml:id="SS.6.64.7"> tasmāt kledaviśuddhyarthan doṣasandhāraṇāya ca
                         |

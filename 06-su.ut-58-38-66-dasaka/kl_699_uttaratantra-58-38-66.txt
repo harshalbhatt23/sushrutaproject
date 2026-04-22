@@ -1819,10 +1819,10 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                          teṣu teṣu pradātavyā rasās te te vijānatā || </l>
 
-                    <l xml:id="SS.6.64.6"> praklinnatvāc charīrāṇyaṃ varṣāsu khalu dehi<lb
+                    <l xml:id="SS.6.64.6"> praklinnatvāc charīrāṇāṃ varṣāsu khalu dehi<lb
                             n="4"/>nāṃ |
                         <caesura/>
-                         mandegnau kopam āyānti saṃharṣāt mārutādayaḥ | </l>
+                         mande gnau kopam āyānti saṃharṣān mārutādayaḥ | </l>
 
                     <l xml:id="SS.6.64.7"> tasmāt kledaviśuddhyathaṃ
                             doṣasaṃdhāra<unclear>ṇa</unclear>ya<cb/> ca |

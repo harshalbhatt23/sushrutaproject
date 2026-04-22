@@ -2402,9 +2402,9 @@
                     <l xml:id="SS.6.64.6">
                         <label xml:lang="en">cf. 1938 ed. 6.64.6</label>
                         <caesura/>
-                         praklinnatvāc charīrāṇyaṃ varṣāsu khalu dehināṃ |
+                         praklinnatvāc charīrāṇāṃ varṣāsu khalu dehinām |
                         <caesura/>
-                         mandegnau kopam āyānti saṃharṣāt mārutādayaḥ | </l>
+                         mande 'gnau kopam āyānti saṃharṣān mārutādayaḥ | </l>
 
                     <l xml:id="SS.6.64.7">
                         <label xml:lang="en">cf. 1938 ed. 6.64.7</label>
