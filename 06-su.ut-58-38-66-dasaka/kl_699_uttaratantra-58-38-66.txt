@@ -1811,7 +1811,7 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.4"> tasya yad vṛttam uktaṃ hi
                             rakṣa<unclear>ṇa</unclear>ñ ca mayāditaḥ ||
                         <caesura/>
-                         tasminn a<unclear>r</unclear>thāṃ samāsoktaṃ vistareṇaiha
+                         tasminn athāṃ samāsoktaṃ vistareṇeha
                         vakṣyate | </l>
 
                     <l xml:id="SS.6.64.5"> yasmin yasminṛtau ye ye doṣāḥ<cb/> kupyanti

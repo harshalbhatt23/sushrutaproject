@@ -2390,7 +2390,7 @@
                         <caesura/>
                          tasya yad vṛttam uktaṃ hi rakṣaṇañ ca mayāditaḥ ||
                         <caesura/>
-                         tasminn arthān samāsoktaṃ vistareṇaiha vakṣyate | </l> 
+                         tasminn arthaṃ samāsoktaṃ vistareṇeha vakṣyate | </l> 
 
                     <l xml:id="SS.6.64.5">
                         <label xml:lang="en">cf. 1938 ed. 6.64.5</label>

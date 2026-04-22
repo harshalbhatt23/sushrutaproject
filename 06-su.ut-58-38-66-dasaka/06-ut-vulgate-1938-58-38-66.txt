@@ -1567,7 +1567,7 @@
                     <l xml:id="SS.6.64.4"> tasya yad vṛttam uktaṃ hi rakṣaṇaṃ ca mayāditaḥ
                         |
                         <caesura/>
-                         tasminn arthaḥ samāsoktā vistareṇeha vakṣyate || </l>
+                         tasminn arthāḥ samāsoktā vistareṇeha vakṣyate || </l>
 
                     <l xml:id="SS.6.64.4a"/>
 
