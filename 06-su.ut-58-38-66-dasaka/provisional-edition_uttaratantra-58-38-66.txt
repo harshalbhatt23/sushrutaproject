@@ -2449,12 +2449,12 @@
                     <l xml:id="SS.6.64.11c">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11c</label>
                         <caesura/>
-                         mādhvīkaṃ sīdhum alpam vā māhendram atha sārasaṃ | </l>
+                         mādhvīkaṃ sīdhum alpam vā māhendram atha sārasam | </l>
 
                     <l xml:id="SS.6.64.11d">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11d</label>
                         <caesura/>
-                         taptaśītaṃ kṣaudrayutaṃ kaupajam vā pibejjalaṃ || </l>
+                         taptaśītaṃ kṣaudrayutaṃ kaupajam vā pibej jalaṃ || </l>
 
                     <l xml:id="SS.6.64.11e">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11e</label>

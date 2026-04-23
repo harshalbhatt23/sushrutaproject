@@ -1854,7 +1854,7 @@ iii) 19ef is placed after 18ab     -->
                         sā<cb/>rasaṃ | </l>
 
                     <l xml:id="SS.6.64.11d"> taptaśītaṃ kṣaudrayutaṃ kaupajam vā
-                        pibejjalaṃ | </l>
+                        pibej jalaṃ | </l>
 
                     <l xml:id="SS.6.64.11e"> pūrvānilaṃ gharmasevāmudamanthaṃ sarijjalaṃ | </l>
 

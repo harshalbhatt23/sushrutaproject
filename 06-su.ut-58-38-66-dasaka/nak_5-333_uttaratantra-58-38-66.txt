@@ -2093,7 +2093,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         māhendram atha sārasaṃ | </l>
 
                     <l xml:id="SS.6.64.11d"> taptaśītaṃ kṣaudrayutaṃ kaupajam vā
-                        pibejjalaṃ || </l>
+                        pibej jalaṃ || </l>
 
                     <l xml:id="SS.6.64.11e"> pū<lb n="6"/>rvvānilaṃ gharmmasevāmudamanthaṃ
                         sarijjalaṃ | </l>
