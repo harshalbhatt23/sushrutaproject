@@ -15,15 +15,16 @@
                             <country>Nepal</country>
                         </placeName>
                         <institution>Kaiser Library</institution>
-                        <repository>National Archives, Nepal <ptr
-                                target="http://narchives.gov.np/"/></repository>
+                        <repository>National Archives, Nepal <ref
+                                target="http://narchives.gov.np/"
+                                >http://narchives.gov.np</ref></repository>
                         <idno>5-333</idno>
                         <idno type="siglum">H</idno>
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <p xml:lang="en">Palm-leaf, Newari script, 495 ff. Supports
-                                most of the <title>Suśrutasaṃhitā</title>.</p>
+                            <note xml:lang="en">Palm-leaf, Newari script, 495 ff. Supports
+                                most of the <title>Suśrutasaṃhitā</title>.</note>
                             <textLang mainLang="sa-Newa">Sanskrit in Nepalese
                                 script.</textLang>
                             <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
