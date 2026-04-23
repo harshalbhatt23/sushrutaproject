@@ -2065,14 +2065,14 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.7"> tasmāt kledaviśuddhyarthan doṣasandhāraṇāya ca
                         |
                         <caesura/>
-                         kaṣāyatiktakaṭukai rasaiḥ saṃyuktaṃ madravaṃ || </l>
+                         kaṣāyatiktakaṭukai rasaiḥ saṃyuktaṃm adravaṃ || </l>
                     <lb n="3"/>
 
-                    <l xml:id="SS.6.64.8"> nātisnigdhan nātirūkṣamuṣṇaṃ dīpanam eva ca |
+                    <l xml:id="SS.6.64.8"> nātisnigdhan nātirūkṣam uṣṇaṃ dīpanam eva ca |
                         <caesura/>
-                         deyamannannṛpa<cb/>taye yajjalaṃ coktam āditaḥ || </l>
+                         deyam annan nṛpa<cb/>taye yaj jalaṃ coktam āditaḥ || </l>
 
-                    <l xml:id="SS.6.64.9"> taptāyasa<unclear>ḥ</unclear> kṛtāmbho vā pibet
+                    <l xml:id="SS.6.64.9"> taptāyasa<unclear reason="another hand">ḥ</unclear> kṛtāmbho vā pibet
                         kṣaudrayutañ ca yat |
                         <caesura/>
                          ahni varṣānilāvi<lb n="4"/>ṣṭe tyarthaśītāmbusaṅkule || </l>
