@@ -2454,7 +2454,7 @@
                     <l xml:id="SS.6.64.11d">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11d</label>
                         <caesura/>
-                         taptaśītaṃ kṣaudrayutaṃ kaupajam vā pibej jalaṃ || </l>
+                         taptaśītaṃ kṣaudrayutaṃ kaupajam vā pibej jalam || </l>
 
                     <l xml:id="SS.6.64.11e">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11e</label>
