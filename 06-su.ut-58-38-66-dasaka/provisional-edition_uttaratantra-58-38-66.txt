@@ -2439,22 +2439,22 @@
                     <l xml:id="SS.6.64.11a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11a</label>
                         <caesura/>
-                         nātiśīte purāṇyas tu yavagodhūmaśālayaḥ | </l>
+                         nātiśīte purāṇās tu yavagodhūmaśālayaḥ | </l>
 
                     <l xml:id="SS.6.64.11b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11b</label>
                         <caesura/>
-                         yūṣaiḥ mūpaiś ca kaṭubhir bhojyair hṛdyaiś ca jāṅgalaiḥ | </l>
+                         yūṣaiḥ sūpaiś ca kaṭubhir bhojyair hṛdyaiś ca jāṅgalaiḥ || </l>
 
                     <l xml:id="SS.6.64.11c">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11c</label>
                         <caesura/>
-                         mādhvīkaṃśīdhumalpam vā māhendram atha sārasaṃ | </l>
+                         mādhvīkaṃ sīdhum alpam vā māhendram atha sārasaṃ | </l>
 
                     <l xml:id="SS.6.64.11d">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11d</label>
                         <caesura/>
-                         taptaśītaṃ kṣaudrayutaṃ kaupajam vā pibejjalaṃ | </l>
+                         taptaśītaṃ kṣaudrayutaṃ kaupajam vā pibejjalaṃ || </l>
 
                     <l xml:id="SS.6.64.11e">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11e</label>
@@ -2464,7 +2464,7 @@
                     <l xml:id="SS.6.64.13ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.13ab</label>
                         <caesura/>
-                         divāśvapnamavaśyāyaṃ varjayec cātra maithunaṃ | </l>
+                         divāśvapnamavaśyāyaṃ varjayec cātra maithunaṃ || </l>
 
                     <l xml:id="SS.6.64.13cd"/>
 

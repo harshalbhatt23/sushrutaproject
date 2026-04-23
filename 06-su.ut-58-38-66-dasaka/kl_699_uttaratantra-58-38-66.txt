@@ -1845,12 +1845,12 @@ iii) 19ef is placed after 18ab     -->
                          tannimittañ ca matimān nātivyāyāmam ācaret || </l>
                     <cb/>
 
-                    <l xml:id="SS.6.64.11a"> nātiśīte purāṇyas tu yavagodhūmaśālayaḥ | </l>
+                    <l xml:id="SS.6.64.11a"> nātiśīte purāṇās tu yavagodhūmaśālayaḥ | </l>
 
                     <l xml:id="SS.6.64.11b"> yū<unclear reason="damaged">ṣai</unclear>ḥ
-                        mūpaiś ca kaṭubhir bhojyair hṛdyaiś ca jāṅgalaiḥ | </l>
+                        sūpaiś ca kaṭubhir bhojyair hṛdyaiś ca jāṅgalaiḥ | </l>
 
-                    <l xml:id="SS.6.64.11c"> mādhvīkaṃśīdhumalpam vā māhendram atha
+                    <l xml:id="SS.6.64.11c"> mādhvīkaṃ sīdhum alpam vā māhendram atha
                         sā<cb/>rasaṃ | </l>
 
                     <l xml:id="SS.6.64.11d"> taptaśītaṃ kṣaudrayutaṃ kaupajam vā
