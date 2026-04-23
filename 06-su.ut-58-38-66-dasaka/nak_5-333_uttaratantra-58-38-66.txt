@@ -2072,31 +2072,28 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         <caesura/>
                          deyam annan nṛpa<cb/>taye yaj jalaṃ coktam āditaḥ || </l>
 
-                    <l xml:id="SS.6.64.9"> taptāyasa<unclear reason="another hand">ḥ</unclear> kṛtāmbho vā pibet
+                    <l xml:id="SS.6.64.9"> taptāyasa<add hand="second">ḥ</add> kṛtāmbho vā pibet
                         kṣaudrayutañ ca yat |
                         <caesura/>
                          ahni varṣānilāvi<lb n="4"/>ṣṭe tyarthaśītāmbusaṅkule || </l>
 
                     <l xml:id="SS.6.64.10"> taruṇatvād vidāhañ ca
-                            gacchant<unclear>yau</unclear><cb/>ṣa<gap reason="omitted"
-                            extent="1" unit="char"/>yas tathā |
+                            gacchanty au<cb/>ṣayas tathā |
                         <caesura/>
-                         tannimittaṃ ca matimān nātivyāyāmamācaret || </l>
-
-
+                         tannimittaṃ ca matimān nātivyāyāmam ācaret || </l>
 
                     <l xml:id="SS.6.64.11a"> nātiśīte purāṇās tu yavagodhūma<lb n="5"
                         />śālayaḥ | </l>
 
-                    <l xml:id="SS.6.64.11b"> yūṣaiḥ <unclear>mūpai</unclear>ś ca kaṭubhir
-                            <unclear>bhbhojyai</unclear>r hṛdyaiś ca jāṅgalaiḥ || </l>
+                    <l xml:id="SS.6.64.11b"> yūṣaiḥ mūpaiś ca kaṭubhir
+                            bbhojyair hṛdyaiś ca jāṅgalaiḥ || </l>
                     <cb/>
 
-                    <l xml:id="SS.6.64.11c"> mādhvīkaṃsīdhumal<unclear>pa</unclear>m vā
+                    <l xml:id="SS.6.64.11c"> mādhvīkaṃ sīdhum alpam vā
                         māhendram atha sārasaṃ | </l>
 
                     <l xml:id="SS.6.64.11d"> taptaśītaṃ kṣaudrayutaṃ kaupajam vā
-                        pibejjalaṃ || </l>
+                        pibej jalaṃ || </l>
 
                     <l xml:id="SS.6.64.11e"> pū<lb n="6"/>rvvānilaṃ gharmmasevāmudamanthaṃ
                         sarijjalaṃ | </l>
