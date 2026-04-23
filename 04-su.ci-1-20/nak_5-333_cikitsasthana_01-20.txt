@@ -1675,7 +1675,7 @@ Special Note:
                             > </pc>rṣabhaka<pc> </pc>balātibalā<pc> </pc>śṛgā<lb n="5"
                             />lavinnā<pc> </pc>meṣaśṛṅgī<pc> </pc>piyāla<pc> </pc>śarkkarā<pc
                             > </pc>kaśerukā<pc> </pc>surabhi<pc> </pc>vacā<pc
-                        > </pc>kalka<cb/>miśreṣūpanāhārthe sarppis<pc> </pc>taila<pc
+                                > </pc>kalka<pc> </pc><cb/>miśreṣūpanāhā<pc> </pc>rthe sarppis<pc> </pc>taila<pc
                             > </pc>vasā<pc> </pc>majjā<pc> </pc>dugdha<pc> </pc>siddhāḥ pañca pāyasā
                         vyākhyātāḥ | snaihikaphalasāro<g ref="#newa-gap-filler"/><lb n="6"/>tkārikā
                         nalapīnamatsyapiśitavaiśavāro vā | bilva<pc> </pc>pesikā<pc

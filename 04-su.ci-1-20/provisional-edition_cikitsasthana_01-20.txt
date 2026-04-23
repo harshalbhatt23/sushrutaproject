@@ -1,10 +1,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-        <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
 
         <fileDesc>
             <titleStmt>
-                <title>The Nepalese Version of the Suśrutasaṃhitā, Cikitsāsthāna, adhyāyas 1-20,
-                    based on the Nepalese MSS</title>
+                <title>The Nepalese Version of the Suśrutasaṃhitā, Cikitsāsthāna, adhyāyas
+                    1-20, based on the Nepalese MSS</title>
             </titleStmt>
             <publicationStmt>
                 <authority>The Suśruta Project</authority>
@@ -50,8 +50,8 @@
                 <date>2020-2023</date>
                 <pubPlace>The University of Alberta</pubPlace>
                 <publisher>The Suśruta Project (<ptr
-target="http://sushrutaproject.github.io"
-                        /><ref target="http://sushrutaproject.github.io"
+                        target="http://sushrutaproject.github.io"/><ref
+                        target="http://sushrutaproject.github.io"
                         >https://sushrutaproject.github.io</ref>
                     <ptr target="http://sushrutaproject.github.io"/>)</publisher>
             </publicationStmt>
@@ -1795,9 +1795,9 @@ target="http://sushrutaproject.github.io"
                         <label xml:lang="en">cf. 1938 ed. 4.3.8ab</label>
                         <caesura/>
                          saptarātrāt saptarātrāt saumyeṣv ṛtuṣu bandhanaṃ | </l>
-                    
+
                     <l xml:id="SS.4.3.8cd"/>
-                    
+
                     <l xml:id="SS.4.3.8.add">
                         <label xml:lang="en">cf. 1938 ed. 4.3.8.add</label>
                         <caesura/>
@@ -2666,20 +2666,33 @@ target="http://sushrutaproject.github.io"
                         vātakopabhayāt | tato vamanādibhir upakramair upapādya
                         saṃsṛṣṭabhaktavāte prabale purāṇaghṛtaṃ pāyayet | ajākṣīraṃ
                         vārddhatailaṃ madhukākṣayuktaṃ śṛgālavinnāsiddham vā
-                        śarkkarāmadhumadhuraṃ | śuṇṭhīkaśerusiddham vā |
-                        śyāmā<pc> </pc>rāsnā<pc> </pc>suṣavī<pc> </pc>śṛgālavinnā<pc> </pc>pīlu<pc> </pc>śatāvarī<pc> </pc>śvadaṃṣṭrā<pc> </pc>dvipañcamūla<pc> </pc>kvāthāṣṭaguṇasiddhena
-                        vā payasā
-                        meṣaśṛṅgī<pc> </pc>śvadaṃṣṭrā<pc> </pc>madhu<pc> </pc>nāgabalā<pc> </pc>bhadradāru<pc> </pc>vacā<pc> </pc>surabhi<pc> </pc>kalkapratīvāpan
-                        tailam pācayitvā pānādiṣūpayuñjyāt |
-                        śatāvarī<pc> </pc>mayūraka<pc> </pc>dhavaka<pc> </pc>madhuka<pc> </pc>kṣīravidārī<pc> </pc>balātibalā<pc> </pc>tṛṇapañcamūlī<pc> </pc>kvāthasiddham
-                        vā  kākolyādiprativāpaṃ | balātailam vā śatapākam iti |
-                        vātaharamūlasiddhena ca payasā amlair vvā pariṣekaṅ kurvvīta ||
-                        tatra cūrṇṇiteṣu yavagodhūmatilamudgamāṣeṣu pratyekaśaḥ
-                        kākolī<pc> </pc>kṣīrakākolī<pc> </pc>jīvakarṣabhaka<pc> </pc>balātibalā<pc> </pc>śṛgālavinnā<pc> </pc>meṣaśṛṅgī<pc> </pc>piyāla<pc> </pc>śarkkarā<pc> </pc>kaśerukā<pc> </pc>surabhi<pc> </pc>vacā<pc> </pc>kalkamiśreṣūpanāhārthe
-                        sarppistailavasāmajjādugdhasiddhāḥ pañca pāyasā vyākhyātāḥ |
-                        snaihikaphalasārotkārikānalapīnamatsyapiśitavaiśavāro vā |
-                        bilva<pc> </pc>pesikā<pc> </pc>tagara<pc> </pc>devadāru<pc> </pc>sarala<pc> </pc>rāsnā<pc> </pc>hareṇu<pc> </pc>kuṣṭha<pc> </pc>śatapuṣpa<pc> </pc>surā<pc> </pc>dadhi<pc> </pc>mastu<pc> </pc>yuktam
-                        upanāhaḥ | mātuluṅgāmla<pc> </pc>saindhava<pc> </pc>ghṛta<pc> </pc>miśramadhu<pc> </pc>śigrumūlam ālepanaṃ
+                        śarkkarāmadhumadhuraṃ | śuṇṭhīkaśerusiddham vā | śyāmā<pc
+                            > </pc>rāsnā<pc> </pc>suṣavī<pc> </pc>śṛgālavinnā<pc
+                            > </pc>pīlu<pc> </pc>śatāvarī<pc> </pc>śvadaṃṣṭrā<pc
+                            > </pc>dvipañcamūla<pc> </pc>kvāthāṣṭaguṇasiddhena vā payasā
+                            meṣaśṛṅgī<pc> </pc>śvadaṃṣṭrā<pc> </pc>madhu<pc
+                            > </pc>nāgabalā<pc> </pc>bhadradāru<pc> </pc>vacā<pc
+                            > </pc>surabhi<pc> </pc>kalkapratīvāpan tailam pācayitvā
+                        pānādiṣūpayuñjyāt | śatāvarī<pc> </pc>mayūraka<pc
+                            > </pc>dhavaka<pc> </pc>madhuka<pc> </pc>kṣīravidārī<pc
+                            > </pc>balātibalā<pc> </pc>tṛṇapañcamūlī<pc
+                        > </pc>kvāthasiddham vā kākolyādiprativāpaṃ | balātailam vā
+                        śatapākam iti | vātaharamūlasiddhena ca payasā amlair vvā
+                        pariṣekaṅ kurvvīta || tatra cūrṇṇiteṣu yavagodhūmatilamudgamāṣeṣu
+                        pratyekaśaḥ kākolī<pc> </pc>kṣīrakākolī<pc
+                            > </pc>jīvakarṣabhaka<pc> </pc>balātibalā<pc
+                            > </pc>śṛgālavinnā<pc> </pc>meṣaśṛṅgī<pc
+                            > </pc>piyāla<pc> </pc>śarkkarā<pc> </pc>kaśerukā<pc
+                                > </pc>surabhi<pc> </pc>vacā<pc> </pc>kalka<pc> </pc>miśreṣūpanāhā<pc> </pc>rthe
+                            sarppis<pc> </pc>taila<pc> </pc>vasā<pc> </pc>majjā<pc
+                            > </pc>dugdha<pc> </pc>siddhāḥ pañca pāyasā vyākhyātāḥ |
+                        snaihikaphalasārotkārikā nalapīnamatsyapiśitavaiśavāro vā |
+                            bilva<pc> </pc>pesikā<pc> </pc>tagara<pc
+                            > </pc>devadāru<pc> </pc>sarala<pc> </pc>rāsnā<pc
+                            > </pc>hareṇu<pc> </pc>kuṣṭha<pc> </pc>śatapuṣpa<pc
+                            > </pc>surā<pc> </pc>dadhi<pc> </pc>mastu<pc> </pc>yuktam
+                        upanāhaḥ | mātuluṅgāmla<pc> </pc>saindhava<pc
+                            > </pc>ghṛta<pc> </pc>miśramadhu<pc> </pc>śigrumūlam ālepanaṃ
                         tilakalko veti ||</l>
 
                     <l xml:id="SS.4.5.8">
@@ -2776,16 +2789,16 @@ target="http://sushrutaproject.github.io"
                     <l xml:id="SS.4.5.18">
                         <label xml:lang="en">cf. 1938 ed. 4.5.18</label>
                         <caesura/>
-                         athāpatānakinam asrastākṣam avakrabhruvam astabdhāṅgulam asvedanam
-                        avepanam apralāpinam iti pāṭhaḥ akhaṭvāyātinam abahirāyāminañ
-                        copakramet | tatra prāg eva snehābhyaktaṃ svinnaśarīram avapīḍena
-                        tīkṣṇenopakramet śiraḥśuddhyarthaṃ | athānantaram
-                        vidārigandhādikvāthekṣurasakṣīradadhivipakvaṃ sarppir accham
-                        pāyayet | tathā nātimātram vāyuḥ prasarati | tato bhadradārvādīni
-                        vātaghnāny anyāni cāṅgāny āhṛtya yavakolakulatthāṃś ca
-                        sānūpodakamāṃsāny ekataḥ kvāthyam ādāya kaṣāyam amlakṣīraiḥ
-                        sahonmiśrya sarppistailavasāmajjābhiḥ saha pacet
-                        madhurakapratīvāpaṃ | tad etat traivṛtam apatānakinām
+                         athāpatānakinam asrastākṣam avakrabhruvam astabdhāṅgulam
+                        asvedanam avepanam apralāpinam iti pāṭhaḥ akhaṭvāyātinam
+                        abahirāyāminañ copakramet | tatra prāg eva snehābhyaktaṃ
+                        svinnaśarīram avapīḍena tīkṣṇenopakramet śiraḥśuddhyarthaṃ |
+                        athānantaram vidārigandhādikvāthekṣurasakṣīradadhivipakvaṃ sarppir
+                        accham pāyayet | tathā nātimātram vāyuḥ prasarati | tato
+                        bhadradārvādīni vātaghnāny anyāni cāṅgāny āhṛtya
+                        yavakolakulatthāṃś ca sānūpodakamāṃsāny ekataḥ kvāthyam ādāya
+                        kaṣāyam amlakṣīraiḥ sahonmiśrya sarppistailavasāmajjābhiḥ saha
+                        pacet madhurakapratīvāpaṃ | tad etat traivṛtam apatānakinām
                         pariṣekābhyaṅgapānabhojanānuvāsananasyeṣu vidadhyād yathoktaiś ca
                         svedavidhānaiḥ svedayed balīyasi vāte sukhoṣṇapariṣekapūrṇṇe
                         nikhanet taptāyām vā | rathākāracullyāṃ | kṛsaravaiśavārapāyasair
@@ -3516,8 +3529,8 @@ target="http://sushrutaproject.github.io"
                     <l xml:id="SS.4.8.3">
                         <label xml:lang="en">cf. 1938 ed. 4.8.3</label>
                         <caesura/>
-                         teṣv asādhyaḥ śambūkāvarttaḥ śalyanimittaś ca |
-                         śeṣāḥ kṛcchrasādhyāḥ | </l>
+                         teṣv asādhyaḥ śambūkāvarttaḥ śalyanimittaś ca | śeṣāḥ
+                        kṛcchrasādhyāḥ | </l>
 
                     <l xml:id="SS.4.8.4">
                         <label xml:lang="en">cf. 1938 ed. 4.8.4</label>
@@ -4336,9 +4349,9 @@ target="http://sushrutaproject.github.io"
                         <label xml:lang="en">cf. 1938 ed. 4.10.1</label>
                         <caesura/>
                          athāto mahākuṣṭhacikitsitam vyā khyāsyāmaḥ || </l>
-                    
+
                     <l xml:id="SS.4.10.2"/>
-                    
+
                     <l xml:id="SS.4.10.3">
                         <label xml:lang="en">cf. 1938 ed. 4.10.3</label>
                         <caesura/>
@@ -7047,15 +7060,15 @@ target="http://sushrutaproject.github.io"
                          yūnām api yuvān api akāsv eṣa eva vidhiḥ | viśeṣatas tu
                         pracchardanam iṣṭam ālepaś ca
                         siddhārthakavacālodhrasaindhavakalkair vā || </l>
-                    
+
                     <l xml:id="SS.4.20.38ab"/>
 
-                    <l xml:id="SS.4.20.38.add"> śālmalīkaṇṭakām piṣṭvā gavyena
-                        payasā saha |
+                    <l xml:id="SS.4.20.38.add"> śālmalīkaṇṭakām piṣṭvā gavyena payasā saha
+                        |
                         <caesura/>
-                        vivarṇṇam mukham ālimpet savarṇṇañ jāyate tataḥ || </l>
-                    
-                  
+                         vivarṇṇam mukham ālimpet savarṇṇañ jāyate tataḥ || </l>
+
+
                     <l xml:id="SS.4.20.38cd-39ab">
                         <label xml:lang="en">cf. 1938 ed. 4.20.38cd-39ab</label>
                         <caesura/>
