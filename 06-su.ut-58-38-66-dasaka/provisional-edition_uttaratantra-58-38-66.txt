@@ -2409,23 +2409,24 @@
                     <l xml:id="SS.6.64.7">
                         <label xml:lang="en">cf. 1938 ed. 6.64.7</label>
                         <caesura/>
-                         tasmāt kledaviśuddhyathaṃ doṣasaṃdhāraṇaya ca |
+    
+    tasmāt kledaviśuddhyarthaṃ doṣasaṃdhāraṇāya ca |
                         <caesura/>
-                         kaṣāyatiktakaṭukai rasaiḥ saṃyuktamadravaṃ || </l>
+                         kaṣāyatiktakaṭukai rasaiḥ saṃyuktam adravam || </l>
 
                     <l xml:id="SS.6.64.8">
                         <label xml:lang="en">cf. 1938 ed. 6.64.8</label>
                         <caesura/>
-                         nātisnigdhaṃ nātirūkṣamuṣṇaṃ dīpanam eva ca |
+                         nātisnigdhaṃ nātirūkṣam uṣṇaṃ dīpanam eva ca |
                         <caesura/>
-                         deyamannaṃ nṛpataye yajjalañ cauktamāditaḥ | </l>
+                         deyam annaṃ nṛpataye yaj jalañ coktam āditaḥ | </l>
 
                     <l xml:id="SS.6.64.9">
                         <label xml:lang="en">cf. 1938 ed. 6.64.9</label>
                         <caesura/>
-                         taptāyasa kṛtāmbho vā pibet kṣaudrānvitañ ca yat |
+                         taptāyasakṛtāmbho vā pibet kṣaudrānvitañ ca yat |
                         <caesura/>
-                         ahni varṣānilāviṣṭe tyarthaśītāmbusaṃkule | </l>
+                         ahni varṣānilāviṣṭe 'tyarthaśītāmbusaṃkule | </l>
 
                     <l xml:id="SS.6.64.10">
                         <label xml:lang="en">cf. 1938 ed. 6.64.10</label>

@@ -1825,16 +1825,16 @@ iii) 19ef is placed after 18ab     -->
                          mande gnau kopam āyānti saṃharṣān mārutādayaḥ | </l>
 
                     <l xml:id="SS.6.64.7"> tasmāt kledaviśuddhyathaṃ
-                            doṣasaṃdhāra<unclear>ṇa</unclear>ya<cb/> ca |
+                            doṣasaṃdhāraṇāya<cb/> ca |
                         <caesura/>
-                         kaṣāyatiktakaṭukai rasaiḥ saṃyuktamadravaṃ <unclear
+                         kaṣāyatiktakaṭukai rasaiḥ saṃyuktam adravaṃ <unclear
                             reason="damaged">|</unclear>| </l>
 
-                    <l xml:id="SS.6.64.8"> nātisnigdhaṃ nātirūkṣamuṣṇaṃ dīpanam eva ca |
+                    <l xml:id="SS.6.64.8"> nātisnigdhaṃ nātirūkṣam uṣṇaṃ dīpanam eva ca |
                         <caesura/>
-                         deyamannaṃ nṛpataye yajjalañ cauktamā<cb/>ditaḥ | </l>
+                         deyam annaṃ nṛpataye yaj jalañ coktam ā<cb/>ditaḥ | </l>
 
-                    <l xml:id="SS.6.64.9"> taptāyasa kṛtāmbho vā pibet kṣaudrānvitañ ca
+                    <l xml:id="SS.6.64.9"> taptāyasakṛtāmbho vā pibet kṣaudrānvitañ ca
                         yat |
                         <caesura/>
                          ahni varṣānilāviṣṭe tyarthaśītāmbusaṃkule | </l>
