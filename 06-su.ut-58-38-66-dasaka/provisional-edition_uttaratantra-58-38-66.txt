@@ -2444,7 +2444,23 @@
                     <l xml:id="SS.6.64.11b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11b</label>
                         <caesura/>
-                         yūṣaiḥ sūpaiś ca kaṭubhir bhojyair hṛdyaiś ca jāṅgalaiḥ || </l>
+                        yūṣaiḥ sūpaiś ca kaṭubhir bhojyā hṛdyaiś ca jāṅgalaiḥ ||<anchor n="SS.6.64.11b-n1"/>  </l>
+                    
+                    <ab corresp="#SS.6.64.11b" type="apparatus">
+                        <list type="Testimonia">
+                            <item xml:lang="en" corresp="#SS.6.64.11b-n1">Cf.
+                                <foreign>Carakasaṃhitā, Sūtrasthāna</foreign> 6.38–39:
+                                <foreign>agnisaṃrakṣaṇavatā yavagodhūmaśālayaḥ| purāṇā jāṅgalair
+                                    māṃsair bhojyā yūṣaiś ca saṃskṛtaiḥ|| pibet kṣaudrānvitaṃ cālpaṃ
+                                    mādhvīkāriṣṭam ambu vā| māhendraṃ taptaśītaṃ vā kaupaṃ
+                                    sārasameva vā||</foreign> On the basis of 6.38c, we have emended
+                                <foreign>bhojyair</foreign> (K and N) to <foreign>bhojyā</foreign>
+                                to restore the syntax.
+                              
+                            
+                            </item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.11c">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11c</label>
