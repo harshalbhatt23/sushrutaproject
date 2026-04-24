@@ -2104,10 +2104,10 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
 
                     <l xml:id="SS.6.64.13a">
-                            pragharṣodvarttanasnānagandhasrag<unclear>ṣṭa</unclear>masevinā
+                            pragharṣodvarttanasnānagandhasragdhūmasevinā
                         | </l>
 
-                    <l xml:id="SS.6.64.13b"> bhūmyuṣmaparihārārthaṃ svapetma<pb n="407r"
+                    <l xml:id="SS.6.64.13b"> bhūmyuṣmaparihārārthaṃ svapet ma<pb n="407r"
                             facs="411"/>dhyamaveśmani || </l>
 
                     <l xml:id="SS.6.64.12ab"> śīte sāgnau nivāte ca guruprāvaraṇānvitaḥ | </l>
