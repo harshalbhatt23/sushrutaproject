@@ -51,8 +51,7 @@
                 <date>2020-2022</date>
                 <pubPlace>The University of Alberta</pubPlace>
                 <publisher>The Suśruta Project<ptr
-target="http://sushrutaproject.github.io"
-                    /></publisher>
+                        target="http://sushrutaproject.github.io"/></publisher>
             </publicationStmt>
 
 
@@ -1988,30 +1987,33 @@ target="http://sushrutaproject.github.io"
                         <label xml:lang="en">cf. 1938 ed. 3.4.38</label>
                         <caesura/>
                          sarvvarttuṣu ca divāsvapnaḥ pratiṣiddho 'nyatra grīṣmāt |
-                        pratiṣiddheṣv api pratiṣiddhaṃ
-                        bāla<pc> </pc>vṛddha<pc> </pc>kṣatakṣīṇa<pc> </pc>madya<pc> </pc>pīta<pc> </pc>strī<pc> </pc>yāna<pc> </pc>vāhanādhva<pc> </pc>karmm<pc> </pc>apariśrāntānām
-                         abhuktavatāṃ medomārutakapharasakṣīṇānāṃ muhūrttam praśaṃsanti |
-                        rātrāv api khalu jāgaritavatāṃ jāgaraṇakālārddhan divā svapet |
-                        vikṛtis tu divāsvapno nāma tatra svapatāmadharmmaḥ
-                        sarvvadoṣaprakopaś ca tat prakopāt kāsaś cāsapratiśyāyaśiro
-                        gauravāṅgamarddārocakāgnidaurvvalyāni bhavanti | rātrāv api khalu
-                        jāgaritavatān tannimittās ta eva doṣāḥ prādur bhavanti || </l>
+                        pratiṣiddheṣv api pratiṣiddhaṃ bāla<pc> </pc>vṛddha<pc
+                            > </pc>kṣatakṣīṇa<pc> </pc>madya<pc> </pc>pīta<pc
+                            > </pc>strī<pc> </pc>yāna<pc> </pc>vāhanādhva<pc
+                            > </pc>karmm<pc> </pc>apariśrāntānām abhuktavatāṃ
+                        medomārutakapharasakṣīṇānāṃ muhūrttam praśaṃsanti | rātrāv api
+                        khalu jāgaritavatāṃ jāgaraṇakālārddhan divā svapet | vikṛtis tu
+                        divāsvapno nāma | tatra svapatām adharmmaḥ sarvvadoṣaprakopaś ca
+                        tatprakopāt
+                        kāsaśvāsapratiśyāyaśirogauravāṅgamarddārocakāgnidaurvvalyāni
+                        bhavanti | rātrāv api khalu jāgaritavatān tannimittās ta eva doṣāḥ
+                        prādur bhavanti || </l>
 
                     <l xml:id="SS.3.4.39">
                         <label xml:lang="en">cf. 1938 ed. 3.4.39</label>
                         <caesura/>
                          bhavanti cātra ślokāḥ ||
                         <caesura/>
-                         tasmān na jāgṛyād rātrau divā svapnañ ca varjjayet |
+                         tasmān na jāgṛyād rātrau divāsvapnañ ca varjjayet |
                         <caesura/>
-                         jñātvā doṣakarāv etau budhaḥ svapnam itaś caret mitaṃ || </l>
+                         jñātvā doṣakarāv etau budhaḥ svapnaṃ mitañ caret || </l>
 
                     <l xml:id="SS.3.4.40">
                         <label xml:lang="en">cf. 1938 ed. 3.4.40</label>
                         <caesura/>
-                         tathā hy arogaḥ sumanā balavarṇṇānvitā bhṛśaṃ |
+                         tathā hy arogaḥ sumanā balavarṇṇānvito bhṛśaṃ |
                         <caesura/>
-                         nātisthūlakṛṣaḥ śrīmān naro jīvet samā śataṃ || </l>
+                         nātisthūlakṛśaḥ śrīmān naro jīvet samāśataṃ || </l>
 
                     <l xml:id="SS.3.4.56">
                         <label xml:lang="en">cf. 1938 ed. 3.4.56</label>
