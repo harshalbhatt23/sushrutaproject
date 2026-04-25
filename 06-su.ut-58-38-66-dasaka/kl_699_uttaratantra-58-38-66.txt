@@ -1858,16 +1858,16 @@ iii) 19ef is placed after 18ab     -->
 
                     <l xml:id="SS.6.64.11e"> pūrvānilaṃ gharmasevāmudamanthaṃ sarijjalaṃ | </l>
 
-                    <l xml:id="SS.6.64.13ab"> di<lb n="6"/>vāśvapnamavaśyāyaṃ varjayec
+                    <l xml:id="SS.6.64.13ab"> di<lb n="6"/>vāsvapnam avaśyāyaṃ varjayec
                         cātra maithunaṃ | </l>
 
                     <l xml:id="SS.6.64.13a">
-                            praghairṣādvarttana<unclear>snā</unclear>nagandhasrag<unclear>dhṛ</unclear>masevinā
+                            pragharṣodvarttana<unclear>snā</unclear>nagandhasragdhūmasevi<unclear>t</unclear>ā
                         | </l>
 
                     <l xml:id="SS.6.64.13b">
                         bhūmyuṣma<cb/>parihārā<unclear>r</unclear>thaṃ
-                            svapetmadhya<del>e</del>maveśmani | </l>
+                            svapet madhya<del>e</del>maveśmani | </l>
 
                     <l xml:id="SS.6.64.12ab"> śīte sāgnau nivāte ca guruprāvaraṇyanvitaḥ | </l>
 

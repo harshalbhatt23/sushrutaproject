@@ -1605,7 +1605,7 @@
 
                     <l xml:id="SS.6.64.12ab"> śīte sāgnau nivāte ca guruprāvaraṇe gṛhe
                         |</l>
-                    <l xml:id="SS.6.64.12cd"> yā yā nnāgavadhūbhiś ca praśastā
+                    <l xml:id="SS.6.64.12cd"> yāyān nāgavadhūbhiś ca praśastā
                         gurubhūṣitaḥ || </l>
 
                     <l xml:id="SS.6.64.13ab"> divāsvapnam ajīrṇaṃ ca varjayet tatra
