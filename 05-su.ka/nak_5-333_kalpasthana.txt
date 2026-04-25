@@ -187,7 +187,7 @@
                 markers with facs attributes that match the IIIF image numbers delivered
                 from archive.org.</change>
             <change when="2026-04-21" who="Dominik Wujastyk">Completed the addition of
-                page-begin markers with facs attributes that match the IIIF image numbers
+                page-begin pb elements with @facs attributes that match the IIIF image numbers
                 delivered from archive.org. </change>
 
         </revisionDesc>

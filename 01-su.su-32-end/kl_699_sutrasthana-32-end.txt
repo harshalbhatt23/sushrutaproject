@@ -159,8 +159,8 @@
                 1.20</change>
             <change when="2023-06-26" who="Dominik Wujastyk">Separated the file into two
                 parts, 1-31 and 32-end, because of processing limits at Saktumiva</change>
-            <change when="2026-03-26" who="Dominik Wujastyk">Added page-begin marker
-                with facs attributes that match the IIIF image numbers delivered from
+            <change when="2026-03-26" who="Dominik Wujastyk">Added page-begin pb elements
+                with @facs attributes that match the IIIF image numbers delivered from
                 archive.org.</change>
 
         </revisionDesc>

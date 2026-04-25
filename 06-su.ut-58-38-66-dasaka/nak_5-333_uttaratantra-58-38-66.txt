@@ -438,6 +438,11 @@
 
             <change when="2026-02-25" who="Deepro Chakraborty">Fixed alignment problems
                 and updated the trailers</change>
+                
+                			       <change when="2026-04-25" who="Dominik Wujastyk">Completed adding page-begin pb elements
+                with @facs attributes that match the IIIF image numbers delivered from
+                archive.org.</change>
+                
         </revisionDesc>
 
 

@@ -86,11 +86,12 @@
             <change when="2025-03-31" who="Dominik Wujastyk">Removed the empty passage
                 tags so that these passages do not show up in the edition as being present
                 but empty.</change>
-            <change when="2026-03-25" who="Dominik Wujastyk">Added page-begin markers with
-                facs attributes that match the IIIF image numbers delivered from
+            <change when="2026-03-25" who="Dominik Wujastyk">Added page-begin pb elements  with
+                @facs attributes that match the IIIF image numbers delivered from
                 archive.org.</change>
             <change when="2026-03-26" who="Dominik Wujastyk">Removed intrusive label
                 entities. </change>
+                
         </revisionDesc>
 
     </teiHeader>

@@ -316,7 +316,7 @@
             <change when="2026-01-26" who="Deepro Chakraborty">Moved vulgate 6.38 to the
                 Kāyacikitsā, where it appears in NE</change>
             <change when="2026-04-21" who="Dominik Wujastyk">Updated all the pb elements
-                and attributes to point correctly to the IIIF images.</change>
+                and @facs attributes to point correctly to the IIIF images.</change>
 
         </revisionDesc>
     </teiHeader>
