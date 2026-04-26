@@ -438,6 +438,11 @@
 
             <change when="2026-02-25" who="Deepro Chakraborty">Fixed alignment problems
                 and updated the trailers</change>
+                
+                			       <change when="2026-04-25" who="Dominik Wujastyk">Completed adding page-begin pb elements
+                with @facs attributes that match the IIIF image numbers delivered from
+                archive.org.</change>
+                
         </revisionDesc>
 
 
@@ -2031,7 +2036,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         abhidhīyate || </l>
 
 
-                    <l xml:id="SS.6.64.3cd"> ta||<gap/>||sya tad rakṣaṇam vatsa cikitsāyāḥ
+                    <l xml:id="SS.6.64.3cd"> ta|| ||sya tad rakṣaṇam vatsa cikitsāyāḥ
                         paraṃ hitaṃ || </l>
 
                     <l xml:id="SS.6.64.4"> tasya yad vṛttam uktaṃ<lb n="6"/>

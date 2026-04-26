@@ -193,7 +193,9 @@
             <change who="Dominik Wujastyk" when="2026-04-04">Completed the addition of
                 verses 1.29.add1 - add10 that were skipped in the original transcription
                 of all three manuscripts, K, N, and H</change>
-
+			  			       <change when="2026-04-25" who="Dominik Wujastyk">Completed adding and checking page-begin pb elements
+                with @facs attributes that match the IIIF image numbers delivered from
+                archive.org.</change>
 
         </revisionDesc>
 

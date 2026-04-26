@@ -362,14 +362,14 @@ For another example, file `dscn3345 fol 370.jpg` , shown below, contains the ima
 | **400, 401, 402, 403top** |  |  |  | a table of contents |
 | not found | End of |  6.36(1) |  6.39 |   |
 | 403 upper, line 1 |  |  | 6.62.1 - 6.62.13 |  |
-| 404 upper not found | Start of |  6.37(2) | 6.62.13 - 6.62.32cd6.40.182 | nepalese folio nos. 171atīsārapratiṣedham |
+| 404 upper not found | Start of |  6.37(2) | 6.62.13 - 6.62.32cd 6.40.182 | nepalese folio nos. 171atīsārapratiṣedham |
 | 404 lower |  |  | 6.62.32cd - |  |
-| 404 lower upper, line  3486 upper, line 2 | End of Start of | 6.61(3)6.38(3) | 6.626.41.58 | nepalese 172śoṣapratiṣedham |
-| 404 lower upper, line  3486 lower, line 2 | Start of End of | 6.626.37(2) | 6.636.40 | atīsārapratiṣedham |
+| 404 lower upper, line  3 486 upper, line 2 | End of Start of | 6.61(3) 6.38(3) | 6.62 6.41.58 | nepalese 172 śoṣapratiṣedham |
+| 404 lower upper, line  3 486 lower, line 2 | Start of End of | 6.62 6.37(2) | 6.63 6.40 | atīsārapratiṣedham |
 | 406 upper, line 4487 upper, line 1 | End of | 6.62 | 6.636.41 | 6.41.13–23 |
 | 406 upper, line 4 | Start of | 6.63 | 6.64 |  |
 |  |  |  |  | |
-| 411 lower, line 3439.jpg lowe upper, line 1 | End of | 6.63 "uttaratantre svastharakṣaṇīyaṃ dvāpañcāśattamaḥ” instead of 63 | 6.646.41 | 6.41.23cd-6.41.32ab |
+| 411 lower, line 3439.jpg lowe upper, line 1 | End of | 6.63 "uttaratantre svastharakṣaṇīyaṃ dvāpañcāśattamaḥ” instead of 63 | 6.64 6.41 | 6.41.23cd-6.41.32ab |
 | 411 lower, line 3440.jpg | Start of | 6.64 | 6.656.41 | 6.41.33 - 6.41.48 |
 |  |  |  |  |  |
 | 414 lower, line 6 | End of | 6.64 | 6.65 | |

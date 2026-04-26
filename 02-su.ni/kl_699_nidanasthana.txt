@@ -77,8 +77,8 @@
                 modified pb and milestone tags</change>
             <change when="2025-01-15" who="Deepro Chakraborty">fixed certain xml
                 ids</change>
-            <change when="2025-04-28" who="Deepro Chakraborty">Updated facs in pb
-                tags</change>
+            <change when="2025-04-28" who="Deepro Chakraborty">Updated @facs attributes in pb
+            elements to point to IIIF images delivered from archive.org</change>
         </revisionDesc>
 
     </teiHeader>

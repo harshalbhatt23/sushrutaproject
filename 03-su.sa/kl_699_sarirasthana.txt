@@ -63,6 +63,9 @@
         <revisionDesc>
             <change when="2021-08-19" who="Madhusudana Rimal">Added transcription of 3.1</change>
             <change when="2025-04-28" who="Deepro Chakraborty">Modified the milestone tag</change>
+            			       <change when="2026-04-25" who="Dominik Wujastyk">Completed adding and checking page-begin pb elements
+                with @facs attributes that match the IIIF image numbers delivered from
+                archive.org.</change>
 
         </revisionDesc>
 

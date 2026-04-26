@@ -45,10 +45,10 @@
 
                         <scriptDesc>
 
-                            <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa"
+                            <!--                 <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa"
                                     >śa</foreign> and <foreign xml:lang="sa">sa</foreign>
                                 not distinguished.</scriptNote>
-
+-->
 
                             <scriptNote xml:id="script-ba-va"><foreign xml:lang="ba"
                                     >ba</foreign> and <foreign xml:lang="va">va</foreign>
@@ -86,11 +86,12 @@
             <change when="2025-03-31" who="Dominik Wujastyk">Removed the empty passage
                 tags so that these passages do not show up in the edition as being present
                 but empty.</change>
-            <change when="2026-03-25" who="Dominik Wujastyk">Added page-begin markers with
-                facs attributes that match the IIIF image numbers delivered from
+            <change when="2026-03-25" who="Dominik Wujastyk">Added page-begin pb elements  with
+                @facs attributes that match the IIIF image numbers delivered from
                 archive.org.</change>
             <change when="2026-03-26" who="Dominik Wujastyk">Removed intrusive label
                 entities. </change>
+                
         </revisionDesc>
 
     </teiHeader>
@@ -514,8 +515,8 @@ C) Special notes :
                             <unclear>apā</unclear>abdhātu<pb n="163v" facs="167"/>prāyam
                         āhāram bhavati | tadā garbhbhasya gauratvaṃ | pṛthivīdhātuprāyaḥ
                         kṛṣṇatvaṃ | pṛthivyākāśadhātuprāyaḥ śyāmatvaṃ | yādṛkvarṇṇam
-                        āhāram upasevate garbhbhiṇī tadvarṇṇaḥ prasa<lb n="2"/>vo bhavatīty
-                        eke bhāṣante | yathā kṛṣṇapītasvetāsu bhūmiṣu sa<g
+                        āhāram upasevate garbhbhiṇī tadvarṇṇaḥ prasa<lb n="2"/>vo
+                        bhavatīty eke bhāṣante | yathā kṛṣṇapītasvetāsu bhūmiṣu sa<g
                             ref="#newa-gap-filler"/><cb/>rppa<pc> </pc>vṛścika<pc
                         > </pc>galagoṇḍikādayaḥ satvāḥ kṛṣṇapītasvetā iti || tatra
                         dṛṣṭibhāgam apratipannan te<lb n="3"/>jodhātur jjātyandhaṃ karoti
@@ -1046,25 +1047,26 @@ C) Special notes :
 
                     <l xml:id="SS.3.4.38"> sarvvarttuṣu ca divā<g ref="#broken-danda"/><lb
                             n="3"/>svapnam pratiṣiddho 'nyatra grīṣmāt | pratiṣiddheṣv api
-                        pratiṣiddho
-                        <cb/>vāla<pc> </pc>vṛddha<pc> </pc>kṣatakṣīṇa<pc> </pc>madya<pc> </pc>pīta<pc> </pc>strīyāna<pc> </pc>vāhanādhva<pc> </pc>karmma<pc> </pc>pariśrāntānām
-                        | abhuktavatāṃ medomā<lb n="4"/>rutakapharasakṣīṇānāṃ muhūrttam
-                        praśaṃsanti | rātrāv api khalu<cb/> jāgaritavatāṃ
-                        jāgaraṇakālārddhan divāsvapet | vikṛtis tu divāsvapno nāma tatra
-                        svapatām adharmmaḥ <lb n="5"/> sarvvadoṣaprakopaś ca tat prakopāt
-                        kāsaś cāsapratiśyāyaśiro
-                        gau<cb/>ravāṅgamarddārocakāgnidaurvvalyāni bhavanti | rātrāv api
-                        khalu jāgaritavatān tannimittās ta eva do<g ref="#broken-danda"
-                            /><lb n="5"/>ṣāḥ prādur bbhavanti || </l>
+                        pratiṣiddho <cb/>vāla<pc> </pc>vṛddha<pc
+                            > </pc>kṣatakṣīṇa<pc> </pc>madya<pc> </pc>pīta<pc
+                            > </pc>strīyāna<pc> </pc>vāhanādhva<pc> </pc>karmma<pc
+                        > </pc>pariśrāntānām | abhuktavatāṃ medomā<lb n="4"
+                        />rutakapharasakṣīṇānāṃ muhūrttam praśaṃsanti | rātrāv api
+                        khalu<cb/> jāgaritavatāṃ jāgaraṇakālārddhan divā svapet | vikṛtis
+                        tu divāsvapno nāma tatra svapatām adharmmaḥ <lb n="5"/>
+                        sarvvadoṣaprakopaś ca tatprakopāt
+                        kāsaśvāsapratiśyāyaśirogau<cb/>ravāṅgamarddārocakāgnidaurvvalyāni
+                        bhavanti | rātrāv api khalu jāgaritavatān tannimittās ta eva do<g
+                            ref="#broken-danda"/><lb n="5"/>ṣāḥ prādur bbhavanti || </l>
 
                     <l xml:id="SS.3.4.39"> bhavanti cātra ślokāḥ || tasmān na jāgṛyād
-                        rātrau divā svapnañ ca varjjayet | jñātvā doṣakarāv etau vudhaḥ
-                        svapnam itaś caret mitaṃ || </l>
+                        rātrau divāsvapnañ ca varjjayet | jñātvā doṣakarāv etau vudhaḥ
+                        svapnamitaś caret || </l>
 
-                    <l xml:id="SS.3.4.40"> tathā hy aro<gap n="1" reason="smudged"
-                            unit="akṣara"/>ḥ sumanā va<pb n="171r" facs="174"
-                        />lavarṇṇānvitā bhṛśaṃ | nātisthūlakṛṣaḥ śrīmān naro jīvet samā
-                        śataṃ || </l>
+                    <l xml:id="SS.3.4.40"> tathā hy aro<unclear n="1" reason="smudged"
+                            unit="char">ga</unclear>ḥ sumanā va<pb n="171r" facs="174"
+                        />lavarṇṇānvitā bhṛśaṃ | nātisthūlakṛṣaḥ śrīmān naro jīvet
+                        samāśataṃ || </l>
 
                     <l xml:id="SS.3.4.56"> mūrcchā pittatamaḥ prāyā rajaḥpittānilādbhramaḥ
                         | tamovātakaphātandrā nidrā śleṣmatamobhavā <lb n="2"/>|| </l>
@@ -2903,8 +2905,7 @@ Half part of 57 found after 64-->
         </body>
     </text>
     <facsimile>
-        <graphic url="https://iiif.archive.org/iiif/5-333/manifest.json"
-        />
+        <graphic url="https://iiif.archive.org/iiif/5-333/manifest.json"/>
     </facsimile>
 
     <!-- MS image numbers 161- 202 -->

@@ -95,7 +95,8 @@
 
             <change when="2025-03-31" who="Dominik Wujastyk">Removed the empty passage tags so that
                 these passages do not show up in the edition as being present but empty.</change>
-            <change when="2025-05-20" who="Deepro Chakraborty">Updated facs in pb tags</change>
+            <change when="2025-05-20" who="Deepro Chakraborty">Updated @facs attributes in pb
+            elements to point to IIIF images delivered from archive.org</change>
         </revisionDesc>
     </teiHeader>
 

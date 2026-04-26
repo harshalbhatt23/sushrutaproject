@@ -79,8 +79,8 @@
             empty.</change>
          <change when="2025-04-28" who="Deepro Chakraborty">Updated facs in pb
             tags</change>
-         <change when="2025-05-20" who="Deepro Chakraborty">Updated facs in pb
-            tags</change>
+         <change when="2025-05-20" who="Deepro Chakraborty">Updated @facs attributes in pb
+            elements to point to IIIF images delivered from archive.org</change>
       </revisionDesc>
    </teiHeader>
 

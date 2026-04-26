@@ -160,6 +160,9 @@
                 The collation process will show them in the apparatus.</change>
             <change when="2025-04-16" who="Dominik Wujastyk">Sorted out the tags for
                 milestones and made pb facs numbers point to the MS scan images. </change>
+                			       <change when="2026-04-25" who="Dominik Wujastyk">Completed adding page-begin pb elements
+                with @facs attributes that match the IIIF image numbers delivered from
+                archive.org.</change>
         </revisionDesc>
 
     </teiHeader>

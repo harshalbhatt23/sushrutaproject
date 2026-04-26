@@ -1227,10 +1227,10 @@
                         bāla<pc> </pc>vṛddha<pc> </pc>strī<pc> </pc>karśita<pc> </pc>kṣatakṣīṇa<pc> </pc>madya<pc> </pc>nityayāna<pc> </pc>vāhanādhva<pc> </pc>karma<pc> </pc>pariśrāntānām
                         abhuktavatāṃ medaḥsvedakapharasaraktakṣīṇānām ajīrṇināṃ ca
                         muhūrtaṃ divāsvapanam apratiṣiddham | rātrāv api jāgaritavatāṃ
-                        jāgaritakālād ardham iṣyate divāsvapanam | vikṛtirhi divāsvapno
+                        jāgaritakālād ardham iṣyate divāsvapanam | vikṛtir hi divāsvapno
                         nāma; tatra svapatām adharmaḥ sarvadoṣaprakopaś ca, tatprakopāc ca
                         kāsaśvāsapratiśyāyaśirogauravāṅgamardārocakajvarāgnidaurbalyāni
-                        bhavanti; rātrāv api jāgaritavatāṃ vātapittanimittāsta evopadravā
+                        bhavanti; rātrāv api jāgaritavatāṃ vātapittanimittās ta evopadravā
                         bhavanti ||38|| </l>
 
                     <l xml:id="SS.3.4.39">
@@ -1239,7 +1239,7 @@
                         <caesura/>
                          tasmān na jāgṛyād rātrau divāsvapnaṃ ca varjayet |
                         <caesura/>
-                         jñātvā doṣakarāvetau budhaḥ svapnaṃ mitaṃ caret ||39|| </l>
+                         jñātvā doṣakarāv etau budhaḥ svapnaṃ mitaṃ caret ||39|| </l>
 
                     <l xml:id="SS.3.4.40">
                         <caesura/>
