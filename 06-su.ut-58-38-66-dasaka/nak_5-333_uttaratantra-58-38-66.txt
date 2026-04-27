@@ -2134,8 +2134,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
                     <l xml:id="SS.6.64.16b"> vyomni prasannadiṅmā<cb/>rggalabdhaprasarabhāskare || </l>
 
-                    <l xml:id="SS.6.64.16c"> śkrāstrala<unclear>vdha</unclear>sandarśa
-                        jāyamānoddhate tataḥ | </l>
+                    <l xml:id="SS.6.64.16c"> śakrāstralabdhasandarśajāyamānoddhate tataḥ | </l>
 
                     <l xml:id="SS.6.64.16d"> ākramati laverllakṣmīs tira<lb n="3"/>skṛtya
                         ghanaṃ ghanaṃ || </l>
