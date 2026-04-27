@@ -2120,7 +2120,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.12a"> kṣate kledādidoṣāṃś ca varjjayec cha<gap
                             reason="omitted" extent="4" unit="char"/> || </l>
 
-                    <l xml:id="SS.6.64.12cd"> yāyānnāgavadhūbhiś ca praśastāgurubhūṣita
+                    <l xml:id="SS.6.64.12cd"> yāyān nāgavadhūbhiś ca praśastāgurubhūṣita
                         iti || <g ref="#newa-old-gap-filler"/></l>
                     <lb n="2"/>
 

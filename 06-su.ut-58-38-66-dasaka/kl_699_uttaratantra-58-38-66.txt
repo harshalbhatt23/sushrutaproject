@@ -1873,15 +1873,12 @@ iii) 19ef is placed after 18ab     -->
                         bhūmyuṣma<cb/>parihārā<unclear>r</unclear>thaṃ
                             svapet madhya<del>e</del>maveśmani | </l>
 
-                    <l xml:id="SS.6.64.12ab"> śīte sāgnau nivāte ca guruprāvaraṇyanvitaḥ | </l>
-
-                    <l xml:id="SS.6.64.12a"> kṣate kledādidoṣāṃś ca varjayec cha<unclear
-                            extent="1" reason="illegible" unit="char"
-                            />sam<unclear>vṛ</unclear>taḥ || </l>
+                    <l xml:id="SS.6.64.12ab"> śīte sāgnau nivāte ca guruprāvaraṇānvitaḥ | </l>
+                    
+                    <l xml:id="SS.6.64.12a"> kṣate kledādidoṣāṃś ca varjayec cha++rasamvṛtaḥ || </l>
                     <cb/>
-                    <l xml:id="SS.6.64.12cd"> yāyānnāgavadhūbhiś ca praśastāgurubhūṣita
+                    <l xml:id="SS.6.64.12cd"> yāyān nāgavadhūbhiś ca praśastā gurubhūṣita
                         iti || </l>
-
 
 
 
