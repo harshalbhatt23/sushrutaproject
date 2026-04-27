@@ -4844,7 +4844,7 @@ C) Special Notes:
         </body>
     </text>
     <facsimile>
-        <!--        <graphic url="https://wujastyk.github.io/sushrutaproject/nak_5-333_manifest.json"/>-->
+        <!--        <graphic url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/nak_5-333_manifest.json"/>-->
         <graphic url="https://iiif.archive.org/iiif/5-333/manifest.json"/>
     </facsimile>
 

@@ -3231,86 +3231,8 @@ Metre Break
     </facsimile>-->
 
     <facsimile>
-        <graphic url="https://wujastyk.github.io/sushrutaproject/kl_699_manifest.json"/>
+        <graphic url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/kl_699_manifest.json"/>
     </facsimile>
 
 
-    <!--
-    <facsimile>
-
-        <graphic n="143r" url="https://zenodo.org/records/6474120/files/143r.JPG"/>
-
-        <graphic n="143v" url="https://zenodo.org/records/6474120/files/143v%20IMG_0013.JPG"/>
-
-
-        <graphic n="144r" url="https://zenodo.org/records/6474120/files/144r%20IMG_0010.JPG"/>
-
-        <graphic n="144v" url="https://zenodo.org/records/6474120/files/144v%20IMG_0011.JPG"/>
-
-
-        <graphic n="145r" url="https://zenodo.org/records/6474120/files/145r%20IMG_0081.JPG"/>
-
-        <graphic n="145v" url="https://zenodo.org/records/6474120/files/145v%20IMG_0082.JPG"/>
-
-
-        <graphic n="146r" url="https://zenodo.org/records/6474120/files/146r%20IMG_0013.JPG"/>
-
-        <graphic n="146v" url="https://zenodo.org/records/6474120/files/146v%20IMG_0014.JPG"/>
-
-
-        <graphic n="147r" url="https://zenodo.org/records/6474120/files/147r%20IMG_0022.JPG"/>
-
-        <graphic n="147v" url="https://zenodo.org/records/6474120/files/147v%20IMG_0023.JPG"/>
-
-
-        <graphic n="148r" url="https://zenodo.org/records/6474120/files/148r%20IMG_0025.JPG"/>
-
-        <graphic n="148v" url="https://zenodo.org/records/6474120/files/148v%20IMG_0026.JPG"/>
-
-
-        <graphic n="149r" url="https://zenodo.org/records/6474120/files/149r%20IMG_0017.JPG"/>
-
-        <graphic n="149v" url="https://zenodo.org/records/6474120/files/149v%20IMG_0018.JPG"/>
-
-
-        <graphic n="150r" url="https://zenodo.org/records/6474120/files/150r%20IMG_0015.JPG"/>
-
-        <graphic n="150v" url="https://zenodo.org/records/6474120/files/150v%20IMG_0014.JPG"/>
-
-
-        <graphic n="151r" url="https://zenodo.org/records/6474120/files/151r%20IMG_0018.JPG"/>
-
-        <graphic n="151v" url="https://zenodo.org/records/6474120/files/151v%20IMG_0019.JPG"/>
-
-
-        <graphic n="152r" url="https://zenodo.org/records/6474120/files/152r%20IMG_0016.JPG"/>
-
-        <graphic n="152v" url="https://zenodo.org/records/6474120/files/152v%20IMG_0017.JPG"/>
-
-
-        <graphic n="153r" url="https://zenodo.org/records/6474120/files/153r%20IMG_0019.JPG"/>
-
-        <graphic n="153v" url="https://zenodo.org/records/6474120/files/153v%20IMG_0020.JPG"/>
-
-
-        <graphic n="154r" url="https://zenodo.org/records/6474120/files/154r%20IMG_0020.JPG"/>
-
-        <graphic n="154v" url="https://zenodo.org/records/6474120/files/154v%20IMG_0021.JPG"/>
-
-
-        <graphic n="155r" url="https://zenodo.org/records/6474120/files/155r%20IMG_0021.JPG"/>
-
-        <graphic n="155v" url="https://zenodo.org/records/6474120/files/155v%20IMG_0022.JPG"/>
-
-
-        <graphic n="156r" url="https://zenodo.org/records/6474120/files/156r%20IMG_0024.JPG"/>
-
-        <graphic n="156v" url="https://zenodo.org/records/6474120/files/156v%20IMG_0025.JPG"/>
-
-
-        <graphic n="157r" url="https://zenodo.org/records/6474120/files/157r%20IMG_0023.JPG"/>
-
-
-    </facsimile>
--->
 </TEI>
