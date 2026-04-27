@@ -2532,7 +2532,7 @@
                     <l xml:id="SS.6.64.16c">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16c</label>
                         <caesura/>
-                         śakrāśtraladdhasandarśajāyamānoddhate namaḥ | </l>
+                         śakrāśtralabdhasandarśajāyamānoddhate namaḥ | </l>
 
                     <l xml:id="SS.6.64.16d">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16d</label>
