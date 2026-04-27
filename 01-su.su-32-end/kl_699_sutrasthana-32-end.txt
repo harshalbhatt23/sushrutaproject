@@ -243,13 +243,8 @@
     </text>
 
     <facsimile>
-        <graphic url="https://wujastyk.github.io/sushrutaproject/kl_699_manifest.json"/>
+        <graphic url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/kl_699_manifest.json"/>
     </facsimile>
 
 
 </TEI>
-<!-- <facsimile><graphic n="29v" url="https://zenodo.org/records/6474120/files/029v%20IMG_0119.JPG"/>
-
-       
-    </facsimile>
--->

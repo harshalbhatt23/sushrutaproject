@@ -5115,7 +5115,7 @@ Special Notes:
   </text>
 
   <facsimile>
-    <graphic url="https://wujastyk.github.io/sushrutaproject/kl_699_manifest.json"/>
+    <graphic url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/kl_699_manifest.json"/>
   </facsimile>
 
 </TEI>

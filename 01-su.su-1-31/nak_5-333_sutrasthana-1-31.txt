@@ -5848,7 +5848,7 @@ añjanamadhukalodhrapriyaṃguśallakīphalarasāñjanakṣaumamasī<lb n="5"
     </text>
     <facsimile>
         <graphic
-            url="https://raw.githubusercontent.com/wujastyk/sushrutaproject/refs/heads/main/nak_5-333_manifest.json"
+            url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/nak_5-333_manifest.json"
         />
     </facsimile>
 
