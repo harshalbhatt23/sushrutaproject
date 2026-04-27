@@ -2132,9 +2132,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
                     <l xml:id="SS.6.64.16a"> vyāpanītadharābhogaghananīlāvaguṇṭhite | </l>
 
-                    <l xml:id="SS.6.64.16b"> vyomniprasannadi<unclear reason="illegible"
-                            extent="1" unit="char"/><cb/>rggala<unclear>vdha</unclear>
-                        prasarabhāskare || </l>
+                    <l xml:id="SS.6.64.16b"> vyomni prasannadiṅmā<cb/>rggalabdhaprasarabhāskare || </l>
 
                     <l xml:id="SS.6.64.16c"> śkrāstrala<unclear>vdha</unclear>sandarśa
                         jāyamānoddhate tataḥ | </l>

@@ -1883,14 +1883,11 @@ iii) 19ef is placed after 18ab     -->
 
 
 
-                    <l xml:id="SS.6.64.16a"> vyāpanītadharābhogaghananī<g
+                    <l xml:id="SS.6.64.16a"> vyapanītadharābhogaghananī<g
                             ref="#old-newa-gap-filler"/><pb facs="262" n="206r"/><lb n="1"
                         />lāvaguṇṭhite | </l>
 
-                    <l xml:id="SS.6.64.16b"> vyomniprasan<unclear>na</unclear>di<unclear
-                            reason="illegible">ṅga</unclear><unclear extent="1"
-                            reason="illegible" unit="char"/>rggala<unclear>ddha</unclear>
-                        prasarabhāskare | </l>
+                    <l xml:id="SS.6.64.16b"> vyomni prasannadiṅmārgalabdhaprasarabhāskare | </l>
 
                     <l xml:id="SS.6.64.16c"> śkrāśtrala<unclear>ddha</unclear>sandarśa
                         jāyamānoddhate tataḥ | </l>

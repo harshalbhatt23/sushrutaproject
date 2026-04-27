@@ -2527,7 +2527,7 @@
                     <l xml:id="SS.6.64.16b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16b</label>
                         <caesura/>
-                         vyomniprasannadiṅgarggaladdha prasarabhāskare | </l>
+                         vyomni prasannadiṅmārgalabdhaprasarabhāskare | </l>
 
                     <l xml:id="SS.6.64.16c">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16c</label>
