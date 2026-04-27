@@ -1873,29 +1873,23 @@ iii) 19ef is placed after 18ab     -->
                         bhūmyuṣma<cb/>parihārā<unclear>r</unclear>thaṃ
                             svapet madhya<del>e</del>maveśmani | </l>
 
-                    <l xml:id="SS.6.64.12ab"> śīte sāgnau nivāte ca guruprāvaraṇyanvitaḥ | </l>
-
+                    <l xml:id="SS.6.64.12ab"> śīte sāgnau nivāte ca guruprāvaraṇānvitaḥ | </l>
+                    
                     <l xml:id="SS.6.64.12a"> kṣate kledādidoṣāṃś ca varjayec cha<unclear
-                            extent="1" reason="illegible" unit="char"
-                            />sam<unclear>vṛ</unclear>taḥ || </l>
+                            reason="overwritten">ttra</unclear>samvṛtaḥ || </l>
                     <cb/>
-                    <l xml:id="SS.6.64.12cd"> yāyānnāgavadhūbhiś ca praśastāgurubhūṣita
+                    <l xml:id="SS.6.64.12cd"> yāyān nāgavadhūbhiś ca praśastāgurubhūṣita
                         iti || </l>
 
 
 
-
-                    <l xml:id="SS.6.64.16a"> vyāpanītadharābhogaghananī<g
+                    <l xml:id="SS.6.64.16a"> vyapanītadharābhogaghananī<g
                             ref="#old-newa-gap-filler"/><pb facs="262" n="206r"/><lb n="1"
                         />lāvaguṇṭhite | </l>
 
-                    <l xml:id="SS.6.64.16b"> vyomniprasan<unclear>na</unclear>di<unclear
-                            reason="illegible">ṅga</unclear><unclear extent="1"
-                            reason="illegible" unit="char"/>rggala<unclear>ddha</unclear>
-                        prasarabhāskare | </l>
+                    <l xml:id="SS.6.64.16b"> vyomni prasannadiṅmārgalabdhaprasarabhāskare | </l>
 
-                    <l xml:id="SS.6.64.16c"> śkrāśtrala<unclear>ddha</unclear>sandarśa
-                        jāyamānoddhate tataḥ | </l>
+                    <l xml:id="SS.6.64.16c"> śakrāstralabdhasandarśajāyamānoddhate namaḥ | </l>
                     <cb/>
                     <l xml:id="SS.6.64.16d"> ākrāmati raverlakṣmīs tiraskṛtya ghanaṃ
                         ghanaṃ | </l>

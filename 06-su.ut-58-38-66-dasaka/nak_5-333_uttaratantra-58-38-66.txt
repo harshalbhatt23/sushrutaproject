@@ -2120,7 +2120,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.12a"> kṣate kledādidoṣāṃś ca varjjayec cha<gap
                             reason="omitted" extent="4" unit="char"/> || </l>
 
-                    <l xml:id="SS.6.64.12cd"> yāyānnāgavadhūbhiś ca praśastāgurubhūṣita
+                    <l xml:id="SS.6.64.12cd"> yāyān nāgavadhūbhiś ca praśastāgurubhūṣita
                         iti || <g ref="#newa-old-gap-filler"/></l>
                     <lb n="2"/>
 
@@ -2132,12 +2132,9 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
                     <l xml:id="SS.6.64.16a"> vyāpanītadharābhogaghananīlāvaguṇṭhite | </l>
 
-                    <l xml:id="SS.6.64.16b"> vyomniprasannadi<unclear reason="illegible"
-                            extent="1" unit="char"/><cb/>rggala<unclear>vdha</unclear>
-                        prasarabhāskare || </l>
+                    <l xml:id="SS.6.64.16b"> vyomni prasannadiṅmā<cb/>rggalabdhaprasarabhāskare || </l>
 
-                    <l xml:id="SS.6.64.16c"> śkrāstrala<unclear>vdha</unclear>sandarśa
-                        jāyamānoddhate tataḥ | </l>
+                    <l xml:id="SS.6.64.16c"> śakrāstralabdhasandarśajāyamānoddhate tataḥ | </l>
 
                     <l xml:id="SS.6.64.16d"> ākramati laverllakṣmīs tira<lb n="3"/>skṛtya
                         ghanaṃ ghanaṃ || </l>
