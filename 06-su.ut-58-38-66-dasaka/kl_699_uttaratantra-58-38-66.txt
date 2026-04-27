@@ -1875,7 +1875,8 @@ iii) 19ef is placed after 18ab     -->
 
                     <l xml:id="SS.6.64.12ab"> śīte sāgnau nivāte ca guruprāvaraṇānvitaḥ | </l>
                     
-                    <l xml:id="SS.6.64.12a"> kṣate kledādidoṣāṃś ca varjayec cha+asamvṛtaḥ || </l>
+                    <l xml:id="SS.6.64.12a"> kṣate kledādidoṣāṃś ca varjayec cha<unclear
+                            reason="overwritten">ttra</unclear>samvṛtaḥ || </l>
                     <cb/>
                     <l xml:id="SS.6.64.12cd"> yāyān nāgavadhūbhiś ca praśastāgurubhūṣita
                         iti || </l>
