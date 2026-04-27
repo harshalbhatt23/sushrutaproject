@@ -2522,7 +2522,7 @@
                     <l xml:id="SS.6.64.16a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16a</label>
                         <caesura/>
-                         vyāpanītadharābhogaghananīlāvaguṇṭhite | </l>
+                         vyapanītadharābhogaghananīlāvaguṇṭhite | </l>
 
                     <l xml:id="SS.6.64.16b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16b</label>
