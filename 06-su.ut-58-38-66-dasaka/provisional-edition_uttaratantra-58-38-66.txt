@@ -2509,12 +2509,12 @@
                     <l xml:id="SS.6.64.12a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.12a</label>
                         <caesura/>
-                        kuṭau kledādidoṣāṃś ca varjayec cha++samvṛtaḥ || </l>
+                        kṣate kledādidoṣāṃś ca varjayec †cha+asamvṛtaḥ† || </l>
                     
                     <l xml:id="SS.6.64.12cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.12cd</label>
                         <caesura/>
-                        yāyān nāgavadhūbhiś ca praśastā gurubhūṣita iti || </l>
+                        yāyān nāgavadhūbhiś ca praśastāgurubhūṣita iti || </l>
 
                     <l xml:id="SS.6.64.14"/>
                     <l xml:id="SS.6.64.15"/>
