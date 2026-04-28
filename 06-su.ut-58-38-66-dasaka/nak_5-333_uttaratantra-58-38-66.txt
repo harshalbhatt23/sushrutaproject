@@ -438,11 +438,11 @@
 
             <change when="2026-02-25" who="Deepro Chakraborty">Fixed alignment problems
                 and updated the trailers</change>
-                
-                			       <change when="2026-04-25" who="Dominik Wujastyk">Completed adding page-begin pb elements
-                with @facs attributes that match the IIIF image numbers delivered from
-                archive.org.</change>
-                
+
+            <change when="2026-04-25" who="Dominik Wujastyk">Completed adding page-begin
+                pb elements with @facs attributes that match the IIIF image numbers
+                delivered from archive.org.</change>
+
         </revisionDesc>
 
 
@@ -2029,18 +2029,17 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
 
 
-                    <l xml:id="SS.6.64.2ab"> samadoṣaḥ samāgni<lb n="5"/>ś ca
-                        samadhātumalakriyāḥ | </l>
-
-                    <l xml:id="SS.6.64.2cd"> prasannātmendriyamanāḥ svastha i<cb/>ty
-                        abhidhīyate || </l>
+                    <l xml:id="SS.6.64.1.add"> samadoṣaḥ samāgni<lb n="5"/>ś ca
+                        samadhātumalakriyāḥ |
+                        <caesura/>
+                        prasannātmendriyamanāḥ svastha i<cb/>ty abhidhīyate || </l>
 
 
                     <l xml:id="SS.6.64.3cd"> ta|| ||sya tad rakṣaṇam vatsa cikitsāyāḥ
                         paraṃ hitaṃ || </l>
 
                     <l xml:id="SS.6.64.4"> tasya yad vṛttam uktaṃ<lb n="6"/>
-                        <g ref="#newa-old-gap-filler"/> hi rakṣaṇañ ca mayāditaḥ || 
+                        <g ref="#newa-old-gap-filler"/> hi rakṣaṇañ ca mayāditaḥ ||
                         <caesura/>
                          tasminn arthān samāsoktaṃ vistareṇeha vakṣyate | </l>
 
@@ -2064,8 +2063,8 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                             ref="#newa-old-gap-filler"/><g ref="#newa-old-gap-filler"/><g
                             ref="#newa-old-gap-filler"/>
                         <g ref="#newa-old-gap-filler"/><g ref="#newa-old-gap-filler"/><g
-                            ref="#newa-old-gap-filler"/><g ref="#newa-old-gap-filler"
-                        />t mārutā<cb/>dayaḥ || </l>
+                            ref="#newa-old-gap-filler"/><g ref="#newa-old-gap-filler"/>t
+                        mārutā<cb/>dayaḥ || </l>
 
                     <l xml:id="SS.6.64.7"> tasmāt kledaviśuddhyarthan doṣasandhāraṇāya ca
                         |
@@ -2077,28 +2076,28 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         <caesura/>
                          deyam annan nṛpa<cb/>taye yaj jalaṃ coktam āditaḥ || </l>
 
-                    <l xml:id="SS.6.64.9"> taptāyasa<add hand="second">ḥ</add> kṛtāmbho vā pibet
-                        kṣaudrayutañ ca yat |
+                    <l xml:id="SS.6.64.9"> taptāyasa<add hand="second">ḥ</add> kṛtāmbho vā
+                        pibet kṣaudrayutañ ca yat |
                         <caesura/>
                          ahni varṣānilāvi<lb n="4"/>ṣṭe tyarthaśītāmbusaṅkule || </l>
 
-                    <l xml:id="SS.6.64.10"> taruṇatvād vidāhañ ca
-                            gacchanty au<cb/>ṣayas tathā |
+                    <l xml:id="SS.6.64.10"> taruṇatvād vidāhañ ca gacchanty au<cb/>ṣayas
+                        tathā |
                         <caesura/>
                          tannimittaṃ ca matimān nātivyāyāmam ācaret || </l>
 
                     <l xml:id="SS.6.64.11a"> nātiśīte purāṇās tu yavagodhūma<lb n="5"
                         />śālayaḥ | </l>
 
-                    <l xml:id="SS.6.64.11b"> yūṣaiḥ mūpaiś ca kaṭubhir
-                            bbhojyair hṛdyaiś ca jāṅgalaiḥ || </l>
+                    <l xml:id="SS.6.64.11b"> yūṣaiḥ mūpaiś ca kaṭubhir bbhojyair hṛdyaiś
+                        ca jāṅgalaiḥ || </l>
                     <cb/>
 
-                    <l xml:id="SS.6.64.11c"> mādhvīkaṃ sīdhum alpam vā
-                        māhendram atha sārasaṃ | </l>
+                    <l xml:id="SS.6.64.11c"> mādhvīkaṃ sīdhum alpam vā māhendram atha
+                        sārasaṃ | </l>
 
-                    <l xml:id="SS.6.64.11d"> taptaśītaṃ kṣaudrayutaṃ kaupajam vā
-                        pibej jalaṃ || </l>
+                    <l xml:id="SS.6.64.11d"> taptaśītaṃ kṣaudrayutaṃ kaupajam vā pibej
+                        jalaṃ || </l>
 
                     <l xml:id="SS.6.64.11e"> pū<lb n="6"/>rvvānilaṃ gharmmasevāmudamanthaṃ
                         sarijjalaṃ | </l>
@@ -2108,8 +2107,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
 
 
-                    <l xml:id="SS.6.64.13a">
-                            pragharṣodvarttanasnānagandhasragdhūmasevinā
+                    <l xml:id="SS.6.64.13a"> pragharṣodvarttanasnānagandhasragdhūmasevinā
                         | </l>
 
                     <l xml:id="SS.6.64.13b"> bhūmyuṣmaparihārārthaṃ svapet ma<pb n="407r"
@@ -2132,7 +2130,8 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
                     <l xml:id="SS.6.64.16a"> vyāpanītadharābhogaghananīlāvaguṇṭhite | </l>
 
-                    <l xml:id="SS.6.64.16b"> vyomni prasannadiṅmā<cb/>rggalabdhaprasarabhāskare || </l>
+                    <l xml:id="SS.6.64.16b"> vyomni
+                        prasannadiṅmā<cb/>rggalabdhaprasarabhāskare || </l>
 
                     <l xml:id="SS.6.64.16c"> śakrāstralabdhasandarśajāyamānoddhate tataḥ | </l>
 
@@ -3033,7 +3032,8 @@ got to here
         </body>
     </text>
     <facsimile>
-        <graphic url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/nak_5-333_manifest.json"
+        <graphic
+            url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/nak_5-333_manifest.json"
         />
     </facsimile>
     <!-- facs numbers 478 -  417 -->

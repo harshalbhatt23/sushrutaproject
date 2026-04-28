@@ -22,7 +22,10 @@ class TEIEditor:
         btn_frame = tk.Frame(self.root)
         btn_frame.pack(fill=tk.X, padx=10, pady=10)
 
-        tk.Button(btn_frame, text="Open TEI/XML File", command=self.load_file).pack(side=tk.LEFT, padx=5)
+        tk.Button(btn_frame, text="Open TEI/XML File", command=self.open_file).pack(side=tk.LEFT, padx=5)
+        self.reload_btn = tk.Button(btn_frame, text="Reload/Refresh", command=self.reload_file, state=tk.DISABLED)
+        self.reload_btn.pack(side=tk.LEFT, padx=5)
+        
         tk.Button(btn_frame, text="Save Edits", command=self.save_file, bg="#4CAF50", fg="white").pack(side=tk.LEFT, padx=5)
 
         self.canvas = tk.Canvas(self.root)
@@ -53,13 +56,23 @@ class TEIEditor:
             if event.num == 4: self.canvas.yview_scroll(-1, "units")
             elif event.num == 5: self.canvas.yview_scroll(1, "units")
 
-    def load_file(self):
-        self.file_path = filedialog.askopenfilename(filetypes=[("XML files", "*.xml"), ("All files", "*.*")])
+    def open_file(self):
+        path = filedialog.askopenfilename(filetypes=[("XML files", "*.xml"), ("All files", "*.*")])
+        if path:
+            self.file_path = path
+            self.load_xml_content()
+
+    def reload_file(self):
         if not self.file_path: return
+        if messagebox.askyesno("Confirm Reload", "Discard edits and reload?"):
+            self.load_xml_content()
+
+    def load_xml_content(self):
         try:
             parser = etree.XMLParser(remove_blank_text=False)
             self.tree = etree.parse(self.file_path, parser)
             self.render_elements()
+            self.reload_btn.config(state=tk.NORMAL)
         except Exception as e:
             messagebox.showerror("Error", f"Failed to parse XML: {e}")
 
@@ -97,23 +110,29 @@ class TEIEditor:
                 ent.pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
                 element_entries[attr_name] = ent
 
-            # Add the Renumbering trigger button if 'facs' exists
             if 'facs' in element_entries:
-                tk.Button(frame, text="Renumber Subsequent facs (Double-increment)", 
-                          command=lambda i=idx: self.renumber_facs(i), 
-                          bg="#e1f5fe", font=("Arial", 8)).pack(anchor="e", pady=2)
+                log_btn_frame = tk.Frame(frame)
+                log_btn_frame.pack(anchor="e", pady=5)
+                
+                # Using a default argument in the lambda i=idx to capture the current loop index correctly
+                tk.Button(log_btn_frame, text="Single (+1, +2...)", 
+                          command=lambda i=idx: self.renumber_facs(i, mode="single"), 
+                          bg="#e8f5e9", font=("Arial", 8)).pack(side=tk.LEFT, padx=2)
+
+                tk.Button(log_btn_frame, text="Double (+1, +1, +2...)", 
+                          command=lambda i=idx: self.renumber_facs(i, mode="double"), 
+                          bg="#e3f2fd", font=("Arial", 8)).pack(side=tk.LEFT, padx=2)
             
             self.entries.append((pb, element_entries))
 
-    def renumber_facs(self, start_index):
-        """Renumber facs starting from start_index: x, x+1, x+1, x+2, x+2..."""
-        # 1. Get the seed value from the current entry
+    def renumber_facs(self, start_index, mode="single"):
+        # Get value from the Entry box in the UI, not the XML directly
         current_val = self.entries[start_index][1]['facs'].get()
-        
-        # Extract the numeric part (e.g., '200' from 'page200' or just '200')
+        print(f"Renumbering starting from index {start_index} with value: {current_val}") # Debug line
+
         match = re.search(r'(\d+)', current_val)
         if not match:
-            messagebox.showwarning("Warning", "The current facs value does not contain a number.")
+            messagebox.showwarning("Warning", "No number found in the 'facs' field.")
             return
         
         start_num = int(match.group(1))
@@ -121,23 +140,26 @@ class TEIEditor:
         suffix = current_val[match.end():]
         padding = len(match.group(1))
 
-        # 2. Iterate through subsequent entries
-        # We start renumbering from the entry AFTER the current one.
-        count = 0
         current_increment = start_num
+        step_counter = 0
         
+        # Apply logic to subsequent entries
         for i in range(start_index + 1, len(self.entries)):
-            count += 1
-            # Every 2nd step, increment the number
-            if count % 2 == 1:
+            if 'facs' not in self.entries[i][1]:
+                continue
+                
+            if mode == "single":
                 current_increment += 1
+            else:
+                step_counter += 1
+                if step_counter % 2 == 1:
+                    current_increment += 1
             
             new_val = f"{prefix}{str(current_increment).zfill(padding)}{suffix}"
             
-            # Update the UI Entry widget
-            if 'facs' in self.entries[i][1]:
-                self.entries[i][1]['facs'].delete(0, tk.END)
-                self.entries[i][1]['facs'].insert(0, new_val)
+            # Update the UI
+            self.entries[i][1]['facs'].delete(0, tk.END)
+            self.entries[i][1]['facs'].insert(0, new_val)
 
     def save_file(self):
         if self.tree is None: return

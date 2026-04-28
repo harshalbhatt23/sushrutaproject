@@ -243,9 +243,9 @@
 
             <change when="2026-02-25" who="Deepro Chakraborty">Fixed alignment problems
                 and updated the trailers</change>
-                			  			       <change when="2026-04-25" who="Dominik Wujastyk">Completed adding and checking page-begin pb elements
-                with @facs attributes that match the IIIF image numbers delivered from
-                archive.org.</change>
+            <change when="2026-04-25" who="Dominik Wujastyk">Completed adding and checking
+                page-begin pb elements with @facs attributes that match the IIIF image
+                numbers delivered from archive.org.</change>
 
         </revisionDesc>
 
@@ -1803,20 +1803,19 @@ iii) 19ef is placed after 18ab     -->
                         <expan><ex>khyāsyāmaḥ</ex></expan> || </l>
 
 
-                    <l xml:id="SS.6.64.2ab"> samadoṣaḥ samā<unclear reason="damage"
-                            >gni</unclear>ś ca samadhātuma<lb n="3"/>lakriyaḥ | </l>
+                    <l xml:id="SS.6.64.1.add"> samadoṣaḥ samā<unclear reason="damage"
+                            >gni</unclear>ś ca samadhātuma<lb n="3"/>lakriyaḥ |
+                        <caesura/>
+                         prasannātmendriyamanā svastha ity a<unclear>bhi</unclear>dhīyate
+                        | </l>
 
-                    <l xml:id="SS.6.64.2cd"> prasannātmendriyamanā svastha ity
-                            a<unclear>bhi</unclear>dhīyate | </l> 
-
-                    <l xml:id="SS.6.64.3cd"> tasya ta<unclear>d</unclear>d rakṣaṇaṃ
-                            vatsa cikitsāyāḥ pa<cb/>raṃ hitaṃ | </l>
+                    <l xml:id="SS.6.64.3cd"> tasya ta<unclear>d</unclear>d rakṣaṇaṃ vatsa
+                        cikitsāyāḥ pa<cb/>raṃ hitaṃ | </l>
 
                     <l xml:id="SS.6.64.4"> tasya yad vṛttam uktaṃ hi
                             rakṣa<unclear>ṇa</unclear>ñ ca mayāditaḥ ||
                         <caesura/>
-                         tasminn athāṃ samāsoktaṃ vistareṇeha
-                        vakṣyate | </l>
+                         tasminn athāṃ samāsoktaṃ vistareṇeha vakṣyate | </l>
 
                     <l xml:id="SS.6.64.5"> yasmin yasmin ṛtau ye ye doṣāḥ<cb/> kupyanti
                         dehināṃ |
@@ -1828,8 +1827,8 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                          mande gnau kopam āyānti saṃharṣān mārutādayaḥ | </l>
 
-                    <l xml:id="SS.6.64.7"> tasmāt kledaviśuddhyathaṃ
-                            doṣasaṃdhāraṇāya<cb/> ca |
+                    <l xml:id="SS.6.64.7"> tasmāt kledaviśuddhyathaṃ doṣasaṃdhāraṇāya<cb/>
+                        ca |
                         <caesura/>
                          kaṣāyatiktakaṭukai rasaiḥ saṃyuktam adravaṃ <unclear
                             reason="damaged">|</unclear>| </l>
@@ -1838,8 +1837,8 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                          deyam annaṃ nṛpataye yaj jalañ coktam ā<cb/>ditaḥ | </l>
 
-                    <l xml:id="SS.6.64.9"> taptāyasakṛtāmbho vā pibet kṣaudrānvitañ ca
-                        yat |
+                    <l xml:id="SS.6.64.9"> taptāyasakṛtāmbho vā pibet kṣaudrānvitañ ca yat
+                        |
                         <caesura/>
                          ahni varṣānilāviṣṭe tyarthaśītāmbusaṃkule | </l>
                     <lb n="5"/>
@@ -1857,8 +1856,8 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.11c"> mādhvīkaṃ sīdhum alpam vā māhendram atha
                         sā<cb/>rasaṃ | </l>
 
-                    <l xml:id="SS.6.64.11d"> taptaśītaṃ kṣaudrayutaṃ kaupajam vā
-                        pibej jalaṃ | </l>
+                    <l xml:id="SS.6.64.11d"> taptaśītaṃ kṣaudrayutaṃ kaupajam vā pibej
+                        jalaṃ | </l>
 
                     <l xml:id="SS.6.64.11e"> pūrvānilaṃ gharmasevāmudamanthaṃ sarijjalaṃ | </l>
 
@@ -1870,11 +1869,11 @@ iii) 19ef is placed after 18ab     -->
                         | </l>
 
                     <l xml:id="SS.6.64.13b">
-                        bhūmyuṣma<cb/>parihārā<unclear>r</unclear>thaṃ
-                            svapet madhya<del>e</del>maveśmani | </l>
+                        bhūmyuṣma<cb/>parihārā<unclear>r</unclear>thaṃ svapet
+                            madhya<del>e</del>maveśmani | </l>
 
                     <l xml:id="SS.6.64.12ab"> śīte sāgnau nivāte ca guruprāvaraṇānvitaḥ | </l>
-                    
+
                     <l xml:id="SS.6.64.12a"> kṣate kledādidoṣāṃś ca varjayec cha<unclear
                             reason="overwritten">ttra</unclear>samvṛtaḥ || </l>
                     <cb/>
@@ -1887,7 +1886,8 @@ iii) 19ef is placed after 18ab     -->
                             ref="#old-newa-gap-filler"/><pb facs="262" n="206r"/><lb n="1"
                         />lāvaguṇṭhite | </l>
 
-                    <l xml:id="SS.6.64.16b"> vyomni prasannadiṅmārgalabdhaprasarabhāskare | </l>
+                    <l xml:id="SS.6.64.16b"> vyomni prasannadiṅmārgalabdhaprasarabhāskare
+                        | </l>
 
                     <l xml:id="SS.6.64.16c"> śakrāstralabdhasandarśajāyamānoddhate namaḥ | </l>
                     <cb/>
@@ -2421,8 +2421,9 @@ iii) 19ef is placed after 18ab     -->
                          tathā<unclear reason="torn">nna</unclear>śuddhāyāṃ klamaparigame
                         kukṣau ca śithile |
                         <caesura/>
-                         prayadeyastv āhāro bhavati bhiṣaja<unclear>sātmya</unclear>prakriyeti | </l>
-                    
+                         prayadeyastv āhāro bhavati
+                        bhiṣaja<unclear>sātmya</unclear>prakriyeti | </l>
+
                     <l xml:id="SS.6.64.84.add"> bhagavāṃn āha dha<abbr type="suspension"
                             >dhaṃ</abbr><ex>vantariḥ</ex> || </l>
 
@@ -2841,7 +2842,9 @@ iii) 19ef is placed after 18ab     -->
     </text>
 
     <facsimile>
-        <graphic url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/kl_699_manifest.json"/>
+        <graphic
+            url="https://sushrutaproject1.github.io/Sushrutasamhita_Saktumiva1/kl_699_manifest.json"
+        />
     </facsimile>
 
 </TEI>
