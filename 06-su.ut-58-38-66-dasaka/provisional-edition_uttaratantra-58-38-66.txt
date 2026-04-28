@@ -2537,12 +2537,12 @@
                     <l xml:id="SS.6.64.16d">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16d</label>
                         <caesura/>
-                         ākrāmati raverlakṣmīs tiraskṛtya ghanaṃ ghanaṃ | </l>
+                         ākrāmati raver lakṣmīs tiraskṛtya ghanaṃ ghanam | </l>
 
                     <l xml:id="SS.6.64.16e">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16e</label>
                         <caesura/>
-                         varṣāsu sañcitam pittamauṣṇyāc charadi kupyati | </l>
+                         varṣāsu sañcitam pittam auṣṇyāc charadi kupyati | </l>
 
                     <l xml:id="SS.6.64.16f">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16f</label>
@@ -2552,12 +2552,12 @@
                     <l xml:id="SS.6.64.16g">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16g</label>
                         <caesura/>
-                         śītaṃ kaṣāya madhuramīṣallaghu satiktakam || </l>
+                         śītaṃ kaṣāyamadhuram īṣallaghu satiktakam || </l>
 
                     <l xml:id="SS.6.64.16h">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16h</label>
                         <caesura/>
-                         sasarpirjāṅgala yutaṃ śaradyadyāt prakāṃkṣataḥ | </l>
+                         sasarpir jāṅgalayutaṃ śarady adyāt prakāṃkṣataḥ | </l>
 
                     <l xml:id="SS.6.64.16i">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16i</label>

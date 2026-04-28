@@ -1891,16 +1891,16 @@ iii) 19ef is placed after 18ab     -->
 
                     <l xml:id="SS.6.64.16c"> śakrāstralabdhasandarśajāyamānoddhate namaḥ | </l>
                     <cb/>
-                    <l xml:id="SS.6.64.16d"> ākrāmati raverlakṣmīs tiraskṛtya ghanaṃ
+                    <l xml:id="SS.6.64.16d"> ākrāmati raver lakṣmīs tiraskṛtya ghanaṃ
                         ghanaṃ | </l>
 
-                    <l xml:id="SS.6.64.16e"> varṣāsu sañcitam pittamauṣṇyāc charadi
+                    <l xml:id="SS.6.64.16e"> varṣāsu sañcitam pittam auṣṇyāc charadi
                         kupyati | </l>
 
                     <l xml:id="SS.6.64.16f"> tasmāt pittaghnaṃ <del>ḥ</del> seveta sarva
                         eva ghanātyaye || </l>
                     <cb/>
-                    <l xml:id="SS.6.64.16g"> śītaṃ kaṣāya madhuramīṣallaghu satiktakam || </l>
+                    <l xml:id="SS.6.64.16g"> śītaṃ kaṣāyamadhuram īṣallaghu satiktakaḥ || </l>
                     <lb n="2"/>
                     <l xml:id="SS.6.64.16h"> sasarpirjāṅgala yutaṃ śaradyadyāt
                         prakāṃkṣataḥ | </l>
