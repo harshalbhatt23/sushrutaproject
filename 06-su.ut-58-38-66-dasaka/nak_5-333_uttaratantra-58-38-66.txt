@@ -2136,7 +2136,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
                     <l xml:id="SS.6.64.16c"> śakrāstralabdhasandarśajāyamānoddhate tataḥ | </l>
 
-                    <l xml:id="SS.6.64.16d"> ākramati laverllakṣmīs tira<lb n="3"/>skṛtya
+                    <l xml:id="SS.6.64.16d"> ākramati laver llakṣmīs tira<lb n="3"/>skṛtya
                         ghanaṃ ghanaṃ || </l>
 
                     <l xml:id="SS.6.64.16e"> varṣāsu sañcitam pittam auṣṇyāc charadi
@@ -2150,8 +2150,8 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         <gap reason="omitted" extent="5" unit="char"/> madhuram īṣallaghu
                         satiktakaṃ | </l>
 
-                    <l xml:id="SS.6.64.16h"> sasa<lb n="4"/>rppirjjāṅgala yutaṃ
-                            <del>śa</del> śarady adyāt prakāṅkṣataḥ || </l>
+                    <l xml:id="SS.6.64.16h"> sasa<lb n="4"/>rppir jjāṅgalayutaṃ
+                            <del>śa</del> śarady adyāt prakāṃkṣataḥ || </l>
 
                     <l xml:id="SS.6.64.16i"> haṇiṇān pṛṣatān<cb/> lāvāñ chaśānerṇān
                         kapiñjalān | </l>
