@@ -2561,7 +2561,7 @@
                     <l xml:id="SS.6.64.16g">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16g</label>
                         <caesura/>
-                         śītaṃ kaṣāyamadhuram īṣallaghu satiktakam || </l>
+                         śītaṃ kaṣāyamadhuram īṣal laghu satiktakam || </l>
 
                     <l xml:id="SS.6.64.16h">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16h</label>
