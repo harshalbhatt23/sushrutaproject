@@ -2368,15 +2368,23 @@
                          athātaḥ svastharakṣaṇīyaṃ vyākhyāsyāmaḥ | </l>
 
                     <l xml:id="SS.6.64.2"/>
-                    <l xml:id="SS.6.64.2ab"> <!-- SS.1.15.41 -->
-                        <label xml:lang="en">cf. 1938 ed. 6.64.2a</label>
-                        <caesura/>
-                         samadoṣaḥ samāgniś ca samadhātumalakriyaḥ | </l>
 
-                    <l xml:id="SS.6.64.2cd">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.2b</label>
+                    <l xml:id="SS.6.64.1.add">
+                        <!-- SS.1.15.41 -->
+                        <label xml:lang="en">6.64.1.add</label>
                         <caesura/>
-                         prasannātmendriyamanāḥ svastha ity abhidhīyate || </l>
+                         samadoṣaḥ samāgniś ca samadhātumalakriyaḥ |
+                        <caesura/>
+                         prasannātmendriyamanāḥ svastha ity abhidhīyate ||<anchor
+                            n="SS.6.64.1.add-n1"/>
+                    </l>
+                    <ab corresp="#SS.6.64.1.add" type="apparatus">
+                        <list type="Note">
+                            <item xml:lang="en" corresp="#SS.6.64.1.add-n1">This verse is
+                                absent in the vulgate at this location, but occurs at
+                                SS.1.15.41.</item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.3ab"/>
 
@@ -2390,7 +2398,7 @@
                         <caesura/>
                          tasya yad vṛttam uktaṃ hi rakṣaṇañ ca mayāditaḥ |
                         <caesura/>
-                         tasminn arthaṃ samāsoktaṃ vistareṇeha vakṣyate || </l> 
+                         tasminn arthaṃ samāsoktaṃ vistareṇeha vakṣyate || </l>
 
                     <l xml:id="SS.6.64.5">
                         <label xml:lang="en">cf. 1938 ed. 6.64.5</label>
@@ -2409,8 +2417,7 @@
                     <l xml:id="SS.6.64.7">
                         <label xml:lang="en">cf. 1938 ed. 6.64.7</label>
                         <caesura/>
-    
-    tasmāt kledaviśuddhyarthaṃ doṣasaṃdhāraṇāya ca |
+                         tasmāt kledaviśuddhyarthaṃ doṣasaṃdhāraṇāya ca |
                         <caesura/>
                          kaṣāyatiktakaṭukai rasaiḥ saṃyuktam adravam || </l>
 
@@ -2444,15 +2451,16 @@
                     <l xml:id="SS.6.64.11b">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11b</label>
                         <caesura/>
-                        yūṣaiḥ sūpaiś ca kaṭubhir bhojyā hṛdyaiś ca jāṅgalaiḥ ||<anchor
-                            n="SS.6.64.11b-n1"/>  </l>
+                         yūṣaiḥ sūpaiś ca kaṭubhir bhojyā hṛdyaiś ca jāṅgalaiḥ ||<anchor
+                            n="SS.6.64.11b-n1"/>
+                    </l>
                     <ab corresp="#SS.6.64.11b" type="apparatus">
                         <list type="Testimonia">
                             <item xml:lang="en" corresp="#SS.6.64.11b-n1">On the basis of
-                                <foreign>Carakasaṃhitā, Sūtrasthāna</foreign> 6.38c (see the next
-                                note), we have emended
-                                <foreign>bhojyair</foreign> (K and N) to <foreign>bhojyā</foreign>
-                                to restore the syntax.
+                                    <foreign>Carakasaṃhitā, Sūtrasthāna</foreign> 6.38c
+                                (see the next note), we have emended
+                                    <foreign>bhojyair</foreign> (K and N) to
+                                    <foreign>bhojyā</foreign> to restore the syntax.
                             </item>
                         </list>
                     </ab>
@@ -2465,16 +2473,17 @@
                     <l xml:id="SS.6.64.11d">
                         <label xml:lang="en">cf. 1938 ed. 6.64.11d</label>
                         <caesura/>
-                        taptaśītaṃ kṣaudrayutaṃ kaupajam vā pibej jalam ||<anchor n="SS.6.64.11d-n1"/> </l>
+                         taptaśītaṃ kṣaudrayutaṃ kaupajam vā pibej jalam ||<anchor
+                            n="SS.6.64.11d-n1"/>
+                    </l>
                     <ab corresp="#SS.6.64.11d" type="apparatus">
                         <list type="Testimonia">
                             <item xml:lang="en" corresp="#SS.6.64.11d-n1">Cf.
-                                <foreign>Carakasaṃhitā, Sūtrasthāna</foreign> 6.38–39:
-                                <foreign>agnisaṃrakṣaṇavatā yavagodhūmaśālayaḥ| purāṇā jāṅgalair
-                                    māṃsair bhojyā yūṣaiś ca saṃskṛtaiḥ|| pibet kṣaudrānvitaṃ cālpaṃ
-                                    mādhvīkāriṣṭam ambu vā| māhendraṃ taptaśītaṃ vā kaupaṃ
-                                    sārasam eva vā||</foreign>
-
+                                    <foreign>Carakasaṃhitā, Sūtrasthāna</foreign> 6.38–39:
+                                    <foreign>agnisaṃrakṣaṇavatā yavagodhūmaśālayaḥ| purāṇā
+                                    jāṅgalair māṃsair bhojyā yūṣaiś ca saṃskṛtaiḥ|| pibet
+                                    kṣaudrānvitaṃ cālpaṃ mādhvīkāriṣṭam ambu vā| māhendraṃ
+                                    taptaśītaṃ vā kaupaṃ sārasam eva vā||</foreign>
                             </item>
                         </list>
                     </ab>
@@ -2504,17 +2513,17 @@
                     <l xml:id="SS.6.64.12ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.12ab</label>
                         <caesura/>
-                        śīte sāgnau nivāte ca guruprāvaraṇānvitaḥ | </l>
-                    
+                         śīte sāgnau nivāte ca guruprāvaraṇānvitaḥ | </l>
+
                     <l xml:id="SS.6.64.12a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.12a</label>
                         <caesura/>
-                        kṣate kledādidoṣāṃś ca varjayec chattrasamvṛtaḥ || </l>
-                    
+                         kṣate kledādidoṣāṃś ca varjayec chattrasamvṛtaḥ || </l>
+
                     <l xml:id="SS.6.64.12cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.12cd</label>
                         <caesura/>
-                        yāyān nāgavadhūbhiś ca praśastāgurubhūṣita iti || </l>
+                         yāyān nāgavadhūbhiś ca praśastāgurubhūṣita iti || </l>
 
                     <l xml:id="SS.6.64.14"/>
                     <l xml:id="SS.6.64.15"/>
