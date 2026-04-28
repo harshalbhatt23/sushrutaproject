@@ -2561,7 +2561,7 @@
                     <l xml:id="SS.6.64.16g">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16g</label>
                         <caesura/>
-                         śītaṃ kaṣāyamadhuram īṣal laghu satiktakam || </l>
+                         śītaṃ kaṣāyamadhuram īṣallaghu satiktakam || </l>
 
                     <l xml:id="SS.6.64.16h">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16h</label>
@@ -2571,28 +2571,29 @@
                     <l xml:id="SS.6.64.16i">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16i</label>
                         <caesura/>
-                         hariṇyaṃ pṛṣatāṃ lāvāñc chaśāneṇyan kapiñjalāṃ || </l>
+                         hariṇān pṛṣatān lāvāñ chagān eṇān kapiñjalān || </l>
 
                     <l xml:id="SS.6.64.16j">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16j</label>
                         <caesura/>
-                         mudgāñc chālīnyavāñ jīrṇṇāṃ seven nātivyavāyavān | </l>
+                         mudgāñ chālīn yavāñ jīrṇṇān seven nātivyavāyavān | </l>
 
                     <l xml:id="SS.6.64.16k">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16k</label>
                         <caesura/>
-                         vidā hi kṣāratīkṣṇoṣṇadivāśvapnagurūṇyatha | </l>
+                        vidāhi<pc> </pc>kṣāratīkṣṇoṣṇaṃ divāsvapnaṃ gurūṇy atha | </l>
 
                     <l xml:id="SS.6.64.16l">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16l</label>
                         <caesura/>
-                         śākaṃ guru ca yat māṃsamavaśyāyañ ca varjayet | </l>
+                         śākaṃ guru ca yat māṃsam avaśyāyañ ca varjayet | </l>
 
                     <l xml:id="SS.6.64.16m">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16m</label>
                         <caesura/>
-                         sevyaḥ śaradi yat tanavidhireṣa vijānatā | drākṣakvukṣīrasevī ca
-                        bhavet tatra narādhipa | </l>
+                         sevyaḥ śaradi yat tanavidhireṣa vijānatā | 
+                        <caesura/>
+                         drākṣakvukṣīrasevī ca bhavet tatra narādhipa | </l>
 
                     <l xml:id="SS.6.64.17ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.17ab</label>

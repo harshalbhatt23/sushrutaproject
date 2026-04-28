@@ -1902,25 +1902,25 @@ iii) 19ef is placed after 18ab     -->
                     <cb/>
                     <l xml:id="SS.6.64.16g"> śītaṃ kaṣāyamadhuram īṣallaghu satiktakaḥ || </l>
                     <lb n="2"/>
-                    <l xml:id="SS.6.64.16h"> sasarpirjāṅgala yutaṃ śaradyadyāt
+                    <l xml:id="SS.6.64.16h"> sasarpir jāṅgalayutaṃ śarady adyāt
                         prakāṃkṣataḥ | </l>
 
-                    <l xml:id="SS.6.64.16i"> hariṇyaṃ pṛṣatāṃ lāvāñc chaśāneṇyan
+                    <l xml:id="SS.6.64.16i"> hariṇāṃ pṛṣatāṃ lāvāñ cchagān eṇān
                         kapiñjalāṃ || </l>
 
-                    <l xml:id="SS.6.64.16j"> mu<unclear>d</unclear>gāñc
-                            chālī<cb/>nyavā<unclear>ñ jī</unclear>rṇṇāṃ seven
+                    <l xml:id="SS.6.64.16j"> mudgāñ 
+                            cchālī<cb/>n yavāñ jīrṇṇāṃ seven
                         nātivyavāyavān | </l>
 
-                    <l xml:id="SS.6.64.16k"> vidā hi
-                            kṣāratīkṣṇoṣṇadivāśva<unclear>pna</unclear>gurūṇyatha | </l>
+                    <l xml:id="SS.6.64.16k"> vidāhi<pc> </pc>kṣāratīkṣṇoṣṇa<pc> </pc>divāsvapnagurūṇy atha | </l>
 
-                    <l xml:id="SS.6.64.16l"> śākaṃ guru ca yat māṃsamavaśyāyañ ca varjayet
+                    <l xml:id="SS.6.64.16l"> śākaṃ guru ca yat māṃsam avaśyāyañ ca varjayet
                         | </l>
 
                     <l xml:id="SS.6.64.16m"> sevyaḥ<cb/> śaradi yat
-                            ta<unclear>navidhireṣa</unclear> vijānatā | drākṣakvukṣīrasevī
-                        ca bhavet tatra narādhipa | </l>
+                            ta<unclear>navidhireṣa</unclear> vijānatā | 
+                        <caesura/>
+                        drākṣakvukṣīrasevī ca bhavet tatra narādhipa | </l>
 
                     <l xml:id="SS.6.64.17ab"> varṣāsu sañcitam pittaṃ nirha<lb n="3"/>rec
                         ca virecanaiḥ | </l>

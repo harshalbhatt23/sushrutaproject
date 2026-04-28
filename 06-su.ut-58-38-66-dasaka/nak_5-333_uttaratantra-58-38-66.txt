@@ -2152,14 +2152,14 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.16h"> sasa<lb n="4"/>rppir jjāṅgalayutaṃ
                             <del>śa</del> śarady adyāt prakāṃkṣataḥ || </l>
 
-                    <l xml:id="SS.6.64.16i"> haṇiṇān pṛṣatān<cb/> lāvāñ chaśānerṇān
+                    <l xml:id="SS.6.64.16i"> haṇiṇān pṛṣatān<cb/> lāvāñ chaśān eṇān
                         kapiñjalān | </l>
 
-                    <l xml:id="SS.6.64.16j"> muṅgāñ chālīnyavān jīrṇṇān seven
+                    <l xml:id="SS.6.64.16j"> mudgāñ chālīn yavān jīrṇṇān seven
                         nātivyavāyavān || </l>
 
-                    <l xml:id="SS.6.64.16k"> divā hi<lb n="5"/>
-                            kṣāratīkṣ<unclear>ṇo</unclear> uṣṇadivāsvapnagurūṇyatha | </l>
+                    <l xml:id="SS.6.64.16k"> divāhi<pc> </pc><lb n="5"/>
+                        kṣāratīkṣṇoṣṇa<pc> </pc>divāsvapnagurūṇy atha | </l>
 
                     <l xml:id="SS.6.64.16l"> śākaṃ guru ca yat māṃsa<cb/>mavaśyāyañ ca
                         varjjayet || </l>
