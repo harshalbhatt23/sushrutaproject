@@ -2182,7 +2182,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         vimokṣaṇaiḥ || </l>
 
 
-                    <l xml:id="SS.6.64.18cd"> svāduśītañ jale<pb n="407v" facs="411"/>
+                    <l xml:id="SS.6.64.18cd"> svāduśītañ jala<pb n="407v" facs="411"/>
                         medhyaṃ śucisphaṭikanirmmalaṃ | </l>
 
                     <l xml:id="SS.6.64.19"> śarac candrāṃśunirddhūtamagastyodayanirvviṣaṃ

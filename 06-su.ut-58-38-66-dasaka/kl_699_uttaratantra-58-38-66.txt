@@ -1929,9 +1929,9 @@ iii) 19ef is placed after 18ab     -->
                         mokṣaṇaiḥ | </l>
 
                     <l xml:id="SS.6.64.18cd"> svāduśītañ jalaṃ medhyaṃ
-                        śu<cb/>cisphaṭikanirmmalaṃ | </l>
+                        śu<cb/>cisphaṭikanirmalaṃ | </l>
 
-                    <l xml:id="SS.6.64.19"> śarac candrāṃsunirdhūtamaga<unclear
+                    <l xml:id="SS.6.64.19"> śarac candrāṃśunirdhūtam aga<unclear
                             reason="damaged">styo</unclear>dayanirviṣaṃ |
                         <caesura/>
                          prasannatvāc ca salilaṃ sarvam eva tadā hitaṃ | </l>
