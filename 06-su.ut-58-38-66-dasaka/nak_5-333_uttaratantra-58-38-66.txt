@@ -2193,7 +2193,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.19a">
                         <gap reason="omitted" extent="13" unit="char"/> śāliṣu || </l>
 
-                    <l xml:id="SS.6.64.20"> candanaṃ<lb n="2"/> vāsakarpūraṃ vāsaś
+                    <l xml:id="SS.6.64.20"> candanaṃ<lb n="2"/> vā sakarpūraṃ vāsañ
                         cāmalinaṃ laghuḥ |
                         <caesura/>
                          bhajec ca śāradaṃ mālyaṃ sī<cb/><del>dhvoḥ</del><add

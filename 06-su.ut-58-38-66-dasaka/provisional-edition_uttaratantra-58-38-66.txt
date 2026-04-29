@@ -2620,10 +2620,11 @@
                             <item xml:lang="en" corresp="#SS.6.64.18cd-n1">In the vulgate, the
                                 verses from 
                                 <foreign>svāduśītajalaṃ</foreign> to 
-                                <foreign>samācared</foreign>, with the exception of one hemistich
+                                <foreign>samācared</foreign>, with the exception of the hemistiches
                                 (<foreign>candrapādāḥ sahṛdvargaḥ sukhāni madhurāgiraḥ</foreign>),
                                 have been included in round brackets with a footnote stating, ``This
-                                passage is not found in the hand-written manuscripts.'' 
+                                passage is not found in the hand-written manuscripts.'' Also,
+                                Ḍalhaṇa does not comment on these verses.
                             </item>
                         </list>
                     </ab>
@@ -2639,14 +2640,14 @@
                     <l xml:id="SS.6.64.19a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.19a</label>
                         <caesura/>
-                         śaratsu pavanañ caiva kamālautpalaśāliṣu | </l>
+                         śaratsu pavanañ caiva kamalotpalaśāliṣu | </l>
 
                     <l xml:id="SS.6.64.20">
                         <label xml:lang="en">cf. 1938 ed. 6.64.20</label>
                         <caesura/>
-                         candanaṃ vāsakarpūraṃ vāsaś cāmalinaṃ laghuḥ |
+                         candanaṃ vā sakarpūraṃ vāsañ cāmalinaṃ laghum |
                         <caesura/>
-                         bhajec ca śāradaṃ mālyaṃ sīḥ pānañ ca yuktitaḥ | </l>
+                         bhajec ca śāradaṃ mālyaṃ sīdhoḥ pānañ ca yuktitaḥ | </l>
 
                     <l xml:id="SS.6.64.20a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.20a</label>
