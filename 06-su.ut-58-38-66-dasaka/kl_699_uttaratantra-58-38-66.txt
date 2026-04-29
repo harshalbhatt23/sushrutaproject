@@ -1917,15 +1917,15 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.16l"> śākaṃ guru ca yat māṃsam avaśyāyañ ca varjayet
                         | </l>
 
-                    <l xml:id="SS.6.64.16m"> sevyaḥ<cb/> śaradi yat
-                            ta<unclear>navidhireṣa</unclear> vijānatā | 
+                    <l xml:id="SS.6.64.16m"> sevyaḥ<cb/> śaradi yannena
+                             vidhir eṣa vijānatā | 
                         <caesura/>
-                        drākṣakvukṣīrasevī ca bhavet tatra narādhipa | </l>
+                        drākṣekṣukṣīrasevī ca bhavet tatra narādhipa | </l>
 
                     <l xml:id="SS.6.64.17ab"> varṣāsu sañcitam pittaṃ nirha<lb n="3"/>rec
                         ca virecanaiḥ | </l>
 
-                    <l xml:id="SS.6.64.17a"> tiktaḥ sarpiḥ prayogair vā sirāṇyañ cāpi
+                    <l xml:id="SS.6.64.17a"> tiktaḥ sarpiḥprayogair vā sirāṇāñ cāpi
                         mokṣaṇaiḥ | </l>
 
                     <l xml:id="SS.6.64.18cd"> svāduśītañ jalaṃ medhyaṃ

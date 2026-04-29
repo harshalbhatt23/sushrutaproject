@@ -2165,8 +2165,8 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         varjjayet || </l>
 
                     <l xml:id="SS.6.64.16m">
-                        <gap n="half" unit="verse"/><unclear>ku</unclear>kṣīrasevī ca
-                            bh<lb n="6"/>vet tatra<g ref="#newa-old-gap-filler"/><g
+                        <gap n="half" unit="verse"/><unclear>kṣu</unclear>kṣīrasevī ca
+                            bha<lb n="6"/>vet tatra<g ref="#newa-old-gap-filler"/><g
                             ref="#newa-old-gap-filler"/>
                         <g ref="#newa-old-gap-filler"/><g ref="#newa-old-gap-filler"/><g
                             ref="#newa-old-gap-filler"/><g ref="#newa-old-gap-filler"/>
@@ -2178,7 +2178,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
 
 
-                    <l xml:id="SS.6.64.17a"> tiktaḥ sarppiḥ prayogair vvā sirāṇāñ ca
+                    <l xml:id="SS.6.64.17a"> tiktaḥ sarppiḥprayogair vvā sirāṇāñ ca
                         vimokṣaṇaiḥ || </l>
 
 

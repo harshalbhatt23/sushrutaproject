@@ -2591,9 +2591,9 @@
                     <l xml:id="SS.6.64.16m">
                         <label xml:lang="en">cf. 1938 ed. 6.64.16m</label>
                         <caesura/>
-                         sevyaḥ śaradi yat tanavidhireṣa vijānatā | 
+                         sevyaḥ śaradi yatnena vidhir eṣa vijānatā | 
                         <caesura/>
-                         drākṣakvukṣīrasevī ca bhavet tatra narādhipa | </l>
+                         drākṣekṣukṣīrasevī ca bhavet tatra narādhipa | </l>
 
                     <l xml:id="SS.6.64.17ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.17ab</label>
@@ -2605,7 +2605,7 @@
                     <l xml:id="SS.6.64.17a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.17a</label>
                         <caesura/>
-                         tiktaḥ sarpiḥ prayogair vā sirāṇyañ cāpi mokṣaṇaiḥ | </l>
+                         tiktasarpiḥprayogair vā sirāṇāñ cāpi mokṣaṇaiḥ | </l>
 
                     <l xml:id="SS.6.64.18ab"/>
 
