@@ -1936,7 +1936,7 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                          prasannatvāc ca salilaṃ sarvam eva tadā hitaṃ | </l>
 
-                    <l xml:id="SS.6.64.19a"> śaratsupavanañ caivakamālau<cb/>tpalaśāliṣu | </l>
+                    <l xml:id="SS.6.64.19a"> śaratsu pavanañ caiva kamālau<cb/>tpalaśāliṣu | </l>
 
                     <l xml:id="SS.6.64.20"> candanaṃ vāsakarpūraṃ vāsaś cāmalinaṃ
                             <unclear>la</unclear>ghuḥ |

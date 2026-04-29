@@ -2639,7 +2639,7 @@
                     <l xml:id="SS.6.64.19a">
                         <label xml:lang="en">cf. 1938 ed. 6.64.19a</label>
                         <caesura/>
-                         śaratsupavanañ caivakamālautpalaśāliṣu | </l>
+                         śaratsu pavanañ caiva kamālautpalaśāliṣu | </l>
 
                     <l xml:id="SS.6.64.20">
                         <label xml:lang="en">cf. 1938 ed. 6.64.20</label>
