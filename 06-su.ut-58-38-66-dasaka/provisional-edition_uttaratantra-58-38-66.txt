@@ -2632,7 +2632,7 @@
                     <l xml:id="SS.6.64.19">
                         <label xml:lang="en">cf. 1938 ed. 6.64.19</label>
                         <caesura/>
-                         śarac candrāṃsunirdhūtamagastyodayanirviṣam |
+                         śaraccandrāṃśunirdhūtam agastyodayanirviṣam |
                         <caesura/>
                          prasannatvāc ca salilaṃ sarvam eva tadā hitam | </l>
 

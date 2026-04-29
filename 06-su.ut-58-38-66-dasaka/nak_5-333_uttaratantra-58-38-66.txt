@@ -2185,7 +2185,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.18cd"> svāduśītañ jala<pb n="407v" facs="411"/>
                         medhyaṃ śucisphaṭikanirmmalaṃ | </l>
 
-                    <l xml:id="SS.6.64.19"> śarac candrāṃśunirddhūtamagastyodayanirvviṣaṃ
+                    <l xml:id="SS.6.64.19"> śaraccandrāṃśunirddhūtam agastyodayanirvviṣaṃ
                         ||
                         <caesura/>
                          prasannatvāc ca salilaṃ sarvvam eva tadā hitaṃ | </l>
