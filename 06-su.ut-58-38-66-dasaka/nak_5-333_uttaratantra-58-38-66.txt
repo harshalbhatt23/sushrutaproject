@@ -2199,11 +2199,11 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                          bhajec ca śāradaṃ mālyaṃ sī<cb/><del>dhvoḥ</del><add
                             place="top margin">dhoḥ</add> pānañ ca yuktitaḥ || </l>
 
-                    <l xml:id="SS.6.64.20a"> candrapādāḥ sahṛdvarggaḥ sukhāni<gap
+                    <l xml:id="SS.6.64.20a"> candrapādāḥ sahṛdvarggaḥ sukhāni <gap
                             reason="omitted" extent="1" unit="char"/>dhurāśiraḥ | </l>
 
                     <l xml:id="SS.6.64.21"> pittaprasamanaṃ yac ca tac ca sa<lb n="3"
-                        />rvvan samācarediti | <g ref="#newa-old-gap-filler"/>
+                        />rvvan samācared iti | <g ref="#newa-old-gap-filler"/>
                         <caesura/>
                          hemantaḥ śītalo rūkṣo mandasūryo<cb/> nilākulaḥ | </l>
 

@@ -1947,7 +1947,7 @@ iii) 19ef is placed after 18ab     -->
                         | </l>
 
                     <l xml:id="SS.6.64.21"> pittapraśamanaṃ yac ca tac ca sarvaṃ
-                            samācare<unclear reason="damaged">diti</unclear><cb/> || <g
+                            samācare<unclear reason="damaged">d iti</unclear><cb/> || <g
                             ref="#newa-old-gap-filler"/>
                         <caesura/>
                          hemanta<add place="below">ḥ</add> śītalo rūkṣo mandasūyo

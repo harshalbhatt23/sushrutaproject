@@ -2620,8 +2620,8 @@
                             <item xml:lang="en" corresp="#SS.6.64.18cd-n1">In the vulgate, the
                                 verses from 
                                 <foreign>svāduśītajalaṃ</foreign> to 
-                                <foreign>samācared</foreign>, with the exception of the hemistiches
-                                (<foreign>candrapādāḥ sahṛdvargaḥ sukhāni madhurāgiraḥ</foreign>),
+                                <foreign>samācared</foreign>, with the exception of two hemistiches
+                                (<foreign>śaratsu pavanañ caiva kamalotpalaśāliṣu</foreign> and <foreign>candrapādāḥ sahṛdvargaḥ sukhāni madhurāgiraḥ</foreign>),
                                 have been included in round brackets with a footnote stating, ``This
                                 passage is not found in the hand-written manuscripts.'' Also,
                                 Ḍalhaṇa does not comment on these verses.
@@ -2657,7 +2657,7 @@
                     <l xml:id="SS.6.64.21">
                         <label xml:lang="en">cf. 1938 ed. 6.64.21</label>
                         <caesura/>
-                         pittapraśamanaṃ yac ca tac ca sarvaṃ samācarediti ||
+                         pittapraśamanaṃ yac ca tac ca sarvaṃ samācared iti ||
                         <caesura/>
                          hemantaḥ śītalo rūkṣo mandasūyo nilākulaḥ | </l>
 
