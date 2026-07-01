@@ -3164,7 +3164,7 @@
                         <caesura/>
                          tṛṣṇāmadavidāhārttān raktapittaviṣāturān |
                         <caesura/>
-                         saṃmūrcchāṃ strīṣu ca kṣīṇān śītair annair upācaret | </l>
+                         saṃmūrcchāṃ strīṣu ca kṣīṇāṃ śītair annair upācaret | </l>
 
                     <l xml:id="SS.6.64.58">
                         <label xml:lang="en">cf. 1938 ed. 6.64.58</label>
