@@ -3162,9 +3162,9 @@
                     <l xml:id="SS.6.64.57">
                         <label xml:lang="en">cf. 1938 ed. 6.64.57</label>
                         <caesura/>
-                         tṛṣṇāmadavidāhārttāt raktapittaviṣāt turān |
+                         tṛṣṇāmadavidāhārttān raktapittaviṣāturān |
                         <caesura/>
-                         saṃmūrcchā strīṣu ca kṣīṇyaṃ śītair annair upācaret | </l>
+                         saṃmūrcchāṃ strīṣu ca kṣīṇān śītair annair upācaret | </l>
 
                     <l xml:id="SS.6.64.58">
                         <label xml:lang="en">cf. 1938 ed. 6.64.58</label>

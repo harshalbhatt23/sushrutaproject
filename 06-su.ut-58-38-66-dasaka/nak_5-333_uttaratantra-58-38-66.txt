@@ -2530,7 +2530,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                             reason="omitted" extent="2" unit="char"
                         />mana<pc> </pc>pra<cb/>vṛddhyarthān || </l>
 
-                    <l xml:id="SS.6.64.57"> tṛṣṇāmadavidāhārtād raktapittaviṣāturān<add
+                    <l xml:id="SS.6.64.57"> tṛṣṇāmadavidāhārttād raktapittaviṣāturān<add
                             place="inline">|</add>
                         <caesura/>
                          saṃmūrcchā strīṣu ca kṣīṇāṃ śītair annair upācaret<lb n="6"/> || </l>

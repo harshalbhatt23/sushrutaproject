@@ -2228,10 +2228,10 @@ iii) 19ef is placed after 18ab     -->
                          śītoṣṇasnigdharūkṣadrava<pc> </pc>śuṣkeka<pc> </pc>kālikadvikālikauṣadhayukta<pc> </pc>hīnamātra<pc> </pc>doṣa<cb/>praśamana<pc> </pc>pravṛdhyathāṃ
                         || </l>
 
-                    <l xml:id="SS.6.64.57"> tṛṣṇāmadavidārhārttāt ra<unclear reason="torn"
-                            >kta</unclear>pittaviṣāt turān |
+                    <l xml:id="SS.6.64.57"> tṛṣṇāmadavidārhārttān ra<unclear reason="torn"
+                            >kta</unclear>pittaviṣāturān |
                         <caesura/>
-                         saṃmūrcchā strīṣu ca kṣīṇyaṃ śītair annair upācaret | </l>
+                         saṃmūrcchā strīṣu ca kṣīṇāṃ śītair annair upācaret | </l>
 
                     <l xml:id="SS.6.64.58"> kaphavātāmayāviṣṭāṃ viri<cb/><unclear
                             reason="damaged">kta</unclear>ṃ snehapāyinaḥ |
