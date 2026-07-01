@@ -2262,7 +2262,7 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                          mandāgnaye rogiṇe ca mātrāhīnaḥ prasasyate || </l>
 
-                    <l xml:id="SS.6.64.64"> yathartudan usnvāhāro
+                    <l xml:id="SS.6.64.64"> yathartudanusnv āhāro
                             do<cb/><unclear>ṣa</unclear>praśamanaḥ smṛtaḥ |
                         <caesura/>
                         <unclear>a</unclear>taḥ paraṃtū svasthānāṃ <unclear

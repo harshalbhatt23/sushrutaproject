@@ -3171,7 +3171,7 @@
                         <caesura/>
                          kaphavātāmayāviṣṭāṃ viriktaṃ snehapāyinaḥ |
                         <caesura/>
-                         aklinnakāyāṃś ca narānuṣṇair annair upācaret | </l>
+                         aklinnakāyāṃś ca narān uṣṇair annair upācaret | </l>
 
                     <l xml:id="SS.6.64.59">
                         <label xml:lang="en">cf. 1938 ed. 6.64.59</label>
@@ -3183,16 +3183,16 @@
                     <l xml:id="SS.6.64.60">
                         <label xml:lang="en">cf. 1938 ed. 6.64.60</label>
                         <caesura/>
-                         medasābhiparītāṃs tu sthūlāṃ mehāturānapi |
+                         medasābhiparītāṃs tu sthūlāṃ mehāturān api |
                         <caesura/>
-                         kaphābhipannadehāś ca rūkṣairnnair upācaret | </l>
+                         kaphābhipannadehāś ca rūkṣair varggair upācaret | </l>
 
                     <l xml:id="SS.6.64.61">
                         <label xml:lang="en">cf. 1938 ed. 6.64.61</label>
                         <caesura/>
-                         śuṣkadehāṃ pipāsārttāṃ durbalānapi ca dravaiḥ |
+                         śuṣkadehāṃ pipāsārttāṃ durbalān api ca dravaiḥ |
                         <caesura/>
-                         praklinnadehaṃ vraṇinaḥ śuṣkairmehinam eva ca | </l>
+                         praklinnadehaṃ vraṇinaḥ śuṣkair mehinam eva ca | </l>
 
                     <l xml:id="SS.6.64.62">
                         <label xml:lang="en">cf. 1938 ed. 6.64.62</label>
