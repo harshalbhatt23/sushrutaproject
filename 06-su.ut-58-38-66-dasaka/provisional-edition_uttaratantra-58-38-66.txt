@@ -3229,7 +3229,7 @@
                         <caesura/>
                          ata ūrdhvaṃ daśauṣadhakālān vakṣyāmaḥ |
                          tatrābhaktaṃ | prāgbhaktaṃ | adhobhaktaṃ | madhyabhaktaṃ |
-                        āntarābhaktaṃ | sabhaktaṃ | sāmudbhaaṃ | muhurmuhurgrāsaṃ |
+                        āntarābhaktaṃ | sabhaktaṃ | sāmudgaṃ | muhurmuhurgrāsaṃ |
                         grāsāntarañ ceti || </l>
 
                     <l xml:id="SS.6.64.66">
