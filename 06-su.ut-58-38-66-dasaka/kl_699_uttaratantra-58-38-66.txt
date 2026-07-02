@@ -2234,46 +2234,45 @@ iii) 19ef is placed after 18ab     -->
                          saṃmūrcchā strīṣu ca kṣīṇāṃ śītair annair upācaret | </l>
 
                     <l xml:id="SS.6.64.58"> kaphavātāmayāviṣṭāṃ viri<cb/><unclear
-                            reason="damaged">kta</unclear>ṃ snehapāyinaḥ |
+                            reason="damaged">ktā</unclear>ṃ snehapāyinaḥ |
                         <caesura/>
-                         aklinnakāyāṃś ca narānuṣṇair annair upācaret | </l>
+                         aklinnakāyāṃś ca narān uṣṇair annair upācaret | </l>
 
                     <l xml:id="SS.6.64.59"> vātikān rūkṣadehāṃś ca vyavāyopahatāṃs tathā
                             |<lb n="3"/>
                         <caesura/>
                          vyāyāminaś cāpi narāṃ snigdhair annair upācaret | </l>
 
-                    <l xml:id="SS.6.64.60"> medasābhiparītāṃs tu sthūlāṃ mehāturānapi |
+                    <l xml:id="SS.6.64.60"> medasābhiparītāṃs tu sthūlāṃ mehāturān api |
                         <caesura/>
-                         kaphā<cb/>bhipannadehāś ca rūkṣairnnair upācaret | </l>
+                         kaphā<cb/>bhipannadehāṃś ca rūkṣair annair upācaret | </l>
 
                     <l xml:id="SS.6.64.61"> śuṣkade<unclear reason="torn">hā</unclear>ṃ
-                        pipāsārttāṃ durbalānapi ca dravaiḥ |
+                        pipāsārttāṃ durbalān api ca dravaiḥ |
                         <caesura/>
-                         praklinnadehaṃ vraṇinaḥ śuṣkairmehinam eva ca | </l>
+                         praklinnadehāṃ vraṇinaḥ śuṣkair mehinam eva ca | </l>
 
-                    <l xml:id="SS.6.64.62"> ekakā<cb/>laṃ bhaveddeyo durbalāgnivivṛddhaye
+                    <l xml:id="SS.6.64.62"> ekakā<cb/>laṃ bhaved deyo durbalāgnivivṛddhaye
                         |
                         <caesura/>
-                         śamāgnaye tathāhāro dviḥ kālam atha pūjitaḥ | </l>
+                         samāgnaye tathāhāro dviḥkālam atha pūjitaḥ | </l>
 
-                    <l xml:id="SS.6.64.63"> auṣadhadveṣi<unclear>nai</unclear> deyaṃ<lb
+                    <l xml:id="SS.6.64.63"> auṣadhadveṣine deyaṃ<lb
                             n="4"/>s tathoṣadhasamāyutaṃ |
                         <caesura/>
-                         mandāgnaye rogiṇe ca mātrāhīnaḥ prasasyate || </l>
+                         mandāgnaye rogiṇe ca mātrāhīnaḥ praśasyate || </l>
 
-                    <l xml:id="SS.6.64.64"> yathartudan usnvāhāro
+                    <l xml:id="SS.6.64.64"> yathartudattas tv āhāro
                             do<cb/><unclear>ṣa</unclear>praśamanaḥ smṛtaḥ |
                         <caesura/>
-                        <unclear>a</unclear>taḥ paraṃtū svasthānāṃ <unclear
-                            reason="damaged">sa</unclear>rva eva prasasyate || </l>
+                        ataḥ paraṃ tu svasthānāṃ <unclear
+                            reason="damaged">sa</unclear>rva eva praśasyate || </l>
 
                     <l xml:id="SS.6.64.65"> ata ūdhvaṃ daśauṣadhakālān vakṣyāmaḥ |
-                        <caesura/>
-                         tatrābhaktaṃ | prāgbhaktaṃ | <unclear reason="damamged"
+                         tatrābhaktaṃ | prāgbhaktaṃ | <unclear reason="damaged"
                             >a</unclear><cb/>dhobhaktaṃ | madhyabha<cb/>ktaṃ |
-                        antarābhaktaṃ | subhaktaṃ | sāmud<unclear>bha</unclear>aṃ |
-                        muhurmuhur grāsaṃ | grāsāntarañ ceti || </l>
+                        antarābhaktaṃ | sabhaktaṃ | sāmudgaṃ |
+                        muhurmuhurgrāsaṃ | grāsāntarañ ceti || </l>
 
                     <l xml:id="SS.6.64.66"> tatrābhakta<lb n="5"/>nnāmayaḥ |
                         kevalamauṣadham upayujyate || </l>
