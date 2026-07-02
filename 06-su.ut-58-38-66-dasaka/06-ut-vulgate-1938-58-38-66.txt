@@ -1864,7 +1864,7 @@
                     <l xml:id="SS.6.64.65"> ata ūrdhvaṃ daśauṣadhakālān vakṣyāmaḥ |
                         <caesura/>
                          tatrābhaktaṃ prāgbhaktam adhobhaktaṃ madhyebhaktam antarābhaktaṃ
-                        sabhaktaṃ sāmudgaṃ muhurmuhur grāsaṃ grāsāntaraṃ ceti
+                        sabhaktaṃ sāmudgaṃ muhurmuhurgrāsaṃ grāsāntaraṃ ceti
                         daśauṣadhakālāḥ || </l>
 
                     <l xml:id="SS.6.64.66"> tatrābhaktaṃ tu yat kevalam evauṣadham

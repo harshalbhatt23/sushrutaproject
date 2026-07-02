@@ -2537,7 +2537,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
                     <l xml:id="SS.6.64.58"> kaphavātāmayāviṣṭāṃ viriktaṃ snehapāyinaḥ |
                         <caesura/>
-                         aklinnakāyāṃś ca <unclear>na</unclear>rānuṣṇair annair upācaret
+                         aklinnakāyāṃś ca <unclear>na</unclear>rān uṣṇair annair upācaret
                         || </l>
 
                     <l xml:id="SS.6.64.59"> vātikān rūkṣadehāṃś ca vyavāyopahatāṃs tathā |
@@ -2546,37 +2546,36 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         upācaret || </l>
 
                     <l xml:id="SS.6.64.60"> medasā<gap reason="omitted" extent="10"
-                            unit="char"/>rānapi |
+                            unit="char"/>rān api |
                         <caesura/>
                          kaphābhipannadehāś ca rūkṣair varggair upācaret || </l>
 
-                    <l xml:id="SS.6.64.61"> śuṣkadehī pipāsārttā durbbalānapi ca vraṇairḥ
+                    <l xml:id="SS.6.64.61"> śuṣkadehī pipāsārttā durbbalān api ca vraṇaiḥ
                         |
                         <caesura/>
-                         praklinnade<lb n="2"/>ha vraṇinaḥ śuṣkair mehinam eva ca || </l>
+                         praklinnade<lb n="2"/>havraṇinaḥ śuṣkair mmehinam eva ca || </l>
 
-                    <l xml:id="SS.6.64.62"> ekakālam bhaveddeyo durbbalā<cb/>gnivivṛddhaye
+                    <l xml:id="SS.6.64.62"> ekakālam bhaved deyo durbbalā<cb/>gnivivṛddhaye
                         |
                         <caesura/>
-                         samāgnaye tathāhāro dviḥ kālam atha pūjitaḥ || </l>
+                         samāgnaye tathāhāro dviḥkālam atha pūjitaḥ || </l>
 
                     <l xml:id="SS.6.64.63"> auṣadhadveṣiṇe deya<gap reason="omitted"
                             extent="8" unit="char"/><lb n="3"/> |
                         <caesura/>
                          mandāgnaye rogiṇe ca mātrāhīnaḥ praśasyate || </l>
 
-                    <l xml:id="SS.6.64.64"> yatharttudahas ttv <cb/>āhāro doṣaḥ praśamanaḥ
+                    <l xml:id="SS.6.64.64"> yatharttū dahas tv <cb/>āhāro doṣaḥ praśamanaḥ
                         smṛtaḥ |
                         <caesura/>
-                         ataḥ paraṃ ttū scaskānāṃ sarvva eva praśasyate || <g
+                         ataḥ paraṃ ttūś ca skānāṃ sarvva eva praśasyate || <g
                             ref="#newa-old-gap-filler"/>
                     </l>
 
                     <l xml:id="SS.6.64.65"> ata ūrddhvaṃ daśoṣa<lb n="4"/>dhakālān
                         vakṣyāmaḥ ||
-                        <caesura/>
-                         tatrābhaktaṃ prāgbhaktaṃ } adhobhaktaṃ | madhyebha<cb/>ktaṃ |
-                        antarābhaktaṃ | subhaktaṃ | sāmudgaṃ | muhurmmuhur ggrāsaṃ |
+                         tatrābhaktaṃ prāgbhaktaṃ | adhobhaktaṃ | madhyebha<cb/>ktaṃ |
+                        āntarābhaktaṃ | subhaktaṃ | sāmudgaṃ | muhurmmuhurggrāsaṃ |
                             grāsāntar<unclear>añ ce</unclear>ti || <gap reason="omitted"
                             extent="5" unit="char"/> || </l>
 
