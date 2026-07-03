@@ -2231,7 +2231,16 @@
                         <caesura/>
                          viṣajāto yathā kīṭo viṣeṇa na vipadyate |
                         <caesura/>
-                         tadvat prakṛtibhir ddehas tajjātatvān na bādhate || </l>
+                        tadvat prakṛtibhir ddehas tajjātatvān na bādhyate || <anchor n="SS.3.4.79"/></l>
+                    
+                    <ab corresp="#SS.3.4.79" type="apparatus">
+                        <list type="Emendation">
+                            <item corresp="#SS.3.4.79" xml:lang="en">We have emended the reading of
+                                H, <foreign>bādhate</foreign>, to <foreign>bādhyate</foreign> as the
+                                intransative use of the former is not attested.</item>
+                        </list>
+                    </ab>
+                    
 
                     <l xml:id="SS.3.4.80">
                         <label xml:lang="en">cf. 1938 ed. 3.4.80</label>
@@ -2247,9 +2256,9 @@
                     <l xml:id="SS.3.4.81">
                         <label xml:lang="en">cf. 1938 ed. 3.4.81</label>
                         <caesura/>
-                         śaucamāstikyam ābhyāso vedeṣu gurupūjanaṃ |
+                         śaucam āstikyam abhyāso vedeṣu gurupūjanam |
                         <caesura/>
-                         priyātithitvamijyā ca vrahmakāyasya lakṣaṇam || </l>
+                         priyātithitvam ijyā ca brahmakāyasya lakṣaṇam || </l>
 
                     <l xml:id="SS.3.4.82">
                         <label xml:lang="en">cf. 1938 ed. 3.4.82</label>
@@ -2261,9 +2270,9 @@
                     <l xml:id="SS.3.4.83">
                         <label xml:lang="en">cf. 1938 ed. 3.4.83</label>
                         <caesura/>
-                         sahiṣṇutatā śītasevā paiṅgākhyaṃ hari keśatā |
+                         sahiṣṇutatā śītasevā paiṅgākhyaṃ harikeśatā |
                         <caesura/>
-                         priyodakatvañ ca tathā vāruṇaṅ kāyalakṣaṇaṃ || </l>
+                         priyodakatvañ ca tathā vāruṇaṅ kāyalakṣaṇam || </l>
 
                     <l xml:id="SS.3.4.84">
                         <label xml:lang="en">cf. 1938 ed. 3.4.84</label>

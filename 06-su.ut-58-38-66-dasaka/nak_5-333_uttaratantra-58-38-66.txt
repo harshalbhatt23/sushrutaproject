@@ -2581,14 +2581,15 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
                     <l xml:id="SS.6.64.66">
                         <gap reason="omitted" extent="5" unit="char"/> yaḥ kevala<lb n="5"
-                        />mauṣadham upayu<gap reason="omitted" extent="1" unit="char"/>te
-                        || </l>
+                        />m auṣadham upayute || </l>
 
-                    <l xml:id="SS.6.64.67"> vīryādhikaṃ bhavati bheṣajam anuhīnaṃ hanyāt
-                        tathā<cb/>mayamasaṃśayamāś ca caiva |
+                    <l xml:id="SS.6.64.67"> vīryādhikaṃ bhavati bheṣajam anuhīnaṃ 
                         <caesura/>
-                         tad bālavṛddhavanitāmṛdavas<unclear>tu</unclear> pītvā ślātiṃ
-                        parāṃ samupayānti ba<unclear>la</unclear>kṣayañ ca || </l>
+                        hanyāt tathā<cb/>mayamasaṃśayamāś ca caiva |
+                        <caesura/>
+                         tad bālavṛddhavanitāmṛdavas<unclear>tu</unclear> pītvā 
+                        <caesura/>
+                        ślātiṃ parāṃ samupayānti ba<unclear>la</unclear>kṣayañ ca || </l>
                     <lb n="6"/>
 
                     <l xml:id="SS.6.64.68"> prāgbhaktan nāma || yat prāgbhakta<unclear

@@ -1186,13 +1186,13 @@ C) Special notes :
                     <l xml:id="SS.3.4.80"> prakṛtir iha narāṇāṃ
                         <unclear>bhau</unclear>tikī kecid āhuḥ pavanadahana<lb n="2"
                         />toyaiḥ kīrttitā<unclear
-                            reason="erased text                             underneath"
-                            >stā</unclear>s tu tisraḥ | sthiravipulaśarīraḥ pārthiva<cb/>ś
-                        cet kṣamāvān śuciratha cirajīvī nābhasaḥ khair mmahadbhiḥ || </l>
+                            reason="erased text underneath"
+                            >s sa</unclear>s tu tisraḥ | sthiravipulaśarīraḥ pārthiva<cb/>ś
+                        cet kṣamāvān śucir atha cirajīvī nābhasaḥ khair mmahadbhiḥ || </l>
 
-                    <l xml:id="SS.3.4.81"> śaucamāstikyam ābhyāso vedeṣu<g
+                    <l xml:id="SS.3.4.81"> śaucam āstikyam ābhyāso vedeṣu<g
                             ref="#broken-danda"/><lb n="3"/> gurupūjanaṃ |
-                        priyātithitvamijyā ca vrahmakāyasya lakṣa<g ref="#broken-danda"
+                        priyātithitvam ijyā ca vrahmakāyasya lakṣa<g ref="#broken-danda"
                         /><cb/>ṇam || </l>
 
                     <l xml:id="SS.3.4.82">
