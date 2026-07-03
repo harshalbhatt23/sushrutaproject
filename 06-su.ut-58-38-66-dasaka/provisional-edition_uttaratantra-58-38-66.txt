@@ -3235,16 +3235,24 @@
                     <l xml:id="SS.6.64.66">
                         <label xml:lang="en">cf. 1938 ed. 6.64.66</label>
                         <caesura/>
-                         tatrābhaktannāmayaḥ | kevalam auṣadham upayujyate || </l>
+                         tatrābhaktan nāma yat kevalam auṣadham upayujyate || </l>
 
                     <l xml:id="SS.6.64.67">
                         <label xml:lang="en">cf. 1938 ed. 6.64.67</label>
                         <caesura/>
-                         vīryādhikaṃ bhavati bheṣajam annahīnaṃ hanyāt tathāmayam asamayam
-                        āśu caiva |
+                         vīryādhikaṃ bhavati bheṣajam annahīnaṃ 
                         <caesura/>
-                         tad bālavṛddhavanitāmṛdavas tu pītvā glāniṃ parāṃ samupayānti
-                        balakṣayañ ca || </l>
+                         hanyāt tathāmayam asamayam āśu caiva |
+                        <caesura/>
+                         tad bālavṛddhavanitāmṛdavas tu pītvā 
+                        <caesura/>
+                        glāniṃ parāṃ samupayānti balakṣayañ ca ||<anchor n="SS.6.64.67"/> </l>
+                    
+                    <ab corresp="#SS.6.64.61" type="apparatus">
+                        <list type="Notes">
+                            <item xml:lang="en" corresp="#SS.6.64.61"> The metre is <foreign>vasantatilakā</foreign>. </item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.68">
                         <label xml:lang="en">cf. 1938 ed. 6.64.68</label>

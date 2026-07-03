@@ -2274,14 +2274,17 @@ iii) 19ef is placed after 18ab     -->
                         antarābhaktaṃ | sabhaktaṃ | sāmudgaṃ |
                         muhurmuhurgrāsaṃ | grāsāntarañ ceti || </l>
 
-                    <l xml:id="SS.6.64.66"> tatrābhakta<lb n="5"/>nnāmayaḥ |
-                        kevalamauṣadham upayujyate || </l>
+                    <l xml:id="SS.6.64.66"> tatrābhakta<lb n="5"/>n nāma yaḥ |
+                        kevalam auṣadham upayujyate || </l>
 
                     <l xml:id="SS.6.64.67"> vī<unclear>r</unclear>yādhikaṃ bhavati
-                        bheṣajam annahīnaṃ hanyāt tathāmayama<cb/>sa<add place="below"
+                        bheṣajam annahīnaṃ
+                        <caesura/>
+                        hanyāt tathāmayama<cb/>sa<add place="below"
                             >maya</add>māśu caiva |
                         <caesura/>
                          tad bāla<add place="below">vṛ</add>ddhavanitāmṛdavas tu pītvā
+                        <caesura/>
                             <unclear reason="damaged">glā</unclear>niṃ parāṃ samupayānti
                         balakṣayañ ca || </l>
 
