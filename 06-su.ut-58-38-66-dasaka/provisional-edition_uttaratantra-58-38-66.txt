@@ -3228,8 +3228,8 @@
                         <label xml:lang="en">cf. 1938 ed. 6.64.65</label>
                         <caesura/>
                          ata ūrdhvaṃ daśauṣadhakālān vakṣyāmaḥ |
-                         tatrābhaktaṃ | prāgbhaktaṃ | adhobhaktaṃ | madhyabhaktaṃ |
-                        āntarābhaktaṃ | sabhaktaṃ | sāmudgaṃ | muhurmuhurgrāsaṃ |
+                         tatrābhaktam | prāgbhaktam | adhobhaktam | madhyabhaktam |
+                        āntarābhaktam | sabhaktam | sāmudgam | muhurmuhurgrāsam |
                         grāsāntarañ ceti || </l>
 
                     <l xml:id="SS.6.64.66">
