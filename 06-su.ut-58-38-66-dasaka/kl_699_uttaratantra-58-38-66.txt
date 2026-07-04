@@ -2277,11 +2277,11 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.66"> tatrābhakta<lb n="5"/>n nāma yaḥ |
                         kevalam auṣadham upayujyate || </l>
 
-                    <l xml:id="SS.6.64.67"> vī<unclear>r</unclear>yādhikaṃ bhavati
+                    <l xml:id="SS.6.64.67"> vīryādhikaṃ bhavati
                         bheṣajam annahīnaṃ
                         <caesura/>
-                        hanyāt tathāmayama<cb/>sa<add place="below"
-                            >maya</add>māśu caiva |
+                        hanyāt tathāmayam a<cb/>saṃ<add place="below"
+                            >śaya</add>m āśu caiva |
                         <caesura/>
                          tad bāla<add place="below">vṛ</add>ddhavanitāmṛdavas tu pītvā
                         <caesura/>
@@ -2289,15 +2289,21 @@ iii) 19ef is placed after 18ab     -->
                         balakṣayañ ca || </l>
 
                     <l xml:id="SS.6.64.68"> prāgbhaktan nāma | yat prāgbhaktaṃ pīyate |
-                        paścād bhujyate | </l>
+                        paścād bhujyate | tac </l>
                     <cb/>
-                    <l xml:id="SS.6.64.69"> tac chīghraṃ vipākam upayāti balaṃ na
-                            hiṃsyā<unclear reason="damaged">d annāvṛtatvā</unclear>n na ca
-                        murhur muhurvadanān nireti |
+                    <l xml:id="SS.6.64.69"> 
+                        <caesura/> 
+                        chīghraṃ vipākam upayāti balaṃ na
+                            hiṃsyā<unclear reason="damaged">d 
+                                <caesura/>    
+                                annāvṛtatvā</unclear>n na ca murhur muhur vadanān nireti |
                         <caesura/>
-                         prāg<unclear reason="damaged">bhaktasevinam a</unclear><lb n="6"
-                        />dhobalamādadhāti | dad<unclear>dhā</unclear>c ca
-                        vṛddhaśisubhīrukṛśāṅganānyaḥ || </l>
+                         prāg<unclear reason="damaged">bhaktasevi</unclear> <gap reason="damaged"
+                             quantity="2"></gap><lb n="6"
+                        />dhobalam ādadhāti | 
+                        <caesura/>
+                        dad<unclear>yā</unclear>c ca
+                        vṛddha<pc> </pc>śisubhīru<pc> </pc>kṛśāṅganānyaḥ || </l>
 
                     <l xml:id="SS.6.64.70"> adhobhaktan nāma | yadbhuktvā pīyate | <cb/>
                     </l>
