@@ -3228,8 +3228,8 @@
                         <label xml:lang="en">cf. 1938 ed. 6.64.65</label>
                         <caesura/>
                          ata ūrdhvaṃ daśauṣadhakālān vakṣyāmaḥ |
-                         tatrābhaktaṃ | prāgbhaktaṃ | adhobhaktaṃ | madhyabhaktaṃ |
-                        āntarābhaktaṃ | sabhaktaṃ | sāmudgaṃ | muhurmuhurgrāsaṃ |
+                         tatrābhaktam | prāgbhaktam | adhobhaktam | madhyabhaktam |
+                        āntarābhaktam | sabhaktam | sāmudgam | muhurmuhurgrāsam |
                         grāsāntarañ ceti || </l>
 
                     <l xml:id="SS.6.64.66">
@@ -3242,36 +3242,55 @@
                         <caesura/>
                          vīryādhikaṃ bhavati bheṣajam annahīnaṃ 
                         <caesura/>
-                         hanyāt tathāmayam asamayam āśu caiva |
+                         hanyāt tathāmayam asaṃśayam āśu caiva |
                         <caesura/>
                          tad bālavṛddhavanitāmṛdavas tu pītvā 
                         <caesura/>
                         glāniṃ parāṃ samupayānti balakṣayañ ca ||<anchor n="SS.6.64.67"/> </l>
                     
-                    <ab corresp="#SS.6.64.61" type="apparatus">
+                    <ab corresp="#SS.6.64.67" type="apparatus">
                         <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.6.64.61"> The metre is <foreign>vasantatilakā</foreign>. </item>
+                            <item xml:lang="en" corresp="#SS.6.64.67"> The metre is <foreign>vasantatilakā</foreign>. </item>
                         </list>
                     </ab>
 
                     <l xml:id="SS.6.64.68">
                         <label xml:lang="en">cf. 1938 ed. 6.64.68</label>
                         <caesura/>
-                         prāgbhaktan nāma | yat prāgbhaktaṃ pīyate | paścād bhujyate | </l>
+                         prāgbhaktan nāma yat prāgbhaktaṃ pīyate | paścād bhujyate tat| </l>
 
                     <l xml:id="SS.6.64.69">
                         <label xml:lang="en">cf. 1938 ed. 6.64.69</label>
                         <caesura/>
-                         tac chīghraṃ vipākam upayāti balaṃ na hiṃsyād annāvṛtatvān na ca
-                        murhur muhurvadanān nireti |
+                        śīghraṃ vipākam upayāti balaṃ na hiṃsyād 
                         <caesura/>
-                         prāgbhaktasevinam adhobalam ādadhāti | daddhāc ca
-                        vṛddhaśisubhīrukṛśāṅganānyaḥ || </l>
+                        annāvṛtan na ca muhur vadanān nireti |
+                        <caesura/>
+                        prāgbhaktasevitam athauṣadham etad eva 
+                        <caesura/>
+                        dadyāc ca vṛddha<pc> </pc>śisubhīru<pc> </pc>kṛśāṅganābhyaḥ || <anchor n="SS.6.64.69"/> </l>
+                    
+                    <ab corresp="#SS.6.64.69" type="apparatus">
+                        <list type="Notes">
+                            <item xml:lang="en" corresp="#SS.6.64.67"> The metre is
+                                <foreign>vasantatilakā</foreign>. The second verse quarter of the
+                                Nepalese manuscripts is not metrical and has been
+                            emended with the aid of the vulgate to restore the metre. In the third
+                            quarter, we have
+                            adopted the vulgate reading of <foreign>athauṣadham etad eva</foreign>, which
+                                states the subject of the verse clearly. The meaning of the Nepalese reading, <foreign>adhobalam
+                                    ādadhāti</foreign> (literally, ``it gives lower strength'') 
+                                is not clear. The compound
+                                <foreign>adhobala</foreign> is not attested, as far as we are aware,
+                                in Sanskrit literature.
+                               </item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.70">
                         <label xml:lang="en">cf. 1938 ed. 6.64.70</label>
                         <caesura/>
-                         adhobhaktan nāma | yad bhuktvā pīyate | </l>
+                         adhobhaktan nāma yad bhuktvā pīyate | </l>
 
                     <l xml:id="SS.6.64.72ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.72ab</label>

@@ -2585,22 +2585,25 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
                     <l xml:id="SS.6.64.67"> vīryādhikaṃ bhavati bheṣajam anuhīnaṃ 
                         <caesura/>
-                        hanyāt tathā<cb/>mayamasaṃśayamāś ca caiva |
+                        hanyāt tathā<cb/>mayam asaṃśayam āśca caiva |
                         <caesura/>
-                         tad bālavṛddhavanitāmṛdavas<unclear>tu</unclear> pītvā 
+                         tad bālavṛddhavanitāmṛdavas <unclear>tu</unclear> pītvā 
                         <caesura/>
-                        ślātiṃ parāṃ samupayānti ba<unclear>la</unclear>kṣayañ ca || </l>
+                        ślātiṃ parāṃ samupayānti balakṣayañ ca || </l>
                     <lb n="6"/>
 
-                    <l xml:id="SS.6.64.68"> prāgbhaktan nāma || yat prāgbhakta<unclear
-                            reason="correction not mentioned">nta</unclear>t pīyate
-                        paścānujyate </l>
+                    <l xml:id="SS.6.64.68"> prāgbhaktan nāma || yat prāgbhaktan <del>tat</del> pīyate
+                        paścānu<unclear>jya</unclear>te tac </l>
 
-                    <l xml:id="SS.6.64.69"> tac chīghraṃ vipākam upayāti balan na hiṃsyād
-                        annāvṛtatvān na ca muhur mmuhurvvadanān nireti |
+                    <l xml:id="SS.6.64.69">  <caesura/>  
+                        chīghraṃ vipākam upayāti balan na hiṃsyād
+                        <caesura/> 
+                        annāvṛtatvān na ca muhur mmuhur vvadanān nireti |
                         <caesura/>
-                         prāgbhaktasevinam adhobalamādadhāti | dadyā<pb n="411r"
-                            facs="415"/>c ca vṛddhasitūtīrukṛśāṅganānyaḥ || </l>
+                         prāgbhaktasevinam adhobalam ādadhāti | 
+                        <caesura/>
+                         dadyā<pb n="411r"
+                             facs="415"/>c ca vṛddha<pc> </pc>sistūbhīru<pc> </pc>kṛśāṅganānyaḥ || </l>
 
                     <l xml:id="SS.6.64.70"> adhobhaktan nāma || yadabhuktā pīyate </l>
 

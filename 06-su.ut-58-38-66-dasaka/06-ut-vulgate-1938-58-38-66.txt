@@ -1871,7 +1871,7 @@
                         upayujyate || </l>
 
                     <l xml:id="SS.6.64.67"> vīryādhikaṃ bhavati bheṣajam annahīnaṃ hanyāt
-                        tathā++āmayam asaṃśayam āśu caiva |
+                        tathāmayam asaṃśayam āśu caiva |
                         <caesura/>
                          tad bālavṛddhavanitāmṛdavas tu pītvā glāniṃ parāṃ samupayānti
                         balakṣayaṃ ca || </l>
@@ -1880,11 +1880,11 @@
 
                     <l xml:id="SS.6.64.69"> śīghraṃ vipākam upayāti balaṃ na hiṃsyād
                         <caesura/>
-                         annāvṛtaṃ na ca muhur vardanān nireti |
+                         annāvṛtaṃ na ca muhur vadanān nireti |
                         <caesura/>
                          prāgbhaktasevitam athauṣadham etad eva
                         <caesura/>
-                         dadyāc ca vṛddhaśiśubhīrukṛśāṅganābhyaḥ || </l>
+                        dadyāc ca vṛddha<pc> </pc>śiśubhīru<pc> </pc>kṛśāṅganābhyaḥ || </l>
 
                     <l xml:id="SS.6.64.70"> adhobhaktaṃ nāma yad adho bhaktasyeti || </l>
 

@@ -2237,7 +2237,7 @@
                         <list type="Emendation">
                             <item corresp="#SS.3.4.79" xml:lang="en">We have emended the reading of
                                 H, <foreign>bādhate</foreign>, to <foreign>bādhyate</foreign> as the
-                                intransative use of the former is not attested.</item>
+                                intransative use of the former is not clearly attested.</item>
                         </list>
                     </ab>
                     
