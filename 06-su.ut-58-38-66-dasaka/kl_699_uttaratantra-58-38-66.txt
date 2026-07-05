@@ -2303,34 +2303,41 @@ iii) 19ef is placed after 18ab     -->
                         />dhobalam ādadhāti | 
                         <caesura/>
                         dad<unclear>yā</unclear>c ca
-                        vṛddha<pc> </pc>śisubhīru<pc> </pc>kṛśāṅganānyaḥ || </l>
+                        vṛddha<pc> </pc>śisubhīru<pc> </pc>kṛśāṅganābhyaḥ || </l>
 
-                    <l xml:id="SS.6.64.70"> adhobhaktan nāma | yadbhuktvā pīyate | <cb/>
+                    <l xml:id="SS.6.64.70"> adhobhaktan nāma | yad bhuktvā pīyate | <cb/>
                     </l>
 
                     <l xml:id="SS.6.64.72ab"> pītaṃ yad annam upayujya tad
-                            ū<unclear>rva</unclear>kāye hatvā gadāṃ bahuvidhāṃś ca balan
-                            d<unclear>ā</unclear>dāti || </l>
+                            ū<unclear>rdhva</unclear>kāye
+                        <caesura/>
+                        hatvā gadāṃ bahuvidhāṃś ca balan
+                            dādāti || </l>
 
-                    <l xml:id="SS.6.64.71"> madhya bhaktan nāma | yan madhye bhaktasya
+                    <l xml:id="SS.6.64.71"> madhyabhaktan nāma | yan madhye bhaktasya
                         pīyate | </l>
 
                     <l xml:id="SS.6.64.72cd"> madhye tu<cb/> pītam apahanty avisāribhāvā
-                        ye deha<lb n="7"/>madhyem atibhūya bhavanti rogāḥ || </l>
+                        <caesura/>
+                        ye deha<lb n="7"/>ma<unclear reason="faded">dhya</unclear>m abhibhūya bhavanti rogāḥ || </l>
 
-                    <l xml:id="SS.6.64.73"> antarābhaktan nāma | yad antare pāyate |
+                    <l xml:id="SS.6.64.73"> <unclear reason="faded">ā</unclear>ntarābhaktan nāma |
+                        yad antare pīyate |
                         pūrvāparayor bhaktayoḥ </l>
                     <cb/>
-                    <l xml:id="SS.6.64.75cd"> hṛdyam manobalakaraṃ tvapi dīpanañ ca
+                    <l xml:id="SS.6.64.75cd"> hṛdyam manobalakaraṃ tv api dīpanañ ca
+                        <caesura/>
                         pathyaṃ <pb facs="266" n="208r"/><lb n="1"/>sadā bhavati
                         cāntarabhaktakan tat || </l>
 
-                    <l xml:id="SS.6.64.74"> sabhaktan nāma | </l>
+                    <l xml:id="SS.6.64.74"> sabhaktan nāma | auṣadheṣu yat sādhyate  </l>
 
-                    <l xml:id="SS.6.64.74a"> auṣadhaiṣu yat sādhyate || </l>
+                   
 
                     <l xml:id="SS.6.64.75ab"> pathyaṃ sabhaktam abalābalayor <cb/> hi
-                        nityaṃ tad dveṣiṇām api tathā śiśuvṛddhayoś ca | </l>
+                        nityaṃ 
+                        <caesura/>
+                        tad dveṣiṇām api tathā śiśuvṛddhayoś ca | </l>
 
                     <l xml:id="SS.6.64.76"> sāmudgan nāma | yad bhaktasyādāvante ca pīyate
                         || </l>

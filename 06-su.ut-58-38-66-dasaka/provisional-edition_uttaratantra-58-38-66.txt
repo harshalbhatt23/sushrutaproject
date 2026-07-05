@@ -3257,7 +3257,7 @@
                     <l xml:id="SS.6.64.68">
                         <label xml:lang="en">cf. 1938 ed. 6.64.68</label>
                         <caesura/>
-                         prāgbhaktan nāma yat prāgbhaktaṃ pīyate | paścād bhujyate tat| </l>
+                         prāgbhaktan nāma yat prāgbhaktaṃ pīyate | paścād bhujyate tat | </l>
 
                     <l xml:id="SS.6.64.69">
                         <label xml:lang="en">cf. 1938 ed. 6.64.69</label>
@@ -3266,7 +3266,7 @@
                         <caesura/>
                         annāvṛtan na ca muhur vadanān nireti |
                         <caesura/>
-                        prāgbhaktasevitam athauṣadham etad eva 
+                        prāgbhaktasevitam adhobalam ādadhāti
                         <caesura/>
                         dadyāc ca vṛddha<pc> </pc>śisubhīru<pc> </pc>kṛśāṅganābhyaḥ || <anchor n="SS.6.64.69"/> </l>
                     
@@ -3275,14 +3275,7 @@
                             <item xml:lang="en" corresp="#SS.6.64.67"> The metre is
                                 <foreign>vasantatilakā</foreign>. The second verse quarter of the
                                 Nepalese manuscripts is not metrical and has been
-                            emended with the aid of the vulgate to restore the metre. In the third
-                            quarter, we have
-                            adopted the vulgate reading of <foreign>athauṣadham etad eva</foreign>, which
-                                states the subject of the verse clearly. The meaning of the Nepalese reading, <foreign>adhobalam
-                                    ādadhāti</foreign> (literally, ``it gives lower strength'') 
-                                is not clear. The compound
-                                <foreign>adhobala</foreign> is not attested, as far as we are aware,
-                                in Sanskrit literature.
+                            emended with the aid of the vulgate to restore the metre. 
                                </item>
                         </list>
                     </ab>
@@ -3295,79 +3288,103 @@
                     <l xml:id="SS.6.64.72ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.72ab</label>
                         <caesura/>
-                         pītaṃ yad annam upayujya tad ūrvakāye hatvā gadāṃ bahuvidhāṃś ca
-                        balan dādāti || </l>
+                        pītaṃ yad annam upayujya tad ūrdhvakāye
+                        <caesura/>
+                        hatvā gadān bahuvidhāṃś ca balan dadāti |  </l>
 
                     <l xml:id="SS.6.64.71">
                         <label xml:lang="en">cf. 1938 ed. 6.64.71</label>
                         <caesura/>
-                         madhya bhaktan nāma | yan madhye bhaktasya pīyate | </l>
+                         madhyabhaktan nāma yan madhye bhaktasya pīyate | </l>
 
                     <l xml:id="SS.6.64.72cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.72cd</label>
                         <caesura/>
-                         madhye tu pītam apahanty avisāribhāvā ye dehamadhyem atibhūya
-                        bhavanti rogāḥ || </l>
+                         madhye tu pītam apahanty avisāribhāvā 
+                        <caesura/>
+                        ye dehamadhyam abhibhūya bhavanti rogāḥ ||<anchor n="SS.6.64.72cd"/> </l>
+                    
+                    <ab corresp="#SS.6.64.72cd" type="apparatus">
+                        <list type="Notes">
+                            <item xml:lang="en" corresp="#SS.6.64.72cd"> The metre is
+                                <foreign>vasantatilakā</foreign>. The Nepalese manuscripts split
+                                the halves of this verse with prose
+                                statement <foreign>madhyabhaktan nāma</foreign> [...]. In contrast to this, the
+                                vulgate inserts the prose statement before the verse.
+                            </item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.73">
                         <label xml:lang="en">cf. 1938 ed. 6.64.73</label>
                         <caesura/>
-                         antarābhaktan nāma | yad antare pāyate | pūrvāparayor bhaktayoḥ </l>
+                         āntarābhaktan nāma yad antare pīyate pūrvāparayor bhaktayoḥ | </l>
 
                     <l xml:id="SS.6.64.75cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.75cd</label>
                         <caesura/>
-                         hṛdyam manobalakaraṃ tv api dīpanañ ca pathyaṃ sadā bhavati
-                        cāntarabhaktakan tat || </l>
+                         hṛdyam manobalakaraṃ tv api dīpanañ ca 
+                        <caesura/>
+                         pathyaṃ sadā bhavati cāntarabhaktakan tat | </l>
 
                     <l xml:id="SS.6.64.74">
                         <label xml:lang="en">cf. 1938 ed. 6.64.74</label>
                         <caesura/>
-                         sabhaktan nāma | </l>
+                        sabhaktan nāma auṣadheṣu yat sādhyate |</l>
 
-                    <l xml:id="SS.6.64.74a">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.74a</label>
-                        <caesura/>
-                         auṣadhaiṣu yat sādhyate || </l>
 
                     <l xml:id="SS.6.64.75ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.75ab</label>
                         <caesura/>
-                         pathyaṃ sabhaktam abalābalayor hi nityaṃ tad dveṣiṇām api tathā
-                        śiśuvṛddhayoś ca | </l>
+                         pathyaṃ sabhaktam abalābalayor hi nityaṃ
+                        <caesura/>
+                        tad dveṣiṇām api tathā śiśuvṛddhayoś ca ||<anchor n="SS.6.64.75ab"/>  </l>
+                    <ab corresp="#SS.6.64.75ab" type="apparatus">
+                        <list type="Notes">
+                            <item xml:lang="en" corresp="#SS.6.64.75ab"> The metre is
+                                <foreign>vasantatilakā</foreign>. The Nepalese manuscripts split
+                                the halves of this verse with prose
+                                statement <foreign>sabhaktan nāma</foreign> [...]. In contrast to this, the
+                                vulgate inserts the prose statement before the verse.
+                            </item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.76">
                         <label xml:lang="en">cf. 1938 ed. 6.64.76</label>
                         <caesura/>
-                         sāmudgan nāma | yad bhaktasyādāvante ca pīyate || </l>
+                         sāmudgan nāma yad bhaktasyādāvante ca pīyate | </l>
 
                     <l xml:id="SS.6.64.77">
                         <label xml:lang="en">cf. 1938 ed. 6.64.77</label>
                         <caesura/>
-                         doṣe dvidhā prasārite tu samudgasaṃjñāḥ | ādyaantayor yad
-                        aśanasya niṣevyate tu || </l>
+                         doṣe dvidhā prasārite tu samudgasaṃjñāḥ 
+                        <caesura/>
+                         ādyaantayor yad aśanasya niṣevyate tu | </l>
 
                     <l xml:id="SS.6.64.78">
                         <label xml:lang="en">cf. 1938 ed. 6.64.78</label>
                         <caesura/>
-                         muhur muhur nāma | sabhaktam abhakta || </l>
+                         muhur muhur nāma sabhaktam abhakta | </l>
 
                     <l xml:id="SS.6.64.79">
                         <label xml:lang="en">cf. 1938 ed. 6.64.79</label>
                         <caesura/>
-                         śvāsai muhur muhur atiprasṛte ca kāse hikkāvamīṣu ca bhavaty
-                        upayojyam etat || </l>
+                         śvāsai muhur muhur atiprasṛte ca kāse 
+                        <caesura/>
+                         hikkāvamīṣu ca bhavaty upayojyam etat || </l>
 
                     <l xml:id="SS.6.64.80">
                         <label xml:lang="en">cf. 1938 ed. 6.64.80</label>
                         <caesura/>
-                         grāsan nāma | yatpiṇḍaṃ vyāmiśram upayujyate | </l>
+                         grāsan nāma yat piṇḍaṃ vyāmiśram upayujyate | </l>
 
                     <l xml:id="SS.6.64.82ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.82ab</label>
                         <caesura/>
-                         grāseṣu cūrṇṇamabalāgniṣu dīpanīyaṃ | vājīkarāṇy api ca yojayituṃ
-                        yateta || </l>
+                         grāseṣu cūrṇṇamabalāgniṣu dīpanīyaṃ
+                        <caesura/>
+                         vājīkarāṇy api ca yojayituṃ yateta | </l>
 
                     <l xml:id="SS.6.64.81">
                         <label xml:lang="en">cf. 1938 ed. 6.64.81</label>
@@ -3382,8 +3399,9 @@
                     <l xml:id="SS.6.64.82cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.82cd</label>
                         <caesura/>
-                         grāsāntareṣu visṛjed vamatīyadhūmāṃ cchvāsādiṣu
-                        prathitadṛṣṭaguṇāṃś ca lehān || </l>
+                         grāsāntareṣu visṛjed vamatīyadhūmāṃ 
+                        <caesura/>
+                         cchvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān || </l>
 
                     <l xml:id="SS.6.64.83">
                         <label xml:lang="en">cf. 1938 ed. 6.64.83</label>
