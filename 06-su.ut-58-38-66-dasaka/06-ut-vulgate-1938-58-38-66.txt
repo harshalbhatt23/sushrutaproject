@@ -1891,10 +1891,13 @@
                     <l xml:id="SS.6.64.71"> madhye bhaktaṃ nāma yan madhye bhaktasya
                         pīyate || </l>
 
-                    <l xml:id="SS.6.64.72ab"> pītaṃ yad annam upayujya tad ūrdhvakāye
+                    <l xml:id="SS.6.64.72ab"> 
+                        pītaṃ yad annam upayujya tad ūrdhvakāye
                         <caesura/>
                          hanyād gadān bahuvidhāṃś ca balaṃ dadāti |</l>
-                    <l xml:id="SS.6.64.72cd"> madhye tu pītam apahanty avisāribhāvād
+                    <l xml:id="SS.6.64.72cd"> 
+                        <caesura/>
+                        madhye tu pītam apahanty avisāribhāvād
                         <caesura/>
                          ye madhyadeham abhibhūya bhavanti rogāḥ || </l>
 

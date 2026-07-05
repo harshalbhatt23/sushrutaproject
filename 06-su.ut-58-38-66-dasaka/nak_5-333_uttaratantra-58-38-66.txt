@@ -2605,28 +2605,31 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                          dadyā<pb n="411r"
                              facs="415"/>c ca vṛddha<pc> </pc>sistūbhīru<pc> </pc>kṛśāṅganānyaḥ || </l>
 
-                    <l xml:id="SS.6.64.70"> adhobhaktan nāma || yadabhuktā pīyate </l>
+                    <l xml:id="SS.6.64.70"> adhobhaktan nāma || yad bhuktvā pīyate </l>
 
                     <l xml:id="SS.6.64.72ab"> pītaṃ yad annam upayujya tad ūrddhvakāye
+                        <caesura/>
                         hatvā gadāṃ bahuvidhāṃś ca balaṃ dadāti || </l>
 
-                    <l xml:id="SS.6.64.71"> madhye bhaktan nāma | yan madhye bhaktasya<lb
+                    <l xml:id="SS.6.64.71"> madhyabhaktan nāma | yan madhye bhaktasya<lb
                             n="2"/> pīyate | </l>
 
-                    <l xml:id="SS.6.64.72cd"> madhye ttū pītam apahanty avisāritābhāvā ye
-                        dehamadhya<cb/>m atibhūya bhavanti rogāḥ || </l>
+                    <l xml:id="SS.6.64.72cd"> madhye ttū pītam apahanty avisāritābhāvā 
+                        <caesura/>
+                        ye dehamadhya<cb/>m atibhūya bhavanti rogāḥ || </l>
 
-                    <l xml:id="SS.6.64.73"> antarābhaktan nāma || yad a<gap
+                    <l xml:id="SS.6.64.73"> āntarābhaktan nāma || yad a<gap
                             reason="omitted" extent="1" unit="char"/>re pāyate |
                         pūrvvāparayo bhaktayoḥ | </l>
 
-                    <l xml:id="SS.6.64.75cd"> hṛdyaṃ manoba<lb n="3"/>lakaraṃ tvapi
-                        dīpanañ ca | pathyaṃ <unclear>s</unclear>adā bhavati
+                    <l xml:id="SS.6.64.75cd"> hṛdyaṃ manoba<lb n="3"/>lakaraṃ tv api
+                        dīpanañ ca | 
+                        <caesura/>
+                        pathyaṃ sadā bhavati
                         cāntarabhaktakan tat<cb/> || </l>
 
-                    <l xml:id="SS.6.64.74"> sabhaktan nāma | </l>
+                    <l xml:id="SS.6.64.74"> sabhaktan nāma | oṣadheyu yat sādhyate  </l>
 
-                    <l xml:id="SS.6.64.74a"> oṣadheyu yat sādhyate | </l>
 
                     <l xml:id="SS.6.64.75ab"> pathyaṃ sabhaktam abalābalayor hi nityaṃ |
                         tad veṣiṇām api tathā<lb n="4"/> sistūvṛddhayoś ca || </l>
