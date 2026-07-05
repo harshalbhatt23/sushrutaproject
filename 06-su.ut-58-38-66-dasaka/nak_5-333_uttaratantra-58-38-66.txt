@@ -2632,6 +2632,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
 
                     <l xml:id="SS.6.64.75ab"> pathyaṃ sabhaktam abalābalayor hi nityaṃ |
+                        <caesura/>
                         tad veṣiṇām api tathā<lb n="4"/> sistūvṛddhayoś ca || </l>
 
                     <l xml:id="SS.6.64.76"> sāmudgan nāma | yad bhaktasyādāvante ca pīyate

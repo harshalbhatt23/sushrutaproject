@@ -2330,12 +2330,14 @@ iii) 19ef is placed after 18ab     -->
                         pathyaṃ <pb facs="266" n="208r"/><lb n="1"/>sadā bhavati
                         cāntarabhaktakan tat || </l>
 
-                    <l xml:id="SS.6.64.74"> sabhaktan nāma | auṣadhaiṣu yat sādhyate  </l>
+                    <l xml:id="SS.6.64.74"> sabhaktan nāma | auṣadheṣu yat sādhyate  </l>
 
                    
 
                     <l xml:id="SS.6.64.75ab"> pathyaṃ sabhaktam abalābalayor <cb/> hi
-                        nityaṃ tad dveṣiṇām api tathā śiśuvṛddhayoś ca | </l>
+                        nityaṃ 
+                        <caesura/>
+                        tad dveṣiṇām api tathā śiśuvṛddhayoś ca | </l>
 
                     <l xml:id="SS.6.64.76"> sāmudgan nāma | yad bhaktasyādāvante ca pīyate
                         || </l>
