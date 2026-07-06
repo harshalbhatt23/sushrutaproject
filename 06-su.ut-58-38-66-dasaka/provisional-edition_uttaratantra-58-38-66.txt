@@ -3229,7 +3229,7 @@
                         <caesura/>
                          ata ūrdhvaṃ daśauṣadhakālān vakṣyāmaḥ |
                          tatrābhaktam | prāgbhaktam | adhobhaktam | madhyabhaktam |
-                        āntarābhaktam | sabhaktam | sāmudgam | muhurmuhurgrāsam |
+                        āntarābhaktam | sabhaktam | sāmudgam | muhurmuhuḥ | grāsam |
                         grāsāntarañ ceti || </l>
 
                     <l xml:id="SS.6.64.66">
@@ -3353,55 +3353,61 @@
                     <l xml:id="SS.6.64.76">
                         <label xml:lang="en">cf. 1938 ed. 6.64.76</label>
                         <caesura/>
-                         sāmudgan nāma yad bhaktasyādāvante ca pīyate | </l>
+                         sāmudgan nāma yad bhaktasyādāv ante ca pīyate | </l>
 
                     <l xml:id="SS.6.64.77">
                         <label xml:lang="en">cf. 1938 ed. 6.64.77</label>
                         <caesura/>
-                         doṣe dvidhā prasārite tu samudgasaṃjñāḥ 
+                        doṣe dvidhā pravisṛte tu samudgasaṃjñam 
                         <caesura/>
-                         ādyaantayor yad aśanasya niṣevyate tu | </l>
+                        ādyantayor yad aśanasya niṣevyate tu | <anchor n="SS.6.64.77"/></l>
+                    
+                    <ab corresp="#SS.6.64.77" type="apparatus">
+                        <list type="Notes">
+                            <item xml:lang="en" corresp="#SS.6.64.77"> The vulgate's reading
+                                <foreign>pravisṛte</foreign> has been adopted to restore the metre,
+                                and °<foreign>saṃjñam</foreign> to restore the syntax.
+                            </item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.78">
                         <label xml:lang="en">cf. 1938 ed. 6.64.78</label>
                         <caesura/>
-                         muhur muhur nāma sabhaktam abhakta | </l>
+                        muhur muhur nāma sabhaktam abhaktaṃ vā yad auṣadhaṃ muhur muhur
+                        upayujyate |</l>
+                    
 
                     <l xml:id="SS.6.64.79">
                         <label xml:lang="en">cf. 1938 ed. 6.64.79</label>
                         <caesura/>
-                         śvāsai muhur muhur atiprasṛte ca kāse 
+                         śvāse muhur muhur atiprasṛte ca kāse 
                         <caesura/>
                          hikkāvamīṣu ca bhavaty upayojyam etat || </l>
 
                     <l xml:id="SS.6.64.80">
                         <label xml:lang="en">cf. 1938 ed. 6.64.80</label>
                         <caesura/>
-                         grāsan nāma yat piṇḍaṃ vyāmiśram upayujyate | </l>
+                         grāsan nāma yat piṇḍavyāmiśram upayujyate | </l>
 
                     <l xml:id="SS.6.64.82ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.82ab</label>
                         <caesura/>
-                         grāseṣu cūrṇṇamabalāgniṣu dīpanīyaṃ
+                         grāseṣu cūrṇṇam abalāgniṣu dīpanīyaṃ
                         <caesura/>
                          vājīkarāṇy api ca yojayituṃ yateta | </l>
 
                     <l xml:id="SS.6.64.81">
                         <label xml:lang="en">cf. 1938 ed. 6.64.81</label>
                         <caesura/>
-                         grāsāntaran nāma | </l>
-
-                    <l xml:id="SS.6.64.81.add">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.81a</label>
-                        <caesura/>
-                         piṇḍāntaraṃ yad upayujyate || </l>
+                         grāsāntaran nāma piṇḍāntaraṃ yad upayujyate | </l>
 
                     <l xml:id="SS.6.64.82cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.82cd</label>
                         <caesura/>
-                         grāsāntareṣu visṛjed vamatīyadhūmāṃ 
+                         grāsāntareṣu visṛjed vamatīyadhūmāc 
                         <caesura/>
-                         cchvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān || </l>
+                         chvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān || </l>
 
                     <l xml:id="SS.6.64.83">
                         <label xml:lang="en">cf. 1938 ed. 6.64.83</label>

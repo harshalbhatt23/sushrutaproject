@@ -1916,19 +1916,21 @@
                          pathyaṃ sadā bhavati cāntarabhaktakaṃ yat || </l>
                     <pb facs="898" n="814a"/>
 
-                    <l xml:id="SS.6.64.76"> sāmudgaṃ nāma yad bhaktasyādāvante ca pīyate
+                    <l xml:id="SS.6.64.76"> sāmudgaṃ nāma yad bhaktasyādāv ante ca pīyate
                         || </l>
 
                     <l xml:id="SS.6.64.77"> doṣe dvidhā pravisṛte tu samudgasaṃjñam
+                        <caesura/>
                         ādyantayor yad aśanasya niṣevyate tu || </l>
 
                     <l xml:id="SS.6.64.78"> muhur muhur nāma sabhaktam abhaktaṃ vā yad
                         auṣadhaṃ muhur muhur upayujyate || </l>
 
                     <l xml:id="SS.6.64.79"> śvāse muhurmuhur atiprasṛte ca kāse
+                        <caesura/>
                         hikkāvamīṣu sa vadanty upayojyam etat || </l>
 
-                    <l xml:id="SS.6.64.80"> grāsaṃ tu yatpiṇḍavyāmiśram || </l>
+                    <l xml:id="SS.6.64.80"> grāsaṃ tu yat piṇḍavyāmiśram || </l>
 
                     <l xml:id="SS.6.64.81"> grāsāntaraṃ tu yad grāsāntareṣu || </l>
 

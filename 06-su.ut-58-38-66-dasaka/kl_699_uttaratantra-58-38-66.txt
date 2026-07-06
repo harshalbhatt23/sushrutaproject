@@ -2272,7 +2272,7 @@ iii) 19ef is placed after 18ab     -->
                          tatrābhaktaṃ | prāgbhaktaṃ | <unclear reason="damaged"
                             >a</unclear><cb/>dhobhaktaṃ | madhyabha<cb/>ktaṃ |
                         antarābhaktaṃ | sabhaktaṃ | sāmudgaṃ |
-                        muhurmuhurgrāsaṃ | grāsāntarañ ceti || </l>
+                        muhurmuhur grāsaṃ | grāsāntarañ ceti || </l>
 
                     <l xml:id="SS.6.64.66"> tatrābhakta<lb n="5"/>n nāma yaḥ |
                         kevalam auṣadham upayujyate || </l>
@@ -2339,32 +2339,30 @@ iii) 19ef is placed after 18ab     -->
                         <caesura/>
                         tad dveṣiṇām api tathā śiśuvṛddhayoś ca | </l>
 
-                    <l xml:id="SS.6.64.76"> sāmudgan nāma | yad bhaktasyādāvante ca pīyate
+                    <l xml:id="SS.6.64.76"> sāmudgan nāma | yad bhaktasyādāv ante ca pīyate
                         || </l>
 
                     <l xml:id="SS.6.64.77"> doṣe dvidhā prasārite tu samudgasaṃjñāḥ |
-                        ādya<cb/>antayor yad aśanasya niṣevyate tu || </l>
+                        ādya<cb/>ntayor yad aśanasya niṣevyate tu || </l>
 
                     <l xml:id="SS.6.64.78"> muhu<unclear reason="damaged">r
                             muhur</unclear> nāma | sabhaktam abhakta<gap extent="14"
                             reason="broken" unit="char"/> || </l>
                     <lb n="2"/>
-                    <l xml:id="SS.6.64.79"> śvāsai muhur muhur atiprasṛte ca kāse
-                        hikkāvamīṣu ca bhavatyupayojyametat || </l>
+                    <l xml:id="SS.6.64.79"> śvāse muhur muhur atiprasṛte ca kāse
+                        <caesura/>
+                        hikkāvamīṣu ca bhavaty upayojyam etat || </l>
 
-                    <l xml:id="SS.6.64.80"> grāsan nāma | yatpi<cb/>ṇḍaṃ vyāmiśram
+                    <l xml:id="SS.6.64.80"> grāsan nāma | yat pi<cb/>ṇḍaṃ vyāmiśram
                         upayujyate | </l>
 
-                    <l xml:id="SS.6.64.82ab"> grāseṣu cūrṇṇama<unclear reason="damaged"
-                            >ba</unclear>lāgniṣu dīpanīyaṃ | vājīka<unclear>rā</unclear>ṇy
+                    <l xml:id="SS.6.64.82ab"> grāseṣu cūrṇṇam a<unclear reason="damaged"
+                            >ba</unclear>lāgniṣu dīpanīyaṃ | vājīka<corr>rā</corr>ṇy
                         api ca yojayituṃ yateta || </l>
 
-                    <l xml:id="SS.6.64.81"> grāsāntaran nāma | </l>
+                    <l xml:id="SS.6.64.81"> grāsāntaran nāma | piṇḍānta<cb/>raṃ yad upayujyate || </l>
 
-                    <l xml:id="SS.6.64.81.add"> piṇḍānta<cb/>raṃ yad upayujyate || </l>
-
-                    <l xml:id="SS.6.64.82cd"> grāsāntareṣu visṛjed vamatīyadhūmāṃ
-                        cchvāsādiṣu prathitadṛ<unclear reason="broken">ṣṭaguṇāṃś ca
+                    <l xml:id="SS.6.64.82cd"> grāsāntareṣu visṛjed vamanīyadhūmāṃc chvāsādiṣu prathitadṛ<unclear reason="damaged">ṣṭaguṇāṃś ca
                             lehān</unclear> || </l>
 
                     <l xml:id="SS.6.64.83">
