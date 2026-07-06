@@ -3229,7 +3229,7 @@
                         <caesura/>
                          ata ūrdhvaṃ daśauṣadhakālān vakṣyāmaḥ |
                          tatrābhaktam | prāgbhaktam | adhobhaktam | madhyabhaktam |
-                        āntarābhaktam | sabhaktam | sāmudgam | muhurmuhurgrāsam |
+                        āntarābhaktam | sabhaktam | sāmudgam | muhurmuhuḥ | grāsam |
                         grāsāntarañ ceti || </l>
 
                     <l xml:id="SS.6.64.66">
@@ -3272,7 +3272,7 @@
                     
                     <ab corresp="#SS.6.64.69" type="apparatus">
                         <list type="Notes">
-                            <item xml:lang="en" corresp="#SS.6.64.67"> The metre is
+                            <item xml:lang="en" corresp="#SS.6.64.69"> The metre is
                                 <foreign>vasantatilakā</foreign>. The second verse quarter of the
                                 Nepalese manuscripts is not metrical and has been
                             emended with the aid of the vulgate to restore the metre. 
@@ -3307,10 +3307,10 @@
                     <ab corresp="#SS.6.64.72cd" type="apparatus">
                         <list type="Notes">
                             <item xml:lang="en" corresp="#SS.6.64.72cd"> The metre is
-                                <foreign>vasantatilakā</foreign>. The Nepalese manuscripts split
-                                the halves of this verse with prose
-                                statement <foreign>madhyabhaktan nāma</foreign> [...]. In contrast to this, the
-                                vulgate inserts the prose statement before the verse.
+                                <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts, the
+                                verse is interrupted midway by the prose
+                                statement <foreign>madhyabhaktan nāma</foreign> [...], whereas the
+                                vulgate places this prose statement before the verse.
                             </item>
                         </list>
                     </ab>
@@ -3342,10 +3342,10 @@
                     <ab corresp="#SS.6.64.75ab" type="apparatus">
                         <list type="Notes">
                             <item xml:lang="en" corresp="#SS.6.64.75ab"> The metre is
-                                <foreign>vasantatilakā</foreign>. The Nepalese manuscripts split
-                                the halves of this verse with prose
-                                statement <foreign>sabhaktan nāma</foreign> [...]. In contrast to this, the
-                                vulgate inserts the prose statement before the verse.
+                                <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts, the
+                                verse is interrupted midway by the prose
+                                statement <foreign>sabhaktan nāma</foreign> [...], whereas the
+                                vulgate places this prose statement before the verse.
                             </item>
                         </list>
                     </ab>
@@ -3353,71 +3353,106 @@
                     <l xml:id="SS.6.64.76">
                         <label xml:lang="en">cf. 1938 ed. 6.64.76</label>
                         <caesura/>
-                         sāmudgan nāma yad bhaktasyādāvante ca pīyate | </l>
+                         sāmudgan nāma yad bhaktasyādāv ante ca pīyate | </l>
 
                     <l xml:id="SS.6.64.77">
                         <label xml:lang="en">cf. 1938 ed. 6.64.77</label>
                         <caesura/>
-                         doṣe dvidhā prasārite tu samudgasaṃjñāḥ 
+                        doṣe dvidhā pravisṛte tu samudgasaṃjñam 
                         <caesura/>
-                         ādyaantayor yad aśanasya niṣevyate tu | </l>
+                        ādyantayor yad aśanasya niṣevyate tu | <anchor n="SS.6.64.77"/></l>
+                    
+                    <ab corresp="#SS.6.64.77" type="apparatus">
+                        <list type="Notes">
+                            <item xml:lang="en" corresp="#SS.6.64.77"> The vulgate's reading
+                                <foreign>pravisṛte</foreign> has been adopted to restore the metre,
+                                and °<foreign>saṃjñam</foreign> to restore the syntax.
+                            </item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.78">
                         <label xml:lang="en">cf. 1938 ed. 6.64.78</label>
                         <caesura/>
-                         muhur muhur nāma sabhaktam abhakta | </l>
+                        muhur muhur nāma sabhaktam abhaktaṃ vā yad auṣadhaṃ muhur muhur
+                        upayujyate |</l>
+                    
 
                     <l xml:id="SS.6.64.79">
                         <label xml:lang="en">cf. 1938 ed. 6.64.79</label>
                         <caesura/>
-                         śvāsai muhur muhur atiprasṛte ca kāse 
+                         śvāse muhur muhur atiprasṛte ca kāse 
                         <caesura/>
-                         hikkāvamīṣu ca bhavaty upayojyam etat || </l>
+                        hikkāvamīṣu ca bhavaty upayojyam etat || <anchor n="SS.6.64.79"/>  </l>
+                    <ab corresp="#SS.6.64.79" type="apparatus">
+                        <list type="Notes">
+                            <item xml:lang="en" corresp="#SS.6.64.79"> The metre is
+                                <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts, the
+                                verse is interrupted midway by the prose
+                                statement <foreign>muhur muhur nāma</foreign> [...], whereas the
+                                vulgate places this prose statement before the verse.
+                            </item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.80">
                         <label xml:lang="en">cf. 1938 ed. 6.64.80</label>
                         <caesura/>
-                         grāsan nāma yat piṇḍaṃ vyāmiśram upayujyate | </l>
+                         grāsan nāma yat piṇḍavyāmiśram upayujyate | </l>
 
                     <l xml:id="SS.6.64.82ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.82ab</label>
                         <caesura/>
-                         grāseṣu cūrṇṇamabalāgniṣu dīpanīyaṃ
+                         grāseṣu cūrṇṇam abalāgniṣu dīpanīyaṃ
                         <caesura/>
                          vājīkarāṇy api ca yojayituṃ yateta | </l>
 
                     <l xml:id="SS.6.64.81">
                         <label xml:lang="en">cf. 1938 ed. 6.64.81</label>
                         <caesura/>
-                         grāsāntaran nāma | </l>
-
-                    <l xml:id="SS.6.64.81.add">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.81a</label>
-                        <caesura/>
-                         piṇḍāntaraṃ yad upayujyate || </l>
+                         grāsāntaran nāma piṇḍāntaraṃ yad upayujyate | </l>
 
                     <l xml:id="SS.6.64.82cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.82cd</label>
                         <caesura/>
-                         grāsāntareṣu visṛjed vamatīyadhūmāṃ 
+                         grāsāntareṣu visṛjed vamanīyadhūmāñ 
                         <caesura/>
-                         cchvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān || </l>
+                        chvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān ||<anchor n="SS.6.64.82cd"/>  </l>
+                    <ab corresp="#SS.6.64.82cd" type="apparatus">
+                        <list type="Notes">
+                            <item xml:lang="en" corresp="#SS.6.64.82cd"> The metre is
+                                <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts, the
+                                verse is interrupted midway by the prose
+                                statement <foreign>grāsāntaran nāma</foreign> [...], whereas the
+                                vulgate places this prose statement before the verse.
+                            </item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.83">
                         <label xml:lang="en">cf. 1938 ed. 6.64.83</label>
                         <caesura/>
-                         daśauṣadhakālā bhavanti || bhavati cātra | </l>
+                         daśauṣadhakālā bhavanti | bhavati cātra | </l>
 
                     <l xml:id="SS.6.64.84">
                         <label xml:lang="en">cf. 1938 ed. 6.64.84</label>
                         <caesura/>
-                         visṛṣṭe viṇmūtre viśadakaraṇair dehe ca sulaghau |
+                         visṛṣṭe viṇmūtre viśadakaraṇair dehe ca sulaghau 
                         <caesura/>
-                         śuddhe rodgare hṛdi ca vimale vāte ca sarati |
+                         viśuddhe codgāre hṛdi ca vimale vāte ca sarati |
                         <caesura/>
-                         tathānnaśuddhāyāṃ klamaparigame kukṣau ca śithile |
+                         tathānnaśraddhāyāṃ klamaparigame kukṣau ca śithile 
                         <caesura/>
-                         prayadeyas tv āhāro bhavati bhiṣajasātmyaprakriyeti | </l>
+                        pradeyas tv āhāro bhavati bhiṣajāṃ sātmyaprakriyeti || <anchor n="SS.6.64.84"/> </l>
+                    
+                    <ab corresp="#SS.6.64.84" type="apparatus">
+                        <list type="Notes">
+                            <item xml:lang="en" corresp="#SS.6.64.84"> This text can be scanned with
+                                four <foreign>pādas</foreign> of eighteen syllables, but I do not
+                                recognise the metre. 
+                            </item>
+                        </list>
+                    </ab>
 
                     <l xml:id="SS.6.64.84.add">
                         <label xml:lang="en">6.64.84.add</label>

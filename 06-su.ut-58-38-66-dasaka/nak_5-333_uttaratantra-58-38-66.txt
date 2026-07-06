@@ -2575,7 +2575,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.65"> ata ūrddhvaṃ daśoṣa<lb n="4"/>dhakālān
                         vakṣyāmaḥ ||
                          tatrābhaktaṃ prāgbhaktaṃ | adhobhaktaṃ | madhyebha<cb/>ktaṃ |
-                        āntarābhaktaṃ | subhaktaṃ | sāmudgaṃ | muhurmmuhurggrāsaṃ |
+                        āntarābhaktaṃ | subhaktaṃ | sāmudgaṃ | muhurmmuhur ggrāsaṃ |
                             grāsāntar<unclear>añ ce</unclear>ti || <gap reason="omitted"
                             extent="5" unit="char"/> || </l>
 
@@ -2635,19 +2635,20 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         <caesura/>
                         tad veṣiṇām api tathā<lb n="4"/> sistūvṛddhayoś ca || </l>
 
-                    <l xml:id="SS.6.64.76"> sāmudgan nāma | yad bhaktasyādāvante ca pīyate
+                    <l xml:id="SS.6.64.76"> sāmudgan nāma | yad bhaktasyādāv ante ca pīyate
                         |<cb/>
                     </l>
 
-                    <l xml:id="SS.6.64.77"> doṣe dvidhā pra<unclear>sa</unclear>vite ttū
+                    <l xml:id="SS.6.64.77"> doṣe dvidhā prasavite ttū
                         samudgasaṃjñāḥ | ādyantayo<gap reason="omitted" extent="10"
                             unit="char"/> || </l>
 
-                    <l xml:id="SS.6.64.78"> muhur mmuhurn nāma | sabha<lb n="5"/>ktam vā
+                    <l xml:id="SS.6.64.78"> muhur mmuhur nnāma | sabha<lb n="5"/>ktam vā
                         yad oṣadhaṃ muhur mmuhur upayujyate | </l>
 
                     <l xml:id="SS.6.64.79"> śvāse muhur mmuhur atipra<cb/>sṛte ca kāse
-                        hikkāvamīṣu ca bhavatyupayojyametat || </l>
+                        <caesura/>
+                        hikkāvamīṣu ca bhavaty upayojyam etat || </l>
 
                     <l xml:id="SS.6.64.80"> grāsan nāma | yat piṇḍaṃ vyāmiśram upayujyate
                         | </l>
@@ -2655,9 +2656,7 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     <l xml:id="SS.6.64.82ab"> grāse<lb n="6"/>ṣu cūrṇṇam abalāgniṣu
                         dīpanīyaṃ vājīkarāṇy api ca yojayituṃ yateta || </l>
 
-                    <l xml:id="SS.6.64.81"> grāsāntaran nāma | </l>
-
-                    <l xml:id="SS.6.64.81.add">piṇḍā<gap reason="omitted" extent="11"
+                    <l xml:id="SS.6.64.81"> grāsāntaran nāma | piṇḍā<gap reason="omitted" extent="11"
                             unit="char"/>
                     </l>
 
@@ -2666,16 +2665,16 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         vamanīyadhūmāc chvāsādiṣu<gap reason="omitted" extent="3"
                             unit="char"/>viṣṭa<pb n="411v" facs="415"/>guṇāṃś ca lehān || </l>
 
-                    <l xml:id="SS.6.64.83"> evam ete daśauṣadhakālā bhavanti || </l>
+                    <l xml:id="SS.6.64.83"> evam ete daśauṣadhakālā bhavanti || bhavati cātra || </l>
 
-                    <l xml:id="SS.6.64.84"> bhavati cātra ||
+                    <l xml:id="SS.6.64.84"> 
                         <caesura/>
                          visṛṣṭe viṇmūtre viśadakaraṇai | dehe ca sulaghau |
                         <caesura/>
-                        <unclear>sū</unclear>dve rodgare hṛdi ca vimale vāte ca sarati |
+                        sūddhe codgare hṛdi ca vimale vāte ca sarati |
                         <caesura/>
                          tathānnaśuddhāyā kla<lb n="2"/>maparisame
-                        <unclear>ktū</unclear>kṣau śithile |
+                        <unclear>kū</unclear>kṣau śithile |
                         <caesura/>
                          prayadeyas tv āhāro bhavati | <gap reason="omitted" extent="2"
                             unit="char"/>ṣaja<gap reason="omitted" extent="3" unit="char"
