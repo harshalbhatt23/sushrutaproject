@@ -2348,8 +2348,8 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.78"> muhu<unclear reason="damaged">r
                             muhur</unclear> nāma | sabhaktam abhakta<gap extent="14"
                             reason="broken" unit="char"/> || </l>
-                    <lb n="2"/>
-                    <l xml:id="SS.6.64.79"> śvāse muhur muhur atiprasṛte ca kāse
+                    
+                    <l xml:id="SS.6.64.79"> <lb n="2"/>śvāse muhur muhur atiprasṛte ca kāse
                         <caesura/>
                         hikkāvamīṣu ca bhavaty upayojyam etat || </l>
 
@@ -2372,15 +2372,14 @@ iii) 19ef is placed after 18ab     -->
                     <l xml:id="SS.6.64.84"> visṛṣṭe viṇmūtre viśadakaraṇair dehe ca
                         sulaghau |
                         <caesura/>
-                         śu<unclear reason="damaged">ddhe</unclear><cb/>
-                        <unclear reason="damaged">ro</unclear>dgare hṛdi ca vimale vāte ca
+                         śu<unclear reason="damaged">ddhe</unclear><cb/> 
+                        <unclear reason="damaged">co</unclear>dgāre hṛdi ca vimale vāte ca
                         sarati |
                         <caesura/>
-                         tathā<unclear reason="torn">nna</unclear>śuddhāyāṃ klamaparigame
+                         tathā<unclear reason="torn">nna</unclear>sraddhāyāṃ klamaparigame
                         kukṣau ca śithile |
                         <caesura/>
-                         prayadeyastv āhāro bhavati
-                        bhiṣaja<unclear>sātmya</unclear>prakriyeti | </l>
+                        pradeyas tv āhāro bhavati bhiṣajā sātmyaprakriyeti | </l>
 
                     <l xml:id="SS.6.64.84.add"> bhagavāṃn āha dha<abbr type="suspension"
                             >dhaṃ</abbr><ex>vantariḥ</ex> || </l>

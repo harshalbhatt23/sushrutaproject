@@ -2665,16 +2665,16 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                         vamanīyadhūmāc chvāsādiṣu<gap reason="omitted" extent="3"
                             unit="char"/>viṣṭa<pb n="411v" facs="415"/>guṇāṃś ca lehān || </l>
 
-                    <l xml:id="SS.6.64.83"> evam ete daśauṣadhakālā bhavanti || </l>
+                    <l xml:id="SS.6.64.83"> evam ete daśauṣadhakālā bhavanti || bhavati cātra || </l>
 
-                    <l xml:id="SS.6.64.84"> bhavati cātra ||
+                    <l xml:id="SS.6.64.84"> 
                         <caesura/>
                          visṛṣṭe viṇmūtre viśadakaraṇai | dehe ca sulaghau |
                         <caesura/>
-                        <unclear>sū</unclear>dve rodgare hṛdi ca vimale vāte ca sarati |
+                        sūddhe codgare hṛdi ca vimale vāte ca sarati |
                         <caesura/>
                          tathānnaśuddhāyā kla<lb n="2"/>maparisame
-                        <unclear>ktū</unclear>kṣau śithile |
+                        <unclear>kū</unclear>kṣau śithile |
                         <caesura/>
                          prayadeyas tv āhāro bhavati | <gap reason="omitted" extent="2"
                             unit="char"/>ṣaja<gap reason="omitted" extent="3" unit="char"
