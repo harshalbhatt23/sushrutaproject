@@ -3449,7 +3449,7 @@
                         <list type="Notes">
                             <item xml:lang="en" corresp="#SS.6.64.84"> This text can be scanned with
                                 four <foreign>pādas</foreign> of eighteen syllables, the first three
-                                with the same pattern and tfourth slightly different at the end.
+                                with the same pattern and the fourth slightly different at the end.
                                 However, I do not recognise the metre. Perhaps, it is a faulty
                                 <foreign>śārdūlalalita</foreign>.
                             </item>
