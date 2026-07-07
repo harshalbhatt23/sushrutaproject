@@ -3379,8 +3379,11 @@
                     <ab corresp="#SS.6.64.84" type="apparatus">
                         <list type="Notes">
                             <item xml:lang="en" corresp="#SS.6.64.84"> This text can be scanned with
-                                four <foreign>pādas</foreign> of eighteen syllables, but I do not
-                                recognise the metre. </item>
+                                four <foreign>pādas</foreign> of eighteen syllables, the first three
+                                with the same pattern and the fourth slightly different at the end.
+                                However, I do not recognise the metre. Perhaps, it is a faulty
+                                <foreign>śārdūlalalita</foreign>.
+                            </item>
                         </list>
                     </ab>
 
