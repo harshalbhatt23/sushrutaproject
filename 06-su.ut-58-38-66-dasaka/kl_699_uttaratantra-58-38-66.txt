@@ -2303,7 +2303,7 @@ iii) 19ef is placed after 18ab     -->
                         />dhobalam ādadhāti | 
                         <caesura/>
                         dad<unclear>yā</unclear>c ca
-                        vṛddha<pc> </pc>śisubhīru<pc> </pc>kṛśāṅganābhyaḥ || </l>
+                        vṛddha<pc> </pc>śiśubhīru<pc> </pc>kṛśāṅganābhyaḥ || </l>
 
                     <l xml:id="SS.6.64.70"> adhobhaktan nāma | yad bhuktvā pīyate | <cb/>
                     </l>
@@ -2362,7 +2362,9 @@ iii) 19ef is placed after 18ab     -->
 
                     <l xml:id="SS.6.64.81"> grāsāntaran nāma | piṇḍānta<cb/>raṃ yad upayujyate || </l>
 
-                    <l xml:id="SS.6.64.82cd"> grāsāntareṣu visṛjed vamanīyadhūmāṃc chvāsādiṣu prathitadṛ<unclear reason="damaged">ṣṭaguṇāṃś ca
+                    <l xml:id="SS.6.64.82cd"> grāsāntareṣu visṛjed vamanīya<pc> </pc>dhūmāṃc
+                        <caesura/>
+                        chvāsādiṣu prathitadṛ<unclear reason="damaged">ṣṭaguṇāṃś ca
                             lehān</unclear> || </l>
 
                     <l xml:id="SS.6.64.83">
