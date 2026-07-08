@@ -3196,7 +3196,7 @@
                         <caesura/>
                          prāgbhaktasevitam adhobalam ādadhāti
                         <caesura/>
-                         dadyāc ca vṛddha<pc> </pc>śisubhīru<pc> </pc>kṛśāṅganābhyaḥ || <anchor
+                         dadyāc ca vṛddha<pc> </pc>śiśubhīru<pc> </pc>kṛśāṅganābhyaḥ || <anchor
                             n="SS.6.64.69"/>
                     </l>
 
@@ -3344,7 +3344,7 @@
                     <l xml:id="SS.6.64.82cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.82cd</label>
                         <caesura/>
-                         grāsāntareṣu visṛjed vamanīyadhūmāñ
+                        grāsāntareṣu visṛjed vamanīya<pc> </pc>dhūmāñ
                         <caesura/>
                          chvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān ||<anchor n="SS.6.64.82cd"/>
                     </l>
@@ -3372,15 +3372,15 @@
                         <caesura/>
                          tathānnaśraddhāyāṃ klamaparigame kukṣau ca śithile
                         <caesura/>
-                         pradeyas tv āhāro bhavati bhiṣajāṃ sātmyaprakriyeti || <anchor
+                         pradeyas tv āhāro bhavati bhiṣajā sātmyaprakriyeti || <anchor
                             n="SS.6.64.84"/>
                     </l>
 
                     <ab corresp="#SS.6.64.84" type="apparatus">
                         <list type="Notes">
                             <item xml:lang="en" corresp="#SS.6.64.84"> This text can be scanned with
-                                four <foreign>pādas</foreign> of eighteen syllables, the first three
-                                with the same pattern and the fourth slightly different at the end.
+                                four <foreign>pādas</foreign> of eighteen syllables. The first three
+                                have the same pattern and, unlike the vulgate, the fourth is slightly different at the end.
                                 However, I do not recognise the metre. Perhaps, it is a faulty
                                 <foreign>śārdūlalalita</foreign>.
                             </item>

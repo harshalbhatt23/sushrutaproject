@@ -1669,7 +1669,7 @@
                     <l xml:id="SS.6.64.65"> ata ūrdhvaṃ daśauṣadhakālān vakṣyāmaḥ |
                         <caesura/>
                          tatrābhaktaṃ prāgbhaktam adhobhaktaṃ madhyebhaktam antarābhaktaṃ sabhaktaṃ
-                        sāmudgaṃ muhurmuhurgrāsaṃ grāsāntaraṃ ceti daśauṣadhakālāḥ || </l>
+                        sāmudgaṃ muhurmuhur grāsaṃ grāsāntaraṃ ceti daśauṣadhakālāḥ || </l>
 
                     <l xml:id="SS.6.64.66"> tatrābhaktaṃ tu yat kevalam evauṣadham upayujyate || </l>
 
@@ -1726,7 +1726,7 @@
                     <l xml:id="SS.6.64.78"> muhur muhur nāma sabhaktam abhaktaṃ vā yad auṣadhaṃ
                         muhur muhur upayujyate || </l>
 
-                    <l xml:id="SS.6.64.79"> śvāse muhurmuhur atiprasṛte ca kāse
+                    <l xml:id="SS.6.64.79"> śvāse muhur muhur atiprasṛte ca kāse
                         <caesura/>
                          hikkāvamīṣu sa vadanty upayojyam etat || </l>
 
@@ -1738,7 +1738,7 @@
                         <caesura/>
                          vājīkarāṇy api tu yojayituṃ yateta |</l>
 
-                    <l xml:id="SS.6.64.82cd"> grāsāntareṣu vitared vamanīyadhūmān
+                    <l xml:id="SS.6.64.82cd"> grāsāntareṣu vitared vamanīya<pc> </pc>dhūmān
                         <caesura/>
                          śvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān || </l>
 

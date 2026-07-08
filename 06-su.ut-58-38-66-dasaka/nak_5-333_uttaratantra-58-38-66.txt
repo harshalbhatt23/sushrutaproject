@@ -2378,8 +2378,9 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
                     </l>
 
                     <l xml:id="SS.6.64.82cd">
-                        <gap reason="omitted" extent="4" unit="char"/>ṣu visṛjed vamanīyadhūmāc
-                            chvāsādiṣu<gap reason="omitted" extent="3" unit="char"/>viṣṭa<pb
+                        <gap reason="omitted" extent="4" unit="char"/>ṣu visṛjed vamanīya<pc> </pc>dhūmāc
+                        <caesura/>
+                            chvāsādiṣu <gap reason="omitted" extent="3" unit="char"/>viṣṭa<pb
                             n="411v" facs="415"/>guṇāṃś ca lehān || </l>
 
                     <l xml:id="SS.6.64.83"> evam ete daśauṣadhakālā bhavanti || bhavati cātra || </l>
