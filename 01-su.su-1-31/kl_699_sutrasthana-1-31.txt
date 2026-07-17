@@ -990,14 +990,14 @@
 
 
 
-                    <l xml:id="SS.1.6.3">kālo hi bhagavāṃ svayambhur anādimadhyanidhano
-                        'tra rasavyāpatsampattayo jīvi<cb n="2"/>tamaraṇe ca manuṣyāṇām
+                    <l xml:id="SS.1.6.3">kālo hi bhagavāṃ svayaṃbhur anādimadhyanidhano
+                        tra rasavyāpatsampattayo jīvi<cb n="2"/>tamaraṇe ca manuṣyāṇām
                         āyatte ssa sūkṣmām api kalān na līyata iti kālaḥ | saṅkalayati <lb
                             n="2"/>kalayati vā bhūtānīti kālaḥ |</l>
 
                     <l xml:id="SS.1.6.4">tasya samvatsarātmano bhagavān ādityo
                             gativiśeṣeṇa<cb n="1"/>
-                        nimeṣakāṣṭhākalāmuhūrttāhorātrapakṣamāsartvayanasamvatsarayugapravibhāgaṃ
+                        nimeṣakāṣṭhākalāmuhūrttāhorātrapakṣamāsartvayana<pc> </pc>samvatsarayuga<pc> </pc>pravibhāgaṃ
                         karoti |</l>
 
                     <l xml:id="SS.1.6.5">tatra laghvakṣinipātamātro <cb n="2"/>nimeṣaḥ |

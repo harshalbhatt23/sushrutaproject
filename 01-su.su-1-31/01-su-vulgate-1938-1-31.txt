@@ -963,14 +963,14 @@
 
                     <l xml:id="SS.1.6.2"> yathovāca bhagavān dhanvantariḥ || </l>
 
-                    <l xml:id="SS.1.6.3"> kālo hi nāma (bhagavān ) svayambhur
+                    <l xml:id="SS.1.6.3"> kālo hi nāma (bhagavān) svayambhur
                         anādimadhyanidhanaḥ | atra rasavyāpatsampattī jīvitamaraṇe ca
-                        manuṣyāṇāmāyatte | sa sūkṣmām api kalāṃ na līyata iti kālaḥ,
+                        manuṣyāṇām āyatte | sa sūkṣmām api kalāṃ na līyata iti kālaḥ,
                         saṅkalayati kālayati vā bhūtānīti kālaḥ ||3|| </l>
 
                     <pb facs="110" n="24a"/>
                     <l xml:id="SS.1.6.4"> tasya saṃvatsarātmano bhagavān ādityo
-                        gativiśeṣeṇākṣinimeṣakāṣṭhākalāmuhūrtāhorātrapakṣamāsartvayanasaṃvatsarayugapravibhāgaṃ
+                        gativiśeṣeṇākṣinimeṣakāṣṭhākalāmuhūrtāhorātrapakṣamāsartvayana<pc> </pc>saṃvatsarayuga<pc> </pc>pravibhāgaṃ
                         karoti ||4|| </l>
 
                     <l xml:id="SS.1.6.5"> tatra laghvakṣaroccāraṇamātro 'kṣinimeṣaḥ,
