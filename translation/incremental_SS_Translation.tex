@@ -20,6 +20,7 @@
 %\sariratrue
 %\jasontrue.
 %
+%\includeonly{chapters/introduction}
 
 \title{Draft Translation of the Nepalese \emph{Suśrutasaṃhitā}}
 
@@ -41,6 +42,7 @@
 
 \newcommand{\ignoreargument}[1]{\empty }
 \ifjason
+    \includeonly{chapters/translation 1-06}
     \includeonly{chapters/translation 6-64}
 \fi
 \ifkalpa 
@@ -59,7 +61,7 @@
     chapters/translation 3-04,
 %    chapters/translation 3-09,
 %    chapters/translation 6-65,
-     chapters/bibliography and indexes
+%     chapters/bibliography and indexes
 } \fi       
 %
 \ifcikitsa \includeonly{%
@@ -68,10 +70,6 @@
     chapters/translation 4-05,
 %  chapters/bibliography and indexes
 }
-\fi
-\ifjason \includeonly{
-    chapters/translation 6-64
-    }
 \fi
 %
 % from 
@@ -103,10 +101,13 @@
             \thispagestyle{empty}
         \include{chapters/translation 1-03}
             \thispagestyle{empty}
+       \include{chapters/translation 1-06}
+            \thispagestyle{empty}
         \include{chapters/translation 1-10} % diagnosis
             \thispagestyle{empty}
         \include{chapters/translation 1-11} % preparing caustics
-\thispagestyle{empty}        \include{chapters/translation 1-13} % leeches
+            \thispagestyle{empty}        
+        \include{chapters/translation 1-13} % leeches
             \thispagestyle{empty}
         \include{chapters/translation 1-14} % blood
             \thispagestyle{empty}
