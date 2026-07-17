@@ -1498,23 +1498,23 @@
                     <l xml:id="SS.1.6.1">
                         <label xml:lang="en">cf. 1938 ed. 1.6.1</label>
                         <caesura/>
-                         athāto ṛtucaryāṃ vyākhyāsyāmaḥ ||</l>
+                         athāto ṛtucaryāṃ vyākhyāsyāmaḥ |</l>
 
                     <l xml:id="SS.1.6.2"/>
 
                     <l xml:id="SS.1.6.3">
                         <label xml:lang="en">cf. 1938 ed. 1.6.3</label>
                         <caesura/>
-                         kālo hi bhagavān svayambhur anādimadhyanidhano 'tra
-                        rasavyāpatsampattayo jīvitamaraṇe ca manuṣyāṇām āyatte sa sūkṣmām
+                         kālo hi bhagavān svayaṃbhur anādimadhyanidhanaḥ | atra
+                        rasavyāpatsampattayo jīvitamaraṇe ca manuṣyāṇām āyatte | sa sūkṣmām
                         api kalān na līyata iti kālaḥ | saṅkalayati kalayati vā bhūtānīti
                         kālaḥ |</l>
 
                     <l xml:id="SS.1.6.4">
                         <label xml:lang="en">cf. 1938 ed. 1.6.4</label>
                         <caesura/>
-                         tasya saṃvatsarātmano bhagavān ādityo gativiśeṣeṇa
-                        nimeṣakāṣṭhākalāmuhūrttāhorātrapakṣamāsartvayanasaṃvatsarayugapravibhāgaṃ
+                         tasya samvatsarātmano bhagavān ādityo gativiśeṣeṇa
+                         nimeṣakāṣṭhākalāmuhūrttāhorātrapakṣamāsartvayana<pc> </pc>samvatsarayuga<pc> </pc>pravibhāgaṃ
                         karoti |</l>
 
                     <l xml:id="SS.1.6.5">

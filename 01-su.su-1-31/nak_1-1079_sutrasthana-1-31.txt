@@ -1072,21 +1072,21 @@
 
                 <div n="6" type="adhyāya">
 
-                    <l xml:id="SS.1.6.1"> athāto ṛtucaryāṃ vyākhyāsyāmaḥ || </l>
+                    <l xml:id="SS.1.6.1"> athāto ṛtucaryāṃ <abbr
+                            type="suspension">vyā</abbr><ex>khyāsyāmaḥ</ex> || </l>
 
 
 
                     <l xml:id="SS.1.6.3">
-                        <cb/> kālo hi bhagavān svayaṃbhur anādimadhyanidhano 'tra
-                        rasavyāpas tasya tu yo jīvitamaraṇe ca manuṣyāṇām
-                            āyan<unclear>ta</unclear> sma <unclear>sṛ</unclear>kṣmam api
+                        <cb/> kālo hi bhagavān svayaṃbhur anādimadhyanidhano tra
+                        rasavyāpatsampattayo jīvitamaraṇe ca manuṣyāṇām
+                            āyante sma sūkṣmam api
                         <cb/> kalān na līyata iti kālaḥ | saṅkālayati kalayati vā
                         bhūtānīti kālaḥ || </l>
 
                     <l xml:id="SS.1.6.4"> tasya samvatsarātmano bhagavān ādi<lb n="3"/>tyo
                         gativiśeṣeṇa
-                            nimeṣakāṣṭhākalāmuhūrtāhorātrapakṣamāsa<cb/>rtvayana<sic
-                            ana="saṃvatsara">saṃvara</sic>yugapravibhā<cb/>gaṃ karoti || </l>
+                        nimeṣakāṣṭhākalāmuhūrtāhorātrapakṣamāsa<cb/>rtvayana<pc> </pc>saṃvarayuga<pc> </pc>pravibhā<cb/>gaṃ karoti || </l>
 
 
                     <l xml:id="SS.1.6.5"> tatra laghvakṣinipātamātro nimeṣaḥ

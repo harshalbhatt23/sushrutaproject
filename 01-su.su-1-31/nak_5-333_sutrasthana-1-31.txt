@@ -1227,21 +1227,20 @@
 
                     <milestone facs="dscn2986 fol 010.jpg upper" n="10v6" unit="jpeg"/>
 
-                    <l xml:id="SS.1.6.1"> athāto <unclear>ṛ</unclear>tucaryāṃ
-                            vyākhyā<del>m</del><add>s</add>yāmaḥ || </l>
+                    <l xml:id="SS.1.6.1"> athāto ṛtucaryām
+                            vyākhyāsyāmaḥ || </l>
 
 
-                    <l xml:id="SS.1.6.3"> kālo hi bhagavān svayaṃbhūr anādimadhyanidhano
-                        'tra ra<del>ma</del><add>sa</add>vyāpatsampattayo jīvitamaraṇe ca
-                        manuṣyāṇām āyante <del>mma</del><add>ssa</add> mū<unclear
-                            extent="1" unit="char"/><pb ana="dscn2986 fol 010.jpg lower"
-                            facs="12" n="11r"/><lb n="1"/>kṣmām api ka<add place="above"
-                                ><del ana="unclear" extent="1" type="char"/></add>lān na
+                    <l xml:id="SS.1.6.3"> kālo hi bhagavān svayambhūr anādimadhyanidhano
+                        'tra rasavyāpatsampattayo jīvitamaraṇe ca
+                        manuṣyāṇām āyante ssa sū
+                        <pb ana="dscn2986 fol 010.jpg lower"
+                            facs="12" n="11r"/><lb n="1"/>kṣmām api kalān na
                         līyata iti kālaḥ || saṅkālayati kalayati vā bhūtānīti kālaḥ || </l>
 
                     <l xml:id="SS.1.6.4"> tasya saṃvatsarātmano bhagavān ādityo
                         gativiśeṣeṇa nimeṣakāṣṭhākalāmuhūrttāhorātrapakṣa<lb n="2"
-                        />māsarttcayanasaṃvatsarayugapratibhāgaṅ karoti || </l>
+                        />māsarttayana<pc> </pc>saṃvatsarayuga<pc> </pc>pratibhāgaṅ karoti || </l>
 
                     <l xml:id="SS.1.6.5"> tatra laghvakṣini<cb/>pātamātro nimeṣaḥ |
                         pañcadaśanimeṣāḥ kāṣṭhā | triṃśatkāṣṭhā kalā | viṃśatikalā
