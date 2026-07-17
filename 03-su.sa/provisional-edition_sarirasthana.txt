@@ -2263,14 +2263,14 @@
                     <l xml:id="SS.3.4.82">
                         <label xml:lang="en">cf. 1938 ed. 3.4.82</label>
                         <caesura/>
-                         sauryam ājñā mahābhāgyaṃ satataṃ śāstrabuddhitā |
+                         śauryam ājñā mahābhāgyaṃ satataṃ śāstrabuddhitā |
                         <caesura/>
-                         bhṛtyānāṃ bharaṇañ caiva māhendraṃ kāyalakṣaṇaṃ || </l>
+                         bhṛtyānāṃ bharaṇañ caiva māhendraṃ kāyalakṣaṇam || </l>
 
                     <l xml:id="SS.3.4.83">
                         <label xml:lang="en">cf. 1938 ed. 3.4.83</label>
                         <caesura/>
-                         sahiṣṇutatā śītasevā paiṅgākhyaṃ harikeśatā |
+                         sahiṣṇutatā śītasevā paiṅgalyaṃ harikeśatā |
                         <caesura/>
                          priyodakatvañ ca tathā vāruṇaṅ kāyalakṣaṇam || </l>
 
