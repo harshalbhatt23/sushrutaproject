@@ -1086,12 +1086,12 @@
 
                     <l xml:id="SS.1.6.4"> tasya samvatsarātmano bhagavān ādi<lb n="3"/>tyo
                         gativiśeṣeṇa
-                        nimeṣakāṣṭhākalāmuhūrtāhorātrapakṣamāsa<cb/>rtvayana<pc> </pc>saṃvarayuga<pc> </pc>pravibhā<cb/>gaṃ karoti || </l>
+                        nimeṣakāṣṭhākalāmuhūrtāhorātrapakṣamāsa<cb/>rtvayana<pc> </pc>saṃvara<pc> </pc>yuga<pc> </pc>pravibhā<cb/>gaṃ karoti || </l>
 
 
                     <l xml:id="SS.1.6.5"> tatra laghvakṣinipātamātro nimeṣaḥ
-                        pañcadaśanimeṣāmātrā kāṣṭhā triṃśatkāṣṭhā kalā | viṃśatikalā
-                        muhūrttaḥ <cb/> kalāyā daśabhāgaś ca | triṃṣan muhūrttam ahorātraṃ
+                        pañcadaśanimeṣamātrā kāṣṭhā triṃśatkāṣṭhā kalā | viṃśatikalā
+                        muhūrttaḥ <cb/> kalāyā daśabhāgaś ca | triṃṣanmuhūrttam ahorātraṃ
                         | pañcadaśāhorātraḥ pakṣaḥ | sa dvividhaḥ kṛṣṇaḥ śuklaś ca tau
                         māsaḥ || </l>
 

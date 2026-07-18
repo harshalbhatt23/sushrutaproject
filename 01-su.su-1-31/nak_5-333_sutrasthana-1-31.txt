@@ -1240,11 +1240,11 @@
 
                     <l xml:id="SS.1.6.4"> tasya saṃvatsarātmano bhagavān ādityo
                         gativiśeṣeṇa nimeṣakāṣṭhākalāmuhūrttāhorātrapakṣa<lb n="2"
-                        />māsarttayana<pc> </pc>saṃvatsarayuga<pc> </pc>pratibhāgaṅ karoti || </l>
+                        />māsarttayana<pc> </pc>saṃvatsara<pc> </pc>yuga<pc> </pc>pratibhāgaṅ karoti || </l>
 
                     <l xml:id="SS.1.6.5"> tatra laghvakṣini<cb/>pātamātro nimeṣaḥ |
                         pañcadaśanimeṣāḥ kāṣṭhā | triṃśatkāṣṭhā kalā | viṃśatikalā
-                        muhūrttaḥ kalā<unclear extent="1" unit="char"/><lb n="3"/>yā
+                        muhūrttaḥ kalā<lb n="3"/>yā
                         daśabhāgaś ca | triṃśatmuhūrttam ahorātraṃ |
                         pañcadaśāhorātra<cb/>ḥ pakṣaḥ | sa dvividhaḥ kṛṣṇaḥ śuklaś ca tau
                         māsaḥ || </l>
