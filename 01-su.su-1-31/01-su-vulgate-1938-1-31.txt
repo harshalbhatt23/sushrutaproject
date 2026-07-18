@@ -970,13 +970,13 @@
 
                     <pb facs="110" n="24a"/>
                     <l xml:id="SS.1.6.4"> tasya saṃvatsarātmano bhagavān ādityo
-                        gativiśeṣeṇākṣinimeṣakāṣṭhākalāmuhūrtāhorātrapakṣamāsartvayana<pc> </pc>saṃvatsarayuga<pc> </pc>pravibhāgaṃ
+                        gativiśeṣeṇākṣinimeṣakāṣṭhākalāmuhūrtāhorātrapakṣamāsartvayana<pc> </pc>saṃvatsara<pc> </pc>yuga<pc> </pc>pravibhāgaṃ
                         karoti ||4|| </l>
 
                     <l xml:id="SS.1.6.5"> tatra laghvakṣaroccāraṇamātro 'kṣinimeṣaḥ,
                         pañcadaśā'kṣinimeṣāḥ kāṣṭhā, triṃśatkāṣṭhāḥ kalā, viṃśatikalo
-                        muhūrtaḥ kalādaśabhāgaśca, triṃśanmuhūrtamahorātraṃ,
-                        pañcadaśāhorātrāṇi pakṣaḥ, sa ca dvividhaḥ- śuklaḥ kṛṣṇaśca, tau
+                        muhūrtaḥ kalādaśabhāgaś ca, triṃśanmuhūrtamahorātraṃ,
+                        pañcadaśāhorātrāṇi pakṣaḥ, sa ca dvividhaḥ- śuklaḥ kṛṣṇaś ca, tau
                         māsaḥ ||5|| </l>
 
                     <l xml:id="SS.1.6.6"> tatra māghādayo dvādaśa māsāḥ, dvimāsikamṛtuṃ

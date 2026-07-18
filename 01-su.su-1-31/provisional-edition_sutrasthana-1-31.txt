@@ -1514,16 +1514,16 @@
                         <label xml:lang="en">cf. 1938 ed. 1.6.4</label>
                         <caesura/>
                          tasya samvatsarātmano bhagavān ādityo gativiśeṣeṇa
-                         nimeṣakāṣṭhākalāmuhūrttāhorātrapakṣamāsartvayana<pc> </pc>samvatsarayuga<pc> </pc>pravibhāgaṃ
+                         nimeṣakāṣṭhākalāmuhūrttāhorātrapakṣamāsartvayana<pc> </pc>samvatsara<pc> </pc>yuga<pc> </pc>pravibhāgaṃ
                         karoti |</l>
 
                     <l xml:id="SS.1.6.5">
                         <label xml:lang="en">cf. 1938 ed. 1.6.5</label>
                         <caesura/>
-                         tatra laghvakṣinipātamātro nimeṣaḥ | pañcadaśanimeṣā kāṣṭhā
-                        triṅśatkāṣṭhā kalā | viṅśatikalā muhūrttaḥ kalāyāḥ daśabhāgaś ca |
-                        triṃśatmuhūrttam ahorātraṃ | pañcadaśāhorātraḥ pakṣaḥ | sa
-                        dvividhaḥ kṛṣṇaḥ śuklaś ca tau māsaḥ | </l>
+                         tatra laghvakṣinipātamātro nimeṣaḥ | pañcadaśanimeṣā kāṣṭhā |
+                         triṅśatkāṣṭhā kalā | viṅśatikalo muhūrttaḥ kalāyāḥ daśabhāgaś ca |
+                        triṃśanmuhūrttam ahorātram | pañcadaśāhorātraḥ pakṣaḥ | sa
+                        dvividhaḥ kṛṣṇaḥ śuklaś ca | tau māsaḥ | </l>
 
                     <l xml:id="SS.1.6.6">
                         <label xml:lang="en">cf. 1938 ed. 1.6.6</label>

@@ -997,12 +997,12 @@
 
                     <l xml:id="SS.1.6.4">tasya samvatsarātmano bhagavān ādityo
                             gativiśeṣeṇa<cb n="1"/>
-                        nimeṣakāṣṭhākalāmuhūrttāhorātrapakṣamāsartvayana<pc> </pc>samvatsarayuga<pc> </pc>pravibhāgaṃ
+                        nimeṣakāṣṭhākalāmuhūrttāhorātrapakṣamāsartvayana<pc> </pc>samvatsara<pc> </pc>yuga<pc> </pc>pravibhāgaṃ
                         karoti |</l>
 
                     <l xml:id="SS.1.6.5">tatra laghvakṣinipātamātro <cb n="2"/>nimeṣaḥ |
-                        pañcadaśa nimeṣā kāṣṭhā triṅśat kāṣṭhā kalā | viṅśati kalā
-                        muhūrttaḥ kalāyāḥ daśa<lb n="3"/>bhāgaś ca | triṃśat muhūrttam
+                        pañcadaśanimeṣā kāṣṭhā triṅśatkāṣṭhā kalā | viṅśatikalo
+                        muhūrttaḥ kalāyāḥ daśa<lb n="3"/>bhāgaś ca | triṃśanmuhūrttam
                         ahorātraṃ | pañcadaśāhorātraḥ pakṣaḥ | sa dvividhaḥ kṛṣṇaḥ śuklaś
                         ca tau<cb n="1"/> māsaḥ | </l>
 
