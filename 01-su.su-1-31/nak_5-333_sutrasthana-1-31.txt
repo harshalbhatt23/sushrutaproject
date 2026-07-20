@@ -1250,11 +1250,8 @@
                         māsaḥ || </l>
 
                     <l xml:id="SS.1.6.6"> tatra māghādayo dvādaśa māsāḥ saṃvatsaraḥ |
-                            dvimā<lb n="4"/>sikam ṛtuṅ kṛtva ṣaḍṛtavo bhavanti | te ca
-                            śiśiravasantagrīṣma<unclear extent="1" unit="char"
-                            /><cb/>varṣā<unclear extent="1" unit="char"
-                            />śaraddhemantāḥ<add place="below"><unclear n="1" unit="char"
-                            /></add> teṣan tapastapsyau śiśiraḥ | madhumādhavau vasantaḥ |
+    Spring                         dvimā<lb n="4"/>sikam ṛtuṅ kṛtvā ṣaḍṛtavo bhavanti | te ca
+                            śiśiravasantagrīṣma<cb/>varṣāśaraddhemantāḥ teṣan tapastapasyau śiśiraḥ | madhumādhavau vasantaḥ |
                         śuciśukrau grīṣmaḥ | nabhonabha<lb n="5"/>syau varṣāḥ | iṣorjau
                         śarat | sahaḥsahasyau hemanta<subst>
                             <del>ḥ</del>

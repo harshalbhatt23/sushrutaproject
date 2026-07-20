@@ -1484,7 +1484,7 @@
                         <caesura/>
                          ) hemante lavaṇakṣāratiktāmlakaṭukotkaṭam || </l>
 
-                    <l xml:id="SS.6.64.24"> sasarpis tailam ahim aśanaṃ hitam ucyate |
+                    <l xml:id="SS.6.64.24"> sasarpis tailam ahimam aśanaṃ hitam ucyate |
                         <caesura/>
                          tīkṣṇāny api ca pānāni pibed agurubhūṣitaḥ || </l>
 

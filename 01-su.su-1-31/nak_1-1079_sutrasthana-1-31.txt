@@ -1098,8 +1098,8 @@
                     <l xml:id="SS.1.6.6">
                         <lb n="4"/> tatra māghādayo dvādaśa māsāḥ samvatsaraḥ ||
                         <!-- MSS has this part included as part of the previous passage -->
-                        dvimāsikām ṛtuṃ kṛtva ṣaḍṛtavo bhavanti || te ca
-                        śiśiravasa<cb/>ntagrīṣmavarṣāsaraddhemantāḥ teṣan tapastapsyau
+                        dvimāsikām ṛtuṃ kṛtvā ṣaḍṛtavo bhavanti || te ca
+                        śiśiravasa<cb/>ntagrīṣmavarṣāsaraddhemantāḥ teṣan tapastapasyau
                         śiśiraḥ madhumādhavau vasantaḥ | śuciśukrau grīṣmaḥ |
                         nabhonabhasyau varṣā || <sic ana="possibly iṣorjai">iṣojai</sic>
                         <cb/> śarat sahaḥsahasyau hemanta iti || </l>
