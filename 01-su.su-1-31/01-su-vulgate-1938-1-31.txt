@@ -979,7 +979,7 @@
                         pañcadaśāhorātrāṇi pakṣaḥ, sa ca dvividhaḥ- śuklaḥ kṛṣṇaś ca, tau
                         māsaḥ ||5|| </l>
 
-                    <l xml:id="SS.1.6.6"> tatra māghādayo dvādaśa māsāḥ, dvimāsikamṛtuṃ
+                    <l xml:id="SS.1.6.6"> tatra māghādayo dvādaśa māsāḥ, dvimāsikam ṛtuṃ
                         kṛtvā ṣaḍṛtavo bhavanti; te śiśiravasantagrīṣmavarṣāśaraddhemantāḥ
                         | teṣāṃ tapastapasyau śiśiraḥ, madhumādhavau vasantaḥ, śuciśukrau
                         grīṣmaḥ, nabhonabhasyau varṣāḥ, iṣorjau śarat, sahaḥsahasyau

@@ -1007,7 +1007,7 @@
                         ca tau<cb n="1"/> māsaḥ | </l>
 
                     <l xml:id="SS.1.6.6">tatra māghādayo dvādaśa māsāḥ samvatsaraḥ |
-                        dvimāsikam ṛtuṅ kṛtvā ṣa<unclear>ḍ ṛ</unclear>tavo bhavanti || te
+                        dvimāsikam ṛtuṅ kṛtvā ṣaḍṛtavo bhavanti || te
                         ca śiśiravasantagrī<cb n="2"/>ṣmavarṣāśaraddhemantāḥ | teṣān
                         tapastapasyau śiśiraḥ | madhumādhavau vasantaḥ | śuciśukrau
                             grīṣmaḥ<lb n="4"/> nabhonabhasyau varṣā | iṣorjau śarat |

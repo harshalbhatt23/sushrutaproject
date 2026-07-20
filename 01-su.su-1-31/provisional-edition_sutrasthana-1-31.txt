@@ -1528,9 +1528,9 @@
                     <l xml:id="SS.1.6.6">
                         <label xml:lang="en">cf. 1938 ed. 1.6.6</label>
                         <caesura/>
-                         tatra māghādayo dvādaśa māsāḥ saṃvatsaraḥ | dvimāsikam ṛtuṅ kṛtvā
-                        ṣaḍṛtavo bhavanti || te ca śiśiravasantagrīṣmavarṣāśaraddhemantāḥ
-                        | teṣaṃ tapastapasyau śiśiraḥ | madhumādhavau vasantaḥ |
+                         tatra māghādayo dvādaśa māsāḥ samvatsaraḥ | dvimāsikam ṛtuṅ kṛtvā
+                        ṣaḍṛtavo bhavanti | te ca śiśiravasantagrīṣmavarṣāśaraddhemantāḥ
+                        | teṣan tapastapasyau śiśiraḥ | madhumādhavau vasantaḥ |
                         śuciśukrau grīṣmaḥ nabhonabhasyau varṣā | iṣorjau śarat |
                         sahassahasyau hemanta iti |</l>
 
