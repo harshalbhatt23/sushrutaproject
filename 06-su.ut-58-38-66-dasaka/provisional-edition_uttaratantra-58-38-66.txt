@@ -2540,14 +2540,17 @@
                     <ab corresp="#SS.6.64.18cd" type="apparatus">
                         <list type="Note">
                             <item xml:lang="en" corresp="#SS.6.64.18cd-n1">In the vulgate (Ācārya
-                                1938: 809), the
-                                verses from <foreign xml:lang="sa">svāduśītajalaṃ [...]</foreign> to
-                                <foreign xml:lang="sa">[...] samācared</foreign>, with the exception of two
-                                hemistiches (<foreign xml:lang="sa">śaratsu pavanañ caiva
-                                    kamalotpalaśāliṣu</foreign> and <foreign xml:lang="sa">candrapādāḥ sahṛdvargaḥ
-                                        sukhāni madhurāgiraḥ</foreign>), have been included in round
-                                brackets with a footnote (note 5) stating, ``This passage is not found in the manuscripts.'' Presumably Ācārya took this passage from a Calcutta/Rajshahi printed edition that he consulted (Wujastyk, Birch, et al. 2023: 28–29).  Also, Ḍalhaṇa does not comment on these
-                                verses. </item>
+                                1938: 809), the verses from <foreign xml:lang="sa">svāduśītajalaṃ
+                                    [...]</foreign> to <foreign xml:lang="sa">[...]
+                                    samācared</foreign>, with the exception of two hemistiches
+                                    (<foreign xml:lang="sa">śaratsu pavanañ caiva
+                                    kamalotpalaśāliṣu</foreign> and <foreign xml:lang="sa"
+                                    >candrapādāḥ sahṛdvargaḥ sukhāni madhurāgiraḥ</foreign>), have
+                                been included in round brackets with a footnote (note 5) stating,
+                                ``This passage is not found in the manuscripts.'' Presumably Ācārya
+                                took this passage from a Calcutta/Rajshahi printed edition that he
+                                consulted (Wujastyk, Birch, et al. 2023: 28–29). Also, Ḍalhaṇa does
+                                not comment on these verses. </item>
                         </list>
                     </ab>
 
@@ -3344,7 +3347,7 @@
                     <l xml:id="SS.6.64.82cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.82cd</label>
                         <caesura/>
-                        grāsāntareṣu visṛjed vamanīya<pc> </pc>dhūmāñ
+                         grāsāntareṣu visṛjed vamanīya<pc> </pc>dhūmāñ
                         <caesura/>
                          chvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān ||<anchor n="SS.6.64.82cd"/>
                     </l>
@@ -3380,9 +3383,9 @@
                         <list type="Notes">
                             <item xml:lang="en" corresp="#SS.6.64.84"> This text can be scanned with
                                 four <foreign>pādas</foreign> of eighteen syllables. The first three
-                                have the same pattern and, unlike the vulgate, the fourth is slightly different at the end.
-                                However, I do not recognise the metre. Perhaps, it is a faulty
-                                <foreign>śārdūlalalita</foreign>.
+                                have the same pattern and, unlike the vulgate, the fourth is
+                                slightly different at the end. However, I do not recognise the
+                                metre. Perhaps, it is a faulty <foreign>śārdūlalalita</foreign>.
                             </item>
                         </list>
                     </ab>
