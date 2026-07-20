@@ -1530,7 +1530,7 @@
                         <caesura/>
                          tatra māghādayo dvādaśa māsāḥ samvatsaraḥ | dvimāsikam ṛtuṅ kṛtvā
                         ṣaḍṛtavo bhavanti | te ca śiśiravasantagrīṣmavarṣāśaraddhemantāḥ
-                        | teṣan tapastapasyau śiśiraḥ | madhumādhavau vasantaḥ |
+                        | teṣān tapastapasyau śiśiraḥ | madhumādhavau vasantaḥ |
                         śuciśukrau grīṣmaḥ nabhonabhasyau varṣā | iṣorjau śarat |
                         sahassahasyau hemanta iti |</l>
 
