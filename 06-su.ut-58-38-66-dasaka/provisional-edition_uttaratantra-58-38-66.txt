@@ -3226,8 +3226,8 @@
                         <list type="Notes">
                             <item xml:lang="en" corresp="#SS.6.64.72cd"> The metre is
                                     <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts,
-                                the verse is interrupted midway by the prose statement
-                                    <foreign>madhyabhaktan nāma</foreign> [...], whereas the vulgate
+                                the verse (consisting of hemistiches numbered 91 and 93) is
+                                interrupted midway by the prose statement (numbered 92), whereas the vulgate
                                 places this prose statement before the verse. </item>
                         </list>
                     </ab>
@@ -3261,8 +3261,8 @@
                         <list type="Notes">
                             <item xml:lang="en" corresp="#SS.6.64.75ab"> The metre is
                                     <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts,
-                                the verse is interrupted midway by the prose statement
-                                    <foreign>sabhaktan nāma</foreign> [...], whereas the vulgate
+                                the verse (consisting of hemistiches numbered 95 and 97) is
+                                interrupted midway by the prose statement (numbered 96), whereas the vulgate
                                 places this prose statement before the verse. </item>
                         </list>
                     </ab>
@@ -3306,8 +3306,8 @@
                         <list type="Notes">
                             <item xml:lang="en" corresp="#SS.6.64.79"> The metre is
                                     <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts,
-                                the verse is interrupted midway by the prose statement
-                                    <foreign>muhur muhur nāma</foreign> [...], whereas the vulgate
+                                the verse (consisting of hemistiches numbered 99 and 101) is
+                                interrupted midway by the prose statement (numbered 100), whereas the vulgate
                                 places this prose statement before the verse. </item>
                         </list>
                     </ab>
@@ -3340,8 +3340,8 @@
                         <list type="Notes">
                             <item xml:lang="en" corresp="#SS.6.64.82cd"> The metre is
                                     <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts,
-                                the verse is interrupted midway by the prose statement
-                                    <foreign>grāsāntaran nāma</foreign> [...], whereas the vulgate
+                                the verse (consisting of hemistiches numbered 103 and 105) is
+                                interrupted midway by the prose statement (numbered 104), whereas the vulgate
                                 places this prose statement before the verse. </item>
                         </list>
                     </ab>
