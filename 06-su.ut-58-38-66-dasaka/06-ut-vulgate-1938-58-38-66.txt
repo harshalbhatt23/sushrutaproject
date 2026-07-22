@@ -1621,11 +1621,10 @@
                     <pb facs="896" n="812a"/>
                     <l xml:id="SS.6.64.55cd"> ṛtāv ṛtau ya etena vidhinā vartate naraḥ || </l>
 
-
-
-                    <l xml:id="SS.6.64.55ef"> ghorān ṛtukṛtān rogān nāpnoti sa kadā cana | </l>
-
-                    <l xml:id="SS.6.64.56"> ata ūrdhvaṃ dvādaśāśanapravicārān vakṣyāmaḥ |
+                    <l xml:id="SS.6.64.56"> 
+                        ghorān ṛtukṛtān rogān nāpnoti sa kadā cana | 
+                        <caesura/>
+                        ata ūrdhvaṃ dvādaśāśanapravicārān vakṣyāmaḥ |
                         <caesura/>
                          tatra śītoṣṇasnigdharūkṣadrava<pc> </pc>śuṣkaika<pc
                             > </pc>kālikadvikālikauṣadhayukta<pc> </pc>mātrāhīna<pc

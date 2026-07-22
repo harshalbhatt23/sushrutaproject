@@ -2215,12 +2215,10 @@ iii) 19ef is placed after 18ab     -->
                             ṛtū || </l>
 
                     <l xml:id="SS.6.64.55cd"> ṛtāv ṛ<cb/>tau ya etena vidhinā varttate naraḥ | </l>
-
-                    <l xml:id="SS.6.64.55ef">
-                            ghorān ṛtukṛtān rogān āpnuyāt sa kadā canaḥ |
-                    </l>
-                    
+       
                     <l xml:id="SS.6.64.56">
+                        ghorān ṛtukṛtān rogān āpnuyāt sa kadā canaḥ |
+                        <caesura/>
                          ata ūrdhvaṃ dvāda<unclear>śāśana</unclear>pravi<lb n="2"/>cārām
                         vakṣyāmaḥ |
                         <caesura/>
