@@ -2688,64 +2688,64 @@
                         <caesura/>
                          malināni ca vāsāṃsi tathā śnānañ ca varjayed iti ||35|| </l>
                     <l xml:id="SS.6.64.31.add6">
-                        <label xml:lang="en">6.64.31.add6</label>
+                       
                         <caesura/>
                          tuṣāra<pc> </pc>paṭa<pc> </pc>nirhāradīptabhāskara<pc> </pc>raśmiṣu | </l>
                     <l xml:id="SS.6.64.31.add7">
-                        <label xml:lang="en">6.64.31.add7</label>
+                        
                         <caesura/>
-                         dineṣu jṛmbhamāṇeṣu hīymānāsu rātriṣu | </l>
+                         dineṣu jṛmbhamāṇeṣu hīymānāsu rātriṣu ||36|| </l>
                     <l xml:id="SS.6.64.31.add8">
-                        <label xml:lang="en">6.64.31.add8</label>
+                        
                         <caesura/>
                          puṣpāṭṭahāsaśabalaiś calatkisalayojjvalaiḥ | </l>
                     <l xml:id="SS.6.64.31.add9">
-                        <label xml:lang="en">cf. 1938 ed. 1938 ed. 6.64.31.add9</label>
+                        
                         <caesura/>
-                         kokilodghuṣṭasamadabhramarodgītaniḥsvanaiḥ | </l>
+                         kokilodghuṣṭasamadabhramarodgītaniḥsvanaiḥ ||37|| </l>
                     <l xml:id="SS.6.64.31.add10">
-                        <label xml:lang="en">6.64.31.add10</label>
+                       
                         <caesura/>
                          darśayatsu vicitrāsu vanopavanarājiṣu | </l>
                     <l xml:id="SS.6.64.31.add11">
-                        <label xml:lang="en">6.64.31.add11</label>
+                        
                         <caesura/>
-                         prakupyati yathoddiṣṭān sisṛkṣati gadān kaphaḥ | </l>
+                         prakupyati yathoddiṣṭān sisṛkṣati gadān kaphaḥ ||38|| </l>
 
                     <l xml:id="SS.6.64.32">
                         <label xml:lang="en">cf. 1938 ed. 6.64.32</label>
                         <caesura/>
                          hemante nicitaḥ śleṣmā śaityāc chītaḥ śarīriṇām |
                         <caesura/>
-                         auṣṇyād vasante viṣyaṇṇaṃ kurute vividhān gadān | </l>
+                         auṣṇyād vasante viṣyaṇṇaṃ kurute vividhān gadān ||39|| </l>
 
                     <l xml:id="SS.6.64.33">
                         <label xml:lang="en">cf. 1938 ed. 6.64.33</label>
                         <caesura/>
                          ato 'mbumadhurasnigdhadivāsvapnagurūṇi ca |
                         <caesura/>
-                         varjjayed vamanādīni karmāṇy api ca kārayet | </l>
+                         varjjayed vamanādīni karmāṇy api ca kārayet ||40|| </l>
 
                     <l xml:id="SS.6.64.34">
                         <label xml:lang="en">cf. 1938 ed. 6.64.34</label>
                         <caesura/>
                          ṣaṣṭikān anavāñ chālīn nīvārān mudgakodravān |
                         <caesura/>
-                         lāvādiviṣkirarasaiś cādyād yūṣañ ca yuktibhiḥ | </l>
+                         lāvādiviṣkirarasaiś cādyād yūṣañ ca yuktibhiḥ ||41|| </l>
 
                     <l xml:id="SS.6.64.35">
                         <label xml:lang="en">cf. 1938 ed. 6.64.35</label>
                         <caesura/>
                          paṭolanimbavetrāgratiktaiś cānyair himātyaye |
                         <caesura/>
-                         seven madhvāsavāriṣṭān sīdhuṃ mādhvīkam eva ca | </l>
+                         seven madhvāsavāriṣṭān sīdhuṃ mādhvīkam eva ca ||42|| </l>
 
                     <l xml:id="SS.6.64.36">
                         <label xml:lang="en">cf. 1938 ed. 6.64.36</label>
                         <caesura/>
                          vyāyāmam añjanan dhūmaṃ tīkṣṇañ ca kavaḍagraham |
                         <caesura/>
-                         uṣṇāmbunā ca sarvārthān seveta kusumāgame | </l>
+                         uṣṇāmbunā ca sarvārthān seveta kusumāgame ||43|| </l>
 
                     <l xml:id="SS.6.64.37ab"/>
 
@@ -2757,9 +2757,9 @@
                     <l xml:id="SS.6.64.38"/>
 
                     <l xml:id="SS.6.64.38.add">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.38a</label>
+                        
                         <caesura/>
-                         vyāyāmo dvyadhikaś cātra sarva eva praśasyate | </l>
+                         vyāyāmo dvyadhikaś cātra sarva eva praśasyate ||44|| </l>
 
                     <l xml:id="SS.6.64.39cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.39cd</label>
@@ -2769,16 +2769,16 @@
                     <l xml:id="SS.6.64.39ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.39ab</label>
                         <caesura/>
-                         nirhared apramattaś ca hemantopacitaṃ kapham | </l>
+                         nirhared apramattaś ca hemantopacitaṃ kapham ||45|| </l>
 
                     <l xml:id="SS.6.64.39.add1">
-                        <label xml:lang="en">6.64.39.add1</label>
+                       
                         <caesura/>
                          śuciḥ śuklāmbaradharaś candanāgurubhūṣitaḥ | </l>
                     <l xml:id="SS.6.64.39.add2">
-                        <label xml:lang="en">6.64.39.add2</label>
+                        
                         <caesura/>
-                         pīnastanorujaghanāṃ rūpayauvanaśālinīm | <anchor n="SS.6.64.39.add2"/>
+                         pīnastanorujaghanāṃ rūpayauvanaśālinīm ||46|| <anchor n="SS.6.64.39.add2"/>
                     </l>
                     <ab corresp="#SS.6.64.39.add2" type="apparatus">
                         <list type="Testimonia">
@@ -2793,41 +2793,41 @@
                     </ab>
 
                     <l xml:id="SS.6.64.39.add3">
-                        <label xml:lang="en">6.64.39.add3</label>
+                        
                         <caesura/>
                          kānaneṣu vicitreṣu sarvālaṅkārabhūṣitām | </l>
                     <l xml:id="SS.6.64.39.add4">
-                        <label xml:lang="en">6.64.39.add4</label>
+                        
                         <caesura/>
-                         rāmayed yāvad utsāhaṃ sumanāḥ kusumāgame | </l>
+                         rāmayed yāvad utsāhaṃ sumanāḥ kusumāgame ||47|| </l>
                     <l xml:id="SS.6.64.39.add5">
-                        <label xml:lang="en">6.64.39.add5</label>
+                        
                         <caesura/>
                          tataś candrakarālokaṃ pradoṣaṃ satsuhṛjjanaḥ | </l>
                     <l xml:id="SS.6.64.39.add6">
-                        <label xml:lang="en">6.64.39.add6</label>
+                        
                         <caesura/>
-                         saṃseved athavāliṅgya svapet kāntāṅ gṛhodare || </l>
+                         saṃseved athavāliṅgya svapet kāntāṅ gṛhodare ||48|| </l>
                     <l xml:id="SS.6.64.39.add7">
-                        <label xml:lang="en">6.64.39.add7</label>
+                        
                         <caesura/>
                          ādadānaḥ karair grīṣme jagatsnehan divākaraḥ | </l>
                     <l xml:id="SS.6.64.39.add8">
-                        <label xml:lang="en">6.64.39.add8</label>
+                      
                         <caesura/>
-                         yauvanotsavanibhargnavanitāyām iva kṣitau | </l>
+                         yauvanotsavanibhargnavanitāyām iva kṣitau ||49|| </l>
                     <l xml:id="SS.6.64.39.add9">
-                        <label xml:lang="en">6.64.39.add9</label>
+                       
                         <caesura/>
                          bibhratyāṃ durbhagaṃ rūkṣaṃ reṇvaṅgārāruṇaṃ vapuḥ | </l>
                     <l xml:id="SS.6.64.39.add10">
-                        <label xml:lang="en">6.64.39.add10</label>
+                       
                         <caesura/>
                          vātacakrasamuddhūtaśuṣkaparṇṇasvanānvitaḥ | </l>
                     <l xml:id="SS.6.64.39.add11">
                         <label xml:lang="en">6.64.39.add11</label>
                         <caesura/>
-                         raukṣyaṃ sañjanayaty āśu tataḥ śuṣyanti dehinaḥ | </l>
+                         raukṣyaṃ sañjanayaty āśu tataḥ śuṣyanti dehinaḥ ||50|| </l>
                     <l xml:id="SS.6.64.39.add12">
                         <label xml:lang="en">6.64.39.add12</label>
                         <caesura/>
@@ -2842,36 +2842,29 @@
                     <l xml:id="SS.6.64.41ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.41ab</label>
                         <caesura/>
-                         rasāṃś cāgniguṇodriktān viśeṣeṇa vivarjayet || </l>
+                         rasāṃś cāgniguṇodriktān viśeṣeṇa vivarjayet ||51|| </l>
 
                     <l xml:id="SS.6.64.41.add1">
-                        <label xml:lang="en">6.64.41.add1</label>
                         <caesura/>
                          sarpiḥkhaṇḍaguḍāktāṃs tu sahakārarasānvitān | </l>
                     <l xml:id="SS.6.64.41.add2">
-                        <label xml:lang="en">6.64.41.add2</label>
                         <caesura/>
-                         saktūn pibet prātas takraiḥ śītatoyottaraṃ naraḥ || </l>
+                         saktūn pibet prātas takraiḥ śītatoyottaraṃ naraḥ ||52|| </l>
                     <l xml:id="SS.6.64.41.add3">
-                        <label xml:lang="en">6.64.41.add3</label>
                         <caesura/>
                          yavagodhūmavikṛtīḥ śālīṃś ca vividhān api | </l>
                     <l xml:id="SS.6.64.41.add4">
-                        <label xml:lang="en">6.64.41.add4</label>
                         <caesura/>
                          prasahānūpamāṃsāni vṛṣyāṇy anyāni yāni ca | </l>
                     <l xml:id="SS.6.64.41.add5">
-                        <label xml:lang="en">6.64.41.add5</label>
                         <caesura/>
-                         prakārair vividhair adyān nidāghe svakuṭumbinā || </l>
+                         prakārair vividhair adyān nidāghe svakuṭumbinā ||53|| </l>
                     <l xml:id="SS.6.64.41.add6">
-                        <label xml:lang="en">6.64.41.add6</label>
                         <caesura/>
                          ṣāḍavair vividhai rāgair gauḍikaiś ca susaṃkṛtaiḥ | </l>
                     <l xml:id="SS.6.64.41.add7">
-                        <label xml:lang="en">6.64.41.add7</label>
                         <caesura/>
-                         suśītaiḥ snigdhamadhurais tarpayec choṣitāṃs tanūn || </l>
+                         suśītaiḥ snigdhamadhurais tarpayec choṣitāṃs tanūn ||54|| </l>
 
                     <l xml:id="SS.6.64.44cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.44cd</label>
@@ -2879,9 +2872,8 @@
                          hitañ ca bhojanaṃ grīṣme śītalaṃ madhuraṃ dravam | </l>
 
                     <l xml:id="SS.6.64.41.add8">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.41h</label>
                         <caesura/>
-                         saśarkareṇa payasā rātrāv api tu pūjitam || </l>
+                         saśarkareṇa payasā rātrāv api tu pūjitam ||55|| </l>
 
                     <l xml:id="SS.6.64.41cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.41cd</label>
@@ -2891,7 +2883,7 @@
                     <l xml:id="SS.6.64.42">
                         <label xml:lang="en">cf. 1938 ed. 6.64.42</label>
                         <caesura/>
-                         candanāni parārdhyāni srajaḥ sakamalotpalāḥ ||<anchor n="SS.6.64.42"/>
+                         candanāni parārdhyāni srajaḥ sakamalotpalāḥ ||56||<anchor n="SS.6.64.42"/>
                         <caesura/>
                          tālavṛntānilān hārāṃs tathā śītagṛhāṇi ca | </l>
                     <ab corresp="#SS.6.64.42" type="apparatus">
@@ -2907,7 +2899,7 @@
                     <l xml:id="SS.6.64.43ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.43ab</label>
                         <caesura/>
-                         gharmakālaṃ niṣeveta vāsāṃsi sulaghūni ca || </l>
+                         gharmakālaṃ niṣeveta vāsāṃsi sulaghūni ca ||57|| </l>
 
                     <l xml:id="SS.6.64.43cd"/>
 
@@ -2922,89 +2914,87 @@
                     <l xml:id="SS.6.64.46ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.46ab</label>
                         <caesura/>
-                         śayīta ca yathākāmaṃ spṛśyamāno 'nilaiḥ sukham || </l>
+                         śayīta ca yathākāmaṃ spṛśyamāno 'nilaiḥ sukham ||58|| </l>
 
                     <l xml:id="SS.6.64.46cd"/>
 
                     <l xml:id="SS.6.64.46.add1">
-                        <label xml:lang="en">6.64.46.add1</label>
                         <caesura/>
                          rātrau harmyatale hṛdye puṣpaprakarabhūṣite | </l>
                     <l xml:id="SS.6.64.46.add2">
-                        <label xml:lang="en">6.64.46.add2</label>
                         <caesura/>
-                         jalajaih kusumaiś citraiś candrapādāvaguṇṭhite || </l>
+                         jalajaih kusumaiś citraiś candrapādāvaguṇṭhite ||59|| </l>
                     <l xml:id="SS.6.64.46.add3">
-                        <label xml:lang="en">cf. 1938 ed. 1938 ed. 6.64.46.add3</label>
+                        
                         <caesura/>
                          vyajanair vījyamānaś ca spṛśyamānaś ca komalaiḥ | </l>
                     <l xml:id="SS.6.64.46.add4">
-                        <label xml:lang="en">6.64.46.add4</label>
+                        
                         <caesura/>
-                         strīṇāṃ stanaiḥ karaiś cāpi muktāhāraiś ca śītalaiḥ | </l>
+                         strīṇāṃ stanaiḥ karaiś cāpi muktāhāraiś ca śītalaiḥ ||60|| </l>
                     <l xml:id="SS.6.64.46.add5">
-                        <label xml:lang="en">6.64.46.add5</label>
+                        
                         <caesura/>
-                         saṃsevyamāna āsīta suhṛdbhir abhisamvṛtaḥ || </l>
+                         saṃsevyamāna āsīta suhṛdbhir abhisamvṛtaḥ | </l>
                     <l xml:id="SS.6.64.46.add6">
-                        <label xml:lang="en">6.64.46.add6</label>
+                       
                         <caesura/>
-                         śayīta śayane śubhre candanārdrapaṭo naraḥ | </l>
+                         śayīta śayane śubhre candanārdrapaṭo naraḥ |</l>
                     <l xml:id="SS.6.64.46.add7">
-                        <label xml:lang="en">6.64.46.add7</label>
+                        
                         <caesura/>
-                         rūkṣocchuṣkeṣu deheṣu grīṣme vā puṣpito 'balī || </l>
+                         rūkṣocchuṣkeṣu deheṣu grīṣme vā puṣpito 'balī ||61|| </l>
                     <l xml:id="SS.6.64.46.add8">
-                        <label xml:lang="en">6.64.46.add8</label>
+                        
                         <caesura/>
                          pravṛddhagambhīraravair meghair ativinādite | </l>
                     <l xml:id="SS.6.64.46.add9">
-                        <label xml:lang="en">6.64.46.add9</label>
+                        
                         <caesura/>
-                         prodbhinna<pc> </pc>kandalaśyāmakadambakuṭajārjjune || </l>
+                         prodbhinna<pc> </pc>kandalaśyāmakadambakuṭajārjjune ||62|| </l>
                     <l xml:id="SS.6.64.46.add10">
-                        <label xml:lang="en">6.64.46.add10</label>
+                        
                         <caesura/>
                          mālatīkusumāmodadaśāśāpūrite 'mbare | </l>
                     <l xml:id="SS.6.64.46.add11">
-                        <label xml:lang="en">6.64.46.add11</label>
+                       
                         <caesura/>
-                         surendragopamaṇḍūkaiḥ prakīrṇṇavasudhātale || </l>
+                        surendragopamaṇḍūkaiḥ prakīrṇṇavasudhātale ||63|| </l>
                     <l xml:id="SS.6.64.46.add12">
-                        <label xml:lang="en">6.64.46.add12</label>
+                        
                         <caesura/>
                          dvirephakṛtasaṅgītanalinīvanabhūṣite | </l>
                     <l xml:id="SS.6.64.46.add13">
-                        <label xml:lang="en">6.64.46.add13</label>
+                       
                         <caesura/>
-                         śikhaṇḍināyakavarair nādyārambhakṛtotsave || </l>
+                        śikhaṇḍināyakavarair nādyārambhakṛtotsave ||64|| </l>
                     <l xml:id="SS.6.64.46.add14">
-                        <label xml:lang="en">6.64.46.add14</label>
+                        
                         <caesura/>
                          daurbalyakāṣṭhāṃ paramāṃ yadā gacchati bhāskare | </l>
                     <l xml:id="SS.6.64.46.add15">
-                        <label xml:lang="en">6.64.46.add15</label>
+                        
                         <caesura/>
-                         śītavātābhravarṣais tu vāyuḥ prāvṛṣi kupyati || </l>
+                         śītavātābhravarṣais tu vāyuḥ prāvṛṣi kupyati ||65|| </l>
 
                     <l xml:id="SS.6.64.48">
                         <label xml:lang="en">cf. 1938 ed. 6.64.48</label>
                         <caesura/>
                          nidāghopacitaṃ caiva prakupyantaṃ samīraṇam |
                         <caesura/>
-                         nihanyād avilambena vidhinā vyādhikovidaḥ | </l>
+                         nihanyād avilambena vidhinā vyādhikovidaḥ ||66|| </l>
 
                     <l xml:id="SS.6.64.48.add">
-                        <label xml:lang="en">6.64.48.add</label>
+                       
                         <caesura/>
-                         caryāḥ sukhoṣṇāś ca rasās tailāni vividhāni ca || </l>
+                         caryāḥ sukhoṣṇāś ca rasās tailāni vividhāni ca | </l>
 
                     <l xml:id="SS.6.64.47ab"/>
 
                     <l xml:id="SS.6.64.47cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.47cd</label>
                         <caesura/>
-                         bṛṃhaṇañ cāpi yat kiñ cid abhiṣyandi tathaiva ca | </l>
+                         bṛṃhaṇañ cāpi yat kiñ cid abhiṣyandi tathaiva ca ||67|| </l>
 
                     <l xml:id="SS.6.64.49"/>
                     <l xml:id="SS.6.64.50">
@@ -3017,108 +3007,106 @@
                     <l xml:id="SS.6.64.51">
                         <label xml:lang="en">cf. 1938 ed. 6.64.51</label>
                         <caesura/>
-                         harmyamadhye nivāte ca bhajec chayyāṃ mṛdūttarām |
+                         harmyamadhye nivāte ca bhajec chayyāṃ mṛdūttarām ||68||
                         <caesura/>
                          saviṣaprāṇivinmūtralālāniṣṭhīvanādibhiḥ | </l>
 
                     <l xml:id="SS.6.64.52">
                         <label xml:lang="en">cf. 1938 ed. 6.64.52</label>
                         <caesura/>
-                         samāplutan tadā toyam āntarīkṣaṃ viṣopamam |
+                         samāplutan tadā toyam āntarīkṣaṃ viṣopamam ||69||
                         <caesura/>
                          vāyunā viṣajuṣṭena prāvṛṣeṇyena dūṣitam | </l>
 
                     <l xml:id="SS.6.64.53">
                         <label xml:lang="en">cf. 1938 ed. 6.64.53</label>
                         <caesura/>
-                         tad dhi sarvopayogeṣu tasmin kāle vivarjayet |
+                         tad dhi sarvopayogeṣu tasmin kāle vivarjayet ||70||
                         <caesura/>
                          ariṣṭāsavamaireyān sopadaṃśāṃś ca yuktitaḥ | </l>
 
                     <l xml:id="SS.6.64.54">
                         <label xml:lang="en">cf. 1938 ed. 6.64.54</label>
                         <caesura/>
-                         pibet prāvṛṣi jīrṇṇāṃs tu rātrau prāvṛṣi varjayet |
+                         pibet prāvṛṣi jīrṇṇāṃs tu rātrau prāvṛṣi varjayet ||71||
                         <caesura/>
                          nirūhair bastibhiś cāpi tathānyair mārutāpahaiḥ | </l>
 
                     <l xml:id="SS.6.64.55ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.55ab</label>
                         <caesura/>
-                         kupitaṃ śamayed vātaṃ vārṣikañ ca cared vidhim | </l>
+                         kupitaṃ śamayed vātaṃ vārṣikañ ca cared vidhim ||72|| </l>
 
                     <l xml:id="SS.6.64.55a">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.55a</label>
+                       
                         <caesura/>
                          bhūyo varṣī tu parjanyo gaṃgāyā dakṣiṇe jane | </l>
 
                     <l xml:id="SS.6.64.55b">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.55b</label>
+                        
                         <caesura/>
-                         tatra ca prāvṛtvarṣākhyau ṛtū teṣāṃ prakīrttitau | </l>
+                         tatra ca prāvṛtvarṣākhyau ṛtū teṣāṃ prakīrttitau ||73|| </l>
 
                     <l xml:id="SS.6.64.55c">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.55c</label>
+                        
                         <caesura/>
                          tasya evottare deśe himavaddravyasaṃkule | </l>
 
                     <l xml:id="SS.6.64.55d">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.55d</label>
+                        
                         <caesura/>
-                         bhūyaḥ śītatamas tatra hemantaśiśire ṛtū || </l>
+                         bhūyaḥ śītatamas tatra hemantaśiśire ṛtū ||74|| </l>
 
                     <l xml:id="SS.6.64.55cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.55cd</label>
                         <caesura/>
                          ṛtāv ṛtau ya etena vidhinā varttate naraḥ | </l>
-
-                    <l xml:id="SS.6.64.55ef">
-                        <label xml:lang="en">cf. 1938 ed. 6.64.55ef</label>
-                        <caesura/>
-                         ghorān ṛtukṛtān rogān nāpnuyāt sa kadā cana | </l>
+                        
 
                     <l xml:id="SS.6.64.56">
                         <label xml:lang="en">cf. 1938 ed. 6.64.56</label>
                         <caesura/>
+                        ghorān ṛtukṛtān rogān nāpnuyāt sa kadā cana ||75|| 
+                        <caesura/>
                          ata ūrdhvaṃ dvādaśāśanapravicārān vakṣyāmaḥ | tad yathā
                             śītoṣṇasnigdharūkṣadrava<pc> </pc>śuṣkaika<pc
                             > </pc>kālikadvikālikauṣadhayukta<pc> </pc>hīnamātra<pc
-                            > </pc>doṣapraśamana<pc> </pc>pravṛddhyarthān || </l>
+                            > </pc>doṣapraśamana<pc> </pc>pravṛddhyarthān ||76|| </l>
 
                     <l xml:id="SS.6.64.57">
                         <label xml:lang="en">cf. 1938 ed. 6.64.57</label>
                         <caesura/>
                          tṛṣṇāmadavidāhārttān raktapittaviṣāturān |
                         <caesura/>
-                         saṃmūrcchāṃ strīṣu ca kṣīṇān śītair annair upācaret || </l>
+                         saṃmūrcchāṃ strīṣu ca kṣīṇān śītair annair upācaret ||77|| </l>
 
                     <l xml:id="SS.6.64.58">
                         <label xml:lang="en">cf. 1938 ed. 6.64.58</label>
                         <caesura/>
                          kaphavātāmayāviṣṭān viriktān snehapāyinaḥ |
                         <caesura/>
-                         aklinnakāyāṃś ca narān uṣṇair annair upācaret || </l>
+                         aklinnakāyāṃś ca narān uṣṇair annair upācaret ||78|| </l>
 
                     <l xml:id="SS.6.64.59">
                         <label xml:lang="en">cf. 1938 ed. 6.64.59</label>
                         <caesura/>
                          vātikān rūkṣadehāṃś ca vyavāyopahatāṃs tathā |
                         <caesura/>
-                         vyāyāminaś cāpi narān snigdhair annair upācaret || </l>
+                         vyāyāminaś cāpi narān snigdhair annair upācaret ||79|| </l>
 
                     <l xml:id="SS.6.64.60">
                         <label xml:lang="en">cf. 1938 ed. 6.64.60</label>
                         <caesura/>
                          medasābhiparītāṃs tu sthūlān mehāturān api |
                         <caesura/>
-                         kaphābhipannadehāṃś ca rūkṣair annair upācaret || </l>
+                         kaphābhipannadehāṃś ca rūkṣair annair upācaret ||80|| </l>
 
                     <l xml:id="SS.6.64.61">
                         <label xml:lang="en">cf. 1938 ed. 6.64.61</label>
                         <caesura/>
                          śuṣkadehān pipāsārttān durbalān api ca dravaiḥ |
                         <caesura/>
-                         praklinnadehān vraṇinaḥ śuṣkair mehinam eva ca || <anchor n="SS.6.64.61"
+                         praklinnadehān vraṇinaḥ śuṣkair mehinam eva ca ||81|| <anchor n="SS.6.64.61"
                         /></l>
 
                     <ab corresp="#SS.6.64.61" type="apparatus">
@@ -3135,33 +3123,33 @@
                         <caesura/>
                          ekakālaṃ bhaved deyo durbalāgnivivṛddhaye |
                         <caesura/>
-                         samāgnaye tathāhāro dviḥkālam atha pūjitaḥ || </l>
+                         samāgnaye tathāhāro dviḥkālam atha pūjitaḥ ||82|| </l>
 
                     <l xml:id="SS.6.64.63">
                         <label xml:lang="en">cf. 1938 ed. 6.64.63</label>
                         <caesura/>
                          auṣadhadveṣine deyaṃs tathauṣadhasamāyutam |
                         <caesura/>
-                         mandāgnaye rogiṇe ca mātrāhīnaḥ praśasyate || </l>
+                         mandāgnaye rogiṇe ca mātrāhīnaḥ praśasyate ||83|| </l>
 
                     <l xml:id="SS.6.64.64">
                         <label xml:lang="en">cf. 1938 ed. 6.64.64</label>
                         <caesura/>
                          yathartudattas tv āhāro doṣapraśamanaḥ smṛtaḥ |
                         <caesura/>
-                         ataḥ paraṃ tu svasthānāṃ sarva eva praśasyate || </l>
+                         ataḥ paraṃ tu svasthānāṃ sarva eva praśasyate ||84|| </l>
 
                     <l xml:id="SS.6.64.65">
                         <label xml:lang="en">cf. 1938 ed. 6.64.65</label>
                         <caesura/>
                          ata ūrdhvaṃ daśauṣadhakālān vakṣyāmaḥ | tatrābhaktam | prāgbhaktam |
                         adhobhaktam | madhyabhaktam | āntarābhaktam | sabhaktam | sāmudgam |
-                        muhurmuhuḥ | grāsam | grāsāntarañ ceti || </l>
+                        muhurmuhuḥ | grāsam | grāsāntarañ ceti ||85|| </l>
 
                     <l xml:id="SS.6.64.66">
                         <label xml:lang="en">cf. 1938 ed. 6.64.66</label>
                         <caesura/>
-                         tatrābhaktan nāma yat kevalam auṣadham upayujyate || </l>
+                         tatrābhaktan nāma yat kevalam auṣadham upayujyate ||86|| </l>
 
                     <l xml:id="SS.6.64.67">
                         <label xml:lang="en">cf. 1938 ed. 6.64.67</label>
@@ -3172,7 +3160,7 @@
                         <caesura/>
                          tad bālavṛddhavanitāmṛdavas tu pītvā
                         <caesura/>
-                         glāniṃ parāṃ samupayānti balakṣayañ ca ||<anchor n="SS.6.64.67"/>
+                         glāniṃ parāṃ samupayānti balakṣayañ ca ||87||<anchor n="SS.6.64.67"/>
                     </l>
 
                     <ab corresp="#SS.6.64.67" type="apparatus">
@@ -3185,7 +3173,7 @@
                     <l xml:id="SS.6.64.68">
                         <label xml:lang="en">cf. 1938 ed. 6.64.68</label>
                         <caesura/>
-                         prāgbhaktan nāma yat prāgbhaktaṃ pīyate | paścād bhujyate tat | </l>
+                         prāgbhaktan nāma yat prāgbhaktaṃ pīyate | paścād bhujyate tat |||88|| </l>
 
                     <l xml:id="SS.6.64.69">
                         <label xml:lang="en">cf. 1938 ed. 6.64.69</label>
@@ -3196,7 +3184,7 @@
                         <caesura/>
                          prāgbhaktasevitam adhobalam ādadhāti
                         <caesura/>
-                         dadyāc ca vṛddha<pc> </pc>śiśubhīru<pc> </pc>kṛśāṅganābhyaḥ || <anchor
+                         dadyāc ca vṛddha<pc> </pc>śiśubhīru<pc> </pc>kṛśāṅganābhyaḥ ||89|| <anchor
                             n="SS.6.64.69"/>
                     </l>
 
@@ -3212,26 +3200,26 @@
                     <l xml:id="SS.6.64.70">
                         <label xml:lang="en">cf. 1938 ed. 6.64.70</label>
                         <caesura/>
-                         adhobhaktan nāma yad bhuktvā pīyate | </l>
+                         adhobhaktan nāma yad bhuktvā pīyate ||90|| </l>
 
                     <l xml:id="SS.6.64.72ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.72ab</label>
                         <caesura/>
                          pītaṃ yad annam upayujya tad ūrdhvakāye
                         <caesura/>
-                         hatvā gadān bahuvidhāṃś ca balan dadāti | </l>
+                         hatvā gadān bahuvidhāṃś ca balan dadāti ||91|| </l>
 
                     <l xml:id="SS.6.64.71">
                         <label xml:lang="en">cf. 1938 ed. 6.64.71</label>
                         <caesura/>
-                         madhyabhaktan nāma yan madhye bhaktasya pīyate | </l>
+                         madhyabhaktan nāma yan madhye bhaktasya pīyate ||92|| </l>
 
                     <l xml:id="SS.6.64.72cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.72cd</label>
                         <caesura/>
                          madhye tu pītam apahanty avisāribhāvā
                         <caesura/>
-                         ye dehamadhyam abhibhūya bhavanti rogāḥ ||<anchor n="SS.6.64.72cd"/>
+                         ye dehamadhyam abhibhūya bhavanti rogāḥ ||93||<anchor n="SS.6.64.72cd"/>
                     </l>
 
                     <ab corresp="#SS.6.64.72cd" type="apparatus">
@@ -3247,19 +3235,19 @@
                     <l xml:id="SS.6.64.73">
                         <label xml:lang="en">cf. 1938 ed. 6.64.73</label>
                         <caesura/>
-                         āntarābhaktan nāma yad antare pīyate pūrvāparayor bhaktayoḥ | </l>
+                         āntarābhaktan nāma yad antare pīyate pūrvāparayor bhaktayoḥ ||94|| </l>
 
                     <l xml:id="SS.6.64.75cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.75cd</label>
                         <caesura/>
                          hṛdyam manobalakaraṃ tv api dīpanañ ca
                         <caesura/>
-                         pathyaṃ sadā bhavati cāntarabhaktakan tat | </l>
+                         pathyaṃ sadā bhavati cāntarabhaktakan tat ||95|| </l>
 
                     <l xml:id="SS.6.64.74">
                         <label xml:lang="en">cf. 1938 ed. 6.64.74</label>
                         <caesura/>
-                         sabhaktan nāma auṣadheṣu yat sādhyate |</l>
+                         sabhaktan nāma auṣadheṣu yat sādhyate ||96||</l>
 
 
                     <l xml:id="SS.6.64.75ab">
@@ -3267,7 +3255,7 @@
                         <caesura/>
                          pathyaṃ sabhaktam abalābalayor hi nityaṃ
                         <caesura/>
-                         tad dveṣiṇām api tathā śiśuvṛddhayoś ca ||<anchor n="SS.6.64.75ab"/>
+                         tad dveṣiṇām api tathā śiśuvṛddhayoś ca ||97||<anchor n="SS.6.64.75ab"/>
                     </l>
                     <ab corresp="#SS.6.64.75ab" type="apparatus">
                         <list type="Notes">
@@ -3282,14 +3270,14 @@
                     <l xml:id="SS.6.64.76">
                         <label xml:lang="en">cf. 1938 ed. 6.64.76</label>
                         <caesura/>
-                         sāmudgan nāma yad bhaktasyādāv ante ca pīyate | </l>
+                         sāmudgan nāma yad bhaktasyādāv ante ca pīyate ||98|| </l>
 
                     <l xml:id="SS.6.64.77">
                         <label xml:lang="en">cf. 1938 ed. 6.64.77</label>
                         <caesura/>
                          doṣe dvidhā pravisṛte tu samudgasaṃjñam
                         <caesura/>
-                         ādyantayor yad aśanasya niṣevyate tu | <anchor n="SS.6.64.77"/></l>
+                         ādyantayor yad aśanasya niṣevyate tu ||99|| <anchor n="SS.6.64.77"/></l>
 
                     <ab corresp="#SS.6.64.77" type="apparatus">
                         <list type="Notes">
@@ -3304,7 +3292,7 @@
                         <label xml:lang="en">cf. 1938 ed. 6.64.78</label>
                         <caesura/>
                          muhur muhur nāma sabhaktam abhaktaṃ vā yad auṣadhaṃ muhur muhur upayujyate
-                        |</l>
+                        ||100||</l>
 
 
                     <l xml:id="SS.6.64.79">
@@ -3312,7 +3300,7 @@
                         <caesura/>
                          śvāse muhur muhur atiprasṛte ca kāse
                         <caesura/>
-                         hikkāvamīṣu ca bhavaty upayojyam etat || <anchor n="SS.6.64.79"/>
+                         hikkāvamīṣu ca bhavaty upayojyam etat ||101|| <anchor n="SS.6.64.79"/>
                     </l>
                     <ab corresp="#SS.6.64.79" type="apparatus">
                         <list type="Notes">
@@ -3327,26 +3315,26 @@
                     <l xml:id="SS.6.64.80">
                         <label xml:lang="en">cf. 1938 ed. 6.64.80</label>
                         <caesura/>
-                         grāsan nāma yat piṇḍavyāmiśram upayujyate | </l>
+                         grāsan nāma yat piṇḍavyāmiśram upayujyate ||102|| </l>
 
                     <l xml:id="SS.6.64.82ab">
                         <label xml:lang="en">cf. 1938 ed. 6.64.82ab</label>
                         <caesura/>
                          grāseṣu cūrṇṇam abalāgniṣu dīpanīyaṃ
                         <caesura/>
-                         vājīkarāṇy api ca yojayituṃ yateta | </l>
+                         vājīkarāṇy api ca yojayituṃ yateta ||103|| </l>
 
                     <l xml:id="SS.6.64.81">
                         <label xml:lang="en">cf. 1938 ed. 6.64.81</label>
                         <caesura/>
-                         grāsāntaran nāma piṇḍāntaraṃ yad upayujyate | </l>
+                         grāsāntaran nāma piṇḍāntaraṃ yad upayujyate ||104|| </l>
 
                     <l xml:id="SS.6.64.82cd">
                         <label xml:lang="en">cf. 1938 ed. 6.64.82cd</label>
                         <caesura/>
                         grāsāntareṣu visṛjed vamanīya<pc> </pc>dhūmāñ
                         <caesura/>
-                         chvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān ||<anchor n="SS.6.64.82cd"/>
+                         chvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān ||105||<anchor n="SS.6.64.82cd"/>
                     </l>
                     <ab corresp="#SS.6.64.82cd" type="apparatus">
                         <list type="Notes">
@@ -3361,7 +3349,7 @@
                     <l xml:id="SS.6.64.83">
                         <label xml:lang="en">cf. 1938 ed. 6.64.83</label>
                         <caesura/>
-                         daśauṣadhakālā bhavanti | bhavati cātra | </l>
+                         daśauṣadhakālā bhavanti | bhavati cātra ||106|| </l>
 
                     <l xml:id="SS.6.64.84">
                         <label xml:lang="en">cf. 1938 ed. 6.64.84</label>
@@ -3372,7 +3360,7 @@
                         <caesura/>
                          tathānnaśraddhāyāṃ klamaparigame kukṣau ca śithile
                         <caesura/>
-                         pradeyas tv āhāro bhavati bhiṣajā sātmyaprakriyeti || <anchor
+                         pradeyas tv āhāro bhavati bhiṣajā sātmyaprakriyeti ||107|| <anchor
                             n="SS.6.64.84"/>
                     </l>
 
@@ -3390,7 +3378,7 @@
                     <l xml:id="SS.6.64.84.add">
                         <label xml:lang="en">6.64.84.add</label>
                         <caesura/>
-                         bhagavān āha dhanvantariḥ || </l>
+                         bhagavān āha dhanvantariḥ ||108|| </l>
 
                     <l xml:id="SS.6.64.trailer"> uttare tantre svastharakṣaṇīyaṃ dvāpañcāśattamaḥ
                         kāyacikitsāyām aṣṭāviṃśatitamaḥ ||</l>

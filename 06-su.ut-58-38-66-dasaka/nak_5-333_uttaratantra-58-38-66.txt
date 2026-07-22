@@ -2250,9 +2250,11 @@ I have not transcribed गन्धककल्पं  gandhakakalpaṃ given on
 
                     <l xml:id="SS.6.64.55cd"> ṛtāv ṛtau ya etena vidhinā varttate naraḥ | </l>
 
-                    <l xml:id="SS.6.64.55ef"> ghorān ṛtukṛtā<cb/>n rogān nāpnuyān na kadā cana || </l>
 
-                    <l xml:id="SS.6.64.56"> ata ūrddhvan dvādaśāśanapravicārān vakṣyāmaḥ ||
+                    <l xml:id="SS.6.64.56"> 
+                        ghorān ṛtukṛtā<cb/>n rogān nāpnuyān na kadā cana ||
+                        <caesura/>
+                        ata ūrddhvan dvādaśāśanapravicārān vakṣyāmaḥ ||
                         <caesura/>
                          tad yathā śītoṣṇasnigdharū<lb n="5"/>kṣadrava<pc> </pc>śuṣkeka<pc
                             > </pc>kālikauṣadhayukta<pc> </pc>hīnamātrā<pc> </pc>doṣa<gap
