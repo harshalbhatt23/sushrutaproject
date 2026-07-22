@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 
     <teiHeader>
@@ -19,9 +20,7 @@
                         </placeName>
                         <institution>Rajasthan Oriental Research Institute</institution>
                         <repository>
-                            <ref
-                                target="https://artandculture.rajasthan.gov.in/content/raj/art-and-culture/rajasthan-oriental-research-institute/en/contact-rori.html"
-                                >https://artandculture.rajasthan.gov.in/content/raj/art-and-culture/rajasthan-oriental-research-institute/en/contact-rori.html</ref>
+                            <ref target="https://artandculture.rajasthan.gov.in/content/raj/art-and-culture/rajasthan-oriental-research-institute/en/contact-rori.html">https://artandculture.rajasthan.gov.in/content/raj/art-and-culture/rajasthan-oriental-research-institute/en/contact-rori.html</ref>
                         </repository>
                         <collection>[collection]</collection>
                         <idno>20060</idno>
@@ -47,13 +46,11 @@
                     <physDesc>
 
                         <scriptDesc>
-                            <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa"
-                                    >śa</foreign> and <foreign xml:lang="sa">sa</foreign>
+                            <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa">śa</foreign> and <foreign xml:lang="sa">sa</foreign>
                                 not distinguished.</scriptNote>
                             <!--                     this śa/sa equivalence may be wrong. Still checking, 2021-06-12  - DW -->
 
-                            <scriptNote xml:id="script-ba-va"><foreign xml:lang="ba"
-                                    >ba</foreign> and <foreign xml:lang="va">va</foreign>
+                            <scriptNote xml:id="script-ba-va"><foreign xml:lang="ba">ba</foreign> and <foreign xml:lang="va">va</foreign>
                                 not distinguished.</scriptNote>
 
                         </scriptDesc>
@@ -96,80 +93,89 @@
 
                     <milestone unit="folio" n="263v5" facs="00526.tif"/>
 
-                    <l xml:id="SS.6.65.1">
-                        <label xml:lang="en">1938 ed. 6.65.1</label>
-                        <hi rend="rubricated">athātas taṃtrayuktināmādhyāyaṃ vyākhyā<lb
-                                n="6"/>syāmaḥ</hi> ||</l>
+                    <lg xml:id="SS.6.65.1"><l>
+                        
+                        <hi rend="rubricated">athātas taṃtrayuktināmādhyāyaṃ vyākhyā<lb n="6"/>syāmaḥ</hi> ||</l>
+<trailer xml:lang="en">[1938 ed. 6.65.1]</trailer>
+</lg>
 
-                    <l xml:id="SS.6.65.3">
-                        <label xml:lang="en">1938 ed. 6.65.3</label>
+                    <lg xml:id="SS.6.65.3"><l>
+                        
                          || śāstrê dvātriṃśat taṃtrayuktayô bhavaṃti |
-                        <caesura/>
-                        <cb/>tad yathā | adhikaraṇam yogaḥ | <unclear
-                            reason="eccentric_ductus"/>pādārthô hêtvarthaḥ | uddê<lb n="7"
-                        />śô nirdeśaḥ upadêśô padêśaḥ | pradêśo pava<cb/>rgô vākyaśêṣô
+                        
+                        <cb/>tad yathā | adhikaraṇam yogaḥ | <unclear reason="eccentric_ductus"/>pādārthô hêtvarthaḥ | uddê<lb n="7"/>śô nirdeśaḥ upadêśô padêśaḥ | pradêśo pava<cb/>rgô vākyaśêṣô
                         arthāpatti viparyayaḥ | prasaṃgaḥ | ekāṃtô <lb n="8"/>naîkāṃtaḥ |
                         pūrvapakṣo nirṇṇayô numata vidhānam anā<cb/>gatāvêkṣaṇam
                         atikrāṃtāvêkṣaṇaṃ saṃśayo vyākhyānaṃ <lb n="9"/>svasaṃjñā
                             nirvacana<hi rend="rubricated">ṃ | ni</hi>darśana yogaḥ |
                         samuccayô vikalpam ūhyam iti </l>
+<trailer xml:lang="en">[1938 ed. 6.65.3]</trailer>
+</lg>
 
-                    <l xml:id="SS.6.65.4">
-                        <label xml:lang="en">1938 ed. 6.65.4</label>
+                    <lg xml:id="SS.6.65.4"><l>
+                        
                          atrāha <hi rend="rubricated">| ā</hi>sāṃ yuktīnāṃ kiṃ
                             prayojana<lb n="10"/>m iti yadatrocyatê | vākyayôjanaṃ
                         arthaprayojanaṃ ca </l>
+<trailer xml:lang="en">[1938 ed. 6.65.4]</trailer>
+</lg>
 
-                    <l xml:id="SS.6.65.5">
-                        <label xml:lang="en">1938 ed. 6.65.5</label>
+                    <lg xml:id="SS.6.65.5"><l>
+                        
                          ślôkāś cātra bhavaṃti |
-                        <caesura/>
+                        
                          aśuvyādiprayuktānāṃ vākyānāṃ pra<lb n="11"/>tiṣedhanaṃ |
                         <caesura/>
-                         svavākyasiddhir api ca | kriyate taṃtrayukti<hi rend="rubricated"
-                            >taḥ |</hi>
+                         svavākyasiddhir api ca | kriyate taṃtrayukti<hi rend="rubricated">taḥ |</hi>
                     </l>
+<trailer xml:lang="en">[1938 ed. 6.65.5]</trailer>
+</lg>
 
-                    <l xml:id="SS.6.65.6">
-                        <label xml:lang="en">1938 ed. 6.65.6</label>
+                    <lg xml:id="SS.6.65.6"><l>
+                        
                         <hi rend="rubricated">vya</hi>tāsoktās tu yê pūrthā nīlā ye
                         nirmmalāḥ |
                         <caesura/>
                          leśoktā yê <lb n=""/>kêcit syās teṣāṃ <!-- strangely immediately after is some text from the previous chapter 6.64 ...yasā rātrau śrarkarāmadhureṇa and the rest begins on the 14th line of the next folio00528.tif -->
                         <milestone unit="folio" n="264v14?" facs="00528.tif"/> cāpi
                         prasādhanaṃ |</l>
+<trailer xml:lang="en">[1938 ed. 6.65.6]</trailer>
+</lg>
 
-                    <l xml:id="SS.6.65.7">
-                        <label xml:lang="en">1938 ed. 6.65.7</label>
+                    <lg xml:id="SS.6.65.7"><l>
+                        
                          yathāṃbujavanasyārkaḥ pradīpo veśmano yathā |
-                        <caesura/>
-                         prabo<lb n="15"/><unclear cert="unknown"
-                            reason="background_noise">dhasya prakāśārthaṃ tathā
+                        
+                         prabo<lb n="15"/><unclear cert="unknown" reason="background_noise">dhasya prakāśārthaṃ tathā
                             tantrasya</unclear> yuktayaḥ || </l>
+<trailer xml:lang="en">[1938 ed. 6.65.7]</trailer>
+</lg>
 
-                    <l xml:id="SS.6.65.8">
-                        <label xml:lang="en">1938 ed. 6.65.8</label>
+                    <lg xml:id="SS.6.65.8"><l>
+                        
                          tatra yam artham adhikṛtyôcyatê tad adhikaraṇaṃ yathā dôṣaṃ rasaṃ </l>
+<trailer xml:lang="en">[1938 ed. 6.65.8]</trailer>
+</lg>
 
-                    <l xml:id="SS.6.65.9">
-                        <label xml:lang="en">1938 ed. 6.65.9</label>
+                    <lg xml:id="SS.6.65.9"><l>
+                        
                          vākyaṃ pra<unclear reason="background_noise">yujyate sa</unclear>
                         <pb n="265r" facs="00529.tif"/><lb n="1"/>yogaḥ | yathā
                         vyatyāsenoktānāṃ sannikṛṣṭaviprakṛṣṭānāṃ padārthānām ekīkaraṇaṃ
                         <caesura/>
-                         tailaṃ pibêc cāmṛtavalli<pc> </pc>niṃ<unclear
-                            reason="background_noise">ba<pc> </pc>haṃsā</unclear><lb n="2"
-                        />kayāvṛkṣakapippalībhiḥ |
+                         tailaṃ pibêc cāmṛtavalli<pc> </pc>niṃ<unclear reason="background_noise">ba<pc> </pc>haṃsā</unclear><lb n="2"/>kayāvṛkṣakapippalībhiḥ |
                         <caesura/>
                          siddhaṃ balābhyāṃ ca sadêvadāru hitāya nityaṃ galagaṃḍarôgê |
                         <caesura/>
                          tailaṃ siddhaṃ pibed iti prathamaṃ <lb n="3"/>vaktavye tṛtīye
                         pāde siddhaṃ prayuktam etad dūrasthānām api padārthānām ekīkaraṇaṃ
                         yôgaḥ | </l>
+<trailer xml:lang="en">[1938 ed. 6.65.9]</trailer>
+</lg>
 
 
-                    <l xml:id="SS.6.65.10">
-                        <label xml:lang="en">1938 ed. 6.65.10</label>
+                    <lg xml:id="SS.6.65.10"><l>
+                        
                          yo 'rtho 'bhihataḥ sūtre padê <lb n="4"/>vā sa padārthaḥ padasya
                         padayo padānāṃ vā yô 'rthaḥ pūrvāpara<pc> </pc>siddhô bhavati | sa
                         gṛhītavyaḥ |
@@ -179,33 +185,41 @@
                         tataḥ pūrvāparaś ca <lb n="6"/>yogam upalabhya vêda vida ity
                         êtayôr dhātvôt pratipattir bhavati | āyurvedotpattim ayaṃ vivakṣur
                         ity eṣa pa<lb n="7"/>dārthaḥ |</l>
+<trailer xml:lang="en">[1938 ed. 6.65.10]</trailer>
+</lg>
 
-                    <l xml:id="SS.6.65.11">
-                        <label xml:lang="en">1938 ed. 6.65.11</label>
+                    <lg xml:id="SS.6.65.11"><l>
+                        
                          yad uktam ubhayārthasādhanaṃ bhavati | sa hêtva|<cb/>rthaḥ |
                         <caesura/>
-                         yathā mṛtpiṃḍô 'dbhiḥ praklidyati | ta<unclear
-                            reason="background_noise">thā</unclear> mājya<pc
-                            > </pc>dugdha<lb n="8"/><pc> </pc>dadhi<pc> </pc>praḥbhṛtibhir
+                         yathā mṛtpiṃḍô 'dbhiḥ praklidyati | ta<unclear reason="background_noise">thā</unclear> mājya<pc> </pc>dugdha<lb n="8"/><pc> </pc>dadhi<pc> </pc>praḥbhṛtibhir
                         vraṇaḥ praklidyatīti</l>
+<trailer xml:lang="en">[1938 ed. 6.65.11]</trailer>
+</lg>
 
-                    <l xml:id="SS.6.65.12">
-                        <label xml:lang="en">1938 ed. 6.65.12</label>
+                    <lg xml:id="SS.6.65.12"><l>
+                        
                          samāsa<pc> </pc>va<cb/>cô samuddeśaḥ |
                         <caesura/>
                          yathā śalyam iti </l>
+<trailer xml:lang="en">[1938 ed. 6.65.12]</trailer>
+</lg>
 
-                    <l xml:id="SS.6.65.13">
-                        <label xml:lang="en">1938 ed. 6.65.13</label>
+                    <lg xml:id="SS.6.65.13"><l>
+                        
                          vistaravacanaṃ nirddê<lb n="9"/>śaḥ |
                         <caesura/>
                          yathā śārīram āgaṃtu ceti </l>
+<trailer xml:lang="en">[1938 ed. 6.65.13]</trailer>
+</lg>
 
-                    <l xml:id="SS.6.65.14">
-                        <label xml:lang="en">1938 ed. 6.65.14</label>
+                    <lg xml:id="SS.6.65.14"><l>
+                        
                          evam ity upadêśaḥ
-                        <caesura/>
+                        
                          ya<cb/>thā na rātrau jāgṛyā divāsvapnaṃ ca varjayêt |</l>
+<trailer xml:lang="en">[1938 ed. 6.65.14]</trailer>
+</lg>
 
 
                     <!--<l xml:id="SS.6.65.15"><label xml:lang="en">1938 ed. 6.65.15</label> anena kāraṇenety apadeśaḥ

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
@@ -14,8 +15,7 @@
                             <settlement>Kathmandu</settlement>
                             <country>Nepal</country>
                         </placeName>
-                        <institution>Kaiser Library<ptr target="https://www.klib.gov.np/"
-                            /></institution>
+                        <institution>Kaiser Library<ptr target="https://www.klib.gov.np/"/></institution>
                         <idno>699</idno>
                         <idno type="siglum">K</idno>
                     </msIdentifier>
@@ -51,11 +51,9 @@
                         </objectDesc>
 
                         <scriptDesc>
-                            <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa"
-                                    >śa</foreign> and <foreign xml:lang="sa">sa</foreign>
+                            <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa">śa</foreign> and <foreign xml:lang="sa">sa</foreign>
                                 not distinguished.</scriptNote>
-                            <scriptNote xml:id="script-ba-va"><foreign xml:lang="ba"
-                                    >ba</foreign> and <foreign xml:lang="va">va</foreign>
+                            <scriptNote xml:id="script-ba-va"><foreign xml:lang="ba">ba</foreign> and <foreign xml:lang="va">va</foreign>
                                 not distinguished.</scriptNote>
                             <scriptNote xml:id="savarna-nasals">savarṇa nasals rule
                                 applied</scriptNote>
@@ -175,61 +173,45 @@
 
                 <div n="32" type="adhyāya">
                     <milestone unit="jpeg" facs="029V IMG_0119.JPG"/>
-                    <pb n="29v, line 2"  facs="46"/>
+                    <pb n="29v, line 2" facs="46"/>
                     
-                    <l xml:id="SS.1.32.1"> athātaḥ svabhāvavipratipattiṃ
-                            <abbr>vyā</abbr><ex>khyāsyāmaḥ</ex> || </l>
+                    <lg xml:id="SS.1.32.1"><l> athātaḥ svabhāvavipratipattiṃ
+                            <abbr>vyā</abbr><ex>khyāsyāmaḥ</ex> || </l></lg>
 
                   
 
-                    <l xml:id="SS.1.32.3"> svabhāvaprasiddhānāṃ śarīraikadeśānā<del
-                            rend="erasing">ṃ</del>m anyathātvaṃ mara<cb n="2"/>ṇāya tad
-                        yathā śuklānāṃ kṛṣṇatvaṃ kṛṣṇānāṃ śuklatvaṃ | sthirāṇām mṛ<add
-                            place="bottom margin" rend="kākapada">du</add>tvaṃ calānām
-                        acalatvaṃ <unclear confidence="0.3" reason="damage"
-                            >a</unclear>calā<lb n="3"/>nāṃ calatvaṃ | pṛthūnāṃ saṃ<add
-                            place="bottom margin" rend="kākapada">kṣi</add>ptatvaṃ
+                    <lg xml:id="SS.1.32.3"><l> svabhāvaprasiddhānāṃ śarīraikadeśānā<del rend="erasing">ṃ</del>m anyathātvaṃ mara<cb n="2"/>ṇāya tad
+                        yathā śuklānāṃ kṛṣṇatvaṃ kṛṣṇānāṃ śuklatvaṃ | sthirāṇām mṛ<add place="bottom margin" rend="kākapada">du</add>tvaṃ calānām
+                        acalatvaṃ <unclear confidence="0.3" reason="damage">a</unclear>calā<lb n="3"/>nāṃ calatvaṃ | pṛthūnāṃ saṃ<add place="bottom margin" rend="kākapada">kṣi</add>ptatvaṃ
                         saṃkṣiptānāṃ pṛthutvaṃ | dīrghāṇāṃ hrasvaṃ hrasvānān dīrghatā |
                             apata<cb n="1"/>nadharmiṇāṃ patanam akasmāc
-                        chaityoṣṇasneharaukṣyaprastambhavaivarṇṇyāni apasarpaṇam aṅgānāṃ </l>
+                        chaityoṣṇasneharaukṣyaprastambhavaivarṇṇyāni apasarpaṇam aṅgānāṃ </l></lg>
 
-                    <l xml:id="SS.1.32.4"> svebhyaḥ <add place="bottom margin"
-                            rend="kākapada">sthānebhyaḥ</add> śarīraikadeśānāṃ
-                            mavasraṃso<cb n="2"
-                        />tkṣiptabhrāntapatitavimuktanirgamātigamagurulaghutvāni
+                    <lg xml:id="SS.1.32.4"><l> svebhyaḥ <add place="bottom margin" rend="kākapada">sthānebhyaḥ</add> śarīraikadeśānāṃ
+                            mavasraṃso<cb n="2"/>tkṣiptabhrāntapatitavimuktanirgamātigamagurulaghutvāni
                         pravālavarṇṇavyaṅgaprādurbhāvo vā<lb n="4"/>kasmāt sirāṇāṃ ca
-                        darśanaṃ lalāṭe nāsāvaṃśe vā pi<add place="bottom margin"
-                            >ṭakotpattiḥ</add> udakotpattir netrarogaṃ vināsrupravṛttir
+                        darśanaṃ lalāṭe nāsāvaṃśe vā pi<add place="bottom margin">ṭakotpattiḥ</add> udakotpattir netrarogaṃ vināsrupravṛttir
                             la<cb n="1"/>lāṭe vā prabhātakāle svedapravṛttiḥ |
                         gomayacūrṇṇaprakāsasya rajaso darśanam uttamāṅge līyanam vā
                             kapotakaṅkagṛdhraprabhṛ<cb n="2"/>tīnāṃ
                         mūtra<cb/>purīṣapravṛddhir abhuñjanānāṃ stanamūlahṛdayoraḥsu ca
                         śūlotpattayaḥ | madhye <lb n="5"/>śūnatvam anteṣu parimlāyitvaṃ |
-                        viparyayo vā naṣṭahīnavikalavihṛtasvaraṃ vā <add
-                            place="bottom margin" rend="small circle"
-                            >vivarṇṇapuṣpaprādurbhāvo vā</add> dantanakhaśarīreṣu <cb
-                            n="1"/><add place="in column break">puṣpadarśana</add>
-                        <cb n="1"/>yasya cāpsu kaphaśakṛdretāṃsi nimajjaṃti yasya ca <del
-                            rend="crossed out">na</del> dṛṣṭimaṇḍale bhinnavikṛtāni rūpāṇy
+                        viparyayo vā naṣṭahīnavikalavihṛtasvaraṃ vā <add place="bottom margin" rend="small circle">vivarṇṇapuṣpaprādurbhāvo vā</add> dantanakhaśarīreṣu <cb n="1"/><add place="in column break">puṣpadarśana</add>
+                        <cb n="1"/>yasya cāpsu kaphaśakṛdretāṃsi nimajjaṃti yasya ca <del rend="crossed out">na</del> dṛṣṭimaṇḍale bhinnavikṛtāni rūpāṇy
                         ālocyante snehābhyaktakeśāṃga iva yo <cb n="2"/>bhāti yaś ca
                         durbalo bhaktadveṣātisārābhyām pīḍyate | kāsamānaś ca
                         tṛṣṇātibhūtaḥ kṣīṇaś charddi<lb n="6"/>bhaktadveṣayuktaḥ
                         saphenarudhirodvāmī hatasvaraḥ śūlābhihataś ca
-                        manuṣyaśūnakaracaraṇo nnadveṣī <cb n="1"
-                        />srastapiṇḍakāṃsapāṇipādaḥ | yaś ca pūrvāhṇe bhuktam aparāhṇe
+                        manuṣyaśūnakaracaraṇo nnadveṣī <cb n="1"/>srastapiṇḍakāṃsapāṇipādaḥ | yaś ca pūrvāhṇe bhuktam aparāhṇe
                         ścharddayaty avidagdhaṃ sāryate vā jvarakāsābhibhūtaḥ sa śvāsān
                             mriya<cb n="2"/>te | vastavad vilapamāno bhūmau patati
-                        srastamuṣkaḥ stabdhaśepo bhagnagrīvaḥ praṇaṣṭamehaś ca <lb n="7"
-                        />manuṣyaḥ prāgviśuṣyamāṇa<add
-                            place="bottom   margin"
-                            rend="kākapada">hṛdaya</add> ārdraśarīraḥ | yaś ca loṣṭaṃ
+                        srastamuṣkaḥ stabdhaśepo bhagnagrīvaḥ praṇaṣṭamehaś ca <lb n="7"/>manuṣyaḥ prāgviśuṣyamāṇa<add place="bottom   margin" rend="kākapada">hṛdaya</add> ārdraśarīraḥ | yaś ca loṣṭaṃ
                         loṣṭenābhihanti | kāṣṭham vā kāṣṭhena tṛṇā<cb n="1"/>ni vā
                         cchinatti | adharoṣṭhaṃ vā daśati uttaroṣṭhaṃ vā leḍhi | āluñcati
-                        karṇṇau keśāṃś ca | devadvijagurusuhṛdvaidyāṃ vā vidveṣṭi <cb
-                            n="2"/>yasya ca vakrānuvakragā grahā garhitasthānagatāḥ |
+                        karṇṇau keśāṃś ca | devadvijagurusuhṛdvaidyāṃ vā vidveṣṭi <cb n="2"/>yasya ca vakrānuvakragā grahā garhitasthānagatāḥ |
                         janmaṛkṣam vāsyolkāśanibhyām abhihanyate
                         
-                    </l>
+                    </l></lg>
 
 
 

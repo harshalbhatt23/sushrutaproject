@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
 
@@ -17,8 +18,7 @@
                             <country>Nepal</country>
                         </placeName>
                         <institution>Kaiser Library</institution>
-                        <repository><ref target="https://www.klib.gov.np/"
-                                >https://www.klib.gov.np/</ref></repository>
+                        <repository><ref target="https://www.klib.gov.np/">https://www.klib.gov.np/</ref></repository>
                         <collection>[collection]</collection>
                         <idno>699</idno>
                         <idno type="siglum">K</idno>
@@ -44,12 +44,10 @@
                             <supportDesc material="palm-leaf"/>
                         </objectDesc>
                         <scriptDesc>
-                            <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa"
-                                    >śa</foreign> and <foreign xml:lang="sa">sa</foreign>
+                            <scriptNote xml:id="script-śa-sa"><foreign xml:lang="sa">śa</foreign> and <foreign xml:lang="sa">sa</foreign>
                                 not distinguished|</scriptNote>
                             <!--                     this śa/sa equivalence may be wrong. Still checking, 2021-06-12  - DW -->
-                            <scriptNote xml:id="script-ba-va"><foreign xml:lang="sa"
-                                    >ba</foreign> and <foreign xml:lang="sa">va</foreign>
+                            <scriptNote xml:id="script-ba-va"><foreign xml:lang="sa">ba</foreign> and <foreign xml:lang="sa">va</foreign>
                                 not distinguished.</scriptNote>
                             <scriptNote xml:id="svarna-nasals"/>
                             <!-- see https://github.com/chchch/upama/issues/87#issuecomment-2357860543 -->
@@ -132,251 +130,247 @@
                     <!-- SS.4.2.1 - 23 physically absent -->
 
                     <milestone unit="folio" n="90r" facs="090r IMG_0057.JPG"/>
-                    <l xml:id="SS.4.2.24"><pb n="90r" facs="50"/><lb n="1"/>hitan tatra
-                        tatseko vihitas tathā | </l>
+                    <lg xml:id="SS.4.2.24"><l><pb n="90r" facs="50"/><lb n="1"/>hitan tatra
+                        tatseko vihitas tathā | </l></lg>
 
-                    <l xml:id="SS.4.2.25">veśavāraiḥ sakṛśaraiḥ susnigdhaś copanāhataṃ |
+                    <lg xml:id="SS.4.2.25"><l>veśavāraiḥ sakṛśaraiḥ susnigdhaś copanāhataṃ |
                         <caesura/>
-                         dhānyasvedāṃś ca kurvī<cb n="1"/>ta snigdhāny ālepanāni ca ||</l>
+                         dhānyasvedāṃś ca kurvī<cb n="1"/>ta snigdhāny ālepanāni ca ||</l></lg>
 
-                    <l xml:id="SS.4.2.26">vātaghnauṣadhasiddhaiś ca snehair vastir
+                    <lg xml:id="SS.4.2.26"><l>vātaghnauṣadhasiddhaiś ca snehair vastir
                         vidhīyate ||
                         <caesura/>
-                         piccite ca vighṛṣṭe ca nātisravati śoṇitaṃ |</l>
+                         piccite ca vighṛṣṭe ca nātisravati śoṇitaṃ |</l></lg>
 
-                    <l xml:id="SS.4.2.27">tasmin na <cb n="2"/> gachati bhṛśaṃ dāhaḥ pākaś
+                    <lg xml:id="SS.4.2.27"><l>tasmin na <cb n="2"/> gachati bhṛśaṃ dāhaḥ pākaś
                         ca jāyate |
                         <caesura/>
-                         tasyoṣmaṇo nigrahārthaṃ dāhapākabhayā ya ca |</l>
+                         tasyoṣmaṇo nigrahārthaṃ dāhapākabhayā ya ca |</l></lg>
 
-                    <l xml:id="SS.4.2.28">śītam ālepa<lb n="2"/>naṃ kāryam pariṣekaś
+                    <lg xml:id="SS.4.2.28"><l>śītam ālepa<lb n="2"/>naṃ kāryam pariṣekaś
                         śītalaḥ |
                         <caesura/>
-                         ṣaṭsveteṣu yathokteṣu chinnādiṣu samāsataḥ |</l>
+                         ṣaṭsveteṣu yathokteṣu chinnādiṣu samāsataḥ |</l></lg>
 
-                    <l xml:id="SS.4.2.29">jñeyaṃ samarpitaṃ sarvaṃ sa<cb n="1"
-                        />dyovraṇacikitsitam || ❈ ||
+                    <lg xml:id="SS.4.2.29"><l>jñeyaṃ samarpitaṃ sarvaṃ sa<cb n="1"/>dyovraṇacikitsitam || ❈ ||
                         <caesura/>
-                         ata ūrdhvam pravakṣyāmi chinnānān tu cikitsitaṃ |</l>
+                         ata ūrdhvam pravakṣyāmi chinnānān tu cikitsitaṃ |</l></lg>
 
-                    <l xml:id="SS.4.2.30">ye vraṇā vivṛtāḥ kecic chinnāḥ pārśvāvalamvitaḥ
+                    <lg xml:id="SS.4.2.30"><l>ye vraṇā vivṛtāḥ kecic chinnāḥ pārśvāvalamvitaḥ
                         |
                         <caesura/>
-                         tāṃ sīvyed vidhinoktena vandhīyād gāḍham eva ca |</l>
+                         tāṃ sīvyed vidhinoktena vandhīyād gāḍham eva ca |</l></lg>
 
-                    <l xml:id="SS.4.2.31">karṇṇaṃ sthānādapoḍhantu sthāpayutvā
+                    <lg xml:id="SS.4.2.31"><l>karṇṇaṃ sthānādapoḍhantu sthāpayutvā
                         yathāsthitaṃ |
                         <caesura/>
-                         sīvyedya<lb n="3"/>thoktaṃ tailena srotaś cāpyabhitarpayet |</l>
+                         sīvyedya<lb n="3"/>thoktaṃ tailena srotaś cāpyabhitarpayet |</l></lg>
 
-                    <l xml:id="SS.4.2.32">kṛkāṭikānte chinne tu gachaty api samīraṇe |
+                    <lg xml:id="SS.4.2.32"><l>kṛkāṭikānte chinne tu gachaty api samīraṇe |
                         <caesura/>
-                         samyaṅ niveśya <cb n="1"/>vadhnīyāt sīvyec cāpi nirantaram |</l>
+                         samyaṅ niveśya <cb n="1"/>vadhnīyāt sīvyec cāpi nirantaram |</l></lg>
 
-                    <l xml:id="SS.4.2.33">ājena sarpiṣā caivaṃ pariṣeko
+                    <lg xml:id="SS.4.2.33"><l>ājena sarpiṣā caivaṃ pariṣeko
                             <unclear>bhi</unclear>dhīyate |
                         <caesura/>
-                         uttānonnaṃ samaśrnīyāc chayīta ca suyantritaḥ |</l>
+                         uttānonnaṃ samaśrnīyāc chayīta ca suyantritaḥ |</l></lg>
 
-                    <l xml:id="SS.4.2.34">śā<cb n="2"/>khāsu tiryaksatitāṃ prahārāṃ
+                    <lg xml:id="SS.4.2.34"><l>śā<cb n="2"/>khāsu tiryaksatitāṃ prahārāṃ
                         vivṛtāṃ bhṛsaṃ |
                         <caesura/>
-                         sīvyet samyaṅ niveśyāśuḥ sandhyasthīny anupūrvaśaḥ |</l>
+                         sīvyet samyaṅ niveśyāśuḥ sandhyasthīny anupūrvaśaḥ |</l></lg>
 
-                    <l xml:id="SS.4.2.35">vadhyāve<lb n="4"/>llitakenāśuḥ vastāntena
+                    <lg xml:id="SS.4.2.35"><l>vadhyāve<lb n="4"/>llitakenāśuḥ vastāntena
                         ghanena vā |
                         <caesura/>
-                         carmaṇā goḥ phaṇo vandhaḥ kāryaś vā sahate sinā |</l>
+                         carmaṇā goḥ phaṇo vandhaḥ kāryaś vā sahate sinā |</l></lg>
 
-                    <l xml:id="SS.4.2.36">pṛṣṭhe vra<cb n="1"/>ṇo yasya bhaved uttānañ ca
+                    <lg xml:id="SS.4.2.36"><l>pṛṣṭhe vra<cb n="1"/>ṇo yasya bhaved uttānañ ca
                         śayīta ca |
                         <caesura/>
-                         ato nyathā corasije śayīta puruṣo vraṇe |</l>
+                         ato nyathā corasije śayīta puruṣo vraṇe |</l></lg>
 
-                    <l xml:id="SS.4.2.37">chinnāṃ niḥśeṣataḥ śākhān dagdhvā tailena
+                    <lg xml:id="SS.4.2.37"><l>chinnāṃ niḥśeṣataḥ śākhān dagdhvā tailena
                         vuddhimāṃ |
                         <caesura/>
-                        <cb n="2"/>vadhnīyāt kośavandhena prāptaṃ kuryāc ca ropaṇaṃ ||</l>
+                        <cb n="2"/>vadhnīyāt kośavandhena prāptaṃ kuryāc ca ropaṇaṃ ||</l></lg>
 
-                    <l xml:id="SS.4.2.38">candanaṃ padmakaṃ lodhram utpalādi priyaṃgavaḥ
+                    <lg xml:id="SS.4.2.38"><l>candanaṃ padmakaṃ lodhram utpalādi priyaṃgavaḥ
                         ||
                         <caesura/>
-                         haridrā<lb n="5"/> madhukaṃ caiva payaś cāṣṭamam eva tu |</l>
+                         haridrā<lb n="5"/> madhukaṃ caiva payaś cāṣṭamam eva tu |</l></lg>
 
-                    <l xml:id="SS.4.2.39">tailam ebhir vipakkaṃ syāt pradhānaṃ
+                    <lg xml:id="SS.4.2.39"><l>tailam ebhir vipakkaṃ syāt pradhānaṃ
                         vraṇaropaṇaṃ |
                         <caesura/>
-                         candanaṃ karkaṭākhyā <cb n="1"/> ca sahe māṃsāhvayāmṛtā |</l>
+                         candanaṃ karkaṭākhyā <cb n="1"/> ca sahe māṃsāhvayāmṛtā |</l></lg>
 
-                    <l xml:id="SS.4.2.40">hareṇavo mṛṇālañ ca triphalā padmakotpalaiḥ |
+                    <lg xml:id="SS.4.2.40"><l>hareṇavo mṛṇālañ ca triphalā padmakotpalaiḥ |
                         <caesura/>
-                         trayodaśāṃgatrivṛtametadvā payasām ānvitaṃ |</l>
+                         trayodaśāṃgatrivṛtametadvā payasām ānvitaṃ |</l></lg>
 
-                    <l xml:id="SS.4.2.41">tailaṃ vipa<cb n="2"/>kvaṃ sekāryahitantu
+                    <lg xml:id="SS.4.2.41"><l>tailaṃ vipa<cb n="2"/>kvaṃ sekāryahitantu
                         vraṇaropane || ❈ ||
                         <caesura/>
-                         ata ūrdhvaṃ pravakṣyāmi bhinnānān tu cikitsitaṃ |</l>
+                         ata ūrdhvaṃ pravakṣyāmi bhinnānān tu cikitsitaṃ |</l></lg>
 
-                    <l xml:id="SS.4.2.42">bhinnanetrama<lb n="6"/>karmaṇyamabhinnaṃ
+                    <lg xml:id="SS.4.2.42"><l>bhinnanetrama<lb n="6"/>karmaṇyamabhinnaṃ
                         lamvate tu yaḥ |
                         <caesura/>
-                         tanniveśya yathāsthānamavyāviddhasiraṃ śanaiḥ |</l>
+                         tanniveśya yathāsthānamavyāviddhasiraṃ śanaiḥ |</l></lg>
 
-                    <l xml:id="SS.4.2.43">pīḍayen pāṇinā sam<cb n="1"/>myak
+                    <lg xml:id="SS.4.2.43"><l>pīḍayen pāṇinā sam<cb n="1"/>myak
                         padmapatrāntareṇa tu |
                         <caesura/>
-                         tatosya tarpaṇaṃ kāryan nasyañ cānena sarpiṣā |</l>
+                         tatosya tarpaṇaṃ kāryan nasyañ cānena sarpiṣā |</l></lg>
 
-                    <l xml:id="SS.4.2.44">ajāghṛtaṃ kṣīrapātraṃ madhukañ cotpalāni ca |
+                    <lg xml:id="SS.4.2.44"><l>ajāghṛtaṃ kṣīrapātraṃ madhukañ cotpalāni ca |
                         <caesura/>
-                         jīvaka<cb n="2"/>rsaṣabhakau cāpi piṣṭvā sarpirvipācayet |</l>
+                         jīvaka<cb n="2"/>rsaṣabhakau cāpi piṣṭvā sarpirvipācayet |</l></lg>
 
-                    <l xml:id="SS.4.2.45">sarvanetrābhighāteṣu sarpiretat praśasyate |
+                    <lg xml:id="SS.4.2.45"><l>sarvanetrābhighāteṣu sarpiretat praśasyate |
                         <caesura/>
-                         udarā<lb n="7"/>nmedaso varttirn nirgatā yasya dehinaḥ |</l>
+                         udarā<lb n="7"/>nmedaso varttirn nirgatā yasya dehinaḥ |</l></lg>
 
-                    <l xml:id="SS.4.2.46">tāṃ kaṣāyāvakīrṇṇantu vadhvā sūtreṇa sūtravit |
+                    <lg xml:id="SS.4.2.46"><l>tāṃ kaṣāyāvakīrṇṇantu vadhvā sūtreṇa sūtravit |
                         <caesura/>
                          samyag<cb n="1"/> chindyād vraṇena<unclear>tac ca</unclear>
-                        kṣaudreṇa <unclear extent="1"/> veṣṭayet |</l>
+                        kṣaudreṇa <unclear extent="1"/> veṣṭayet |</l></lg>
 
 
 
 
 
-                    <l xml:id="SS.4.2.49">acchindyamānām araṇaṃ kuryād āṭopam eva vā |
+                    <lg xml:id="SS.4.2.49"><l>acchindyamānām araṇaṃ kuryād āṭopam eva vā |
                         <caesura/>
                          medāgranthau tu yat tailaṃ vakṣyate tat tu yo<cb n="2"/>jayet
-                        |</l>
+                        |</l></lg>
 
-                    <l xml:id="SS.4.2.50">tvacotītya sirādīni bhitvā vā parihṛtya vā |
+                    <lg xml:id="SS.4.2.50"><l>tvacotītya sirādīni bhitvā vā parihṛtya vā |
                         <caesura/>
-                         kāṣṭhe pratiṣṭhitaṃ śalyaṃ kuryā<milestone unit="folio" n="90v"
-                            facs="090v                             IMG_0058.JPG"/><pb
-                            n="90v" facs="51"/><lb n="1"/>d uktānupadravān |</l>
+                         kāṣṭhe pratiṣṭhitaṃ śalyaṃ kuryā<milestone unit="folio" n="90v" facs="090v                             IMG_0058.JPG"/><pb n="90v" facs="51"/><lb n="1"/>d uktānupadravān |</l></lg>
 
-                    <l xml:id="SS.4.2.51">tatrāntarlohitam pāṇḍuśītapādakarānanaṃ |
+                    <lg xml:id="SS.4.2.51"><l>tatrāntarlohitam pāṇḍuśītapādakarānanaṃ |
                         <caesura/>
-                         śītocchvāsaṃ raktanetramānaddhañ ca viva<cb n="1"/>rjayet |</l>
+                         śītocchvāsaṃ raktanetramānaddhañ ca viva<cb n="1"/>rjayet |</l></lg>
 
-                    <l xml:id="SS.4.2.52">āmāśayasthe rudhire vamanam pathyam ucyate |
+                    <lg xml:id="SS.4.2.52"><l>āmāśayasthe rudhire vamanam pathyam ucyate |
                         <caesura/>
-                         pakvāśayathe deyañ ca virecanam asaṃśayaṃ |</l>
+                         pakvāśayathe deyañ ca virecanam asaṃśayaṃ |</l></lg>
 
-                    <l xml:id="SS.4.2.53">āsthāpañ ca niḥ snehaḥ kā<cb n="2"/>ryam
+                    <lg xml:id="SS.4.2.53"><l>āsthāpañ ca niḥ snehaḥ kā<cb n="2"/>ryam
                         uṣṇaviśodhanaiḥ |
                         <caesura/>
-                         yavakolakulatthānāṃ niḥ snehena rasena ca |</l>
+                         yavakolakulatthānāṃ niḥ snehena rasena ca |</l></lg>
 
-                    <l xml:id="SS.4.2.54"><lb n="2"/>bhuñjītānnaṃ yavāguṃ vā pivet
+                    <lg xml:id="SS.4.2.54"><l><lb n="2"/>bhuñjītānnaṃ yavāguṃ vā pivet
                             <unclear>se</unclear>ndhavasaṃyutāṃ |
                         <caesura/>
-                         atiniḥ srutarakto vā bhinnakoṣṭhaḥ pivedsṛk |</l>
+                         atiniḥ srutarakto vā bhinnakoṣṭhaḥ pivedsṛk |</l></lg>
 
-                    <l xml:id="SS.4.2.55">svamār<cb n="1"/>pratipannās tu yasya
+                    <lg xml:id="SS.4.2.55"><l>svamār<cb n="1"/>pratipannās tu yasya
                         viṇmūtramārutāḥ |
                         <caesura/>
-                         nirūpadravaḥ sambhinnepi koṣṭhe jīvati mānavaḥ |</l>
+                         nirūpadravaḥ sambhinnepi koṣṭhe jīvati mānavaḥ |</l></lg>
 
-                    <l xml:id="SS.4.2.56">abhinnamantraṃ niḥ krāntāṃ praveśyaṃ nānyathā
+                    <lg xml:id="SS.4.2.56"><l>abhinnamantraṃ niḥ krāntāṃ praveśyaṃ nānyathā
                         bhavet <cb n="2"/> |
                         <caesura/>
-                         alaṅgale sirograstaṃ tadapyake vadanti hi |</l>
+                         alaṅgale sirograstaṃ tadapyake vadanti hi |</l></lg>
 
-                    <l xml:id="SS.4.2.57">prakṣālya payasā digdhaṃ tṛṇaśoṇitapāṃsubhiḥ ||
+                    <lg xml:id="SS.4.2.57"><l>prakṣālya payasā digdhaṃ tṛṇaśoṇitapāṃsubhiḥ ||
                         <caesura/>
-                         praveśaye<lb n="3"/>t kṛttanakho ghṛtenāktaṃ śanaiḥ śanaiḥ ||</l>
+                         praveśaye<lb n="3"/>t kṛttanakho ghṛtenāktaṃ śanaiḥ śanaiḥ ||</l></lg>
 
-                    <l xml:id="SS.4.2.58">praveśayet kṣīrasiktaṃ śuṣkamantraṃ ghṛtāplataṃ
+                    <lg xml:id="SS.4.2.58"><l>praveśayet kṣīrasiktaṃ śuṣkamantraṃ ghṛtāplataṃ
                         |
                         <caesura/>
-                         aṃgulyābhimṛśet ka<cb/>ṇṭhaṃ jalenodvejayedapi |</l>
+                         aṃgulyābhimṛśet ka<cb/>ṇṭhaṃ jalenodvejayedapi |</l></lg>
 
 
 
-                    <l xml:id="SS.4.2.60">tathāntrāṇi viśantyantaḥ svāṃ kalām pīḍayanti ca
+                    <lg xml:id="SS.4.2.60"><l>tathāntrāṇi viśantyantaḥ svāṃ kalām pīḍayanti ca
                         |
                         <caesura/>
                          vraṇasau<unclear extent="1"/>dvahutvād vā duḥpraveśan tu yad
-                        bhavet |</l>
+                        bhavet |</l></lg>
 
-                    <l xml:id="SS.4.2.61">tad vipā<cb n="2"/>dya pramāṇena bhiṣag antam
+                    <lg xml:id="SS.4.2.61"><l>tad vipā<cb n="2"/>dya pramāṇena bhiṣag antam
                         praveśayet |
                         <caesura/>
-                         yathāsthānaniviṣṭe ca vraṇaṃ sīvyam atandritaḥ |</l>
+                         yathāsthānaniviṣṭe ca vraṇaṃ sīvyam atandritaḥ |</l></lg>
 
-                    <l xml:id="SS.4.2.62">sthānād apeta<lb n="4"/>m ādatte prāṇāṃ gupitam
+                    <lg xml:id="SS.4.2.62"><l>sthānād apeta<lb n="4"/>m ādatte prāṇāṃ gupitam
                         eva vā |
                         <caesura/>
-                         veṣṭayitvā ca paṭṭena ghṛtasekam pradāpayet |</l>
+                         veṣṭayitvā ca paṭṭena ghṛtasekam pradāpayet |</l></lg>
 
-                    <l xml:id="SS.4.2.63">payaḥ pivet sukho<cb n="1"/>ṣṇañ ca
+                    <lg xml:id="SS.4.2.63"><l>payaḥ pivet sukho<cb n="1"/>ṣṇañ ca
                         citrātailasamanvitaṃ |
                         <caesura/>
-                         mṛdukriyārthaśakṛto vāyoś cādhaḥ pravṛttaye |</l>
+                         mṛdukriyārthaśakṛto vāyoś cādhaḥ pravṛttaye |</l></lg>
 
-                    <l xml:id="SS.4.2.64">tatas tailam idaṃ kuryād ropaṇārthañ cikitsakaḥ
+                    <lg xml:id="SS.4.2.64"><l>tatas tailam idaṃ kuryād ropaṇārthañ cikitsakaḥ
                         |
                         <caesura/>
                          tvaco<cb n="2"/>śvakarṇadhavayor
-                        <unclear>pā</unclear>takīmeṣaśṛṅgayoḥ |</l>
+                        <unclear>pā</unclear>takīmeṣaśṛṅgayoḥ |</l></lg>
 
-                    <l xml:id="SS.4.2.65">śallakyarjanayoś cāpi vidāryākṣīriṇān tathā |
+                    <lg xml:id="SS.4.2.65"><l>śallakyarjanayoś cāpi vidāryākṣīriṇān tathā |
                         <caesura/>
-                         valāmū<lb n="5"/>lāni cāhṛtya tailam etad vipācayet |</l>
+                         valāmū<lb n="5"/>lāni cāhṛtya tailam etad vipācayet |</l></lg>
 
-                    <l xml:id="SS.4.2.66">vraṇaṃ saṃropayet tena
+                    <lg xml:id="SS.4.2.66"><l>vraṇaṃ saṃropayet tena
                         ra<unclear>ktet</unclear>samvatsarañ ca tat ||
                         <caesura/>
-                         pādau nira<cb n="1"/>stamuṣkasya jalena praokṣya cākṣiṇī |</l>
+                         pādau nira<cb n="1"/>stamuṣkasya jalena praokṣya cākṣiṇī |</l></lg>
 
-                    <l xml:id="SS.4.2.67">praveśya muṣkau sūtreṇa tu no sevanasevitaṃ |
+                    <lg xml:id="SS.4.2.67"><l>praveśya muṣkau sūtreṇa tu no sevanasevitaṃ |
                         <caesura/>
-                         kāryañ ca goḥ phalāvandhaḥ kaṭyām āveśya yantrakaṃ |</l>
+                         kāryañ ca goḥ phalāvandhaḥ kaṭyām āveśya yantrakaṃ |</l></lg>
 
-                    <l xml:id="SS.4.2.68"><cb n="2"/> na kuryāt snehasekañ ca tena
+                    <lg xml:id="SS.4.2.68"><l><cb n="2"/> na kuryāt snehasekañ ca tena
                         praklidyate vraṇaḥ |
                         <caesura/>
-                         kālānusārīm agurūṃ candanandevadārū ca |</l>
+                         kālānusārīm agurūṃ candanandevadārū ca |</l></lg>
 
-                    <l xml:id="SS.4.2.69">manaḥ śilā<lb n="6"/>le vā hṛtya tailaṃ kurvīta
+                    <lg xml:id="SS.4.2.69"><l>manaḥ śilā<lb n="6"/>le vā hṛtya tailaṃ kurvīta
                         ropaṇaṃ |
                         <caesura/>
-                         śīrṣādy apahate śalye vālavartim praveśayet |</l>
+                         śīrṣādy apahate śalye vālavartim praveśayet |</l></lg>
 
-                    <l xml:id="SS.4.2.70">vālavartyāmadattā<cb n="1"/>yāṃ
+                    <lg xml:id="SS.4.2.70"><l>vālavartyāmadattā<cb n="1"/>yāṃ
                                 mastuluṃ<subst><add place="lower-margin">ga</add></subst>
                         vraṇāt sravet |
                         <caesura/>
-                         hanyād enan tato vāyus tasmād evam upācaret |</l>
+                         hanyād enan tato vāyus tasmād evam upācaret |</l></lg>
 
-                    <l xml:id="SS.4.2.71">vraṇe rūhati caikaikaṃ śanair vālam upakṣipet |
+                    <lg xml:id="SS.4.2.71"><l>vraṇe rūhati caikaikaṃ śanair vālam upakṣipet |
                         <caesura/>
                          gā<cb n="2"/>trā<unclear>dya</unclear>pahṛte tasmiṃ snehavartim
-                        praveśayet |</l>
+                        praveśayet |</l></lg>
 
-                    <l xml:id="SS.4.2.72">niḥ śoṇite cāpi kṛtavidhiḥ sadyakṣate hitaḥ |
+                    <lg xml:id="SS.4.2.72"><l>niḥ śoṇite cāpi kṛtavidhiḥ sadyakṣate hitaḥ |
                         <caesura/>
-                        <lb n="7"/>dūrāvagāḍhāḥ sūkṣmā syur ye vraṇāṃs tāṃ viśoṇitāṃ |</l>
+                        <lb n="7"/>dūrāvagāḍhāḥ sūkṣmā syur ye vraṇāṃs tāṃ viśoṇitāṃ |</l></lg>
 
-                    <l xml:id="SS.4.2.73">kṛtvā netreṇa sūkṣmeṇa cakratailena tarpayet |
+                    <lg xml:id="SS.4.2.73"><l>kṛtvā netreṇa sūkṣmeṇa cakratailena tarpayet |
                         <caesura/>
-                        <cb n="1"/>padmāṃ samaṅgāṃ rajanīṃ trivargaṃ tuttham eva ca |</l>
+                        <cb n="1"/>padmāṃ samaṅgāṃ rajanīṃ trivargaṃ tuttham eva ca |</l></lg>
 
-                    <l xml:id="SS.4.2.74">saṃhṛtya vipacet kāle tailaṃ ropaṇam uttamaṃ
-                        |</l>
+                    <lg xml:id="SS.4.2.74"><l>saṃhṛtya vipacet kāle tailaṃ ropaṇam uttamaṃ
+                        |</l></lg>
 
 
 
-                    <l xml:id="SS.4.2.76">kṣate kṣatavidhiḥ kāryaḥ piccite bhagnavad vi<cb
-                            n="1"/>dhiḥ |</l>
+                    <lg xml:id="SS.4.2.76"><l>kṣate kṣatavidhiḥ kāryaḥ piccite bhagnavad vi<cb n="1"/>dhiḥ |</l></lg>
 
-                    <l xml:id="SS.4.2.77">ghṛṣṭe rujāṃ nigṛhyāśus cūrṇair upacared vraṇaṃ
+                    <lg xml:id="SS.4.2.77"><l>ghṛṣṭe rujāṃ nigṛhyāśus cūrṇair upacared vraṇaṃ
                         |
                         <caesura/>
-                         viśliṣṭadehaṃ patitaṃ mathitaṃ hatam eva vā | </l>
+                         viśliṣṭadehaṃ patitaṃ mathitaṃ hatam eva vā | </l></lg>
 
-                    <l xml:id="SS.4.2.78">vāsa</l>
+                    <lg xml:id="SS.4.2.78"><l>vāsa</l></lg>
 
                     <!-- text breaks off with the end of this lone folio -->
 
@@ -390,247 +384,231 @@
 
                     <milestone unit="folio" n="112r" ana="line 1" facs="112r IMG_0140.JPG"/>
 
-                    <l xml:id="SS.4.19.22">
+                    <lg xml:id="SS.4.19.22"><l>
                         <!-- aṅguṣṭhamadhye-->
-                        <milestone unit="folio" n="112r" facs="112r IMG_0140.JPG"/><pb
-                            n="112r" facs="52"/><lb n="1"/>tvak chitvā dahed
-                        vāṅgaviparyaye | </l>
+                        <milestone unit="folio" n="112r" facs="112r IMG_0140.JPG"/><pb n="112r" facs="52"/><lb n="1"/>tvak chitvā dahed
+                        vāṅgaviparyaye | </l></lg>
 
-                    <l xml:id="SS.4.19.23"> anenaiva vidhāṇena vṛddhī vātakaphātmakau |
+                    <lg xml:id="SS.4.19.23"><l> anenaiva vidhāṇena vṛddhī vātakaphātmakau |
                         <caesura/>
-                         pradahet pra<cb n="1"/>yataḥ kintu <subst><del rend="overwriting"
-                                unit="syllable" n="2"/>
-                            <add><unclear reason="overwriting"
-                            >ta</unclear>smā</add></subst> cchedo dhikas tayoḥ | </l>
+                         pradahet pra<cb n="1"/>yataḥ kintu <subst><del rend="overwriting" unit="syllable" n="2"/>
+                            <add><unclear reason="overwriting">ta</unclear>smā</add></subst> cchedo dhikas tayoḥ | </l></lg>
 
-                    <l xml:id="SS.4.19.24"> śaṅkhopari ca karṇṇānte tyaktvā sevanim ādarāt
+                    <lg xml:id="SS.4.19.24"><l> śaṅkhopari ca karṇṇānte tyaktvā sevanim ādarāt
                         |
                         <caesura/>
-                         vyatyāsāt tatsirām vidhyed antravṛddher ni<cb n="2"/>vṛttaye || </l>
+                         vyatyāsāt tatsirām vidhyed antravṛddher ni<cb n="2"/>vṛttaye || </l></lg>
 
-                    <l xml:id="SS.4.19.25"> upadaṃśeṣu sādhyeṣu susnigdhasvinnadehinaḥ |
+                    <lg xml:id="SS.4.19.25"><l> upadaṃśeṣu sādhyeṣu susnigdhasvinnadehinaḥ |
                         <caesura/>
-                         sirām vidhyen meḍhramadhye pātaye<lb n="2"/>d vā jalaukasaḥ | </l>
+                         sirām vidhyen meḍhramadhye pātaye<lb n="2"/>d vā jalaukasaḥ | </l></lg>
 
-                    <l xml:id="SS.4.19.26"> hared ubhayataś cāpi doṣāṇ atyartham ucchritāṃ
+                    <lg xml:id="SS.4.19.26"><l> hared ubhayataś cāpi doṣāṇ atyartham ucchritāṃ
                         |
                         <caesura/>
-                         sadyo nihṛtadoṣasya ru<cb n="1"/>kchothāv upaśāmyataḥ | </l>
+                         sadyo nihṛtadoṣasya ru<cb n="1"/>kchothāv upaśāmyataḥ | </l></lg>
 
-                    <l xml:id="SS.4.19.27"> yadi vā durbalo jantur na vā prāptaṃ virecanaṃ
+                    <lg xml:id="SS.4.19.27"><l> yadi vā durbalo jantur na vā prāptaṃ virecanaṃ
                         |
                         <caesura/>
-                         nirūheṇāharet tasya doṣān atyartham ucchritāṃ | </l>
+                         nirūheṇāharet tasya doṣān atyartham ucchritāṃ | </l></lg>
 
-                    <l xml:id="SS.4.19.28"> prapauṇḍa<cb n="2"/>rīkaṃ madhukaṃ
+                    <lg xml:id="SS.4.19.28"><l> prapauṇḍa<cb n="2"/>rīkaṃ madhukaṃ
                             rāsnāku<unclear ana="could be śca">ṣṭha</unclear>punarṇṇavaiḥ
                         |
                         <caesura/>
-                         saralāgurubhadrākhyair vātajaṃ saṃpralepayet | </l>
+                         saralāgurubhadrākhyair vātajaṃ saṃpralepayet | </l></lg>
 
-                    <l xml:id="SS.4.19.29"> ni<lb n="3"/>culair aṇḍabījāni
+                    <lg xml:id="SS.4.19.29"><l> ni<lb n="3"/>culair aṇḍabījāni
                         yavagodhūmasaktavaḥ |
                         <caesura/>
-                         etaiś ca vātajaṃ snigdhaṃ sukhoṣṇaiḥ sampralepayet | </l>
+                         etaiś ca vātajaṃ snigdhaṃ sukhoṣṇaiḥ sampralepayet | </l></lg>
 
-                    <l xml:id="SS.4.19.30">
+                    <lg xml:id="SS.4.19.30"><l>
                         <cb n="3"/>prapauṇḍarīka pūrvaiś ca dravyaiḥ sekaḥ praśasyate |
                         <caesura/>
-                         gairikāñjanamañjiṣṭhāmadhukośīrapadmakaiḥ | </l>
+                         gairikāñjanamañjiṣṭhāmadhukośīrapadmakaiḥ | </l></lg>
 
-                    <l xml:id="SS.4.19.31"> sacandanotpalaiḥ sni<cb n="2"/>gdhaiḥ
+                    <lg xml:id="SS.4.19.31"><l> sacandanotpalaiḥ sni<cb n="2"/>gdhaiḥ
                         paittikāṃ sampralepayet |
                         <caesura/>
-                         padmotpalamṛṇālādyaiḥ sasarjārjunavetasaiḥ | </l>
+                         padmotpalamṛṇālādyaiḥ sasarjārjunavetasaiḥ | </l></lg>
 
-                    <l xml:id="SS.4.19.32"> sarpiṣkaiḥ <lb n="4"/>samadhukaiḥ paittikaṃ
+                    <lg xml:id="SS.4.19.32"><l> sarpiṣkaiḥ <lb n="4"/>samadhukaiḥ paittikaṃ
                         sampralepayet |
                         <caesura/>
                          secaye<add place="below">c ca</add>
-                        ghṛtakṣīraśarkarekṣumadhūdakaiḥ | </l>
+                        ghṛtakṣīraśarkarekṣumadhūdakaiḥ | </l></lg>
 
-                    <l xml:id="SS.4.19.33"> athavā<cb n="1"/>pi suśītena kaṣāyeṇa vaṭādinā
+                    <lg xml:id="SS.4.19.33"><l> athavā<cb n="1"/>pi suśītena kaṣāyeṇa vaṭādinā
                         ||
                         <caesura/>
-                         sālājakarṇṇāśvakarṇṇadhavatvagbhiḥ kaphotthitaṃ | </l>
+                         sālājakarṇṇāśvakarṇṇadhavatvagbhiḥ kaphotthitaṃ | </l></lg>
 
-                    <l xml:id="SS.4.19.34"> surasāditailayuktābhiḥ su<cb n="4"/>khoṣṇābhiḥ
+                    <lg xml:id="SS.4.19.34"><l> surasāditailayuktābhiḥ su<cb n="4"/>khoṣṇābhiḥ
                         pralepayet |
                         <caesura/>
-                         āragvadhādikvāthena pariṣekañ ca dāpayet | </l>
+                         āragvadhādikvāthena pariṣekañ ca dāpayet | </l></lg>
 
 
 
-                    <l xml:id="SS.4.19.37"> na ca yānti ya<lb n="5"/>thā pākaṃ prayateta
+                    <lg xml:id="SS.4.19.37"><l> na ca yānti ya<lb n="5"/>thā pākaṃ prayateta
                         tathā bhiṣak |
                         <caesura/>
-                         vidagdhair hi sirāsnāyutvaṅmāsaiḥ kṣīyate <cb n="1"/>dhvajaḥ | </l>
+                         vidagdhair hi sirāsnāyutvaṅmāsaiḥ kṣīyate <cb n="1"/>dhvajaḥ | </l></lg>
 
-                    <l xml:id="SS.4.19.36"> tasmāt saṃśodhanālepasekaśoṇitamokṣaṇaiḥ |
+                    <lg xml:id="SS.4.19.36"><l> tasmāt saṃśodhanālepasekaśoṇitamokṣaṇaiḥ |
                         <caesura/>
-                         kriyāyogair upacaret prāksthānoktair hitair api | </l>
+                         kriyāyogair upacaret prāksthānoktair hitair api | </l></lg>
 
-                    <l xml:id="SS.4.19.38"> śa<cb n="2"/>streṇopacared vāpi pākam āgatam
+                    <lg xml:id="SS.4.19.38"><l> śa<cb n="2"/>streṇopacared vāpi pākam āgatam
                         āśu vai |
                         <caesura/>
-                         tam apohya tilaiḥ sarpiḥ kṣaudrayuktaiḥ <lb n="6"/>pralepayet | </l>
+                         tam apohya tilaiḥ sarpiḥ kṣaudrayuktaiḥ <lb n="6"/>pralepayet | </l></lg>
 
-                    <l xml:id="SS.4.19.39"> karavīrasya patrāṇi jātyāragvadhayor api
+                    <lg xml:id="SS.4.19.39"><l> karavīrasya patrāṇi jātyāragvadhayor api
                         <caesura/>
-                         prakṣālane prayojyā<cb n="1"/>ni vaijayantyarkayor api | </l>
+                         prakṣālane prayojyā<cb n="1"/>ni vaijayantyarkayor api | </l></lg>
 
-                    <l xml:id="SS.4.19.40"> saurāṣṭr<subst><del rend="erasing">i</del>
+                    <lg xml:id="SS.4.19.40"><l> saurāṣṭr<subst><del rend="erasing">i</del>
                             <add>ī</add></subst>ṃ gairikaṃ tutthaṃ puṣpakāsīsasaindhavaṃ |
                         <caesura/>
-                         lodhraṃ rasāñjanañ cāpi haritālaṃ <cb n="2"/>manaḥśilā | </l>
+                         lodhraṃ rasāñjanañ cāpi haritālaṃ <cb n="2"/>manaḥśilā | </l></lg>
 
-                    <l xml:id="SS.4.19.41"> hareṇukailāś ca tathā samānyāhṛtya cūrṇṇayet |
+                    <lg xml:id="SS.4.19.41"><l> hareṇukailāś ca tathā samānyāhṛtya cūrṇṇayet |
                         <caesura/>
-                         tac cūrṇṇaṃ kṣaudrasaṃyu<lb n="7"/>ktaṃ upadaṃśeṣu pūjitaṃ || </l>
+                         tac cūrṇṇaṃ kṣaudrasaṃyu<lb n="7"/>ktaṃ upadaṃśeṣu pūjitaṃ || </l></lg>
 
-                    <l xml:id="SS.4.19.42"> jambvāmrasumanānimbaśvetakāmbojipallavāṃ |
+                    <lg xml:id="SS.4.19.42"><l> jambvāmrasumanānimbaśvetakāmbojipallavāṃ |
                         <caesura/>
-                         salla<cb n="1"/>kībadarībilvapalāśatiniśatvacaḥ | </l>
+                         salla<cb n="1"/>kībadarībilvapalāśatiniśatvacaḥ | </l></lg>
 
-                    <l xml:id="SS.4.19.43"> kṣīriṇāṃ ca tvaco yojyā kvāthe triphalayā saha
+                    <lg xml:id="SS.4.19.43"><l> kṣīriṇāṃ ca tvaco yojyā kvāthe triphalayā saha
                         |
                         <caesura/>
                         <add place="below">tena kvāthena sa</add>tataṃ praṇam
-                            prakṣālaye<cb n="2"/>d bhiṣak | </l>
+                            prakṣālaye<cb n="2"/>d bhiṣak | </l></lg>
 
-                    <l xml:id="SS.4.19.44">asminn eva kaṣāye tu tailaṃ dhīro vipācayet |
+                    <lg xml:id="SS.4.19.44"><l>asminn eva kaṣāye tu tailaṃ dhīro vipācayet |
                         <caesura/>
-                         gojīviḍaṅgamadhuka<milestone unit="folio" n="112v"
-                            facs="112v IMG_0141.JPG"/><pb n="112v" facs="53"/><lb n="1"
-                            /><unclear unit="syllable" n="4"/> samanvitaṃ || </l>
+                         gojīviḍaṅgamadhuka<milestone unit="folio" n="112v" facs="112v IMG_0141.JPG"/><pb n="112v" facs="53"/><lb n="1"/><unclear unit="syllable" n="4"/> samanvitaṃ || </l></lg>
 
-                    <l xml:id="SS.4.19.45ab">
-                        <unclear reason="faded" unit="syllable" n="13"/><unclear
-                            reason="faded">m iṣyate</unclear> |</l>
+                    <lg xml:id="SS.4.19.45ab"><l>
+                        <unclear reason="faded" unit="syllable" n="13"/><unclear reason="faded">m iṣyate</unclear> |</l></lg>
 
-                    <l xml:id="SS.4.19.48cd">
+                    <lg xml:id="SS.4.19.48cd"><l>
                         <unclear reason="faded">upadaṃśa<cb n="1"/>dvaye śeṣe
                             pratyākhyāyācaret kriyāṃ |</unclear>
-                    </l>
+                    </l></lg>
 
-                    <l xml:id="SS.4.19.49ab">
+                    <lg xml:id="SS.4.19.49ab"><l>
                         <unclear reason="faded">eteṣām eva yojyan tu vīkṣya
-                            doṣabalābalaṃ</unclear> || </l>
+                            doṣabalābalaṃ</unclear> || </l></lg>
 
 
 
-                    <l xml:id="SS.4.19.52">
-                        <unclear reason="faded">svehasvedopanāhāṃś ca ślīpade <cb n="2"
-                            />nilaje bhiṣak |</unclear>
+                    <lg xml:id="SS.4.19.52"><l>
+                        <unclear reason="faded">svehasvedopanāhāṃś ca ślīpade <cb n="2"/>nilaje bhiṣak |</unclear>
                         <caesura/>
                         <unclear reason="faded">kṛtvā gulphopari śirāṃ vyadhayec
-                            caturaṅgule | </unclear></l>
+                            caturaṅgule | </unclear></l></lg>
 
-                    <l xml:id="SS.4.19.53">
-                        <unclear reason="faded" unit="syllable" n="8"/><lb n="2"/><unclear
-                            unit="syllable" n="4"/>m upācaret |
+                    <lg xml:id="SS.4.19.53"><l>
+                        <unclear reason="faded" unit="syllable" n="8"/><lb n="2"/><unclear unit="syllable" n="4"/>m upācaret |
                         <caesura/>
-                         māsam eraṇḍatailañ ca piben mūtreṇa mānavaḥ | </l>
+                         māsam eraṇḍatailañ ca piben mūtreṇa mānavaḥ | </l></lg>
 
-                    <l xml:id="SS.4.19.54"> mahauṣa<cb n="1"/>dhavipakvena payasā cānnam
+                    <lg xml:id="SS.4.19.54"><l> mahauṣa<cb n="1"/>dhavipakvena payasā cānnam
                         ādiśet |
                         <caesura/>
-                         trivṛtaṃ copayuñjīta hitaś cātrāgnir ucyate || </l>
+                         trivṛtaṃ copayuñjīta hitaś cātrāgnir ucyate || </l></lg>
 
-                    <l xml:id="SS.4.19.55"> gulphasyādhaḥ śirāṃ vidhyec chlī<cb n="2"
-                        />pade pittasa<unclear reason="faded">ṣṭhave</unclear> |
+                    <lg xml:id="SS.4.19.55"><l> gulphasyādhaḥ śirāṃ vidhyec chlī<cb n="2"/>pade pittasa<unclear reason="faded">ṣṭhave</unclear> |
                         <caesura/>
                         <unclear reason="faded">pittaghnāś ca kriyāḥ</unclear>
-                        <gap reason="illegible" unit="char" n="10"/> | </l>
+                        <gap reason="illegible" unit="char" n="10"/> | </l></lg>
 
-                    <l xml:id="SS.4.19.56">
+                    <lg xml:id="SS.4.19.56"><l>
                         <unclear reason="faded" unit="syllable" n="5"/><lb n="3"/>tāṃ
                         vidhyed aṃguṣṭhe śleṣmaślīpade |
                         <caesura/>
-                         madhuyuktāni cābhīkṣṇaṃ kaṣāyāṇi piben naraḥ | </l>
+                         madhuyuktāni cābhīkṣṇaṃ kaṣāyāṇi piben naraḥ | </l></lg>
 
-                    <l xml:id="SS.4.19.57"> pibe<cb n="1"/>d vā py abhayākalkaṃ
+                    <lg xml:id="SS.4.19.57"><l> pibe<cb n="1"/>d vā py abhayākalkaṃ
                         mūtreṇānyatamena vai |
                         <caesura/>
-                         pibed edaṅ guḍūcīm vā nāgaram bhadradāru vā | </l>
+                         pibed edaṅ guḍūcīm vā nāgaram bhadradāru vā | </l></lg>
 
-                    <l xml:id="SS.4.19.58"> hitaś cālepaṇaṃ <unclear reason="faded"
-                            >vityaṃ</unclear> citrako deva<cb n="2"/>dāru ca |
+                    <lg xml:id="SS.4.19.58"><l> hitaś cālepaṇaṃ <unclear reason="faded">vityaṃ</unclear> citrako deva<cb n="2"/>dāru ca |
                         <caesura/>
                          vi<unclear reason="faded">ḍiṅgamaricārkeṣu nāgare citrake thavā
                             |</unclear>
-                    </l>
+                    </l></lg>
 
-                    <l xml:id="SS.4.19.59">
+                    <lg xml:id="SS.4.19.59"><l>
                         <unclear reason="faded" unit="syllable" n="12"/><lb n="4"/>vaṇeṣu
                         ca |
                         <caesura/>
-                         tailaṃ pakvaṃ pibed vāpi yavānnañ ca hitaṃ sadā | </l>
+                         tailaṃ pakvaṃ pibed vāpi yavānnañ ca hitaṃ sadā | </l></lg>
 
-                    <l xml:id="SS.4.19.60"> pibet sadā ca tailena <cb n="1"/>ślīpadānān
+                    <lg xml:id="SS.4.19.60"><l> pibet sadā ca tailena <cb n="1"/>ślīpadānān
                         nivṛttaye |
                         <caesura/>
-                         pūtīkarañjacchadajaṃ rasañ cāpi yathābalaṃ | </l>
+                         pūtīkarañjacchadajaṃ rasañ cāpi yathābalaṃ | </l></lg>
 
-                    <l xml:id="SS.4.19.61"> anenaiva vidhānena putraṃjīvakajaṃ <unclear
-                            reason="faded">rasaṃ</unclear> ||
+                    <lg xml:id="SS.4.19.61"><l> anenaiva vidhānena putraṃjīvakajaṃ <unclear reason="faded">rasaṃ</unclear> ||
                         <caesura/>
-                         prayuñjīta bhiṣak prājñaḥ kālasaṃ<unclear reason="faded"
-                            >syakvibhā</unclear>gavit || </l>
+                         prayuñjīta bhiṣak prājñaḥ kālasaṃ<unclear reason="faded">syakvibhā</unclear>gavit || </l></lg>
 
 
-                    <l xml:id="SS.4.19.63">
+                    <lg xml:id="SS.4.19.63"><l>
                         <unclear reason="faded">kākādanīḥ kākajaṃghām bṛhatīṃ</unclear>
                         <lb n="5"/>kaṇṭakārikāṃ |
                         <caesura/>
                          kadambapuṣpīm āndārīṃ <unclear reason="faded">lambāṃ śukanasān
-                            ta</unclear>thā | </l>
+                            ta</unclear>thā | </l></lg>
 
-                    <l xml:id="SS.4.19.64"> dagdhvā mūtreṇa taṃ <cb n="1"/>bhasma srāvayet
+                    <lg xml:id="SS.4.19.64"><l> dagdhvā mūtreṇa taṃ <cb n="1"/>bhasma srāvayet
                         kṣārakalkavat |
                         <caesura/>
-                         tatra dadyāt pratīvāpaṃ kākodumbarikārasaṃ | </l>
+                         tatra dadyāt pratīvāpaṃ kākodumbarikārasaṃ | </l></lg>
 
-                    <l xml:id="SS.4.19.65"> madanāc ca phalaṃ kvāthaṃ svarasañ ca śukā<cb
-                            n="2"/>khyayā |
+                    <lg xml:id="SS.4.19.65"><l> madanāc ca phalaṃ kvāthaṃ svarasañ ca śukā<cb n="2"/>khyayā |
                         <caesura/>
-                         eṣa kṣāras tu pānīyaḥ ślīpadaṃ hanti <unclear reason="faded"
-                            >sevitaḥ</unclear> | </l>
+                         eṣa kṣāras tu pānīyaḥ ślīpadaṃ hanti <unclear reason="faded">sevitaḥ</unclear> | </l></lg>
 
-                    <l xml:id="SS.4.19.66"> apaciṃ galagaṇḍañ ca grahaṇī<lb n="6"/>doṣam
+                    <lg xml:id="SS.4.19.66"><l> apaciṃ galagaṇḍañ ca grahaṇī<lb n="6"/>doṣam
                         eva ca |
                         <caesura/>
-                         abhaktarocakañ caiva hanyāt sarvaviṣāṇi ca | </l>
+                         abhaktarocakañ caiva hanyāt sarvaviṣāṇi ca | </l></lg>
 
-                    <l xml:id="SS.4.19.67"> eṣv eva siddhaṃ tai<cb n="1"/>lañ ca
+                    <lg xml:id="SS.4.19.67"><l> eṣv eva siddhaṃ tai<cb n="1"/>lañ ca
                         nasyābhyaṅgeṣu sevitaṃ |
                         <caesura/>
-                         etān evāmayāṃ hanti ye ca duṣṭavraṇā nṛṇāṃ | </l>
+                         etān evāmayāṃ hanti ye ca duṣṭavraṇā nṛṇāṃ | </l></lg>
 
-                    <l xml:id="SS.4.19.68"> drantī dravantī trivṛtā nīlī śyāmā ta<cb n="2"
-                        />thaiva ca |
+                    <lg xml:id="SS.4.19.68"><l> drantī dravantī trivṛtā nīlī śyāmā ta<cb n="2"/>thaiva ca |
                         <caesura/>
-                         saptalāṃ śaṅkhinīṃ caiva dagdhvā mūtreṇa gālayet | </l>
+                         saptalāṃ śaṅkhinīṃ caiva dagdhvā mūtreṇa gālayet | </l></lg>
 
-                    <l xml:id="SS.4.19.69"> dadyāc ca triphalā<unclear reason="faded"
-                            >kvātham eṣa kṣā</unclear><lb n="7"/>ras tu sādhitaḥ |
+                    <lg xml:id="SS.4.19.69"><l> dadyāc ca triphalā<unclear reason="faded">kvātham eṣa kṣā</unclear><lb n="7"/>ras tu sādhitaḥ |
                         <caesura/>
                         <unclear reason="faded">adho gacchati pītaś ca pūrva</unclear>ś
-                        cāpy āśiṣaḥ samāḥ |</l>
+                        cāpy āśiṣaḥ samāḥ |</l></lg>
 
-                    <l xml:id="SS.4.19.69.add1">kriyābhiḥ <cb n="1"/>samyag ārabdhā yadi
+                    <lg xml:id="SS.4.19.69.add1"><l>kriyābhiḥ <cb n="1"/>samyag ārabdhā yadi
                         naivopaśāmyati |
                         <caesura/>
                          sve sve bhāgye samu<unclear reason="faded">tpādya
-                        cche</unclear>dayitvā sirām vyadhet | </l>
+                        cche</unclear>dayitvā sirām vyadhet | </l></lg>
 
-                    <l xml:id="SS.4.19.69.add2"> sirāmukhe ca matimāṃ <cb n="2"/>dahet
+                    <lg xml:id="SS.4.19.69.add2"><l> sirāmukhe ca matimāṃ <cb n="2"/>dahet
                         samyak chalākayā ||
                         <caesura/>
-                         kuryāc chītakriyāñ cāpi vraṇoktañ ca vidhin tatheti || </l>
+                         kuryāc chītakriyāñ cāpi vraṇoktañ ca vidhin tatheti || </l></lg>
 
-                    <l xml:id="SS.4.19.trailer">
-                        <unclear reason="faded">ci 19</unclear> ||</l>
+                    <lg xml:id="SS.4.19.trailer"><l>
+                        <unclear reason="faded">ci 19</unclear> ||</l></lg>
 
                     <milestone unit="folio" n="112v" ana="line 7" facs="112v IMG_0141.JPG"/>
 
@@ -641,49 +619,43 @@
 
                     <milestone unit="folio" n="113r" ana="line 1" facs="113r IMG_0082.JPG"/>
 
-                    <l xml:id="SS.4.20.1">
-                        <milestone unit="folio" n="113r" facs="113r IMG_0082.JPG"/><pb
-                            n="113r" facs="56"/><lb n="1"/>a<cb n="1"/>thātaḥ kṣudrarogāṇā
+                    <lg xml:id="SS.4.20.1"><l>
+                        <milestone unit="folio" n="113r" facs="113r IMG_0082.JPG"/><pb n="113r" facs="56"/><lb n="1"/>a<cb n="1"/>thātaḥ kṣudrarogāṇā
                         cikitsitam <abbr type="suspension">vyā</abbr>
-                        <expan>vyā<ex>khyāsyāmaḥ</ex></expan> || </l>
+                        <expan>vyā<ex>khyāsyāmaḥ</ex></expan> || </l></lg>
 
 
 
-                    <l xml:id="SS.4.20.3"> tatrādita eva jaga<unclear reason="faded"
-                            >llikām apakvā</unclear>ñ jalāyukābhir grāhayet |
+                    <lg xml:id="SS.4.20.3"><l> tatrādita eva jaga<unclear reason="faded">llikām apakvā</unclear>ñ jalāyukābhir grāhayet |
                         <caesura/>
-                        <unclear reason="faded">yavakṣārasurā<cb n="2"
-                            />ṣṭrikākākolī</unclear>kalkaiś cālepayet | </l>
+                        <unclear reason="faded">yavakṣārasurā<cb n="2"/>ṣṭrikākākolī</unclear>kalkaiś cālepayet | </l></lg>
 
-                    <l xml:id="SS.4.20.4">
+                    <lg xml:id="SS.4.20.4"><l>
                         <unclear reason="faded">śyāmāpāṭhālāṅgalīkalkair vā pakvām vā
-                            pāka</unclear><lb n="2"/>vidhānenopacaret ||</l>
+                            pāka</unclear><lb n="2"/>vidhānenopacaret ||</l></lg>
 
-                    <l xml:id="SS.4.20.5-6"> yavaprakhyām ambālajīṃ panasikām
+                    <lg xml:id="SS.4.20.5-6"><l> yavaprakhyām ambālajīṃ panasikām
                         pāṣāṇagardabhaṅ kacchapikā<cb n="1"/>ñ ca svedayitvā
                         suradārukuṣṭhaharitālamanaḥśilākalkair ālepayet | pakvāṃ vā
-                        pākavidhānenopacaret || </l>
+                        pākavidhānenopacaret || </l></lg>
 
-                    <l xml:id="SS.4.20.7-8"> vi<cb n="2"/>vṛtām indraviddhāṃ gardabhikāṃ
+                    <lg xml:id="SS.4.20.7-8"><l> vi<cb n="2"/>vṛtām indraviddhāṃ gardabhikāṃ
                         jālagardabham irivellikāṃ gandhanā<unclear reason="faded">māṃ
-                            kakṣām visphoṭāṃś ca</unclear> pi<add place="right"
-                            >ttavisa</add><lb n="3"/>rpavidhānenopacaret | pakvāṃś ca
-                        madhurauṣadhasiddhena sarpiṣā ropayet || </l>
+                            kakṣām visphoṭāṃś ca</unclear> pi<add place="right">ttavisa</add><lb n="3"/>rpavidhānenopacaret | pakvāṃś ca
+                        madhurauṣadhasiddhena sarpiṣā ropayet || </l></lg>
 
-                    <l xml:id="SS.4.20.9-10"> ci<cb n="1"/>pyān tūṣṇāmbunā
+                    <lg xml:id="SS.4.20.9-10"><l> ci<cb n="1"/>pyān tūṣṇāmbunā
                         pariṣecyotkṛtyāpanayec cakratailenābhyajya
-                        sarjarasarasacūrṇṇenāvacūrṇṇya bandhenopacared evam aśa<cb n="2"
-                        />kyam agninā dahet | madhurauṣadhasiddhena ca tailenopacaret || </l>
+                        sarjarasarasacūrṇṇenāvacūrṇṇya bandhenopacared evam aśa<cb n="2"/>kyam agninā dahet | madhurauṣadhasiddhena ca tailenopacaret || </l></lg>
 
-                    <l xml:id="SS.4.20.11">
-                        <unclear reason="faded">anuśayīṃ</unclear> śleṣma vidradhiva<lb
-                            n="4"/>d upacaret | </l>
+                    <lg xml:id="SS.4.20.11"><l>
+                        <unclear reason="faded">anuśayīṃ</unclear> śleṣma vidradhiva<lb n="4"/>d upacaret | </l></lg>
 
-                    <l xml:id="SS.4.20.12-13"> vidārikām abhyajya parisvedya vimlāpayet |
+                    <lg xml:id="SS.4.20.12-13"><l> vidārikām abhyajya parisvedya vimlāpayet |
                             bilvamūlanāgavṛtti<cb n="1"/>kāvarṣābhūkalkaiś cālepayet |
                         vraṇabhāvaṇam āpann<subst><del rend="erasing">ā</del>
                             <add>a</add></subst>ṃ vā madhurakaṣāyauṣadhasiddhena tailena
-                        ropayet || </l>
+                        ropayet || </l></lg>
 
 
 
@@ -691,157 +663,137 @@
 
 
 
-                    <l xml:id="SS.4.20.17-18"> śarkarārbuda<cb n="2"/>m medorbudavad
+                    <lg xml:id="SS.4.20.17-18"><l> śarkarārbuda<cb n="2"/>m medorbudavad
                         upacaret ||
                         <caesura/>
-                         kacchūvicarcikārakaśāsu kuṣṭhavat pratīkāro viśeṣatas tu śa<lb
-                            n="5"/>tāhvāsarṣapakalkair ālepayet |
+                         kacchūvicarcikārakaśāsu kuṣṭhavat pratīkāro viśeṣatas tu śa<lb n="5"/>tāhvāsarṣapakalkair ālepayet |
                         siddhārthakadāruharidrākalkair vā | saralātaile<cb n="1"/>na vā |
-                        kaṭukauṣadhasiddhenābhyaṃjyāt | naktamālatailena vā |</l>
+                        kaṭukauṣadhasiddhenābhyaṃjyāt | naktamālatailena vā |</l></lg>
 
-                    <l xml:id="SS.4.20.19"> pakvāṃś ca pakvavidhānenopacaret ||
+                    <lg xml:id="SS.4.20.19"><l> pakvāṃś ca pakvavidhānenopacaret ||
                         <caesura/>
-                         pādadāryān tu si<cb n="2"/>rām vidhyet | </l>
+                         pādadāryān tu si<cb n="2"/>rām vidhyet | </l></lg>
 
-                    <l xml:id="SS.4.20.20"> pādau snehasvedopapannā
-                            madhūcchiṣṭaghṛtavasāma<unclear reason="faded"
-                        >jjā</unclear>bhir yavakṣāramiśrair ā<lb n="6"/>lepayet || </l>
+                    <lg xml:id="SS.4.20.20"><l> pādau snehasvedopapannā
+                            madhūcchiṣṭaghṛtavasāma<unclear reason="faded">jjā</unclear>bhir yavakṣāramiśrair ā<lb n="6"/>lepayet || </l></lg>
 
-                    <l xml:id="SS.4.20.21-22"> alase tv āmlakāñjikasiktau caraṇau
-                            paṭolapicumardatilakā<cb n="1"/>sīsarocanākalkair ālepayet | </l>
+                    <lg xml:id="SS.4.20.21-22"><l> alase tv āmlakāñjikasiktau caraṇau
+                            paṭolapicumardatilakā<cb n="1"/>sīsarocanākalkair ālepayet | </l></lg>
 
-                    <l xml:id="SS.4.20.23"> nidigdhikārasasiddhena ca
+                    <lg xml:id="SS.4.20.23"><l> nidigdhikārasasiddhena ca
                         sarṣapatailenābhyajya kāsīsarocanāmanaḥśilā<cb n="2"/>cūrṇṇaiḥ
-                        pratisārayet || kadaram uddhṛtya dahet snehena || </l>
+                        pratisārayet || kadaram uddhṛtya dahet snehena || </l></lg>
 
-                    <l xml:id="SS.4.20.24"> indralupte tu śi<handShift/>rasi sirām vi<lb
-                            n="7"/>dhā tu <unclear reason="eccentric_ductus"
-                            confidence="0.1"
-                        >nda</unclear>manaḥśilā<handShift/>maricakalkair ālepayet | </l>
+                    <lg xml:id="SS.4.20.24"><l> indralupte tu śi<handShift/>rasi sirām vi<lb n="7"/>dhā tu <unclear reason="eccentric_ductus" confidence="0.1">nda</unclear>manaḥśilā<handShift/>maricakalkair ālepayet | </l></lg>
 
-                    <l xml:id="SS.4.20.25-26">
+                    <lg xml:id="SS.4.20.25-26"><l>
                         <unclear reason="faded">kuṭannaṭa</unclear>bhadradārukalkair vā
                             jātī<cb n="1"/>citrakakaravīranaktamālakalkasiddhena
-                        tailenābhyaṃjyāt | rasāyanavidhānañ cāse<unclear confidence="0.5"
-                            >ndha</unclear>vena | avagāḍhapadaṃ pra<cb n="2"/><unclear
-                            reason="faded" confidence="0.1">cchayitvā guñjāphalakalkair
+                        tailenābhyaṃjyāt | rasāyanavidhānañ cāse<unclear confidence="0.5">ndha</unclear>vena | avagāḍhapadaṃ pra<cb n="2"/><unclear reason="faded" confidence="0.1">cchayitvā guñjāphalakalkair
                             bhūyo bhūyaḥ pradihyāt ||</unclear>
-                    </l>
+                    </l></lg>
 
-                    <l xml:id="SS.4.20.27-29">
+                    <lg xml:id="SS.4.20.27-29"><l>
                         <unclear reason="faded">arūṣikā tu jalaukobhiḥ</unclear>
-                        <milestone unit="folio" n="113v" facs="113v IMG_0083.JPG"/><pb
-                            n="113v" facs="57"/><lb n="1"/>śoṇitam avasicya nimbodakena
-                        parisicyāśvaviḍrasena lavaṇapragāḍhenālepayet | <cb n="1"
-                        />paṭolapicumardaharidrākalkair vā |
+                        <milestone unit="folio" n="113v" facs="113v IMG_0083.JPG"/><pb n="113v" facs="57"/><lb n="1"/>śoṇitam avasicya nimbodakena
+                        parisicyāśvaviḍrasena lavaṇapragāḍhenālepayet | <cb n="1"/>paṭolapicumardaharidrākalkair vā |
                         madhukotpalatilairaṇḍamārkavapatrair vā | indraluptoktena
                             taile<add place="above"><handShift/>nā</add>bhyaṃjyāt ||
-                            dāruṇa<cb n="2"/>ke tu snigdhasvinnasya lalāṭe sirām vyadhet | </l>
+                            dāruṇa<cb n="2"/>ke tu snigdhasvinnasya lalāṭe sirām vyadhet | </l></lg>
 
-                    <l xml:id="SS.4.20.30"> avapīḍaśiro bastyabhya<unclear reason="damage"
-                            >ṃ</unclear>gā<unclear reason="damage">ṃ</unclear>ś cāseveta |
-                            <lb n="2"/>kodravatṛṇakṣaraudakaprakṣālanañ ca || </l>
+                    <lg xml:id="SS.4.20.30"><l> avapīḍaśiro bastyabhya<unclear reason="damage">ṃ</unclear>gā<unclear reason="damage">ṃ</unclear>ś cāseveta |
+                            <lb n="2"/>kodravatṛṇakṣaraudakaprakṣālanañ ca || </l></lg>
 
-                    <l xml:id="SS.4.20.31"> palitaprakāram anyatra vakṣyāmaḥ |
+                    <lg xml:id="SS.4.20.31"><l> palitaprakāram anyatra vakṣyāmaḥ |
                         <caesura/>
                         <cb n="1"/>masūrikāṃ kaphapittavisarpakuṣṭhaharapralepanādikriyām
-                        upadiśanti || </l>
+                        upadiśanti || </l></lg>
 
-                    <l xml:id="SS.4.20.32cd-33ab"> jatumaṇimaśakacarmakīlatilakāla<cb
-                            n="2"/>kāṃs tu śastreṇotkṛtya kṣāreṇa pratisārayet | agninā vā
-                        dahet || </l>
+                    <lg xml:id="SS.4.20.32cd-33ab"><l> jatumaṇimaśakacarmakīlatilakāla<cb n="2"/>kāṃs tu śastreṇotkṛtya kṣāreṇa pratisārayet | agninā vā
+                        dahet || </l></lg>
 
-                    <l xml:id="SS.4.20.33cd"> nacchanīlikāvya<lb n="3"/>ṅgeṣu yathābhyāśaṃ
-                        lalāṭe sirām visrāvayet | </l>
+                    <lg xml:id="SS.4.20.33cd"><l> nacchanīlikāvya<lb n="3"/>ṅgeṣu yathābhyāśaṃ
+                        lalāṭe sirām visrāvayet | </l></lg>
 
-                    <l xml:id="SS.4.20.34"> kṣīravṛkṣakalkaiś ca kṣīrapiṣṭair ava<cb n="1"
-                        />ghṛṣyālepayet |</l>
+                    <lg xml:id="SS.4.20.34"><l> kṣīravṛkṣakalkaiś ca kṣīrapiṣṭair ava<cb n="1"/>ghṛṣyālepayet |</l></lg>
 
-                    <l xml:id="SS.4.20.35"> balātibalāmadhukaharidrākalkair vā |
-                        suvarṇṇagairikāgurupayasyākalkair vā | </l>
+                    <lg xml:id="SS.4.20.35"><l> balātibalāmadhukaharidrākalkair vā |
+                        suvarṇṇagairikāgurupayasyākalkair vā | </l></lg>
 
-                    <l xml:id="SS.4.20.36"> taruṇakapittharājā<cb n="2"/>danakalkair vā |
-                        sūkaradaṃṣṭrayā vā madhughṛtayuktayā | </l>
+                    <lg xml:id="SS.4.20.36"><l> taruṇakapittharājā<cb n="2"/>danakalkair vā |
+                        sūkaradaṃṣṭrayā vā madhughṛtayuktayā | </l></lg>
 
-                    <l xml:id="SS.4.20.37"> yūnām api yuvānapiṭakāsv eṣa <lb n="4"/>eva
+                    <lg xml:id="SS.4.20.37"><l> yūnām api yuvānapiṭakāsv eṣa <lb n="4"/>eva
                         vidhiḥ | viśeṣatas tu pracchardanam iṣṭam ālepaś ca
-                            siddhārthakavacālodhrasaindhava<cb n="1"/>kalkair vā || </l>
+                            siddhārthakavacālodhrasaindhava<cb n="1"/>kalkair vā || </l></lg>
 
-                    <l xml:id="SS.4.20.38cd-39ab"> padminīkaṇṭake tu nimbodakavāntasya
-                        nimbodakasarpiḥ kṣaudram pātum prayacchet | </l>
+                    <lg xml:id="SS.4.20.38cd-39ab"><l> padminīkaṇṭake tu nimbodakavāntasya
+                        nimbodakasarpiḥ kṣaudram pātum prayacchet | </l></lg>
 
-                    <l xml:id="SS.4.20.39cd"> nimbāragvadhakaṣāyaṃ <add place="below"
-                            >co</add>tsā<cb n="1"/>dane || </l>
+                    <lg xml:id="SS.4.20.39cd"><l> nimbāragvadhakaṣāyaṃ <add place="below">co</add>tsā<cb n="1"/>dane || </l></lg>
 
-                    <l xml:id="SS.4.20.40-41"> parivarttikāṃ tu sarpiṣābhyajya svedayet |
+                    <lg xml:id="SS.4.20.40-41"><l> parivarttikāṃ tu sarpiṣābhyajya svedayet |
                         vātaghnais tataḥ sninnām upanāhayet | <lb n="5"/>sālvalena
                         veśavāreṇa vā trirātram pañcarātram vā tataḥ svedayitvābhyajya
                         śanaiḥ śanai<cb n="1"/>ś carma samānayaṃ manipatham avapīḍayet
-                        |</l>
+                        |</l></lg>
 
-                    <l xml:id="SS.4.20.42"> pariveṣṭitañ ca punar upanāhayet | nityañ ca
+                    <lg xml:id="SS.4.20.42"><l> pariveṣṭitañ ca punar upanāhayet | nityañ ca
                         snigdham annam āharet || ava<cb n="2"/>pāṭikayām apy evaṃ
-                        yathādoṣaṃ || </l>
+                        yathādoṣaṃ || </l></lg>
 
-                    <l xml:id="SS.4.20.43"> niruddhaprakāśe tu suvarṇṇādīnāṃ nāḍīm
+                    <lg xml:id="SS.4.20.43"><l> niruddhaprakāśe tu suvarṇṇādīnāṃ nāḍīm
                         ubhayatomukhīṃ <lb n="6"/>dāruvīm vā jatuvṛtāṃ sarpiṣābhyajya
-                        srotasi | </l>
+                        srotasi | </l></lg>
 
-                    <l xml:id="SS.4.20.44"> praṇidhāya śiś<subst><del rend="erased"
-                                >i</del>
+                    <lg xml:id="SS.4.20.44"><l> praṇidhāya śiś<subst><del rend="erased">i</del>
                             <add>u</add></subst>māravasāvarāha<cb n="1"/>majjābhiḥ
                             pariṣe<add place="below">ca</add>yec cakratailena vāt |
-                        surabhivacadevadārusiddhena | </l>
+                        surabhivacadevadārusiddhena | </l></lg>
 
-                    <l xml:id="SS.4.20.45"> tryahāt tryahāc ca sthūlatarīṃ nāḍīm
+                    <lg xml:id="SS.4.20.45"><l> tryahāt tryahāc ca sthūlatarīṃ nāḍīm
                             praṇidadhyā<cb n="2"/>d evam asya srotodvāraṃ varddhayet |
-                        snigdhañ cāhāram upaseveta | </l>
+                        snigdhañ cāhāram upaseveta | </l></lg>
 
-                    <l xml:id="SS.4.20.46ab"> śastreṇa vā sevanīṃ vimu<lb n="7"/><g
-                            ref="#newa-placeholder-mark"/>cyāvadārayet | tataḥ sadya
-                        kṣatavad upācaret | </l>
+                    <lg xml:id="SS.4.20.46ab"><l> śastreṇa vā sevanīṃ vimu<lb n="7"/><g ref="#newa-placeholder-mark"/>cyāvadārayet | tataḥ sadya
+                        kṣatavad upācaret | </l></lg>
 
-                    <l xml:id="SS.4.20.46cd-47ab"> agnirohiṇīṃ sanniruddhagudaṃ valmīkañ
-                        ca pratyākhyā<unclear reason="eccentric_ductus"
-                        >yo</unclear>pacaret | </l>
+                    <lg xml:id="SS.4.20.46cd-47ab"><l> agnirohiṇīṃ sanniruddhagudaṃ valmīkañ
+                        ca pratyākhyā<unclear reason="eccentric_ductus">yo</unclear>pacaret | </l></lg>
 
-                    <l xml:id="SS.4.20.47cd"> visarpoktena vidhānenāgnirohiṇīṃ cikitset | </l>
+                    <lg xml:id="SS.4.20.47cd"><l> visarpoktena vidhānenāgnirohiṇīṃ cikitset | </l></lg>
 
-                    <l xml:id="SS.4.20.48ab">
-                        <cb n="2"/>sanniruddhagudaṃ niruddhaprakaśavat | </l>
+                    <lg xml:id="SS.4.20.48ab"><l>
+                        <cb n="2"/>sanniruddhagudaṃ niruddhaprakaśavat | </l></lg>
 
-                    <l xml:id="SS.4.20.48cd-49"> valmīkaṃ śastreṇotkṛtyāgnikṣārābhyām
-                        upacaret tataḥ <milestone unit="folio" n="114r"
-                            facs="114r IMG_0078.JPG"/><pb n="114r" facs="60"/><lb n="1"
-                        /><handShift/>saṃśodhya ropayed arbudavidhāṇena || </l>
+                    <lg xml:id="SS.4.20.48cd-49"><l> valmīkaṃ śastreṇotkṛtyāgnikṣārābhyām
+                        upacaret tataḥ <milestone unit="folio" n="114r" facs="114r IMG_0078.JPG"/><pb n="114r" facs="60"/><lb n="1"/><handShift/>saṃśodhya ropayed arbudavidhāṇena || </l></lg>
 
-                    <l xml:id="SS.4.20.57-58ab">
-                        <handShift/>ahipūtane dhātryāḥ stanyaṃ śodheta | bālasya <cb n="1"
-                        />triphalārasāṃjanapaṭolaiḥ siddhaṃ sarpiḥ pānam iṣṭaṃ | </l>
+                    <lg xml:id="SS.4.20.57-58ab"><l>
+                        <handShift/>ahipūtane dhātryāḥ stanyaṃ śodheta | bālasya <cb n="1"/>triphalārasāṃjanapaṭolaiḥ siddhaṃ sarpiḥ pānam iṣṭaṃ | </l></lg>
 
-                    <l xml:id="SS.4.20.58cd"> triphalākhadirabadarīkaṣāyam vraṇaśodhanaṃ | </l>
+                    <lg xml:id="SS.4.20.58cd"><l> triphalākhadirabadarīkaṣāyam vraṇaśodhanaṃ | </l></lg>
 
-                    <l xml:id="SS.4.20.59"> kāsīsaroca<cb n="2"
-                        />nātutthaharitālarasāñjanair amlapiṣṭaiḥ pralepanaṃ |
-                        badaracūrṇṇair vā saindhavamiśraiḥ | </l>
+                    <lg xml:id="SS.4.20.59"><l> kāsīsaroca<cb n="2"/>nātutthaharitālarasāñjanair amlapiṣṭaiḥ pralepanaṃ |
+                        badaracūrṇṇair vā saindhavamiśraiḥ | </l></lg>
 
-                    <l xml:id="SS.4.20.60">
+                    <lg xml:id="SS.4.20.60"><l>
                         <lb n="1"/>cūrṇṇakāle tu cūrṇṇaḥ kapālatutthajaḥ || vṛṣaṇakacchvām
-                        pāmāvad upacāro hipū<cb n="1"/>tanavac ca || </l>
+                        pāmāvad upacāro hipū<cb n="1"/>tanavac ca || </l></lg>
 
-                    <l xml:id="SS.4.20.61"> gudabhraṃśe tu gudaṃ svedyasnehenābhyajya
+                    <lg xml:id="SS.4.20.61"><l> gudabhraṃśe tu gudaṃ svedyasnehenābhyajya
                         praveśya praviṣṭe ca svedaṃ kuryād uccāranirgamanārthaṃ | chidreṇa
-                        cāsya ca<cb n="2"/>rmaṇā kaupīnabandhaḥ | </l>
+                        cāsya ca<cb n="2"/>rmaṇā kaupīnabandhaḥ | </l></lg>
 
-                    <l xml:id="SS.4.20.62"> tailaṃ cāsya pānābhyañjanārtham vipacet |
+                    <lg xml:id="SS.4.20.62"><l> tailaṃ cāsya pānābhyañjanārtham vipacet |
                         mūṣikaṃ niraṃtraṃ kalpa<lb n="3"/>yitvā mahāpañcamūlakṣīram
-                        vipacet | </l>
+                        vipacet | </l></lg>
 
-                    <l xml:id="SS.4.20.63"> tatas tasmiṃ tailam vātaharakalkaprativāpam
+                    <lg xml:id="SS.4.20.63"><l> tatas tasmiṃ tailam vātaharakalkaprativāpam
                             <cb n="1"/>vipaced etat kṛcchram api gudatraṃ saṃsādhayateti
-                        ||</l>
+                        ||</l></lg>
 
-                    <l xml:id="SS.4.20.trailer">ci 20 || 0 || </l>
+                    <lg xml:id="SS.4.20.trailer"><l>ci 20 || 0 || </l></lg>
 
                     <milestone unit="folio" n="114r" ana="line 3" facs="114r IMG_0078.JPG"/>
 

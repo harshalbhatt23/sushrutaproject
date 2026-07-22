@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
@@ -35,8 +36,7 @@
 
                         <objectDesc form="pothi">
                             <!-- @form can be "pothi", "book", scroll", etc. -->
-                            <supportDesc material="palm-leaf"
-                                ><!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. --><!-- the following <foliation> tags are examples --></supportDesc>
+                            <supportDesc material="palm-leaf"><!-- @material can be "paper", "industrial paper", "handmade paper", "palm-leaf", "palmyra palm-leaf", "talipot palm-leaf", "birch bark", "vellum", etc. --><!-- the following <foliation> tags are examples --></supportDesc>
 
                         </objectDesc>
 
@@ -82,8 +82,8 @@
                     
                     <pb facs="48" n="68v: line 7, end of folio"/>
 
-                    <l xml:id="SS.3.1.1">athātaḥ sarvabhūtacintāṃ śārīraṃ <abbr>vyākhyā</abbr><ex>syāmaḥ</ex>
-                         || </l>
+                    <lg xml:id="SS.3.1.1"><l>athātaḥ sarvabhūtacintāṃ śārīraṃ <abbr>vyākhyā</abbr><ex>syāmaḥ</ex>
+                         || </l></lg>
                
                     
             <!--     MS K is not available from here on in the śārīrasthāna -->

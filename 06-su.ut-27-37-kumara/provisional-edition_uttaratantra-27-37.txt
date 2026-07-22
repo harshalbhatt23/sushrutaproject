@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -12,9 +13,7 @@
                <p>Copyright Notice</p>
                <p>Copyright (C) Dominik Wujastyk</p>
                <p>
-                  <ref corresp="http://creativecommons.org/licenses/by-sa/3.0/"
-                     type="licence">Distributed by <ref
-                        corresp="http://sarit.indology.info" type="url">SARIT</ref> under
+                  <ref corresp="http://creativecommons.org/licenses/by-sa/3.0/" type="licence">Distributed by <ref corresp="http://sarit.indology.info" type="url">SARIT</ref> under
                      a Creative Commons Attribution-ShareAlike 3.0 Unported License.
                   </ref>
                </p>
@@ -46,9 +45,7 @@
             </authority>
             <date>2020</date>
             <pubPlace>The University of Alberta</pubPlace>
-            <publisher>The Suśruta Project (<ref
-                  corresp="http://sushrutaproject.github.io"
-                  >https://sushrutaproject.github.io</ref>)</publisher>
+            <publisher>The Suśruta Project (<ref corresp="http://sushrutaproject.github.io">https://sushrutaproject.github.io</ref>)</publisher>
          </publicationStmt>
          <sourceDesc>
             <msDesc xml:id="Sanskrit" xml:lang="en">
@@ -57,9 +54,7 @@
                </msIdentifier>
             </msDesc>
             <listWit>
-               <witness xml:id="JKT">The <title>Jalpakalpataru</title>, <abbr
-                     type="siglum">JKT</abbr><idno type="siglum"
-                  >Jalpakalpataru</idno></witness>
+               <witness xml:id="JKT">The <title>Jalpakalpataru</title>, <abbr type="siglum">JKT</abbr><idno type="siglum">Jalpakalpataru</idno></witness>
             </listWit>
             <msDesc>
                <msIdentifier/>
@@ -125,165 +120,165 @@
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.1</trailer>
                </lg>
 
-               <l xml:id="SS.6.27.2"/>
+               <lg xml:id="SS.6.27.2"><l/></lg>
 
 
                <lg>
-                  <l xml:id="SS.6.27.3"> bālagrahāṇām vijñānaṃ sādhaṇāṃ cāpy anantaraṃ |
+                  <lg xml:id="SS.6.27.3"><l> bālagrahāṇām vijñānaṃ sādhaṇāṃ cāpy anantaraṃ |
                      <caesura/>
-                      utpattiṃ kāraṇāṃ caiva suśrutaikamanā śṛṇu | </l>
+                      utpattiṃ kāraṇāṃ caiva suśrutaikamanā śṛṇu | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.3</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.4"> skandagrahas tu prathamaḥ skandāpasmāra eva ca |
+                  <lg xml:id="SS.6.27.4"><l> skandagrahas tu prathamaḥ skandāpasmāra eva ca |
                      <caesura/>
-                      śakunī revatī caiva pūtanā cāndhapūtanā | </l>
+                      śakunī revatī caiva pūtanā cāndhapūtanā | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.4</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.5"> pūtanā śītanāmā ca tathaiva mukhamaṇḍikā |
+                  <lg xml:id="SS.6.27.5"><l> pūtanā śītanāmā ca tathaiva mukhamaṇḍikā |
                      <caesura/>
-                      navamo naigameṣaś ca yaḥ pitṛgrahasaṃjñitaḥ || </l>
+                      navamo naigameṣaś ca yaḥ pitṛgrahasaṃjñitaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.5</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.6"> dhātrīmātroś caupacārāparadvāñ
+                  <lg xml:id="SS.6.27.6"><l> dhātrīmātroś caupacārāparadvāñ
                      <caesura/>
                       chaucabhraṣṭaṃ maṅgalācārahīnāṃ |
                      <caesura/>
                       trastāṃ bhītāṃ tritāñs tarjitān vā
                      <caesura/>
-                      pūjā hi syur ete kumārāṃ | </l>
+                      pūjā hi syur ete kumārāṃ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.6</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.7"> aiśvaryasthāste na śakyam viśanto deaṃ draṣṭuṃ
+                  <lg xml:id="SS.6.27.7"><l> aiśvaryasthāste na śakyam viśanto deaṃ draṣṭuṃ
                      mānuṣair viśvarūpā |
                      <caesura/>
-                      āptaṃ vākyaṃ samyagīkṣyābhidhāsye liṅgānyeṣāṃ yāni deheṣu tāni | </l>
+                      āptaṃ vākyaṃ samyagīkṣyābhidhāsye liṅgānyeṣāṃ yāni deheṣu tāni | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.7</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.8"> stabdhākṣaḥ kṣatavasagandhikaḥ stanadviḍ vakrāsyo
+                  <lg xml:id="SS.6.27.8"><l> stabdhākṣaḥ kṣatavasagandhikaḥ stanadviḍ vakrāsyo
                      hatacaraṇekapatranetraḥ |
                      <caesura/>
                       udvignaḥ salulitacakṣuralparogī skandārtto bhavati ca
-                     gāḍhamuṣṭivardhā | </l>
+                     gāḍhamuṣṭivardhā | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.8</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.9"> niḥsaṃjña bhavati punarlabhet ca sañjñaṃ
+                  <lg xml:id="SS.6.27.9"><l> niḥsaṃjña bhavati punarlabhet ca sañjñaṃ
                      saṃrabdhaḥ karacaraṇaiś ca nṛtyatīva |
                      <caesura/>
                       viṇmūtrasṛjati vinadya jṛmbhamāṇaṃ phenāñś ca sṛjati ca
-                     tatsakhābhipannaḥ || </l>
+                     tatsakhābhipannaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.9</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.10"> srastāṃgo bhayacakito vihaṃgagandhā sā
+                  <lg xml:id="SS.6.27.10"><l> srastāṃgo bhayacakito vihaṃgagandhā sā
                      srāvavraṇaparipīḍitaḥ samantāt |
                      <caesura/>
                       sphoṭaiś ca pracitatanuḥ sadāhapākair niḥsaṃjño bhavati śiśuḥ kṣataḥ
-                     śakunyā || </l>
+                     śakunyā || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.10</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.11"> raktāsyo haritamalobhipāṇḍudehaḥ śyāvo vā
+                  <lg xml:id="SS.6.27.11"><l> raktāsyo haritamalobhipāṇḍudehaḥ śyāvo vā
                      jvaramukhapākavedanārttaḥ |
                      <caesura/>
                       mṛdrīte vyāthitatanuś ca karṇanāsāṃ revatyā bhṛśamatipīḍitaḥ kumāraḥ
-                     || </l>
+                     || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.11</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.12"> srastāṅgaḥ svapiti sukhaṃ dinarātrau vinnāṃ
+                  <lg xml:id="SS.6.27.12"><l> srastāṅgaḥ svapiti sukhaṃ dinarātrau vinnāṃ
                      sṛjati ca kākatulyagandhiḥ |
                      <caesura/>
                       chardyārto hṛṣitatanūruhaḥ kumāras tṛṣṇālur bhavati ca pūtanāgṛhītaḥ
-                     || </l>
+                     || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.12</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.13"> yo dveṣṭi stanam atisārakāsahikkāc charddirvā
+                  <lg xml:id="SS.6.27.13"><l> yo dveṣṭi stanam atisārakāsahikkāc charddirvā
                      jvarasahitābhir ardyamānaḥ |
                      <caesura/>
-                      durvarṇāḥ satatam athāpi cāmlagandhītaṃ yād upahatamandhapūtanāyāḥ | </l>
+                      durvarṇāḥ satatam athāpi cāmlagandhītaṃ yād upahatamandhapūtanāyāḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.13</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.14"> ākrandatyati cakitas tu vepamānaḥ saṃlīnaḥ
+                  <lg xml:id="SS.6.27.14"><l> ākrandatyati cakitas tu vepamānaḥ saṃlīnaḥ
                      svapiti ca yasya cāntra kūjāḥ |
                      <caesura/>
                       srastāṅgo bhuśamatisāryate yaḥ syāttaṃ kuryād
-                     bhiṣagathaśītapūtanārtaḥ | </l>
+                     bhiṣagathaśītapūtanārtaḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.14</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.15"> mlānāṅgaḥ surucirapāṇipādavakro vahvāśī
+                  <lg xml:id="SS.6.27.15"><l> mlānāṅgaḥ surucirapāṇipādavakro vahvāśī
                      kaluṣasirāvṛtodaro yaḥ |
                      <caesura/>
                       saṃsṛṣṭaḥ śiśurathavakrumaṇḍikāyāḥ sodvego bhavati ca
-                     vastumūtragandhaḥ || </l>
+                     vastumūtragandhaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.15</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.16"> yaḥ phenām vamati vināmyate ca madhye sodvego
+                  <lg xml:id="SS.6.27.16"><l> yaḥ phenām vamati vināmyate ca madhye sodvego
                      vihasati cordhvamīkṣamānaḥ |
                      <caesura/>
                       jvaryec ca pratatamatho vasāśragandhī sajñeyo bhavati hi
-                     naigameṣadaṣṭaḥ || </l>
+                     naigameṣadaṣṭaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.16</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.17"> dhātrīstanadvidviṣṭava āviṣṭo muhyate muhuḥ |
+                  <lg xml:id="SS.6.27.17"><l> dhātrīstanadvidviṣṭava āviṣṭo muhyate muhuḥ |
                      <caesura/>
-                      taṃ bālaṃ na cirādvanti grahaḥ sampūrṇalakṣaṇaṃ || </l>
+                      taṃ bālaṃ na cirādvanti grahaḥ sampūrṇalakṣaṇaṃ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.17</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.18"> viparītamataḥ sādhyaṃ cikitsedacirārditaṃ |
+                  <lg xml:id="SS.6.27.18"><l> viparītamataḥ sādhyaṃ cikitsedacirārditaṃ |
                      <caesura/>
-                      gṛhaṃ purāṇahaviṣābhyajya bālaṃ śucau śuciḥ | </l>
+                      gṛhaṃ purāṇahaviṣābhyajya bālaṃ śucau śuciḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.18</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.19"> sarṣapā prakiret tatra tailadīpañ ca kārayet |
+                  <lg xml:id="SS.6.27.19"><l> sarṣapā prakiret tatra tailadīpañ ca kārayet |
                      <caesura/>
-                      sadā sannihitañ cātra juhuyāddhvyavāhanaṃ | </l>
+                      sadā sannihitañ cātra juhuyāddhvyavāhanaṃ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.19</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.20"> sarvaranauṣadhīn vījāgandhapuṣpair alaṅkṛtāṃ |
+                  <lg xml:id="SS.6.27.20"><l> sarvaranauṣadhīn vījāgandhapuṣpair alaṅkṛtāṃ |
                      <caesura/>
-                      agnaye kṛttikābhyaś ca svāhā svāheti saṃtataṃ | </l>
+                      agnaye kṛttikābhyaś ca svāhā svāheti saṃtataṃ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.20</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.27.21"> namas skandāya devāya grahādhipataye namaḥ |
+                  <lg xml:id="SS.6.27.21"><l> namas skandāya devāya grahādhipataye namaḥ |
                      śirasā tv ābhivande haṃ pratigṛṇhīṣva me baliṃ | nīrujānirvvikāraś ca
-                     śiśurvāś ca jayatām iti || </l>
+                     śiśurvāś ca jayatām iti || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.27.21</trailer>
                </lg>
 
-               <l xml:id="SS.6.27.trailer">kumāre || 1 || 0 || </l>
+               <lg xml:id="SS.6.27.trailer"><l>kumāre || 1 || 0 || </l></lg>
 
 
             </div>
@@ -297,101 +292,101 @@
                <note xml:lang="en">Draft based on MS K.</note>
 
                <lg>
-                  <l xml:id="SS.6.28.1"> athātaḥ skandagrahapratiṣedham adhyāyaṃ
-                     vyākhyāsyāmaḥ || </l>
+                  <lg xml:id="SS.6.28.1"><l> athātaḥ skandagrahapratiṣedham adhyāyaṃ
+                     vyākhyāsyāmaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.1</trailer>
                </lg>
 
-               <l xml:id="SS.6.28.2"/>
+               <lg xml:id="SS.6.28.2"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.28.3"> skandagrahopasṛṣṭānāṃ kumārāṇām praśasyate |
+                  <lg xml:id="SS.6.28.3"><l> skandagrahopasṛṣṭānāṃ kumārāṇām praśasyate |
                      <caesura/>
-                      vātaghnadrumapatrāṇāṃ ḥ kvāthaḥ pariṣecane | </l>
+                      vātaghnadrumapatrāṇāṃ ḥ kvāthaḥ pariṣecane | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.3</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.28.4"> teṣāṃ mūleṣu siddhañ ca tailamabhyañjane hitaṃ |
+                  <lg xml:id="SS.6.28.4"><l> teṣāṃ mūleṣu siddhañ ca tailamabhyañjane hitaṃ |
                      <caesura/>
-                      aśvagandhasurāmustākotaryām api ceṣyate | </l>
+                      aśvagandhasurāmustākotaryām api ceṣyate | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.4</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.28.5"> siddhaṃ sarppiś ca sakṣīraṃ pānam asyopakalpayet
+                  <lg xml:id="SS.6.28.5"><l> siddhaṃ sarppiś ca sakṣīraṃ pānam asyopakalpayet
                      |
                      <caesura/>
-                      devadāruṇi rāsnā ca madhureṣv adrijeṣu ca | </l>
+                      devadāruṇi rāsnā ca madhureṣv adrijeṣu ca | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.5</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.28.6"> sarṣapā sarpanirmokaṃ vacāṃ kākādanī ghṛtaṃ |
+                  <lg xml:id="SS.6.28.6"><l> sarṣapā sarpanirmokaṃ vacāṃ kākādanī ghṛtaṃ |
                      <caesura/>
-                      uṣṭrājāvigavām vāpi romāṇyuddhūpanaṃ bhavet | </l>
+                      uṣṭrājāvigavām vāpi romāṇyuddhūpanaṃ bhavet | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.6</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.28.7"> somavallīmindravallīṃ śamīvilvāc ca vandakaṃ |
+                  <lg xml:id="SS.6.28.7"><l> somavallīmindravallīṃ śamīvilvāc ca vandakaṃ |
                      <caesura/>
-                      mṛgādanyāś ca mūlāni grathikānyapi dhārayet | </l>
+                      mṛgādanyāś ca mūlāni grathikānyapi dhārayet | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.7</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.28.8"> raktāni mālyāni tathā patākaṃ raktāṃś ca gandhāṃ
+                  <lg xml:id="SS.6.28.8"><l> raktāni mālyāni tathā patākaṃ raktāṃś ca gandhāṃ
                      vividhāṃś ca bhakṣyāṃ |
                      <caesura/>
-                      ghaṇṭā ca devāya balinnivedya sakukkuṭāḥ skandahate hitāya | </l>
+                      ghaṇṭā ca devāya balinnivedya sakukkuṭāḥ skandahate hitāya | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.8</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.28.9"> snānas trirātran niśi catvare ca kuryāt
+                  <lg xml:id="SS.6.28.9"><l> snānas trirātran niśi catvare ca kuryāt
                      paraṃśāliyavair nivedya |
                      <caesura/>
-                      gāyatri pūtānibhir ayobhir agnim prajvālayed āhrtibhiś ca dhīmān | </l>
+                      gāyatri pūtānibhir ayobhir agnim prajvālayed āhrtibhiś ca dhīmān | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.9</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.28.10"> rakṣām anupravakṣāmi vālānām pāpanāśanī |
+                  <lg xml:id="SS.6.28.10"><l> rakṣām anupravakṣāmi vālānām pāpanāśanī |
                      <caesura/>
-                      ahanyahani karttavyā yā bhiṣag niratandritaiḥ | </l>
+                      ahanyahani karttavyā yā bhiṣag niratandritaiḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.10</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.28.11"> tapasān tejasāñ caiva vapuṣāṃ yaśasān tathā |
+                  <lg xml:id="SS.6.28.11"><l> tapasān tejasāñ caiva vapuṣāṃ yaśasān tathā |
                      <caesura/>
-                      nidhānaṃ yovyayo devaḥ sa te skandaḥ prasīdatu | </l>
+                      nidhānaṃ yovyayo devaḥ sa te skandaḥ prasīdatu | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.11</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.28.12"> grahasenāpatirdevo devasenāpatirvibhuḥ |
+                  <lg xml:id="SS.6.28.12"><l> grahasenāpatirdevo devasenāpatirvibhuḥ |
                      <caesura/>
-                      devasenāripuharaḥ pātu tvāṃ bhagavāṃ guhaḥ | </l>
+                      devasenāripuharaḥ pātu tvāṃ bhagavāṃ guhaḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.12</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.28.13"> devadevasya mahataḥ pāvakasya ca yaḥ sutaḥ |
+                  <lg xml:id="SS.6.28.13"><l> devadevasya mahataḥ pāvakasya ca yaḥ sutaḥ |
                      <caesura/>
-                      gaṅgomākṛttikānāñ ca sa te śarma prayacchatu | </l>
+                      gaṅgomākṛttikānāñ ca sa te śarma prayacchatu | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.13</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.28.14"> raktamālyām varadharo raktacandanabhūṣitaḥ |
+                  <lg xml:id="SS.6.28.14"><l> raktamālyām varadharo raktacandanabhūṣitaḥ |
                      <caesura/>
-                      raktadivyavapuḥ śrīmāṃ pātutvāṃ krauñcasūdana iti || </l>
+                      raktadivyavapuḥ śrīmāṃ pātutvāṃ krauñcasūdana iti || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.28.14</trailer>
                </lg>
 
-               <l xml:id="SS.6.28.trailer"> kumāre || 2 || 0 || </l>
+               <lg xml:id="SS.6.28.trailer"><l> kumāre || 2 || 0 || </l></lg>
 
 
             </div>
@@ -405,65 +400,65 @@
                <note xml:lang="en">Draft based on MS K.</note>
 
                <lg>
-                  <l xml:id="SS.6.29.1"> athātaḥ skandopasmārapratiṣedham adhyāyaṃ
-                     vyākhyāsyāmaḥ || </l>
+                  <lg xml:id="SS.6.29.1"><l> athātaḥ skandopasmārapratiṣedham adhyāyaṃ
+                     vyākhyāsyāmaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.29.1</trailer>
                </lg>
 
-               <l xml:id="SS.6.29.2"/>
+               <lg xml:id="SS.6.29.2"><l/></lg>
 
 
                <lg>
-                  <l xml:id="SS.6.29.3"> vilvaṃ śirīṣaṃ golomī surasādirgaṇaś ca yaḥ |
+                  <lg xml:id="SS.6.29.3"><l> vilvaṃ śirīṣaṃ golomī surasādirgaṇaś ca yaḥ |
                      <caesura/>
-                      pariṣeke prayoktavyaḥ skandāpasmāraśāntaye | </l>
+                      pariṣeke prayoktavyaḥ skandāpasmāraśāntaye | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.29.3</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.29.4"> vastumūtravipakvam tu tailam abhyañjane hitaṃ |
+                  <lg xml:id="SS.6.29.4"><l> vastumūtravipakvam tu tailam abhyañjane hitaṃ |
                      <caesura/>
-                      kṣīravṛkṣakaṣāye ca kākolyādau gaṇe tathā | </l>
+                      kṣīravṛkṣakaṣāye ca kākolyādau gaṇe tathā | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.29.4</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.29.5ab"> vipaktavyaṃ ghṛtañ cāpi pāṇīyam payasā saha | </l>
+                  <lg xml:id="SS.6.29.5ab"><l> vipaktavyaṃ ghṛtañ cāpi pāṇīyam payasā saha | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.29.5ab</trailer>
                </lg>
 
-               <l xml:id="SS.6.29.5cd"/>
+               <lg xml:id="SS.6.29.5cd"><l/></lg>
 
 
                <lg>
-                  <l xml:id="SS.6.29.6"> gṛdhrolūkapurīṣāṇi keśāhaste nakhaṃ ghṛtaṃ |
+                  <lg xml:id="SS.6.29.6"><l> gṛdhrolūkapurīṣāṇi keśāhaste nakhaṃ ghṛtaṃ |
                      <caesura/>
-                      vṛṣabhasya ca romāṇi yojyāny uddhūpane pi ca | </l>
+                      vṛṣabhasya ca romāṇi yojyāny uddhūpane pi ca | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.29.6</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.29.7"> anantāṃ kukkuṭīṃ vimvīṃ markaṭīñ cāpi dhārayet |
+                  <lg xml:id="SS.6.29.7"><l> anantāṃ kukkuṭīṃ vimvīṃ markaṭīñ cāpi dhārayet |
                      <caesura/>
-                      pakvāpakvāni māṃsāni prasannā rudhiraṃ payaḥ | </l>
+                      pakvāpakvāni māṃsāni prasannā rudhiraṃ payaḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.29.7</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.29.8"> bhūtodano nivedyaś ca skandāpasmāraṇo vato |
+                  <lg xml:id="SS.6.29.8"><l> bhūtodano nivedyaś ca skandāpasmāraṇo vato |
                      <caesura/>
-                      catuṣpathe ca kartavyāḥ snānam asya yatātmanā </l>
+                      catuṣpathe ca kartavyāḥ snānam asya yatātmanā </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.29.8</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.29.9"> skandāpasmārasaṃjño yaḥ skandasya dayitaḥ sakhā |
+                  <lg xml:id="SS.6.29.9"><l> skandāpasmārasaṃjño yaḥ skandasya dayitaḥ sakhā |
                      <caesura/>
-                      viśākhasaṃjñaḥ saśiṣāḥ śivos tu vitānena iti || </l>
+                      viśākhasaṃjñaḥ saśiṣāḥ śivos tu vitānena iti || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.29.9</trailer>
                </lg>
 
-               <l xml:id="SS.6.29.trailer">kumāre || 3 || 0 || </l>
+               <lg xml:id="SS.6.29.trailer"><l>kumāre || 3 || 0 || </l></lg>
 
 
             </div>
@@ -477,83 +472,83 @@
                <note xml:lang="en">Draft based on MS K.</note>
 
                <lg>
-                  <l xml:id="SS.6.30.1"> athātaḥ śakunīpratiṣedhaṃ vyākhyāsyāmaḥ || </l>
+                  <lg xml:id="SS.6.30.1"><l> athātaḥ śakunīpratiṣedhaṃ vyākhyāsyāmaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.30.1</trailer>
                </lg>
 
-               <l xml:id="SS.6.30.2"/>
+               <lg xml:id="SS.6.30.2"><l/></lg>
 
 
                <lg>
-                  <l xml:id="SS.6.30.3"> śakuny ābhiparītasya kāryaṃ vaidhyena dhīmatā |
+                  <lg xml:id="SS.6.30.3"><l> śakuny ābhiparītasya kāryaṃ vaidhyena dhīmatā |
                      <caesura/>
-                      vetasāmrakapitthānāṃ niḥkvāthaḥ pariṣecane | </l>
+                      vetasāmrakapitthānāṃ niḥkvāthaḥ pariṣecane | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.30.3</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.30.4ab"> kaṣāyamadhurais tailaiḥ kāryañjābhyañjanaṃ
-                     śiśāḥ | </l>
+                  <lg xml:id="SS.6.30.4ab"><l> kaṣāyamadhurais tailaiḥ kāryañjābhyañjanaṃ
+                     śiśāḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.30.4ab</trailer>
                </lg>
 
-               <l xml:id="SS.6.30.4cd"/>
+               <lg xml:id="SS.6.30.4cd"><l/></lg>
 
 
-               <l xml:id="SS.6.30.5ab"/>
+               <lg xml:id="SS.6.30.5ab"><l/></lg>
 
 
                <lg>
-                  <l xml:id="SS.6.30.5cd"> vraṇeṣūktāni cūrpathyāni vidhadhīta ca | </l>
+                  <lg xml:id="SS.6.30.5cd"><l> vraṇeṣūktāni cūrpathyāni vidhadhīta ca | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.30.5cd</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.30.6ab"> skandagrahadhūpanāni pathyānīha bhavanti ca | </l>
+                  <lg xml:id="SS.6.30.6ab"><l> skandagrahadhūpanāni pathyānīha bhavanti ca | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.30.6ab</trailer>
                </lg>
 
-               <l xml:id="SS.6.30.6cd"/>
+               <lg xml:id="SS.6.30.6cd"><l/></lg>
 
 
-               <l xml:id="SS.6.30.7ab"/>
+               <lg xml:id="SS.6.30.7ab"><l/></lg>
 
 
                <lg>
-                  <l xml:id="SS.6.30.9ab"> skandāpasmāraṇamanaṃ ghṛtañ cāpīha pūjitaṃ | </l>
+                  <lg xml:id="SS.6.30.9ab"><l> skandāpasmāraṇamanaṃ ghṛtañ cāpīha pūjitaṃ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.30.9ab</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.30.7cd"> tilataṇḍulakaṃ malyāṃ haritālam manaḥśīlā | </l>
+                  <lg xml:id="SS.6.30.7cd"><l> tilataṇḍulakaṃ malyāṃ haritālam manaḥśīlā | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.30.7cd</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.30.8"> balir eṣa karañjais tu nivedyo niyatātmanā |
+                  <lg xml:id="SS.6.30.8"><l> balir eṣa karañjais tu nivedyo niyatātmanā |
                      <caesura/>
-                      niḥkuṭo ca prayoktavyam snānam asya yathāvidhiṃ || </l>
+                      niḥkuṭo ca prayoktavyam snānam asya yathāvidhiṃ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.30.8</trailer>
                </lg>
 
-               <l xml:id="SS.6.30.9"/>
+               <lg xml:id="SS.6.30.9"><l/></lg>
 
 
                <lg>
-                  <l xml:id="SS.6.30.10"> antarikṣacarā devī sarvālaṅkārabhūṣitā |
+                  <lg xml:id="SS.6.30.10"><l> antarikṣacarā devī sarvālaṅkārabhūṣitā |
                      <caesura/>
-                      ayomukhī tīkṣṇamukhī devatā te prasīdatu | </l>
+                      ayomukhī tīkṣṇamukhī devatā te prasīdatu | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.30.10</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.30.11"> durdarśanā mahākāyā piṅgākṣī bhairavasvanā |
+                  <lg xml:id="SS.6.30.11"><l> durdarśanā mahākāyā piṅgākṣī bhairavasvanā |
                      <caesura/>
-                      lambodarīśaṅkukarṇī śakunī te prasīdatām iti || </l>
+                      lambodarīśaṅkukarṇī śakunī te prasīdatām iti || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.30.11</trailer>
                </lg>
 
-               <l xml:id="SS.6.30.trailer">kumāra || 3 || ❈ || </l>
+               <lg xml:id="SS.6.30.trailer"><l>kumāra || 3 || ❈ || </l></lg>
 
 
             </div>
@@ -564,78 +559,78 @@
                   vulgate: draft edition based on MS K]</head>
 
                <lg>
-                  <l xml:id="SS.6.31.1"> athāto revatīpratiṣedhaṃ vyākhyāsyāmaḥ || </l>
+                  <lg xml:id="SS.6.31.1"><l> athāto revatīpratiṣedhaṃ vyākhyāsyāmaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.31.1</trailer>
                </lg>
 
-               <l xml:id="SS.6.31.2"/>
+               <lg xml:id="SS.6.31.2"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.31.3"> aśvagandhājaśṛṅgī ca śārivātha purnarnnavā |
+                  <lg xml:id="SS.6.31.3"><l> aśvagandhājaśṛṅgī ca śārivātha purnarnnavā |
                      <caesura/>
-                      sahavidārī ca tathā kaṣāyaḥ pariṣecane | </l>
+                      sahavidārī ca tathā kaṣāyaḥ pariṣecane | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.31.3</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.31.4"> tailam abhyaṅgane kāyaṃ kuṣṭhe sarjarase tathā |
+                  <lg xml:id="SS.6.31.4"><l> tailam abhyaṅgane kāyaṃ kuṣṭhe sarjarase tathā |
                      <caesura/>
-                      palaṃ kaṣāyainalade tathā girikadaṃbake | </l>
+                      palaṃ kaṣāyainalade tathā girikadaṃbake | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.31.4</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.31.5"> vaṭāś ca karṇṇakakubhadhātakītindūkeṣu ca |
+                  <lg xml:id="SS.6.31.5"><l> vaṭāś ca karṇṇakakubhadhātakītindūkeṣu ca |
                      <caesura/>
-                      kākolyādau gaṇecāpi pāṇīyaṃ sarpir iṣyate | </l>
+                      kākolyādau gaṇecāpi pāṇīyaṃ sarpir iṣyate | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.31.5</trailer>
                </lg>
 
-               <l xml:id="SS.6.31.6ab"/>
+               <lg xml:id="SS.6.31.6ab"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.31.6cd"> gṛdhrolūkapurīṣāṇi tathā yavaphalāghṛtaṃ | </l>
+                  <lg xml:id="SS.6.31.6cd"><l> gṛdhrolūkapurīṣāṇi tathā yavaphalāghṛtaṃ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.31.6cd</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.31.7"> saṃdhyayor ubhayoḥ kāryam etad uddhūpanaṃ śiśā |
+                  <lg xml:id="SS.6.31.7"><l> saṃdhyayor ubhayoḥ kāryam etad uddhūpanaṃ śiśā |
                      <caesura/>
-                      varuṇāriṣṭakamayaṃ rumakaṃ saindhavaṃ tathā | </l>
+                      varuṇāriṣṭakamayaṃ rumakaṃ saindhavaṃ tathā | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.31.7</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.31.8"> dhārayed yāpi satataṃ vacā putrakajīvake |
+                  <lg xml:id="SS.6.31.8"><l> dhārayed yāpi satataṃ vacā putrakajīvake |
                      <caesura/>
-                      śuklāḥ sumanaso lājapayaḥ śālyodanaṃ tathā | </l>
+                      śuklāḥ sumanaso lājapayaḥ śālyodanaṃ tathā | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.31.8</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.31.9"> valin nivedya gotīrthe revatyaiprayatātmanā |
+                  <lg xml:id="SS.6.31.9"><l> valin nivedya gotīrthe revatyaiprayatātmanā |
                      <caesura/>
-                      saṃgame ca bhiṣak snānaṃ kuryād dhātrīkumārayoḥ | </l>
+                      saṃgame ca bhiṣak snānaṃ kuryād dhātrīkumārayoḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.31.9</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.31.10"> nānāvastradharādevī citramālyānulepanā |
+                  <lg xml:id="SS.6.31.10"><l> nānāvastradharādevī citramālyānulepanā |
                      <caesura/>
-                      calatkuṇḍalinī śyāmā revatīte prasīdatu | </l>
+                      calatkuṇḍalinī śyāmā revatīte prasīdatu | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.31.10</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.31.11"> yām upāsannisatataṃ devyo vividhabhūṣaṇāḥ |
+                  <lg xml:id="SS.6.31.11"><l> yām upāsannisatataṃ devyo vividhabhūṣaṇāḥ |
                      <caesura/>
                       lamvākarālāvinatā tathaiva vahuputrikā |
                      <caesura/>
-                      raivatī śuṣkanāsā ca sā ca devī prasīdatām iti || </l>
+                      raivatī śuṣkanāsā ca sā ca devī prasīdatām iti || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.31.11</trailer>
                </lg>
 
-               <l xml:id="SS.6.31.trailer"> kumāra || 3 || ❈ || </l>
+               <lg xml:id="SS.6.31.trailer"><l> kumāra || 3 || ❈ || </l></lg>
             </div>
 
             <div n="32" type="adhyāya">
@@ -644,68 +639,68 @@
                   vulgate: draft edition based on MS K]</head>
 
                <lg>
-                  <l xml:id="SS.6.32.1"> athātaḥ pūtanāpratiṣedhaṃ vyākhyāsyāmaḥ || </l>
+                  <lg xml:id="SS.6.32.1"><l> athātaḥ pūtanāpratiṣedhaṃ vyākhyāsyāmaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.32.1</trailer>
                </lg>
 
-               <l xml:id="SS.6.32.2"/>
+               <lg xml:id="SS.6.32.2"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.32.3"> kapotavaṃkāharalaḥ varuṇaḥ pāribhadrakaḥ |
+                  <lg xml:id="SS.6.32.3"><l> kapotavaṃkāharalaḥ varuṇaḥ pāribhadrakaḥ |
                      <caesura/>
-                      āsphotā caiva yojyāḥ syur bālasya pariṣecane | </l>
+                      āsphotā caiva yojyāḥ syur bālasya pariṣecane | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.32.3</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.32.4"> vacā vayaḥ sthā golomī haritālaṃ manaḥ śilā |
+                  <lg xml:id="SS.6.32.4"><l> vacā vayaḥ sthā golomī haritālaṃ manaḥ śilā |
                      <caesura/>
-                      kuṣṭhaṃ sarjarasaṃ caiva tailārthe vargam iṣyate | </l>
+                      kuṣṭhaṃ sarjarasaṃ caiva tailārthe vargam iṣyate | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.32.4</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.32.5"> hitaṃ ghṛtan tukākṣīryāḥ siddhaṃ madhurakeṣu ca |
+                  <lg xml:id="SS.6.32.5"><l> hitaṃ ghṛtan tukākṣīryāḥ siddhaṃ madhurakeṣu ca |
                      <caesura/>
-                      kuṣthatālīsakhadirāḥ rṣapajñane tathā | </l>
+                      kuṣthatālīsakhadirāḥ rṣapajñane tathā | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.32.5</trailer>
                </lg>
 
-               <l xml:id="SS.6.32.6"/>
+               <lg xml:id="SS.6.32.6"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.32.7"> śaṇanākulakumbhīkā majjāno vadarasya ca |
+                  <lg xml:id="SS.6.32.7"><l> śaṇanākulakumbhīkā majjāno vadarasya ca |
                      <caesura/>
-                      karkaṭāsthi ghṛtañ cāpi dhūpanaṃ saha sarṣapaiḥ | </l>
+                      karkaṭāsthi ghṛtañ cāpi dhūpanaṃ saha sarṣapaiḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.32.7</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.32.8"> kākādanīñ citraphalāṃ vimvīṃ guñjāñ ca dhārayet |
+                  <lg xml:id="SS.6.32.8"><l> kākādanīñ citraphalāṃ vimvīṃ guñjāñ ca dhārayet |
                      <caesura/>
                       matsyodanañ ca kurvīta kṛśaram palalaṃ tathā |
                      <caesura/>
-                      śarāvasampuṭakṛtam valiṃ śūnyagṛhe haret | </l>
+                      śarāvasampuṭakṛtam valiṃ śūnyagṛhe haret | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.32.8</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.32.9ab"> utsṛṣṭān nābhiṣekaś ca śiśoḥ snapanam iṣyate || </l>
+                  <lg xml:id="SS.6.32.9ab"><l> utsṛṣṭān nābhiṣekaś ca śiśoḥ snapanam iṣyate || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.32.9ab</trailer>
                </lg>
 
-               <l xml:id="SS.6.32.9cd"/>
+               <lg xml:id="SS.6.32.9cd"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.32.10"> malināmvarasamvītā malinārūkṣamūrdhajā |
+                  <lg xml:id="SS.6.32.10"><l> malināmvarasamvītā malinārūkṣamūrdhajā |
                      <caesura/>
-                      śūnyāgāśrayādevī dārakaṃ pātu pūtanā iti || </l>
+                      śūnyāgāśrayādevī dārakaṃ pātu pūtanā iti || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.32.10</trailer>
                </lg>
 
-               <l xml:id="SS.6.32.11"/>
+               <lg xml:id="SS.6.32.11"><l/></lg>
 
-               <l xml:id="SS.6.32.trailer"> kumāra || 3 || ❈ || </l>
+               <lg xml:id="SS.6.32.trailer"><l> kumāra || 3 || ❈ || </l></lg>
 
 
             </div>
@@ -715,63 +710,63 @@
                   vulgate: draft edition based on MS K]</head>
 
                <lg>
-                  <l xml:id="SS.6.33.1"> athātāndhapūtanāpratiṣedhaṃ vyākhyāsyāmaḥ || </l>
+                  <lg xml:id="SS.6.33.1"><l> athātāndhapūtanāpratiṣedhaṃ vyākhyāsyāmaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.33.1</trailer>
                </lg>
 
-               <l xml:id="SS.6.33.2"/>
+               <lg xml:id="SS.6.33.2"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.33.3"> tiktakadrumāṇāṃ patraiś ca kvāthaḥ kāryo vasecane
+                  <lg xml:id="SS.6.33.3"><l> tiktakadrumāṇāṃ patraiś ca kvāthaḥ kāryo vasecane
                      |
                      <caesura/>
-                      surā sauvīrakañ kuṣṭhaṃ haritālam manaḥ śilā | </l>
+                      surā sauvīrakañ kuṣṭhaṃ haritālam manaḥ śilā | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.33.3</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.33.4"> tathā sarjarasaṃ cāpi tailārtham apasaṃharet ||
+                  <lg xml:id="SS.6.33.4"><l> tathā sarjarasaṃ cāpi tailārtham apasaṃharet ||
                      <caesura/>
-                      pippalīpippalīmūlaṃ vargam madhurakam madhuḥ | </l>
+                      pippalīpippalīmūlaṃ vargam madhurakam madhuḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.33.4</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.33.5ab"> sālaparṇī vṛhatyau ca ghṛtārtham api vuddhimāṃ
-                     | </l>
+                  <lg xml:id="SS.6.33.5ab"><l> sālaparṇī vṛhatyau ca ghṛtārtham api vuddhimāṃ
+                     | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.33.5ab</trailer>
                </lg>
 
-               <l xml:id="SS.6.33.5cd"/>
+               <lg xml:id="SS.6.33.5cd"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.33.6"> purīśaṃ kaukkuṭaṃ keśāḥ ścarmma sarvppatvageṣu ca
+                  <lg xml:id="SS.6.33.6"><l> purīśaṃ kaukkuṭaṃ keśāḥ ścarmma sarvppatvageṣu ca
                      |
                      <caesura/>
-                      jīrṇṇāñ ca bhikṣusaṃghāṭīṃ dhūpanāyopakalpayet | </l>
+                      jīrṇṇāñ ca bhikṣusaṃghāṭīṃ dhūpanāyopakalpayet | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.33.6</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.33.7"> kukkuṭīṃ markaṭīvimvīm anantāś cāpi dhārayet ||
+                  <lg xml:id="SS.6.33.7"><l> kukkuṭīṃ markaṭīvimvīm anantāś cāpi dhārayet ||
                      <caesura/>
-                      māṃsamāmaṃ tathā pakvaśoṇitañ ca catuḥ pathe| </l>
+                      māṃsamāmaṃ tathā pakvaśoṇitañ ca catuḥ pathe| </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.33.7</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.33.8"> nivedyam antañ ca gṛhe śiśoḥ snapanam iṣyate || </l>
+                  <lg xml:id="SS.6.33.8"><l> nivedyam antañ ca gṛhe śiśoḥ snapanam iṣyate || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.33.8</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.33.9"> karālapiṃgalā muṇḍā kaṣāyam varadhāriṇī |
+                  <lg xml:id="SS.6.33.9"><l> karālapiṃgalā muṇḍā kaṣāyam varadhāriṇī |
                      <caesura/>
-                      devī bālam imaṃ prītā rakṣatām andhapūtanā iti || </l>
+                      devī bālam imaṃ prītā rakṣatām andhapūtanā iti || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.33.9</trailer>
                </lg>
 
-               <l xml:id="SS.6.33.trailer"> kumāra || 7 || ❈ || </l>
+               <lg xml:id="SS.6.33.trailer"><l> kumāra || 7 || ❈ || </l></lg>
             </div>
 
             <div n="34" type="adhyāya">
@@ -779,62 +774,62 @@
                   vulgate: draft edition based on MS K]</head>
 
                <lg>
-                  <l xml:id="SS.6.34.1"> athātaḥ śītapūtanāpratiṣedhaṃ vyākhyāsyāmaḥ || </l>
+                  <lg xml:id="SS.6.34.1"><l> athātaḥ śītapūtanāpratiṣedhaṃ vyākhyāsyāmaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.34.1</trailer>
                </lg>
 
-               <l xml:id="SS.6.34.2"/>
+               <lg xml:id="SS.6.34.2"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.34.3"> viṃvīkāpitthaṃ sūrasaṃ tathā vilvapracīvalau |
+                  <lg xml:id="SS.6.34.3"><l> viṃvīkāpitthaṃ sūrasaṃ tathā vilvapracīvalau |
                      <caesura/>
-                      nandībhallātakañ cāpi pariṣeke vacārayet | </l>
+                      nandībhallātakañ cāpi pariṣeke vacārayet | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.34.3</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.34.4"> vastamūtraṃ gavaṃ mūtramūstañ cāmaradārū ca |
+                  <lg xml:id="SS.6.34.4"><l> vastamūtraṃ gavaṃ mūtramūstañ cāmaradārū ca |
                      <caesura/>
-                      kuṣṭhañ ca sarvagandhañ ca tailārtham avacārayet | </l>
+                      kuṣṭhañ ca sarvagandhañ ca tailārtham avacārayet | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.34.4</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.34.5"> rohiṇīsarjakhadirapalāśakakubhatvacaḥ |
+                  <lg xml:id="SS.6.34.5"><l> rohiṇīsarjakhadirapalāśakakubhatvacaḥ |
                      <caesura/>
-                      niḥkvāthya tasminniḥ kvāthe sakṣīraṃ vipaceddhṛtaṃ| </l>
+                      niḥkvāthya tasminniḥ kvāthe sakṣīraṃ vipaceddhṛtaṃ| </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.34.5</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.34.6"> gṛdhrolūkapurīṣāṇi vastagandhāṃ sahāṃ vacāṃ |
+                  <lg xml:id="SS.6.34.6"><l> gṛdhrolūkapurīṣāṇi vastagandhāṃ sahāṃ vacāṃ |
                      <caesura/>
-                      nivasya patrāṇi tathā dhūpanārthaṃ prayojayet | </l>
+                      nivasya patrāṇi tathā dhūpanārthaṃ prayojayet | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.34.6</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.34.7"> dhārayed api guñjāñ ca lamvāṃ kākādanīn tathā |
+                  <lg xml:id="SS.6.34.7"><l> dhārayed api guñjāñ ca lamvāṃ kākādanīn tathā |
                      <caesura/>
-                      nadhyāṃ mudgadanaiś cāpi tarpayec chītapūtanāṃ | </l>
+                      nadhyāṃ mudgadanaiś cāpi tarpayec chītapūtanāṃ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.34.7</trailer>
                </lg>
 
-               <l xml:id="SS.6.34.8ab"/>
+               <lg xml:id="SS.6.34.8ab"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.34.8cd"> jalāyaśānte bālasya spanaṃñ copadiśyate | </l>
+                  <lg xml:id="SS.6.34.8cd"><l> jalāyaśānte bālasya spanaṃñ copadiśyate | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.34.8cd</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.34.9"> mugdodanāśinī devī surāśoṇitapāyinī |
+                  <lg xml:id="SS.6.34.9"><l> mugdodanāśinī devī surāśoṇitapāyinī |
                      <caesura/>
-                      jalāśayaratādevī pātu tvāṃ śītapūtanā iti || </l>
+                      jalāśayaratādevī pātu tvāṃ śītapūtanā iti || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.34.9</trailer>
                </lg>
 
-               <l xml:id="SS.6.34.trailer"> kumāra || || 0 || </l>
+               <lg xml:id="SS.6.34.trailer"><l> kumāra || || 0 || </l></lg>
             </div>
 
 
@@ -843,60 +838,60 @@
                   vulgate: draft edition based on MS K]</head>
 
                <lg>
-                  <l xml:id="SS.6.35.1"> athāto muṇḍikāpratiṣedhaṃ vyākhyāsyāmaḥ || </l>
+                  <lg xml:id="SS.6.35.1"><l> athāto muṇḍikāpratiṣedhaṃ vyākhyāsyāmaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.35.1</trailer>
                </lg>
 
-               <l xml:id="SS.6.35.2"/>
+               <lg xml:id="SS.6.35.2"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.35.3"> kapitthavilvau tarkārīvaṃśagandharvahastaka |
+                  <lg xml:id="SS.6.35.3"><l> kapitthavilvau tarkārīvaṃśagandharvahastaka |
                      <caesura/>
-                      kuverākṣī ca yojyāni bālasya pariṣecane | </l>
+                      kuverākṣī ca yojyāni bālasya pariṣecane | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.35.3</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.35.4"> svarasair bhṛṅgavṛkṣāṇāṃ tathaiva hayagandhayā |
-                     tailaṃ vasāṃ ca saṃyojya paced abhyañjanaṃ śiśāḥ | </l>
+                  <lg xml:id="SS.6.35.4"><l> svarasair bhṛṅgavṛkṣāṇāṃ tathaiva hayagandhayā |
+                     tailaṃ vasāṃ ca saṃyojya paced abhyañjanaṃ śiśāḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.35.4</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.35.5"> madhūlikā payasyā ca tugākṣīdyo gaṇau na ca |
+                  <lg xml:id="SS.6.35.5"><l> madhūlikā payasyā ca tugākṣīdyo gaṇau na ca |
                      <caesura/>
-                      madhuraiḥ pañcamūlyāś ca kanīyasyā ghṛtam pacet | </l>
+                      madhuraiḥ pañcamūlyāś ca kanīyasyā ghṛtam pacet | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.35.5</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.35.6"> yavāḥ sarjarasaḥ kuṣṭhaṃ sarpiścoddhūpanahitaṃ |
+                  <lg xml:id="SS.6.35.6"><l> yavāḥ sarjarasaḥ kuṣṭhaṃ sarpiścoddhūpanahitaṃ |
                      <caesura/>
-                      dhārayed api jihvāś ca cāṣavaiḍālasatyajāḥ | </l>
+                      dhārayed api jihvāś ca cāṣavaiḍālasatyajāḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.35.6</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.35.7"> varṇakaṃ cūrṇakaṃ mālyamañjanām pārataṃ tathā |
+                  <lg xml:id="SS.6.35.7"><l> varṇakaṃ cūrṇakaṃ mālyamañjanām pārataṃ tathā |
                      <caesura/>
-                      manaḥ śilāṃ copaharet goṣṭhamadhye valiṃ śuciḥ | </l>
+                      manaḥ śilāṃ copaharet goṣṭhamadhye valiṃ śuciḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.35.7</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.35.8"> mantrapūtābhir adbhiś ca tatraiva snapanam bhavet
-                     || </l>
+                  <lg xml:id="SS.6.35.8"><l> mantrapūtābhir adbhiś ca tatraiva snapanam bhavet
+                     || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.35.8cd</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.35.9"> alaṃkṛtā rūpavatī subhagā kāmarūpiṇī |
+                  <lg xml:id="SS.6.35.9"><l> alaṃkṛtā rūpavatī subhagā kāmarūpiṇī |
                      <caesura/>
-                      goṣṭhamadhyālayā devī pātu tvāṃ mukhamaṇḍikā iti || </l>
+                      goṣṭhamadhyālayā devī pātu tvāṃ mukhamaṇḍikā iti || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.35.9</trailer>
                </lg>
 
-               <l xml:id="SS.6.35.trailer"> kumāra || || 0 || </l>
+               <lg xml:id="SS.6.35.trailer"><l> kumāra || || 0 || </l></lg>
 
 
             </div>
@@ -907,66 +902,66 @@
                   vulgate: draft edition based on MS K]</head>
 
                <lg>
-                  <l xml:id="SS.6.36.1"> athāto naigameṣapratiṣedhaṃ vyākhyāsyāmaḥ || </l>
+                  <lg xml:id="SS.6.36.1"><l> athāto naigameṣapratiṣedhaṃ vyākhyāsyāmaḥ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.36.1</trailer>
                </lg>
 
-               <l xml:id="SS.6.36.2"/>
+               <lg xml:id="SS.6.36.2"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.36.3"> vilvāgnimanthapūtīkāḥ kāśmaryāḥ pariṣecane |
+                  <lg xml:id="SS.6.36.3"><l> vilvāgnimanthapūtīkāḥ kāśmaryāḥ pariṣecane |
                      <caesura/>
-                      savījañ cāpi dhānyāmlam pariṣekapraśasyate | </l>
+                      savījañ cāpi dhānyāmlam pariṣekapraśasyate | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.36.3</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.36.4"> priyaṅgu saralānantā śatapuṣpākuṭannaṭaiḥ ||
+                  <lg xml:id="SS.6.36.4"><l> priyaṅgu saralānantā śatapuṣpākuṭannaṭaiḥ ||
                      <caesura/>
-                      pacet tailaṃ surātakradadhimastvāmlakāñjikaiḥ | </l>
+                      pacet tailaṃ surātakradadhimastvāmlakāñjikaiḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.36.4</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.36.5"> pañcamūladvayakvāthaiḥ kṣīre madhurakeṣu ca |
+                  <lg xml:id="SS.6.36.5"><l> pañcamūladvayakvāthaiḥ kṣīre madhurakeṣu ca |
                      <caesura/>
-                      paced ghṛtañ ca matimāṃ kharjūryā mastakena ca | </l>
+                      paced ghṛtañ ca matimāṃ kharjūryā mastakena ca | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.36.5</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.36.6ab"> vacā vayasthā ¦ ¦ ¦ ¦ sahitāṃ jaṭilāṃ cāpi
-                     dhārayet | </l>
+                  <lg xml:id="SS.6.36.6ab"><l> vacā vayasthā ¦ ¦ ¦ ¦ sahitāṃ jaṭilāṃ cāpi
+                     dhārayet | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.36.6ab</trailer>
                </lg>
 
-               <l xml:id="SS.6.36.6cd"/>
+               <lg xml:id="SS.6.36.6cd"><l/></lg>
 
-               <l xml:id="SS.6.36.7"/>
+               <lg xml:id="SS.6.36.7"><l/></lg>
 
-               <l xml:id="SS.6.36.8"/>
+               <lg xml:id="SS.6.36.8"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.36.9"> tilataṇḍulakaṃ mālyaṃ bhakṣāṃś ca vividhāni ca |
-                     kumārapitṛmeṣāya vṛkṣamūle nivedayet | </l>
+                  <lg xml:id="SS.6.36.9"><l> tilataṇḍulakaṃ mālyaṃ bhakṣāṃś ca vividhāni ca |
+                     kumārapitṛmeṣāya vṛkṣamūle nivedayet | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.36.9</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.36.10ab"> adhastān kṣīravṛkṣasya snapanañ copadiśyate | </l>
+                  <lg xml:id="SS.6.36.10ab"><l> adhastān kṣīravṛkṣasya snapanañ copadiśyate | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.36.10ab</trailer>
                </lg>
 
-               <l xml:id="SS.6.36.10cd"/>
+               <lg xml:id="SS.6.36.10cd"><l/></lg>
 
                <lg>
-                  <l xml:id="SS.6.36.11"> ajānanañ calākṣibhrū kāmarūpī mahāyaśāḥ |
+                  <lg xml:id="SS.6.36.11"><l> ajānanañ calākṣibhrū kāmarūpī mahāyaśāḥ |
                      <caesura/>
-                      bālaṃ bālapitā devo naigameṣo bhirakṣatām iti || </l>
+                      bālaṃ bālapitā devo naigameṣo bhirakṣatām iti || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.36.11</trailer>
                </lg>
 
-               <l xml:id="SS.6.36.trailer"> kumāra || || ❈ || </l>
+               <lg xml:id="SS.6.36.trailer"><l> kumāra || || ❈ || </l></lg>
 
 
             </div>
@@ -978,178 +973,178 @@
                   vulgate: draft edition based on MS K]</head>
 
                <lg>
-                  <l xml:id="SS.6.37.1"> athāto grahotpattiṃ vyākhyāsyāmaḥ |</l>
+                  <lg xml:id="SS.6.37.1"><l> athāto grahotpattiṃ vyākhyāsyāmaḥ |</l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.1</trailer>
                </lg>
 
-               <l xml:id="SS.6.37.2"/>
+               <lg xml:id="SS.6.37.2"><l/></lg>
 
-               <l xml:id="SS.6.37.2.add"> atha khalu vatsa suśruta ||</l>
+               <lg xml:id="SS.6.37.2.add"><l> atha khalu vatsa suśruta ||</l></lg>
 
                <lg>
-                  <l xml:id="SS.6.37.3"> navaskandādayaḥ proktā bālānāṃ ya ime grahāḥ |
+                  <lg xml:id="SS.6.37.3"><l> navaskandādayaḥ proktā bālānāṃ ya ime grahāḥ |
                      <caesura/>
-                      śrīmanto divyavapuṣo nārīpuruṣavigrahāṃ || </l>
+                      śrīmanto divyavapuṣo nārīpuruṣavigrahāṃ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.3</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.4"> ete guhasya ra kṛttikomāgniśūlibhiḥ | sṛṣṭāḥ
-                     śaravanasthāsya rakṣitasatmatejasā | </l>
+                  <lg xml:id="SS.6.37.4"><l> ete guhasya ra kṛttikomāgniśūlibhiḥ | sṛṣṭāḥ
+                     śaravanasthāsya rakṣitasatmatejasā | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.4</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.5"> strīvigrahāgrahā ye tu nānārūpā mayeritāḥ |
+                  <lg xml:id="SS.6.37.5"><l> strīvigrahāgrahā ye tu nānārūpā mayeritāḥ |
                      <caesura/>
-                      devīnāṃ kṛttikānān te bhāgā rājasatāmatāḥ | </l>
+                      devīnāṃ kṛttikānān te bhāgā rājasatāmatāḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.5</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.6"> naigameṣas tu pārvatyāḥ sṛṣṭo meṣānano grahaḥ |
+                  <lg xml:id="SS.6.37.6"><l> naigameṣas tu pārvatyāḥ sṛṣṭo meṣānano grahaḥ |
                      <caesura/>
-                      kumāradhāro devasya guhasyātmodbhavasya vai | </l>
+                      kumāradhāro devasya guhasyātmodbhavasya vai | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.6</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.7"> skandāpasmāraṃ sañjayaḥ so 'gnināgnisamadyutiḥ |
+                  <lg xml:id="SS.6.37.7"><l> skandāpasmāraṃ sañjayaḥ so 'gnināgnisamadyutiḥ |
                      <caesura/>
-                      saivaskandasakho nāmnā viśākha iti cocyate | </l>
+                      saivaskandasakho nāmnā viśākha iti cocyate | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.7</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.8"> skandaḥ sṛṣṭo bhagavatā devena tripurāriṇā |
+                  <lg xml:id="SS.6.37.8"><l> skandaḥ sṛṣṭo bhagavatā devena tripurāriṇā |
                      <caesura/>
-                      bibharti cāparaṃ saṃjñaṃ kumāra iti saṃgrahaḥ | </l>
+                      bibharti cāparaṃ saṃjñaṃ kumāra iti saṃgrahaḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.8</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.9"> bālalīlādharo yo 'yaṃ devo rudrāgnisambhavaḥ |
+                  <lg xml:id="SS.6.37.9"><l> bālalīlādharo yo 'yaṃ devo rudrāgnisambhavaḥ |
                      <caesura/>
-                      mithyā bāleṣu bhavavāṃ na khalv eṣu pravarttate | </l>
+                      mithyā bāleṣu bhavavāṃ na khalv eṣu pravarttate | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.9</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.10"> kumāraskandasāmānyād atra kecid apaṇḍitāḥ |
+                  <lg xml:id="SS.6.37.10"><l> kumāraskandasāmānyād atra kecid apaṇḍitāḥ |
                      <caesura/>
-                      gṛṇhātīty aparijñānād bruvate dehacintakāḥ | </l>
+                      gṛṇhātīty aparijñānād bruvate dehacintakāḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.10</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.11"> tato bhagavati skande devasenāpatau kṛte |
+                  <lg xml:id="SS.6.37.11"><l> tato bhagavati skande devasenāpatau kṛte |
                      <caesura/>
-                      upatasthur grahās dyute dīptaśaktidharaṃ guhaṃ || </l>
+                      upatasthur grahās dyute dīptaśaktidharaṃ guhaṃ || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.11</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.12"> ūcuḥ prāñjalaś caivanaṃ vṛttin no vidhdhātsv iti
+                  <lg xml:id="SS.6.37.12"><l> ūcuḥ prāñjalaś caivanaṃ vṛttin no vidhdhātsv iti
                      |
                      <caesura/>
-                      teṣām arthe tataḥ skandaḥ śivaṃ devam acodayat | </l>
+                      teṣām arthe tataḥ skandaḥ śivaṃ devam acodayat | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.12</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.13"> tato grahāṃ tān uvāca bhagavāṃ bhaganetrahā |
+                  <lg xml:id="SS.6.37.13"><l> tato grahāṃ tān uvāca bhagavāṃ bhaganetrahā |
                      <caesura/>
-                      tairyagyonim mānuṣañ ca devañ ca tritayaṃ jagat | </l>
+                      tairyagyonim mānuṣañ ca devañ ca tritayaṃ jagat | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.13</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.14"> parasparopakāreṇa varttate dhāryate tathā |
+                  <lg xml:id="SS.6.37.14"><l> parasparopakāreṇa varttate dhāryate tathā |
                      <caesura/>
-                      devamanuṣyāṃ prīṇanti tairyagyonin tathaiva ca | </l>
+                      devamanuṣyāṃ prīṇanti tairyagyonin tathaiva ca | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.14</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.15"> yathākālaṃ pravarttanta uṣṇaṃ varṣahimādribhiḥ |
+                  <lg xml:id="SS.6.37.15"><l> yathākālaṃ pravarttanta uṣṇaṃ varṣahimādribhiḥ |
                      <caesura/>
-                      ijyābalinamaskārair japya homais tathaiva caḥ | </l>
+                      ijyābalinamaskārair japya homais tathaiva caḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.15</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.16"> samyak prayuktaiś ca naraiḥ prīṇayaṃty atu
+                  <lg xml:id="SS.6.37.16"><l> samyak prayuktaiś ca naraiḥ prīṇayaṃty atu
                      devatāḥ |
                      <caesura/>
-                      bhāgadheyā vibhaktāś ca śeṣaṃ kiñcin na vidyate | </l>
+                      bhāgadheyā vibhaktāś ca śeṣaṃ kiñcin na vidyate | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.16</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.17"> tad yuṣmākaṃ śubhā vṛttiḥ pūjāsv eva bhaviṣyati
+                  <lg xml:id="SS.6.37.17"><l> tad yuṣmākaṃ śubhā vṛttiḥ pūjāsv eva bhaviṣyati
                      |
                      <caesura/>
-                      kuleṣu yeṣu nejyaṃte devatāpitaras tathā | </l>
+                      kuleṣu yeṣu nejyaṃte devatāpitaras tathā | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.17</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.18"> vrāhmaṇāḥ sādhavo vāpi guravo 'tithayas tathā
+                  <lg xml:id="SS.6.37.18"><l> vrāhmaṇāḥ sādhavo vāpi guravo 'tithayas tathā
                      <caesura/>
-                      nivṛtta śaucācāreṣu tathā klaśopajīviṣu | </l>
+                      nivṛtta śaucācāreṣu tathā klaśopajīviṣu | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.18</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.19"> utsannabhikṣavaliṣu tathā bhinnagṛheṣu ca |
+                  <lg xml:id="SS.6.37.19"><l> utsannabhikṣavaliṣu tathā bhinnagṛheṣu ca |
                      <caesura/>
-                      gṛheṣu yeṣu te bālāms tān hiṃsaṃ dhvamaśaṅkitāḥ | </l>
+                      gṛheṣu yeṣu te bālāms tān hiṃsaṃ dhvamaśaṅkitāḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.19</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.20"> tatra vo vipulā vṛttiḥ pūjā caiva bhaviṣyati |
+                  <lg xml:id="SS.6.37.20"><l> tatra vo vipulā vṛttiḥ pūjā caiva bhaviṣyati |
                      <caesura/>
-                      evaṃ grahāḥ samutpannā bālā hiṃsanti cāpy ataḥ | </l>
+                      evaṃ grahāḥ samutpannā bālā hiṃsanti cāpy ataḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.20</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.21"> grahopasṛṣṭā bālās tu duścikitsyatamāḥ smṛtāḥ |
+                  <lg xml:id="SS.6.37.21"><l> grahopasṛṣṭā bālās tu duścikitsyatamāḥ smṛtāḥ |
                      <caesura/>
-                      vaikalyam maraṇam cāpi dhruvaṃ skandagrahe nṛṇām iti || </l>
+                      vaikalyam maraṇam cāpi dhruvaṃ skandagrahe nṛṇām iti || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.21</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.21a"> kumārabhṛtye || || 0 || </l>
+                  <lg xml:id="SS.6.37.21a"><l> kumārabhṛtye || || 0 || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.21a</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.22"> skandagrahas tu prathamaḥ skandāpasmāra eva ca
+                  <lg xml:id="SS.6.37.22"><l> skandagrahas tu prathamaḥ skandāpasmāra eva ca
                      ||
                      <caesura/>
-                      śakunī revatī caiva pūtanā cāndha pūtanā | </l>
+                      śakunī revatī caiva pūtanā cāndha pūtanā | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.22</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.23"> pūtanāśītanāmā ca tathaiva mukhamaṇḍikā |
+                  <lg xml:id="SS.6.37.23"><l> pūtanāśītanāmā ca tathaiva mukhamaṇḍikā |
                      <caesura/>
-                      navamo naigameṣaś ca yaḥ pittagrahasaṃjñitaḥ | </l>
+                      navamo naigameṣaś ca yaḥ pittagrahasaṃjñitaḥ | </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.23</trailer>
                </lg>
 
                <lg>
-                  <l xml:id="SS.6.37.24"> prathamagrahaliṅgaṃ ca anta ca grahasambhavaḥ |
+                  <lg xml:id="SS.6.37.24"><l> prathamagrahaliṅgaṃ ca anta ca grahasambhavaḥ |
                      <caesura/>
-                      sampiṇḍe na hi bālānām adhyā yādamacaiva ca || </l>
+                      sampiṇḍe na hi bālānām adhyā yādamacaiva ca || </l></lg>
                   <trailer xml:lang="en">cf. 1938 ed. 6.37.24</trailer>
                </lg>
 
-               <l xml:id="SS.6.37.trailer"> samāptaṃ kumārabhṛtyam iti || 0 || 0 || 0 || 0
-                  || </l>
+               <lg xml:id="SS.6.37.trailer"><l> samāptaṃ kumārabhṛtyam iti || 0 || 0 || 0 || 0
+                  || </l></lg>
 
 
             </div>
@@ -1159,7 +1154,7 @@
          </div>
       </body>
    </text>
-    <standOff corresp="#SS.6.27.1" type="notes1">
+<standOff corresp="#SS.6.27.1" type="notes1">
         <note xml:lang="en" target="#SS.6.27.1-n1">[test standoff note].</note>
     </standOff>
 </TEI>
