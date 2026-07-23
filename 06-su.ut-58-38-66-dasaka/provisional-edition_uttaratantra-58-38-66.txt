@@ -3220,7 +3220,7 @@
                     <lg xml:id="SS.6.64.39.add2"><l>
                         
                         <caesura/>
-                         pīnastanorujaghanāṃ rūpayauvanaśālinīm ||46|| <anchor xml:id="SS.6.64.39.add2-n1"/>
+                         pīnastanorujaghanāṃ rūpayauvanaśālinīm ||46|| <anchor xml:id="SS.6.64.39.add2"/>
                     </l></lg>
                     
 
@@ -3327,7 +3327,7 @@
                     <lg xml:id="SS.6.64.42"><l>
                         
                         
-                         candanāni parārdhyāni srajaḥ sakamalotpalāḥ ||56||<anchor xml:id="SS.6.64.42-n1"/>
+                         candanāni parārdhyāni srajaḥ sakamalotpalāḥ ||56||<anchor xml:id="SS.6.64.42"/>
                         <caesura/>
                          tālavṛntānilān hārāṃs tathā śītagṛhāṇi ca | </l>
 <trailer xml:lang="en">[cf. 1938 ed. 6.64.42]</trailer>
@@ -3576,7 +3576,7 @@
                         
                          śuṣkadehān pipāsārttān durbalān api ca dravaiḥ |
                         <caesura/>
-                         praklinnadehān vraṇinaḥ śuṣkair mehinam eva ca ||81|| <anchor xml:id="SS.6.64.61-n1"/></l>
+                         praklinnadehān vraṇinaḥ śuṣkair mehinam eva ca ||81|| <anchor xml:id="SS.6.64.61"/></l>
 <trailer xml:lang="en">[cf. 1938 ed. 6.64.61]</trailer>
 </lg>
 
@@ -3634,7 +3634,7 @@
                         <caesura/>
                          tad bālavṛddhavanitāmṛdavas tu pītvā
                         <caesura/>
-                         glāniṃ parāṃ samupayānti balakṣayañ ca ||87||<anchor xml:id="SS.6.64.67-n1"/>
+                         glāniṃ parāṃ samupayānti balakṣayañ ca ||87||<anchor xml:id="SS.6.64.67"/>
                     </l>
 <trailer xml:lang="en">[cf. 1938 ed. 6.64.67]</trailer>
 </lg>
@@ -3657,7 +3657,7 @@
                         <caesura/>
                          prāgbhaktasevitam adhobalam ādadhāti
                         <caesura/>
-                         dadyāc ca vṛddha<pc> </pc>śiśubhīru<pc> </pc>kṛśāṅganābhyaḥ ||89|| <anchor xml:id="SS.6.64.69-n1"/>
+                         dadyāc ca vṛddha<pc> </pc>śiśubhīru<pc> </pc>kṛśāṅganābhyaḥ ||89|| <anchor xml:id="SS.6.64.69"/>
                     </l>
 <trailer xml:lang="en">[cf. 1938 ed. 6.64.69]</trailer>
 </lg>
@@ -3692,7 +3692,7 @@
                         
                          madhye tu pītam apahanty avisāribhāvā
                         <caesura/>
-                         ye dehamadhyam abhibhūya bhavanti rogāḥ ||93||<anchor xml:id="SS.6.64.72cd-n1"/>
+                         ye dehamadhyam abhibhūya bhavanti rogāḥ ||93||<anchor xml:id="SS.6.64.72cd"/>
                     </l>
 <trailer xml:lang="en">[cf. 1938 ed. 6.64.72cd]</trailer>
 </lg>
@@ -3728,7 +3728,7 @@
                         
                          pathyaṃ sabhaktam abalābalayor hi nityaṃ
                         <caesura/>
-                         tad dveṣiṇām api tathā śiśuvṛddhayoś ca ||97||<anchor xml:id="SS.6.64.75ab-n1"/>
+                         tad dveṣiṇām api tathā śiśuvṛddhayoś ca ||97||<anchor xml:id="SS.6.64.75ab"/>
                     </l>
 <trailer xml:lang="en">[cf. 1938 ed. 6.64.75ab]</trailer>
 </lg>
@@ -3746,7 +3746,7 @@
                         
                          doṣe dvidhā pravisṛte tu samudgasaṃjñam
                         <caesura/>
-                         ādyantayor yad aśanasya niṣevyate tu ||99|| <anchor xml:id="SS.6.64.77-n1"/></l>
+                         ādyantayor yad aśanasya niṣevyate tu ||99|| <anchor xml:id="SS.6.64.77"/></l>
 <trailer xml:lang="en">[cf. 1938 ed. 6.64.77]</trailer>
 </lg>
 
@@ -3766,7 +3766,7 @@
                         
                          śvāse muhur muhur atiprasṛte ca kāse
                         <caesura/>
-                         hikkāvamīṣu ca bhavaty upayojyam etat ||101|| <anchor xml:id="SS.6.64.79-n1"/>
+                         hikkāvamīṣu ca bhavaty upayojyam etat ||101|| <anchor xml:id="SS.6.64.79"/>
                     </l>
 <trailer xml:lang="en">[cf. 1938 ed. 6.64.79]</trailer>
 </lg>
@@ -3800,7 +3800,7 @@
                         
                          grāsāntareṣu visṛjed vamanīya<pc> </pc>dhūmāñ
                         <caesura/>
-                         chvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān ||105||<anchor xml:id="SS.6.64.82cd-n1"/>
+                         chvāsādiṣu prathitadṛṣṭaguṇāṃś ca lehān ||105||<anchor xml:id="SS.6.64.82cd"/>
                     </l>
 <trailer xml:lang="en">[cf. 1938 ed. 6.64.82cd]</trailer>
 </lg>
@@ -3822,7 +3822,7 @@
                         <caesura/>
                          tathānnaśraddhāyāṃ klamaparigame kukṣau ca śithile
                         <caesura/>
-                         pradeyas tv āhāro bhavati bhiṣajā sātmyaprakriyeti ||107|| <anchor xml:id="SS.6.64.84-n1"/>
+                         pradeyas tv āhāro bhavati bhiṣajā sātmyaprakriyeti ||107|| <anchor xml:id="SS.6.64.84"/>
                     </l>
 <trailer xml:lang="en">[cf. 1938 ed. 6.64.84]</trailer>
 </lg>
@@ -4691,7 +4691,7 @@
                                 not comment on these verses. </note>
 </standOff>
 <standOff corresp="#SS.6.64.39.add2" type="Testimonia">
-<note xml:lang="en" target="#SS.6.64.39.add2-n1">The reading of K
+<note xml:lang="en" target="#SS.6.64.39.add2">The reading of K
                                     <foreign>°jaṃghanāṃ</foreign>, which is unmetrical, has been
                                 emended to <foreign>°jaghanāṃ</foreign>, which yields a better sense
                                 and restores the metre to a <foreign>na-vipulā</foreign>.
@@ -4700,64 +4700,64 @@
                             </note>
 </standOff>
 <standOff corresp="#SS.6.64.42" type="Testimonia">
-<note xml:lang="en" target="#SS.6.64.42-n1">The reading of the vulgate
+<note xml:lang="en" target="#SS.6.64.42">The reading of the vulgate
                                     (<foreign>srajaḥ</foreign>) has been adopted as it is required
                                 to make sense of the feminine plural adjective following it (i.e.,
                                     <foreign>sakamalotpalāḥ</foreign>), which is attested by all
                                 witnesses. </note>
 </standOff>
 <standOff corresp="#SS.6.64.61" type="Notes">
-<note xml:lang="en" target="#SS.6.64.61-n1"> The reading of the Nepalese
+<note xml:lang="en" target="#SS.6.64.61"> The reading of the Nepalese
                                 manuscripts, <foreign>mehinam</foreign>, has been understood as
                                     <foreign>mehina</foreign>, the final <foreign>m</foreign>
                                 serving as a break between consonants. </note>
 </standOff>
 <standOff corresp="#SS.6.64.67" type="Notes">
-<note xml:lang="en" target="#SS.6.64.67-n1"> The metre is
+<note xml:lang="en" target="#SS.6.64.67"> The metre is
                                     <foreign>vasantatilakā</foreign>. </note>
 </standOff>
 <standOff corresp="#SS.6.64.69" type="Notes">
-<note xml:lang="en" target="#SS.6.64.69-n1"> The metre is
+<note xml:lang="en" target="#SS.6.64.69"> The metre is
                                     <foreign>vasantatilakā</foreign>. The second verse quarter of
                                 the Nepalese manuscripts is not metrical and has been emended with
                                 the aid of the vulgate to restore the metre. </note>
 </standOff>
 <standOff corresp="#SS.6.64.72cd" type="Notes">
-<note xml:lang="en" target="#SS.6.64.72cd-n1"> The metre is
+<note xml:lang="en" target="#SS.6.64.72cd"> The metre is
                                     <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts,
                                 the verse (consisting of hemistiches numbered 91 and 93) is
                                 interrupted midway by the prose statement (numbered 92), whereas the vulgate
                                 places this prose statement before the verse. </note>
 </standOff>
 <standOff corresp="#SS.6.64.75ab" type="Notes">
-<note xml:lang="en" target="#SS.6.64.75ab-n1"> The metre is
+<note xml:lang="en" target="#SS.6.64.75ab"> The metre is
                                     <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts,
                                 the verse (consisting of hemistiches numbered 95 and 97) is
                                 interrupted midway by the prose statement (numbered 96), whereas the vulgate
                                 places this prose statement before the verse. </note>
 </standOff>
 <standOff corresp="#SS.6.64.77" type="Notes">
-<note xml:lang="en" target="#SS.6.64.77-n1"> The vulgate's reading
+<note xml:lang="en" target="#SS.6.64.77"> The vulgate's reading
                                     <foreign>pravisṛte</foreign> has been adopted to restore the
                                 metre, and °<foreign>saṃjñam</foreign> to restore the syntax.
                             </note>
 </standOff>
 <standOff corresp="#SS.6.64.79" type="Notes">
-<note xml:lang="en" target="#SS.6.64.79-n1"> The metre is
+<note xml:lang="en" target="#SS.6.64.79"> The metre is
                                     <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts,
                                 the verse (consisting of hemistiches numbered 99 and 101) is
                                 interrupted midway by the prose statement (numbered 100), whereas the vulgate
                                 places this prose statement before the verse. </note>
 </standOff>
 <standOff corresp="#SS.6.64.82cd" type="Notes">
-<note xml:lang="en" target="#SS.6.64.82cd-n1"> The metre is
+<note xml:lang="en" target="#SS.6.64.82cd"> The metre is
                                     <foreign>vasantatilakā</foreign>. In the Nepalese manuscripts,
                                 the verse (consisting of hemistiches numbered 103 and 105) is
                                 interrupted midway by the prose statement (numbered 104), whereas the vulgate
                                 places this prose statement before the verse. </note>
 </standOff>
 <standOff corresp="#SS.6.64.84" type="Notes">
-<note xml:lang="en" target="#SS.6.64.84-n1"> This text can be scanned with
+<note xml:lang="en" target="#SS.6.64.84"> This text can be scanned with
                                 four <foreign>pādas</foreign> of eighteen syllables. The first three
                                 have the same pattern and, unlike the vulgate, the fourth is
                                 slightly different at the end. However, I do not recognise the
