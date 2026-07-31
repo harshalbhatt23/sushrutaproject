@@ -2318,7 +2318,6 @@
                          tasya tad rakṣaṇaṃ vatsa cikitsāyāḥ paraṃ hitam | </l>
 
                     <l xml:id="SS.6.64.4">
-                        <!--  <label xml:lang="en">cf. 1938 ed. 6.64.4</label>-->
                         <caesura/>
                          tasya yad vṛttam uktaṃ hi rakṣaṇañ ca mayāditaḥ |
                         <caesura/>
