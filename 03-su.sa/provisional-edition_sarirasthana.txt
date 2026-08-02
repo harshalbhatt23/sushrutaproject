@@ -573,7 +573,7 @@
                     </lg>
 
                     <lg xml:id="SS.3.2.24">
-                        <l> evam aduṣṭaśukraḥ śuddhārtavā || <anchor xml:id="SS.3.2.2-24"/>
+                        <l> evam aduṣṭaśukraḥ śuddhārtavā || <anchor xml:id="SS.3.2.24-n1"/>
                         </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.2.24]</trailer>
                     </lg>
