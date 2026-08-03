@@ -21,7 +21,7 @@
                         <summary>A paper manuscript in Devanāgarī script.</summary>
                         <msItem defective="true" n="1">
                             <author role="author" xml:lang="sa">Gayadāsa</author>
-                            <title xml:lang="sa">NyāyacandrikāNyāyacandrikā</title>
+                            <title xml:lang="sa">Nyāyacandrikā</title>
                             <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
                             <textLang mainLang="sa-Newa">Sanskrit in Devanagari
                                 script.</textLang>
@@ -67,15 +67,16 @@
 
         <revisionDesc>
             <change when="2026-02-12" who="Jason Birch">Transcribed f. 2r.</change>
+<change when="2026-08-02" who="Dominik Wujastyk">Changed the filename</change>
 
 
         </revisionDesc>
 
     </teiHeader>
 
-    <text xml:lang="sa">
+    <text xml:lang="sa-Latn-t-sa-Deva">
         <body>
-            <div n="1" type="sthāna">
+            <div n="3" type="sthāna">
 
                 <div n="1" type="adhyāya">
 
@@ -88,7 +89,7 @@
                         is numbered 2). The shape of the folio edges do not match those of the folio
                         in the next image. Unfortunately, the margins are missing. So we do not know
                         if it was numbered or not. However, its mention of yathovāca dhanvaṃtariḥ
-                        and hetucintām suggest it might be 1v? (and -->
+                        and hetucintām suggest it might be 1v. (and -->
 
                 </div>
 
