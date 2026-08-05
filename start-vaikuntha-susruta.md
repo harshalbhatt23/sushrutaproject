@@ -28,11 +28,7 @@ Here are [[https://saktumiva.org/wiki/users|further instructions for readers]].
 
 ===== Transcriptions of the manuscripts of the Nyāyacandrikā by Gayadāsa  =====
 
-[[https://sushrutaproject2.github.io/blog/2026/Notes-on-Gayadasas-Nyayacandrika/| Blog post]] about these manuscripts.
-
-    * [[https://134.87.10.56/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3Agayadasa%3Anyayacandrika_sutrasthana| MS Bīkāner Anup 4389, ff. 2--4v: Sūtrasthāna]].  
-    * [[https://134.87.10.56/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3Agayadasa%3Anyayacandrika_sarirasthana| MS Cambridge CUL Add. 2491: Śārīrasthāna]] 
-  * [[https://134.87.10.56/dokuwiki/doku.php?id=wiki%3Asusrutaproject%3Agayadasa%3Anyayacandrika_sarirasthana.4| MS Cambridge CUL Add. 2491: Śārīrasthāna, adhyāya 4]] 
+See [[wiki:susrutaproject:gayadasa:start]]
 
 ===== Copyright and Licensing =====
 
