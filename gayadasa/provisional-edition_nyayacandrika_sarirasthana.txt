@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>The Nyāyacandrikā of Gayadāsa on the Śārīrasthāna of the Suśrutasaṃhitā,
+                    provisional edition</title>
+            </titleStmt>
+
+            <publicationStmt>
+                <authority>The Suśruta Project</authority>
+
+                <idno>NC.śā.2026-08-05</idno>
+
+                <availability status="restricted">
+                    <p>Copyright Notice</p>
+                    <p>Copyright (C) Dominik Wujastyk</p>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by-sa/3.0/" type="licence"
+                            >Distributed by <ref target="http://sarit.indology.info" type="url"
+                                >SARIT</ref> under a Creative Commons Attribution-ShareAlike 3.0
+                            Unported License. </ref>
+                    </p>
+                    <p>Under this licence, you are free <list>
+                            <item>to Share — to copy, distribute and transmit the work</item>
+                            <item>to Remix — to adapt the work</item>
+                        </list>
+                    </p>
+                    <p>Under the following conditions:</p>
+                    <p>
+                        <list>
+                            <item>Attribution — You must attribute the work in the manner specified
+                                by the author or licensor (but not in any way that suggests that
+                                they endorse you or your use of the work).</item>
+                            <item>Share Alike — If you alter, transform, or build upon this work,
+                                you may distribute the resulting work only under the same or similar
+                                license to this one.</item>
+                        </list>
+                    </p>
+                    <p>More information and fuller details of this license are given on the Creative
+                        Commons website.</p>
+                    <p>SARIT assumes no responsibility for unauthorised use that infringes the
+                        rights of any copyright owners, known or unknown.</p>
+                </availability>
+
+                <address>
+                    <name>University of Alberta</name>
+                </address>
+
+                <authority>
+                    <name>The Suśruta Project</name>
+                </authority>
+
+                <date>2026</date>
+
+                <pubPlace>The University of Alberta</pubPlace>
+
+                <publisher>The Suśruta Project <ptr target="http://sushrutaproject.github.io"/>
+                </publisher>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc xml:id="Sanskrit" xml:lang="en">
+                    <msIdentifier>
+                        <idno type="siglum">NE</idno>
+                    </msIdentifier>
+                </msDesc>
+
+                <listWit>
+                    <witness xml:id="A">The <title>Nibandhasaṅgraha</title> by Ḍalhaṇācārya, <abbr
+                            type="siglum">A</abbr>
+                        <bibl>
+                            <title>Suśrutasamhitā of Suśruta with the Nibandhasaṅgraha Commentary of
+                                Śrī Ḍalhanāchārya and the Nyāyacandrikā Pañjikā of Śrī
+                                Gayadāsāchārya on Nidānasthāna, edited from the begining to the 9th
+                                ādhyāya of Cikitsāsthāna by Vaidya Jādavji Trikamji Āchārya and the
+                                rest by Nārāyaṇ Rām Āchārya</title>
+                            <editor role="sections:1.1-4.9">Yādavaśarman Trivikramātmaja
+                                Ācāryā</editor>
+                            <editor role="sections:4.10-6.66">Nārāyaṇ Rām Āchārya</editor>
+                            <publisher>Nirṇaya Sāgar Press</publisher>
+                            <pubPlace>Bombay</pubPlace>
+                            <date>1938</date>
+                            <edition>Revised third edition</edition>
+                            <edition>Reprint edition Varanasi/Delhi: Chaukhambha Orientalia,
+                                1992|</edition>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+
+        <revisionDesc>
+            <change when="2026-08-05" who="Andrey Klebanov"> Began this file. </change>
+        </revisionDesc>
+    </teiHeader>
+
+    <!-- The provisional edition of Gayadāsa’s commentary on the
+         Śārīrasthāna will follow in the text element. -->
+
+    <text xml:lang="sa-Latn-t-sa-Deva">
+
+        <body>
+            <div n="3" type="sthāna">
+
+                <div n="4" type="adhyāya">
+
+
+                    <p xml:id="NC.3.4.1"> garbhāvakrāntiśārīrānantaraṃ garbhavyākaraṇasyocitatvāt
+                        vyākaraṇaṃ vivaraṇaṃ | tat śukraśoṇitaṃ garbhāśayagataṃ prāṇīnāṃ garbhaḥ||
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+
+
+</TEI>
