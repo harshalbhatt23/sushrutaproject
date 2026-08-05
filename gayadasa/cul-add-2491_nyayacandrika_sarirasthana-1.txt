@@ -13,9 +13,9 @@
                             <settlement>Cambridge</settlement>
                             <country>UK</country>
                         </placeName>
-                        <institution>Cambridge University Library<ptr/></institution>
+                        <institution>Cambridge University Library</institution>
                         <idno>Add. 2491</idno>
-                        <idno type="siglum">C</idno>
+                        <idno type="siglum">C1</idno>
                     </msIdentifier>
                     <msContents>
                         <summary>A paper manuscript in Devanāgarī script.</summary>

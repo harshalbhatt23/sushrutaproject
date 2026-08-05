@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
             <titleStmt>
-                <title>Transcription of MS Bīkāner Anup 4389, ff. 2--4v</title>
+                <title>Transcription of MS Bīkāner Anup 4389</title>
             </titleStmt>
             <publicationStmt>
                 <p>Suśruta project, University of Alberta</p>
@@ -14,9 +14,9 @@
                             <settlement>Bikaner</settlement>
                             <country>India</country>
                         </placeName>
-                        <institution>Anup Library<ptr/></institution>
+                        <institution>Anup Library</institution>
                         <idno>4389</idno>
-                        <idno type="siglum">B1</idno>
+                        <idno type="siglum">B1-1</idno>
                     </msIdentifier>
                     <msContents>
                         <summary>A paper manuscript in Devanāgarī script. Approximately 70 folios

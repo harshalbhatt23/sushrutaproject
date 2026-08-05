@@ -18,7 +18,7 @@
                         <institution>RORI</institution>
                         <collection>Bikaner</collection>
                         <idno>5157</idno>
-                        <idno type="siglum">B2</idno>
+                        <idno type="siglum">BR</idno>
                     </msIdentifier>
                     <msContents>
                         <summary>[description of manuscript]</summary>
