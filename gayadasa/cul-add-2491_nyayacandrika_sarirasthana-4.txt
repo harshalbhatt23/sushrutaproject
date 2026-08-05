@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
             <titleStmt>
-                <title>Transcription of Gayadāsa on Suśrutasaṃhitā Śārīrasthāna 4 from MS Cambridge CUL Add.2491</title>
+                <title>Transcription of MS Cambridge CUL Add.2491</title>
             </titleStmt>
 
             <publicationStmt>
