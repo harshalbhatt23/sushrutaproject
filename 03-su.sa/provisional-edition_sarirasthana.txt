@@ -4265,22 +4265,21 @@
             the passage and following the vulgate. The character <foreign xml:lang="sa"
                 >ṣva</foreign> is clear in both N and H, but a copying error from <foreign>-ṣu
             </foreign> is not inconceivable. </note>
-    </standOff>
-    <standOff corresp="#SS.3.1.16" type="Emendations">
         <note target="#SS.3.1.16-n3" xml:lang="en">We emend to <foreign xml:lang="sa"
                 >-śarīri-</foreign> against N and H, for sense and because this is a quotation from
-                <title>Suśrutasaṃhitā</title> 1.1.22.</note>
+            <title>Suśrutasaṃhitā</title> 1.1.22.</note>
     </standOff>
+
     <standOff corresp="#SS.3.1.16" type="Notes">
         <note target="#SS.3.1.16-n2" xml:lang="en">The <foreign xml:lang="sa">ca</foreign> after
-                <foreign xml:lang="sa">tiryagyonimānuṣadeveṣu</foreign> unnecessarily conjoins the
+            <foreign xml:lang="sa">tiryagyonimānuṣadeveṣu</foreign> unnecessarily conjoins the
             members of the dvandva. While rare, this usage has been observed: Wackernagel
             1896--1964, II.1, para 70.</note>
     </standOff>
-    <standOff corresp="#SS.3.1.16" type="Notes">
-        <note target="#SS.3.1.16-n2" xml:lang="en"> This cites <title>Suśrutasaṃhitā</title>
-            1.1.22.</note>
-    </standOff>
+    
+  
+  
+
     <standOff corresp="#SS.3.1.19" type="Emendation">
         <note target="#SS.3.1.19-n1" xml:lang="en">We emend <foreign xml:lang="sa">antar-</foreign>
             to <foreign xml:lang="sa">āntar-</foreign>, following the vulgate reading for sense. And
@@ -4341,16 +4340,15 @@
         <note target="#SS.3.2.35-n1" xml:lang="en">Note the slightly unusual form <foreign
                 xml:lang="sa">apān-dhātu-prāyam</foreign> with the inflected genitive pl. of the
             first member of the compound (Whitney 1250e).</note>
-    </standOff>
-    <standOff corresp="#SS.3.2.35" type="Notes">
+  
         <note target="#SS.3.2.35-n2" xml:lang="en"><foreign xml:lang="sa">galagoṇḍikādayaḥ</foreign>
-            in witness H is likely to be a variant pronunciation rather than a scribal error.</note>
-    </standOff>
-    <standOff corresp="#SS.3.2.35" type="Notes">
-        <note target="#SS.3.2.35-n3" xml:lang="en">Witness N breaks off at this point and is
+            in witness H is likely to be a variant pronunciation rather than a scribal error.</note>    
+   <note target="#SS.3.2.35-n3" xml:lang="en">Witness N breaks off at this point and is
             unavailable for the remainder of the <title>Suśrutasaṃhitā</title>.</note>
     </standOff>
-    <standOff corresp="#SS.3.2.35.1" type="Notes">
+  
+ 
+    <standOff corresp="#SS.3.2.35.1" type="Emendation">
         <note target="#SS.3.2.35.1-n1" xml:lang="en">Witness H appears to read <foreign
                 xml:lang="sa">jāyate</foreign> but we emend to the dual.</note>
     </standOff>
@@ -4400,7 +4398,7 @@
             been destroyed. The damaged portion may have supported the word <foreign xml:lang="sa"
                 >bhavati</foreign></note>
     </standOff>
-    <standOff corresp="#SS.3.3.18" type="Emendation">
+    <standOff corresp="#SS.3.3.18" type="Note">
         <note target="#SS.3.3.18-n2" xml:lang="en">Note the absence of sandhi between <foreign
                 xml:lang="sa">māse</foreign> and <foreign xml:lang="sa">abhiprāyam</foreign>.</note>
     </standOff>
@@ -4439,16 +4437,16 @@
         <note target="#SS.3.4.4-n1" xml:lang="en">This is a citation from
                 <title>Cikitsāsthāna</title> 14.18.</note>
     </standOff>
-    <standOff corresp="#SS.3.4.8" type="Testimonia">
-        <note target="#SS.3.4.8-n1" xml:lang="en"> The word <foreign xml:lang="sa">pratāna</foreign>
-            is normally masculine, but here and in the <title>Aṣṭāṅgasaṅgraha</title> it is neuter
-            (As. śārīrasthāna 5.20).</note>
-    </standOff>
     <standOff corresp="#SS.3.4.8" type="Emendation">
         <note target="#SS.3.4.8-n2" xml:lang="en">We emend to <foreign xml:lang="sa">māṃse</foreign>
             for sense, with the vulgate, and in the light of the of the <foreign xml:lang="sa"
                 >māṃse</foreign> in 3.4.9.</note>
+    </standOff>    <standOff corresp="#SS.3.4.8" type="Testimonia">
+        <note target="#SS.3.4.8-n1" xml:lang="en"> The word <foreign xml:lang="sa">pratāna</foreign>
+            is normally masculine, but here and in the <title>Aṣṭāṅgasaṅgraha</title> it is neuter
+            (As. śārīrasthāna 5.20).</note>
     </standOff>
+
     <standOff corresp="#SS.3.4.17" type="Emendation">
         <note target="#SS.3.4.17-n1" xml:lang="en">We emend from plurals to feminine singular, with
             the vulgate, for <foreign>kalā</foreign> and its qualifiers because of sense, because
