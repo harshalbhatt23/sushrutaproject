@@ -1042,13 +1042,13 @@
                         dvimāsikām ṛtuṃ kṛtvā ṣaḍṛtavo bhavanti || te ca
                         śiśiravasa<cb/>ntagrīṣmavarṣāsaraddhemantāḥ teṣan tapastapasyau
                         śiśiraḥ madhumādhavau vasantaḥ | śuciśukrau grīṣmaḥ |
-                        nabhonabhasyau varṣā || <sic ana="possibly iṣorjai">iṣojai</sic>
-                        <cb/> śarat sahaḥsahasyau hemanta iti || </l></lg>
+                        nabhonabhasyau varṣā || iṣojau
+                        <cb/> śarat sahassahasyau hemanta iti || </l></lg>
 
-                    <lg xml:id="SS.1.6.7"><l> tu ete
-                        śītoṣṇavarṣāvātalak<unclear>ṣ</unclear>aṇāḥ | candrādityayoḥ
-                            kālavibhāgakaratvā<lb n="5"/>d va<unclear>ya</unclear>ne dve
-                        bhavataḥ | dakṣiṇam uttaraṇ ca | tayor dakṣiṇaṃ
+                    <lg xml:id="SS.1.6.7"><l> ta ete
+                        śītoṣṇavarṣāvātalakṣaṇāḥ | candrādityayoḥ
+                            kālavibhāgakaratvā<lb n="5"/>d vayane dve
+                        bhavataḥ | dakṣiṇam uttarañ ca | tayor dakṣiṇaṃ
                         varṣāśaraddhemantāḥ | teṣu bhagavānn āpyāyyate somaḥ | <cb/>
                         āmblalavaṇamadhurāś ca rasā balavanto bhavanti | uttarottaraṃ ca
                         sarvvaprāṇināṃ balam abhivardhate | uttara śiśiravasantagrīṣmāḥ |
