@@ -981,7 +981,7 @@
                         grīṣmaḥ, nabhonabhasyau varṣāḥ, iṣorjau śarat, sahaḥsahasyau
                         hemanta iti ||6|| </l></lg>
 
-                    <lg xml:id="SS.1.6.7"><l> ta ete śītoṣṇavarṣalakṣaṇāś candrād ity ayoḥ
+                    <lg xml:id="SS.1.6.7"><l> ta ete śītoṣṇavarṣalakṣaṇāś candrādityayoḥ
                         kālavibhāgakaratvād ayane dve bhavato dakṣiṇam uttaraṃ ca | tayor
                         dakṣiṇaṃ varṣāśaraddhemantāḥ; teṣu bhagavā<pb facs="111" n="15a"/>n āpyāyate somaḥ, amlalavaṇamadhurāś ca rasā balavanto bhavanti,
                         uttarottaraṃ ca sarvaprāṇināṃ balam abhivardhate | uttaraṃ ca
