@@ -1168,10 +1168,9 @@
                             uttara<lb n="6"/>ñ ca | tayor ddakṣiṇaṃ varṣāśaraddhemantāḥ |
                         teṣu bhagavān nāpyāyyate somaḥ |
                         amlalavaṇamadhurāś ca rasā balavanto bhavanti | uttarottarañ ca
-                        sarvvaprāṇināṃ balam abhivardhate | uttaraṃ śiśira<pb ana="dscn2987 fol 011.jpg" facs="13" n="11v"/><lb n="1"/>vasantagrīṣmāḥ | teṣu bhagavān āpyāyyate 'rkkaḥ | kaṭutiktakaṣā<subst>
-                            <del>yā</del>
-                            <add>ya</add>
-                        </subst>ś ca rasā balavattarā bhavanti | uttarottarañ ca prāṇināṃ
+                        sarvvaprāṇināṃ balam abhivardhate | uttaraṃ śiśira<pb ana="dscn2987 fol
+                            011.jpg" facs="13" n="11v"/><lb n="1"/>vasantagrīṣmāḥ | teṣu bhagavān
+                            āpyāyyate 'rkkaḥ | kaṭutiktakaṣāyāś ca rasā balavattarā bhavanti | uttarottaraś ca prāṇināṃ
                         balaṃ parihīyate || </l></lg>
 
                     <lg xml:id="SS.1.6.8"><l>

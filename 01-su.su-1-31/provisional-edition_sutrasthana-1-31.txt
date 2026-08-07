@@ -1777,7 +1777,7 @@
                         tayor dakṣiṇam varṣāśaraddhemantāḥ | teṣu bhagavān āpyāyate somaḥ |
                         amlalavaṇamadhurāś ca rasā balavanto bhavanti | uttarottarañ ca
                         sarvaprāṇināṃ balam abhivarddhate | uttaraṃ śiśiravasantagrīṣmāḥ |
-                        teṣu bhagavān āpyāyate rkaḥ | kaṭutiktakaṣāyāś ca rasā balavattarā
+                        teṣu bhagavān āpyāyate 'rkaḥ | kaṭutiktakaṣāyāś ca rasā balavattarā
                         bhavanti | uttarottaraś ca prāṇinām balam parihīyate ||</l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.6.7]</trailer>
 </lg>

@@ -904,7 +904,7 @@
                     <lg xml:id="SS.1.6.7"><l>ta ete śītoṣṇavarṣa<add place="above"><unclear>vāta</unclear></add>la<cb n="1"/>kṣaṇāḥ |
                         candrādityayoḥ kālavibhāgakaratvād ayane dve bhavataḥ | dakṣiṇam
                         uttarañ ca | tayor dakṣiṇam varṣāśaraddhemantāḥ<cb/> teṣu bhagavān
-                        āpyāyate somaḥ | <unclear>āmla</unclear>lavaṇamadhurāś ca rasā
+                        āpyāyate somaḥ | āmlbalavaṇamadhurāś ca rasā
                         balavanto bhavanti | uttarottara<cb n="2"/>ñ ca sarvaprāṇināṃ
                         balam abhivarddhate | uttaraṃ śiśiravasantagrīṣmāḥ | teṣu bhagavān
                         āpyāyate<cb/> 'rkaḥ | kaṭutiktakaṣāyāś ca rasā bala<add place="below"><unclear>va</unclear></add>ttarā bhavanti |
