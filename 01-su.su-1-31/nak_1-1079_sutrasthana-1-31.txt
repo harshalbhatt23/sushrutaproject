@@ -1060,7 +1060,7 @@
                     <lg xml:id="SS.1.6.8"><l>
                         <abbr type="suspension"><unclear>bha</unclear></abbr><expan>bhavati cātra</expan> ||
                         <caesura/>
-                         somaṃ kledayate bhūmi sūryaḥ śoṣayate punaḥ |
+                         soma<add place="above">ḥ</add> kledayate bhūmi sūryaḥ śoṣayate punaḥ |
                         <caesura/>
                          tāv ubhāv api saṃśritya vāyuḥ pālayati <cb/> pajaḥ ||</l></lg>
 

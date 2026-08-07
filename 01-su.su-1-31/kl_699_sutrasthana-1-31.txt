@@ -913,7 +913,7 @@
                     <lg xml:id="SS.1.6.8"><l>
                         <abbr type="suspension">bha</abbr><ex>bhavati cātra</ex> ||
                         <caesura/>
-                         somaḥ kloda<cb/>yate bhūmiṃ sūryaḥ śoṣayate punaḥ |
+                         somaḥ kleda<cb/>yate bhūmiṃ sūryaḥ śoṣayate punaḥ |
                         <caesura/>
                          tāv ubhāv api saṃśritya vāyuḥ pālayati prajāḥ ||</l></lg>
 
