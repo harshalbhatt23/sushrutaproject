@@ -2084,7 +2084,7 @@
                             vijñānopāyaiḥ | dīrgham āyuṣo 'lpāyuṣo veditavyāḥ |<anchor
                                 xml:id="SS.1.10.4.1-n1"/><anchor xml:id="SS.1.10.4.1-n2"/>
                         </l>
-                        <trailer xml:lang="en">[cf. 1938 ed. 1.10.4.]</trailer>
+                        <trailer xml:lang="en">[cf. 1938 ed. 1.10.4]</trailer>
                     </lg>
 
 
