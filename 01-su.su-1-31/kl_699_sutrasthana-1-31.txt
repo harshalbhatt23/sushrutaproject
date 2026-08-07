@@ -908,7 +908,7 @@
                         balavanto bhavanti | uttarottara<cb n="2"/>ñ ca sarvaprāṇināṃ
                         balam abhivarddhate | uttaraṃ śiśiravasantagrīṣmāḥ | teṣu bhagavān
                         āpyāyate<cb/> 'rkaḥ | kaṭutiktakaṣāyāś ca rasā bala<add place="below"><unclear>va</unclear></add>ttarā bhavanti |
-                            uttarottara<del>ā</del>ś ca prāṇinām balam parihīyate ||</l></lg>
+                            uttarottara<del>ā</del>ñ ca prāṇinām balam parihīyate ||</l></lg>
 
                     <lg xml:id="SS.1.6.8"><l>
                         <abbr type="suspension">bha</abbr><ex>bhavati cātra</ex> ||

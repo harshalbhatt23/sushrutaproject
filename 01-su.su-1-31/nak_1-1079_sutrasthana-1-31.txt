@@ -1051,10 +1051,10 @@
                             kālavibhāgakaratvā<lb n="5"/>d vayane dve
                         bhavataḥ | dakṣiṇam uttarañ ca | tayor dakṣiṇaṃ
                         varṣāśaraddhemantāḥ | teṣu bhagavānn āpyāyyate somaḥ | <cb/>
-                        āmblalavaṇamadhurāś ca rasā balavanto bhavanti | uttarottaraṃ ca
+                        āmblalavaṇamadhurāś ca rasā balavanto bhavanti | uttarottaraś ca
                         sarvvaprāṇināṃ balam abhivardhate | uttaraṃ śiśiravasantagrīṣmāḥ |
                         teṣu <cb/>bhagavānn āpyāyyate 'rkkaḥ | kaṭutiktak<del rend="cancelled">ā</del><add>a</add>ṣāyāś ca rasā
-                        balavanto bhavanti | uttarottaram ca prāṇināṃ
+                        balavanto bhavanti | uttarottaraś ca prāṇināṃ
                         balaṃ parihī<lb n="6"/>yate || </l></lg>
 
                     <lg xml:id="SS.1.6.8"><l>
