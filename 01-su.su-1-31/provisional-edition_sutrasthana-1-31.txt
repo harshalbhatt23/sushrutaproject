@@ -1774,7 +1774,7 @@
                         
                          ta ete śītoṣṇavarṣavātalakṣaṇāḥ | candrādityayoḥ
                         kālavibhāgakaratvād ayane dve bhavataḥ | dakṣiṇam uttarañ ca |
-                        tayor dakṣiṇam varṣāśaraddhemantāḥ teṣu bhagavān āpyāyate somaḥ |
+                        tayor dakṣiṇam varṣāśaraddhemantāḥ | teṣu bhagavān āpyāyate somaḥ |
                         amlalavaṇamadhurāś ca rasā balavanto bhavanti | uttarottarañ ca
                         sarvaprāṇināṃ balam abhivarddhate | uttaraṃ śiśiravasantagrīṣmāḥ |
                         teṣu bhagavān āpyāyate rkaḥ | kaṭutiktakaṣāyāś ca rasā balavattarā
