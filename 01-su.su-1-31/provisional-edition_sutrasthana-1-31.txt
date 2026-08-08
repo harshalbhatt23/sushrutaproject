@@ -1798,7 +1798,7 @@
                         
                          atha khalv ayane yugapat saṃvatsaro bhavati | te dve ayane
                         varṣaḥ saṃvatsaraḥ parivatsaraḥ iḍāvatsaraḥ vatsara ity evaṃ pañca
-                        pañca varṣāṇi || te pañca yugam iti saṃjñāṃ labhante sa eṣa
+                        pañca varṣāṇi || te pañca yugam iti saṃjñāṃ labhante | sa eṣa
                         nimeṣādir yugaparyantaḥ kālaś cakravat parivarttamānaḥ kālacakra
                         ity ucyate | </l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.6.9]</trailer>

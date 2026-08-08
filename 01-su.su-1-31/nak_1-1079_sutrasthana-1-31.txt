@@ -1069,7 +1069,7 @@
                         dve ayane varṣasamvaraḥ parivatsaraḥ | iḍāvatsaraḥ
                             iḍavatsaraḥ vatsa<cb/>ra ity evaṃ pañca
                             <unclear>va</unclear>ñca varṣāṇi | te pañca yugam iti saṃjñāṃ
-                        labhante | sa eṣa nimeṣādiyugaparyantaḥ kālaś cakrava<lb n="7"/>t
+                        labhante | sa eṣa nimeṣādi yugaparyantaḥ kālaś cakrava<lb n="7"/>t
                         parivarttamānaḥ | kālacakra ity ucyate | </l></lg>
 
                     <lg xml:id="SS.1.6.9.add"><l>evaṃ dakṣiṇāyane rātri vyākhyātā | || </l></lg>
