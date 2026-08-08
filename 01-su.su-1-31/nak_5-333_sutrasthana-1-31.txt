@@ -1185,8 +1185,8 @@
                         || </l></lg>
 
                     <lg xml:id="SS.1.6.9"><l> atha<cb/> khalv ayane yugapat saṃvatsaro bhavati
-                        | te dve ayane varṣaḥ saṃvatsaraḥ parivatsaraḥ | iḍā vatsaraḥ |
-                            i<unclear>ḍ</unclear>vatsa<lb n="3"/><add place="left margin">ḍo</add><!-- could not ascertain the place of addition -->raḥ
+                        | te dve ayane varṣaḥ saṃvatsaraḥ parivatsaraḥ | iḍāvatsaraḥ |
+                        idvatsa<lb n="3"/><!--<add place="left margin">ḍā</add> could not ascertain the place of addition -->raḥ
                         | vatsara ity evaṃ pañca pañca varṣāṇi | te pañca yugam iti saṃjñā
                         labha<cb/>nte sa eṣa nimeṣādir yugaparyantaḥ kālaś cakravat
                         parivarttamānaḥ kālacakra ity ucyate || </l></lg>
