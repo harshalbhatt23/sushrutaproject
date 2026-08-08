@@ -1723,7 +1723,7 @@
                     <lg xml:id="SS.1.6.1"><l>
                         
                         
-                         athāto ṛtucaryāṃ vyākhyāsyāmaḥ |</l>
+                         athāto ṛtucaryāṃ vyākhyāsyāmaḥ ||1||</l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.6.1]</trailer>
 </lg>
 
@@ -1735,7 +1735,7 @@
                          kālo hi bhagavān svayaṃbhur anādimadhyanidhanaḥ | atra
                         rasavyāpatsampattayo jīvitamaraṇe ca manuṣyāṇām āyatte | sa sūkṣmām
                         api kalān na līyata iti kālaḥ | saṅkalayati kalayati vā bhūtānīti
-                        kālaḥ |</l>
+                        kālaḥ ||2||</l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.6.3]</trailer>
 </lg>
 
@@ -1744,7 +1744,7 @@
                         
                          tasya samvatsarātmano bhagavān ādityo gativiśeṣeṇa
                          nimeṣakāṣṭhākalāmuhūrttāhorātrapakṣamāsartvayana<pc> </pc>samvatsara<pc> </pc>yuga<pc> </pc>pravibhāgaṃ
-                        karoti |</l>
+                        karoti ||3||</l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.6.4]</trailer>
 </lg>
 
@@ -1754,7 +1754,7 @@
                          tatra laghvakṣinipātamātro nimeṣaḥ | pañcadaśanimeṣā kāṣṭhā |
                          triṅśatkāṣṭhā kalā | viṅśatikalo muhūrttaḥ kalāyāḥ daśabhāgaś ca |
                         triṃśanmuhūrttam ahorātram | pañcadaśāhorātraḥ pakṣaḥ | sa
-                        dvividhaḥ kṛṣṇaḥ śuklaś ca | tau māsaḥ | </l>
+                        dvividhaḥ kṛṣṇaḥ śuklaś ca | tau māsaḥ ||4|| </l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.6.5]</trailer>
 </lg>
 
@@ -1765,7 +1765,7 @@
                         ṣaḍṛtavo bhavanti | te ca śiśiravasantagrīṣmavarṣāśaraddhemantāḥ
                         | teṣān tapastapasyau śiśiraḥ | madhumādhavau vasantaḥ |
                         śuciśukrau grīṣmaḥ nabhonabhasyau varṣā | iṣorjau śarat |
-                        sahassahasyau hemanta iti |</l>
+                        sahassahasyau hemanta iti ||5||</l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.6.6]</trailer>
 </lg>
 
@@ -1778,7 +1778,7 @@
                         amlalavaṇamadhurāś ca rasā balavanto bhavanti | uttarottarañ ca
                         sarvaprāṇināṃ balam abhivarddhate | uttaraṃ śiśiravasantagrīṣmāḥ |
                         teṣu bhagavān āpyāyate 'rkaḥ | kaṭutiktakaṣāyāś ca rasā balavattarā
-                        bhavanti | uttarottarañ ca prāṇinām balam parihīyate ||</l>
+                        bhavanti | uttarottarañ ca prāṇinām balam parihīyate ||6||</l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.6.7]</trailer>
 </lg>
 
@@ -1789,7 +1789,7 @@
                         <caesura/>
                          somaḥ kledayate bhūmiṃ sūryaḥ śoṣayate punaḥ |
                         <caesura/>
-                         tāv ubhāv api saṃśritya vāyuḥ pālayati prajāḥ ||</l>
+                         tāv ubhāv api saṃśritya vāyuḥ pālayati prajāḥ ||7||</l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.6.8]</trailer>
 </lg>
 
@@ -1800,7 +1800,7 @@
                         varṣaḥ saṃvatsaraḥ parivatsaraḥ iḍāvatsaraḥ vatsara ity evaṃ pañca
                         pañca varṣāṇi || te pañca yugam iti saṃjñāṃ labhante | sa eṣa
                         nimeṣādir yugaparyantaḥ kālaś cakravat parivarttamānaḥ kālacakra
-                        ity ucyate | </l>
+                        ity ucyate ||8|| </l>
 <trailer xml:lang="en">[cf. 1938 ed. 1.6.9]</trailer>
 </lg>
 
@@ -1808,7 +1808,7 @@
                         
                         
                          evaṃ dakṣiṇāyane rātrir vyākhyātā ||</l>
-<trailer xml:lang="en">[cf. 1938 ed. 1.6.9.add]</trailer>
+<trailer xml:lang="en"></trailer>
 </lg>
 
                     <lg xml:id="SS.1.6.10"><l>
