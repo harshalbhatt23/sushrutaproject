@@ -1191,7 +1191,7 @@
                         labha<cb/>nte sa eṣa nimeṣādir yugaparyantaḥ kālaś cakravat
                         parivarttamānaḥ kālacakra ity ucyate || </l></lg>
 
-                    <lg xml:id="SS.1.6.9.add"><l> evan dakṣiṇāya<lb n="4"/><add place="left margin">e</add><!-- could not ascertain the place of addition -->ne
+                    <lg xml:id="SS.1.6.9.add"><l> evan dakṣiṇāya<lb n="4"/><!--<add place="left margin">e</add> could not ascertain the place of addition -->ne
                         rātrir vvyākhyātā || </l></lg>
 
                     <lg xml:id="SS.1.6.10"><l> iha tu
