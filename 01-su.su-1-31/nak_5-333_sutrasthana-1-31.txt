@@ -1165,12 +1165,12 @@
                     <lg xml:id="SS.1.6.7"><l> ta e<cb/>te śītoṣṇavarṣavātalakṣaṇāḥ |
                         candrādityayoḥ kālavibhāgakaratvād ayane dve bhavataḥ | dakṣiṇam
                             uttara<lb n="6"/>ñ ca | tayor ddakṣiṇaṃ varṣāśaraddhemantāḥ |
-                        teṣu bhagavān ā<unclear>p</unclear>yāyyate somaḥ |
+                        teṣu bhagavān nāpyāyyate somaḥ |
                         amlalavaṇamadhurāś ca rasā balavanto bhavanti | uttarottarañ ca
-                        sarvvaprāṇināṃ balam abhivardhate | uttaraṃ śiśira<pb ana="dscn2987 fol 011.jpg" facs="13" n="11v"/><lb n="1"/>vasantagrīṣmāḥ | teṣu bhagavān āpyāyyate 'rkkaḥ | kaṭutiktakaṣā<subst>
-                            <del>yā</del>
-                            <add>ya</add>
-                        </subst>ś ca rasā balavattarā bhavanti | uttarottarañ ca prāṇināṃ
+                        sarvvaprāṇināṃ balam abhivardhate | uttaraṃ śiśira<pb ana="dscn2987 fol
+                            011.jpg" facs="13" n="11v"/><lb n="1"/>vasantagrīṣmāḥ | teṣu bhagavān
+                            āpyāyyate 'rkkaḥ | kaṭutiktakaṣāyāś ca rasā balavattarā bhavanti |
+                            uttarottarañ ca prāṇināṃ
                         balaṃ parihīyate || </l></lg>
 
                     <lg xml:id="SS.1.6.8"><l>
@@ -1184,13 +1184,13 @@
                         || </l></lg>
 
                     <lg xml:id="SS.1.6.9"><l> atha<cb/> khalv ayane yugapat saṃvatsaro bhavati
-                        | te dve ayane varṣaḥ saṃvatsaraḥ parivatsaraḥ | iḍā vatsaraḥ |
-                            i<unclear>ḍ</unclear>vatsa<lb n="3"/><add place="left margin">ḍo</add><!-- could not ascertain the place of addition -->raḥ
+                        | te dve ayane varṣaḥ saṃvatsaraḥ parivatsaraḥ | iḍāvatsaraḥ |
+                        idvatsa<lb n="3"/><!--<add place="left margin">ḍā</add> could not ascertain the place of addition -->raḥ
                         | vatsara ity evaṃ pañca pañca varṣāṇi | te pañca yugam iti saṃjñā
                         labha<cb/>nte sa eṣa nimeṣādir yugaparyantaḥ kālaś cakravat
                         parivarttamānaḥ kālacakra ity ucyate || </l></lg>
 
-                    <lg xml:id="SS.1.6.9.add"><l> evan dakṣiṇāya<lb n="4"/><add place="left margin">e</add><!-- could not ascertain the place of addition -->ne
+                    <lg xml:id="SS.1.6.9.add"><l> evan dakṣiṇāya<lb n="4"/><!--<add place="left margin">e</add> could not ascertain the place of addition -->ne
                         rātrir vvyākhyātā || </l></lg>
 
                     <lg xml:id="SS.1.6.10"><l> iha tu
