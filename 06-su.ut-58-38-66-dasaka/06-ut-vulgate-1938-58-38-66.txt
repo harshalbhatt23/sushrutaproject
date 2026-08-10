@@ -1203,7 +1203,7 @@
 
                     <lg xml:id="SS.6.62.19cd"><l> balavāṃś cāpi saṃrakṣet jale 'ntaḥ parivāsayet |</l></lg>
 
-                    <lg xml:id="SS.6.62.19ef"><l> pratuded ārayā cainaṃ marmāghātaṃ vivarjayet |</l></lg>
+                    <lg xml:id="SS.6.62.19ef"><l> pratudedārayā cainaṃ marmāghātaṃ vivarjayet |</l></lg>
 
                     <pb facs="889" n="805a"/>
                     <lg xml:id="SS.6.62.19gh"><l> veśmano 'ntaḥ praviśyainaṃ rakṣaṃs tad veśma dīpayet

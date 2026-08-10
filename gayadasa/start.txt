@@ -1,0 +1,25 @@
+===== Transcriptions of the manuscripts of the Nyāyacandrikā by Gayadāsa  =====
+
+[[https://sushrutaproject2.github.io/blog/2026/Notes-on-Gayadasas-Nyayacandrika/| Blog post]] about these manuscripts.
+
+    * [[https://vaikuntha.ca/doku.php?id=wiki%3Asusrutaproject%3Agayadasa%3Aanup-4389_nyayacandrika_sutrasthana-1| MS Bīkāner Anup 4389, ff. 2--4v: Sūtrasthāna, adhyāya 1]].  
+    * [[https://vaikuntha.ca/doku.php?id=wiki%3Asusrutaproject%3Agayadasa%3Aanup-4389_nyayacandrika_sutrasthana-2| MS Bīkāner Anup 4389, Sūtrasthāna, adhyāya 2]].  
+    * [[https://vaikuntha.ca/doku.php?id=wiki%3Asusrutaproject%3Agayadasa%3Acul-add-2491_nyayacandrika_sarirasthana-1| MS Cambridge CUL Add. 2491: Śārīrasthāna, adhyāya 1]] 
+    * [[https://vaikuntha.ca/doku.php?id=wiki%3Asusrutaproject%3Agayadasa%3Acul-add-2491_nyayacandrika_sarirasthana-4| MS Cambridge CUL Add. 2491: Śārīrasthāna, adhyāya 4]] 
+    * [[https://vaikuntha.ca/doku.php?id=wiki:susrutaproject:gayadasa:rori-bikaner-5157_kalpasthana-1|MS Bikaner RORI 5157: Kalpasthāna,adhyāya 1.]]
+
+
+===== Provisional edition files =====
+
+    * [[https://vaikuntha.ca/doku.php?id=wiki%3Asusrutaproject%3Agayadasa%3Aprovisional-edition_nyayacandrika_sarirasthana| Provisional edition of the Nyāyacandrikā on the Śārīrasthāna]].
+
+===== Reading and collating manuscript transcriptions =====
+
+These manuscript collations are handled by [[https://github.com/chchch/upama|Saktumiva ver.1 and Upama]]. 
+
+Here are [[https://saktumiva.org/wiki/users|further instructions for readers]].
+
+== Copyright and Licensing ==
+
+All files in this Github repository are copyrighted (C) Dominik Wujastyk 2020-2026. They are distributed under a [[https://creativecommons.org/licenses/by-sa/4.0/|Creative Commons BY-SA]] licence.
+
