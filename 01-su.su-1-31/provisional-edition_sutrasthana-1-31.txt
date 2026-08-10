@@ -1493,8 +1493,8 @@
                     </lg>
 
                     <lg xml:id="SS.1.6.9.add">
-                        <l> evaṃ dakṣiṇāyane rātrir vyākhyātā ||</l>
-                        <trailer xml:lang="en">[1.6.9.add]</trailer>
+                        <l> evaṃ dakṣiṇāyane rātrir vyākhyātā ||9||</l>
+                      
                     </lg>
 
                     <lg xml:id="SS.1.6.10">
