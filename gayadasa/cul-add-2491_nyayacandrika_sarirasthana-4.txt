@@ -69,19 +69,9 @@
 
         <revisionDesc>
             <change when="2026-08-02" who="Dominik Wujastyk">Changed the filename</change>
-            <change when="2026-08-04" who="Andrey Klebanov">xml:id="NC.3.4.94-99 <list>
-                    <item>Work on the header.</item>
-                    <item>Copied the source description from
-                        cul-add-2491_nyayacandrika-sarirasthana-1.txt.</item>
-                    <item>Standardized the numbering and classification of textual divisions.</item>
-                    <item>Proofread and corrected NC 3.4.1--3.</item>
-                </list>
-            </change>
-            <change when="2026-08-07" who="Andrey Klebanov">xml:id="NC.3.4.94-99 <list>
-                    <item>Added "ana"-values to pb-s.</item>
-                    <item>Proofread and corrected NC 3.4.4--.</item>
-                </list>
-            </change>
+            <change when="2026-08-04" who="Andrey Klebanov">Header and proofreading of NC 3.4.1--3. </change>
+            <change when="2026-08-11" who="Andrey Klebanov">Proofread until 3.4.5, aligned 3.4.1a
+                with the provisional edition.</change>
         </revisionDesc>
 
     </teiHeader>
@@ -92,62 +82,69 @@
 
                 <div n="4" type="adhyāya">
 
-                    <!--<milestone n="33r9" unit="folio" facs="MS-image-name.jpg"/>-->
+                    <!--<milestone n="33r9" unit="folio" facs="MS-ADD-02491-000-00041.jpg"/>-->
 
-                    <p xml:id="NC.3.4.1">
-                        <lb n="9"/>garbhāvakrāṃtiśārī<lb n="10"/>rānaṃtaraṃ
-                        garbhavyākaraṇasyocitatvāt | vyākaraṇaṃ vi<subst><del>ka</del><add
-                                place="below">va</add></subst>raṇaṃ | tat śukraśoṇitaṃ
-                        garbhāśayagataṃ prāṇi<mod type="subst" rend="added-vowel-stroke"
-                                ><del>na</del><add place="inline">nā</add></mod>ṃ garbhaḥ|| </p>
+                    <lg xml:id="NC.3.4.1a">
+                        <l><lb n="9"/>garbhāvakrāṃtiśārī<lb n="10"/>rānaṃtaraṃ
+                            garbhavyākaraṇasyocitatvāt | vyākaraṇaṃ vi<subst><del>ka</del><add
+                                    place="below">va</add></subst>raṇaṃ | tat śukraśoṇitaṃ
+                            garbhāśayagataṃ prāṇi<mod type="subst" rend="added-vowel-stroke"
+                                    ><del>na</del><add place="inline">nā</add></mod>ṃ garbhaḥ||</l>
+                    </lg>
 
-                    <p xml:id="NC.3.4.3">
-                        <pb ana="MS-ADD-02491-000-00042.jpg" n="33v"/><lb n="1"/>tacca prāṇa/ na
-                        yeṣām eva bhāvānām anvayavyatirekābhyāṃ anvayavyatireki ca teṣv eva
-                        prīṇābhyāṃ paribhāṣayann āha ||<lb n="2"/><subst><del
-                                rend="enclosed-in-square-brackets">agniroma ity ādi</del><add
-                                place="left-margin">agnīṣoma ity ādi ||<metamark
-                                    function="insertion">2</metamark></add></subst> kutaḥ punar ādāv
-                        evāgniḥ somādi prāṇavyākaraṇam ucyate | anaṃtaroktād
-                            garbhapratyaṃgaguṇāgaṇa<lb n="3"/>vat teṣāṃm apy agnīṣomādīnāṃ
-                        dharmmādharmmābhyām eva saṃyogayo<add place="above">ḥ</add> kṛ<add
-                            place="above">ta</add>tvāt | tad evaṃ pāribhāṣikāmaś ca teṣu darśayituṃ
-                            śabdapu|<lb n="4"/>rovarttinām ivaiteṣāṃ prāṇaśabdo prayoge varttayati |
-                        manasiś ceti cakāra eṣām api śarīraguṇadoṣāṇām iva dharmmā<lb n="5"/>dharmma
-                        nimittatvaṃ samuccayāya | tatrānilajalānilabhūtānāṃ agnisomamarutāṃ
-                        devatārūpeṇādhiṣṭhitā doṣāḥ | ya<lb n="6"/>d āha || svayaṃbhūr eṣa bhavān
-                        vāyur ity abhiśabditaḥ | <!-- SS 2.1.5cd --> tathā sthityutpattivināśeṣu
-                        bhūtānām eṣa kāraṇam iti <!-- 2.1.7ab -->|| tathā<lb n="7"/>hy udāryo
-                        bhaṃgavān agniḥ pācako 'nnasyahīśvaraḥ | <!-- cf. 1.35.27 --> tathā soma eva
-                        >bhagavān śarīrāṃtargata āpyāyam iti iti | ta ete<lb n="8"/>svābhāvena
-                        praṇayaṃtīti prāṇaḥ | śārīrā doṣā vātādayaḥ | tadaivaiteṣāṃ dhātutvam api
-                        dadhatīti kṛtvā tathā manodo<lb n="9"/>ṣāḥ satvādīni trīṇi
-                        parasparopastaṃbhād ekībhūya prakṛtibhūtāni | praṇayaṃtīti prāṇāḥ |
-                        paṃceṃdriyāṇi karmmajāni<lb n="10"/> cakṣurādīni rūpādigrahaṇakarmmaṇā
-                        prāṇayaṃti | evaṃ bhūtātmā kmmapuruṣo 'pi || aśeṣasyaiva karmmarāśe
-                            caitanya<pb ana="MS-ADD-02491-000-00043.jpg" n="34r"/><lb n="1"
-                        />heturiti | prāṇayaṃti na tu ca cetanādhātur eva prāṇanaṃ bhūtānāṃ vakṣyati
-                        hi | tad eva cetanāvasthitam iti | atra hi ṣaḍ<lb n="2"/>hetuka eva puruṣo
-                        'dhikṛta iti satvādīnāṃ pṛthak nirdeśo nāsti | agniṣomānilāś ca tatra
-                            bhūtagrahaṇenaiva<lb n="3"/> gṛhyaṃte | cetanāgrahaṇeṃdriyāṇi sāmarthyād
-                        āpannasamanaso 'vyatirekeṇa satvādīni ucyaṃte | tatra punareṣāṃ<lb n="4"
-                        />caitanye pṛthakgrahaṇena cetanādhātutvaṃ bādhitaṃ | yathā naiṣāṃ
-                                ce<subst><del>tu</del><add place="above"
-                        >ta</add></subst>nādhātusamatvaṃ yathā pratyekakarmmanirdeśo<lb n="5"
-                        />svayam evācāryo vakṣyati | evaṃ mano'pi bhūtātmanaḥ
-                        śarīrāṃtagrahaṇamokṣaṇahetur iti tadapi prāṇayati ||<lb n="6"/> tad eva
-                        sarva eva pratyekaṃ prāṇayaṃtīti | samudāyo py eṣāṃ vyavahāro lāghavārthaḥ
-                        paribhāṣitaḥ | jaḍas tu bhūtātma<lb n="7"/>śabdena na mano abhidhatte |
-                        manograhaṇaṃ nādhīyate | tanna bhūtātmamanasor vyaktabhedāt | eṣāṃ ca
-                        prāṇatvaṃ pratyekaṃ<lb n="8"/>marmmanirddeśa eva pratipāditaṃ bhavam iti |
-                        bhavati cātra | cittavātādisatvādibhūtātmeṃdriyapaṃcake | prāṇākhyaṃ<lb
-                            n="9"/>paryabhāṣī sma puraskṛtadvācatinā garbhasā kevalaṃ
-                        vāṃgapratyaṃgeṣu guṇāḥ | dharmmādharmmātmakāṃ prāṇeṣv api cetat sa<lb n="10"
-                        />mucitaṃ | prāṇeṣv api | agnīṣomīyatvāt garbhasya prathamam agnīṣomo
-                        nirddiṣṭo | tatrāṣṭādhārādheyayor ādhā<pb ana="MS-ADD-02491-000-00044.jpg"
-                            n="34v"/><lb n="1"/>rasya prāgbhāvāttu ārttavaprāgbhāvenāgneḥ
-                        pūrvanirddeśo 'lpācatvārapūrvanipātena anaṃtaram agnīṣomādi | trayo<lb n="2"
-                        />daśamāvidhaḥ | </p>
+                    <lg xml:id="NC.3.4.3a">
+                        <l>
+                            <pb ana="MS-ADD-02491-000-00042.jpg" n="33v"/><lb n="1"/>tacca prāṇa/ na
+                            yeṣām eva bhāvānām anvayavyatirekābhyāṃ anvayavyatireki ca teṣv eva
+                            prīṇābhyāṃ paribhāṣayann āha ||<lb n="2"/><subst><del
+                                    rend="enclosed-in-square-brackets">agniroma ity ādi</del><add
+                                    place="left-margin">agnīṣoma ity ādi ||<metamark
+                                        function="insertion">2</metamark></add></subst></l>
+                    </lg>
+                    <lg xml:id="NC.3.4.3b">
+                        <l>kutaḥ punar ādāv evāgniḥ somādi prāṇavyākaraṇam ucyate | anaṃtaroktād
+                                garbhapratyaṃgaguṇāgaṇa<lb n="3"/>vat teṣāṃm apy agnīṣomādīnāṃ
+                            dharmmādharmmābhyām eva saṃyogayo<add place="above">ḥ</add> kṛ<add
+                                place="above">ta</add>tvāt | tad evaṃ pāribhāṣikāmaś ca teṣu
+                            darśayituṃ śabdapu|<lb n="4"/>rovarttinām ivaiteṣāṃ prāṇaśabdo prayoge
+                            varttayati | manasiś ceti cakāra eṣām api śarīraguṇadoṣāṇām iva
+                                dharmmā<lb n="5"/>dharmma nimittatvaṃ samuccayāya |
+                            tatrānilajalānilabhūtānāṃ agnisomamarutāṃ devatārūpeṇādhiṣṭhitā doṣāḥ |
+                                ya<lb n="6"/>d āha || svayaṃbhūr eṣa bhavān vāyur ity abhiśabditaḥ |
+                            <!-- SS 2.1.5cd --> tathā sthityutpattivināśeṣu bhūtānām eṣa kāraṇam iti
+                            <!-- 2.1.7ab -->|| tathā<lb n="7"/>hy udāryo bhaṃgavān agniḥ pācako
+                            'nnasyahīśvaraḥ | <!-- cf. 1.35.27 --> tathā soma eva >bhagavān
+                            śarīrāṃtargata āpyāyam iti iti | ta ete<lb n="8"/>svābhāvena
+                            praṇayaṃtīti prāṇaḥ | śārīrā doṣā vātādayaḥ | tadaivaiteṣāṃ dhātutvam
+                            api dadhatīti kṛtvā tathā manodo<lb n="9"/>ṣāḥ satvādīni trīṇi
+                            parasparopastaṃbhād ekībhūya prakṛtibhūtāni | praṇayaṃtīti prāṇāḥ |
+                            paṃceṃdriyāṇi karmmajāni<lb n="10"/> cakṣurādīni rūpādigrahaṇakarmmaṇā
+                            prāṇayaṃti | evaṃ bhūtātmā kmmapuruṣo 'pi || aśeṣasyaiva karmmarāśe
+                                caitanya<pb ana="MS-ADD-02491-000-00043.jpg" n="34r"/><lb n="1"
+                            />heturiti | prāṇayaṃti na tu ca cetanādhātur eva prāṇanaṃ bhūtānāṃ
+                            vakṣyati hi | tad eva cetanāvasthitam iti | atra hi ṣaḍ<lb n="2"/>hetuka
+                            eva puruṣo 'dhikṛta iti satvādīnāṃ pṛthak nirdeśo nāsti | agniṣomānilāś
+                            ca tatra bhūtagrahaṇenaiva<lb n="3"/> gṛhyaṃte | cetanāgrahaṇeṃdriyāṇi
+                            sāmarthyād āpannasamanaso 'vyatirekeṇa satvādīni ucyaṃte | tatra
+                                punareṣāṃ<lb n="4"/>caitanye pṛthakgrahaṇena cetanādhātutvaṃ
+                            bādhitaṃ | yathā naiṣāṃ ce<subst><del>tu</del><add place="above"
+                                    >ta</add></subst>nādhātusamatvaṃ yathā pratyekakarmmanirdeśo<lb
+                                n="5"/>svayam evācāryo vakṣyati | evaṃ mano'pi bhūtātmanaḥ
+                            śarīrāṃtagrahaṇamokṣaṇahetur iti tadapi prāṇayati ||<lb n="6"/> tad eva
+                            sarva eva pratyekaṃ prāṇayaṃtīti | samudāyo py eṣāṃ vyavahāro
+                            lāghavārthaḥ paribhāṣitaḥ | jaḍas tu bhūtātma<lb n="7"/>śabdena na mano
+                            abhidhatte | manograhaṇaṃ nādhīyate | tanna bhūtātmamanasor vyaktabhedāt
+                            | eṣāṃ ca prāṇatvaṃ pratyekaṃ<lb n="8"/>marmmanirddeśa eva pratipāditaṃ
+                            bhavam iti | bhavati cātra | cittavātādisatvādibhūtātmeṃdriyapaṃcake |
+                                prāṇākhyaṃ<lb n="9"/>paryabhāṣī sma puraskṛtadvācatinā garbhasā
+                            kevalaṃ vāṃgapratyaṃgeṣu guṇāḥ | dharmmādharmmātmakāṃ prāṇeṣv api cetat
+                                sa<lb n="10"/>mucitaṃ | prāṇeṣv api | agnīṣomīyatvāt garbhasya
+                            prathamam agnīṣomo nirddiṣṭo | tatrāṣṭādhārādheyayor ādhā<pb
+                                ana="MS-ADD-02491-000-00044.jpg" n="34v"/><lb n="1"/>rasya
+                            prāgbhāvāttu ārttavaprāgbhāvenāgneḥ pūrvanirddeśo
+                            'lpācatvārapūrvanipātena anaṃtaram agnīṣomādi | trayo<lb n="2"
+                            />daśamāvidhaḥ | </l>
+                    </lg>
 
                     <p xml:id="NC.3.4.4">
                         <label>NC.3.4.4</label>

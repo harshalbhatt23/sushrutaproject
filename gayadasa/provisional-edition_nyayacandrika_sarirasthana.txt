@@ -118,6 +118,8 @@
 
         <revisionDesc>
             <change when="2026-08-05" who="Andrey Klebanov"> Began this file. </change>
+            <change when="2025-08-11" who="Andrey Klebanov">Provisional edition of 3.4.1 + beginning
+                of 3.4.2</change>
         </revisionDesc>
     </teiHeader>
 
@@ -129,16 +131,37 @@
                 <div n="4" type="adhyāya">
 
                     <div xml:id="NC.3.4.1" type="commentary-unit" style="stream1">
-
-                        <p xml:id="NC.3.4.1a"> garbhāvakrāntiśārīrānantaraṃ
-                            garbhavyākaraṇasyocitatvād vyākaraṇaṃ vivaraṇaṃ | tat śukraśoṇitaṃ
-                            garbhāśayagataṃ prāṇīnāṃ garbhaḥ|| </p>
-
+                        <lg xml:id="NC.3.4.1a" type="prose">
+                            <l>garbhāvakrāntiśārīrānantaraṃ garbhavyākaraṇasyocitatvād
+                                garbhavyākaraṇaśārīrārambhaḥ | vyākaraṇaṃ vivaraṇaṃ |<anchor
+                                    xml:id="NC.3.4.1a-n1"/>
+                                <sic>tat</sic> śukraśoṇitaṃ garbhāśayagataṃ prāṇīnāṃ garbhaḥ
+                                    ||<anchor xml:id="NC.3.4.1a-n2"/></l>
+                        </lg>
+                    </div>
+                    <div xml:id="NC.3.4.3" type="commentary-unit" style="stream1">
+                        <lg xml:id="NC.3.4.3a" type="prose">
+                            <l><sic>tacca prāṇa/ na yeṣām eva bhāvānām anvayavyatirekābhyāṃ
+                                    anvayavyatireki ca teṣv eva prīṇābhyāṃ paribhāṣayann āha</sic> –
+                                agnīṣoma ity ādi ||</l>
+                        </lg>
                     </div>
                 </div>
             </div>
         </body>
     </text>
-
-
+    <standOff corresp="#NC.3.4.1a" type="Emendation">
+        <note target="#NC.3.4.1a-n1" xml:lang="en">The compound <foreign xml:lang="sa"
+                >garbhavyākaraṇaśārīrārambhaḥ</foreign> is supplied conjecturally, based on the
+            corresponding opening formulae of the other chapters in the manuscript. Its omission may
+            have resulted from an eye-skip prompted by the repetition of the string "<foreign
+                xml:lang="sa">vyākaraṇa</foreign>".</note>
+    </standOff>
+    <standOff corresp="#NC.3.4.1a" type="Note">
+        <note target="#NC.3.4.1a-n2" xml:lang="en">This definition of the term <foreign
+                xml:lang="sa">garbha</foreign> likely aludes to <title>Suśrutasaṃhitā</title> 3.5.3
+            (according to the vulgate text <ref target="#A">A</ref>): <foreign xml:lang="sa"
+                >śukraśoṇitaṃ garbhāśayastham ātmaprakṛtivikārasaṃmūrcchitaṃ garbha ity ucyate
+                |</foreign></note>
+    </standOff>
 </TEI>
