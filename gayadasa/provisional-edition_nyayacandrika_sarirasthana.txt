@@ -61,31 +61,58 @@
             <sourceDesc>
                 <msDesc xml:id="Sanskrit" xml:lang="en">
                     <msIdentifier>
-                        <idno type="siglum">NE</idno>
+                        <idno type="siglum">NC</idno>
                     </msIdentifier>
                 </msDesc>
 
                 <listWit>
-                    <witness xml:id="A">The <title>Nibandhasaṅgraha</title> by Ḍalhaṇācārya, <abbr
-                            type="siglum">A</abbr>
-                        <bibl>
-                            <title>Suśrutasamhitā of Suśruta with the Nibandhasaṅgraha Commentary of
-                                Śrī Ḍalhanāchārya and the Nyāyacandrikā Pañjikā of Śrī
-                                Gayadāsāchārya on Nidānasthāna, edited from the begining to the 9th
-                                ādhyāya of Cikitsāsthāna by Vaidya Jādavji Trikamji Āchārya and the
-                                rest by Nārāyaṇ Rām Āchārya</title>
-                            <editor role="sections:1.1-4.9">Yādavaśarman Trivikramātmaja
-                                Ācāryā</editor>
-                            <editor role="sections:4.10-6.66">Nārāyaṇ Rām Āchārya</editor>
-                            <publisher>Nirṇaya Sāgar Press</publisher>
-                            <pubPlace>Bombay</pubPlace>
-                            <date>1938</date>
-                            <edition>Revised third edition</edition>
-                            <edition>Reprint edition Varanasi/Delhi: Chaukhambha Orientalia,
-                                1992|</edition>
-                        </bibl>
-                    </witness>
+                    <witness xml:id="A" source="#susruta-vulgate"> The text of the
+                            <title>Suśrutasaṃhitā</title> in the 1938 vulgate edition, <abbr
+                            type="siglum">A</abbr>. </witness>
+
+                    <witness xml:id="NS" source="#susruta-vulgate"> The text of the
+                            <title>Nibandhasaṅgraha</title> by <persName>Ḍalhaṇācārya</persName> in
+                        the 1938 vulgate edition, <abbr type="siglum">NS</abbr>. </witness>
+
+                    <witness xml:id="CS" source="#caraka-vulgate"> The text of the
+                            <title>Carakasaṃhitā</title> in the vulgate edition, <abbr type="siglum"
+                            >CS</abbr>. </witness>
+
+                    <witness xml:id="AD" source="#caraka-vulgate"> The text of the
+                            <title>Āyurvedadīpikā</title> by <persName>Cakrapāṇidatta</persName> in
+                        the vulgate edition, <abbr type="siglum">ĀD</abbr>. </witness>
                 </listWit>
+                <listBibl>
+                    <bibl xml:id="susruta-vulgate">
+                        <title>Suśrutasamhitā of Suśruta with the Nibandhasaṅgraha Commentary of Śrī
+                            Ḍalhanāchārya and the Nyāyacandrikā Pañjikā of Śrī Gayadāsāchārya on
+                            Nidānasthāna, edited from the begining to the 9th ādhyāya of
+                            Cikitsāsthāna by Vaidya Jādavji Trikamji Āchārya and the rest by Nārāyaṇ
+                            Rām Āchārya</title>
+                        <editor role="sections:1.1-4.9">Yādavaśarman Trivikramātmaja Ācāryā</editor>
+                        <editor role="sections:4.10-6.66">Nārāyaṇ Rām Āchārya</editor>
+                        <publisher>Nirṇaya Sāgar Press</publisher>
+                        <pubPlace>Bombay</pubPlace>
+                        <date>1938</date>
+                        <edition>Revised third edition</edition>
+                        <edition>Reprint edition Varanasi/Delhi: Chaukhambha Orientalia,
+                            1992|</edition>
+                    </bibl>
+
+                    <bibl xml:id="caraka-vulgate">
+                        <title>Carakasaṃhitā, śrīcakrapāṇidattaviracitayā āyurvedadīpikāvyākhyayā
+                            saṃvalitā = The Charakasaṃhitā of Agniveśa revised by Charaka and
+                            Dṛiḍhabala With the Āyurveda-dīpikā Commentary of
+                            Chakrapāṇidatta</title>
+                        <editor>Yādavaśarman Trivikramātmaja Ācārya</editor>
+                        <publisher>Śa. He. Gurjara at the Āyurvidyā Mudraṇālaya</publisher>
+                        <pubPlace>Puṇyapattane</pubPlace>
+                        <date>1981</date>
+                        <note>3rd. ed. Nirnaya Sagar Press, Bombay, 1941, 4th. ed. Munshiram
+                            Manoharlal, New Delhi, 1981.</note>
+                    </bibl>
+                </listBibl>
+
             </sourceDesc>
         </fileDesc>
 
@@ -94,9 +121,6 @@
         </revisionDesc>
     </teiHeader>
 
-    <!-- The provisional edition of Gayadāsa’s commentary on the
-         Śārīrasthāna will follow in the text element. -->
-
     <text xml:lang="sa-Latn-t-sa-Deva">
 
         <body>
@@ -104,10 +128,13 @@
 
                 <div n="4" type="adhyāya">
 
+                    <div xml:id="NC.3.4.1" type="commentary-unit" style="stream1">
 
-                    <p xml:id="NC.3.4.1"> garbhāvakrāntiśārīrānantaraṃ garbhavyākaraṇasyocitatvāt
-                        vyākaraṇaṃ vivaraṇaṃ | tat śukraśoṇitaṃ garbhāśayagataṃ prāṇīnāṃ garbhaḥ||
-                    </p>
+                        <p xml:id="NC.3.4.1a"> garbhāvakrāntiśārīrānantaraṃ
+                            garbhavyākaraṇasyocitatvād vyākaraṇaṃ vivaraṇaṃ | tat śukraśoṇitaṃ
+                            garbhāśayagataṃ prāṇīnāṃ garbhaḥ|| </p>
+
+                    </div>
                 </div>
             </div>
         </body>
