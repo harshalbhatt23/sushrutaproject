@@ -108,8 +108,10 @@
                                 place="above">ta</add>tvāt | tad evaṃ pāribhāṣikāmaś ca teṣu
                             darśayituṃ śabdapu|<lb n="4"/>rovarttinām ivaiteṣāṃ prāṇaśabdo prayoge
                             varttayati | manasiś ceti cakāra eṣām api śarīraguṇadoṣāṇām iva
-                                dharmmā<lb n="5"/>dharmma nimittatvaṃ samuccayāya |
-                            tatrānilajalānilabhūtānāṃ agnisomamarutāṃ devatārūpeṇādhiṣṭhitā doṣāḥ |
+                                dharmmā<lb n="5"/>dharmma nimittatvaṃ samuccayāya |</l>
+                    </lg>
+                    <lg xml:id="NC.3.4.3c">
+                        <l> tatrānilajalānilabhūtānāṃ agnisomamarutāṃ devatārūpeṇādhiṣṭhitā doṣāḥ |
                                 ya<lb n="6"/>d āha || svayaṃbhūr eṣa bhavān vāyur ity abhiśabditaḥ |
                             <!-- SS 2.1.5cd --> tathā sthityutpattivināśeṣu bhūtānām eṣa kāraṇam iti
                             <!-- 2.1.7ab -->|| tathā<lb n="7"/>hy udāryo bhaṃgavān agniḥ pācako
