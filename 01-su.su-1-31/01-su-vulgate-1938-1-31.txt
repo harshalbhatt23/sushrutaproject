@@ -1005,12 +1005,13 @@
                         bhādrapadādyena dvimāsikena vyākhyātāḥ; tad yathā-
                         bhādrapadāśvayujau varṣāḥ, kārtikamārgaśīrṣau śarat, pauṣamāghau
                         hemantaḥ, phālgunacaitrau vasantaḥ, vaiśākhajyeṣṭhau grīṣmaḥ;
-                        āṣāḍhaśrāvaṇau prāvṛḍiti ||10|| </l></lg>
+                        āṣāḍhaśrāvaṇau prāvṛḍ iti ||10|| </l></lg>
 
-                    <lg xml:id="SS.1.6.11"><l> tatra, varṣāsvoṣadhayastaruṇyo 'lpavīryā āpaś
+                    <lg xml:id="SS.1.6.11"><l> tatra, varṣāsv oṣadhayas taruṇyo 'lpavīryā āpaś
                         cāpraśāntāḥ kṣitimalaprāyāḥ, tā upayujyamānā nabhasi meghāvatate
                         jalapraklinnāyāṃ bhūmau klinnadehānāṃ prāṇināṃ
-                        śītavātaviṣṭambhitāgnīnāṃ vidahyante, <pb facs="112" n="26a"/>vidāhāt pittasañcayamāpādayanti; sa sañcayaḥ śaradi
+                        śīta<pc> </pc>vāta<pc> </pc>viṣṭambhitāgnīnāṃ vidahyante, <pb facs="112" n="26a"/>vidāhāt
+                            pittasañcayam āpādayanti; sa sañcayaḥ śaradi
                         praviralameghe viyaty upaśuṣyati paṅke 'rkakiraṇapravilāyitaḥ
                         paittikān vyādhīñjanayati | tā evauṣadhayaḥ kālapariṇāmāt
                         pariṇatavīryā balavatyo hemante bhavantyāpaś ca praśāntāḥ snigdhā

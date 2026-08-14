@@ -1196,13 +1196,14 @@
                     <lg xml:id="SS.1.6.10"><l> iha tu
                             varṣāśaraddhemantavasantagrīṣmaprāvṛ<unclear extent="1" unit="char"/><cb/>ṣaḥ ṣaḍṛtavo bhavanti |
                             doṣopacayaprakopapraśa<unclear>ma</unclear>nimittaṃ | te tu
-                        bhādrapadādyair dvimāsikenaivaṃ vyā<unclear extent="1" unit="char"/><lb n="5"/>khyātāḥ || tadyathā bhadrapadāśvayujau
+                        bhādrapadādyair dvimāsikenaivaṃ vyā<unclear extent="1" unit="char"/><lb
+                            n="5"/>khyātāḥ || tad yathā bhadrapadāśvayujau
                         varṣāḥ | kārttikamārggaśīrṣau śa<cb/>rat | pauṣamāghau hemantaḥ |
                         phālgunacaitrau vasantaḥ | vaiśākhajyeṣṭhau grīṣmaḥ |
                         āṣāḍhaśrāvaṇau prāvṛḍ i<lb n="6"/>ti || </l></lg>
 
                     <lg xml:id="SS.1.6.11"><l> tatra varṣāsv auṣadhyas taruṇyo 'lpavīryā
-                        āhāratvam upagatā vidahyante | āpaś cāprasannāḥ kṣitimalaprāyās
+                        āhāratvam upagatā vidahyante | āpaś cāpraśāntāḥ kṣitimalaprāyās
                         tās tūpayujyamānā nabhasi meghāvatate jalapraklinnāyāṃ bhūmau<pb facs="13" n="12r"/><lb n="1"/><gap n="7" unit="char"/><unclear extent="1" unit="char"/><gap n="1" unit="char"/> klinnadehānān
                         dehināṃ śīta<pc> </pc>vāta<pc> </pc>varṣa<pc> </pc>viṣṭambhitāgnīnāṃ vidahyante | <unclear>sa</unclear>
                         vidāhāt pittasañcayam āpādayanti | sa sañcayaḥ

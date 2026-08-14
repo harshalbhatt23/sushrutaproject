@@ -1493,8 +1493,8 @@
                     </lg>
 
                     <lg xml:id="SS.1.6.9.add">
-                        <l> evaṃ dakṣiṇāyane rātrir vyākhyātā ||</l>
-                        <trailer xml:lang="en">[1.6.9.add]</trailer>
+                        <l> evaṃ dakṣiṇāyane rātrir vyākhyātā ||9||</l>
+                        <trailer xml:lang="en"></trailer>
                     </lg>
 
                     <lg xml:id="SS.1.6.10">
@@ -1508,7 +1508,7 @@
 
                     <lg xml:id="SS.1.6.11">
                         <l> tatra varṣāsv auṣadhyas taruṇyo 'lpavīryā āhāratvam upagatā vidahyante |
-                            āpaś cāpraśāntāḥ kṣitimalaprāyās tās tūpayujyamānā nabhasi meghāvatate
+                            āpaś cāpraśāntāḥ kṣitimalaprāyāḥ | tās tūpayujyamānā nabhasi meghāvatate
                             jalapraklinnāyāṃ bhūmau klinnadehānāṃ dehināṃ śīta<pc
                                 > </pc>vāta<pc> </pc>varṣa<pc> </pc>viṣṭambhitāgnīnāṃ vidahyante |
                             sa vidāhāt pittasañcayam āpādayanti | sa sañcayaḥ śaradi praviralameghe
@@ -1519,10 +1519,10 @@
                                 > </pc>ṣṭambhita<pc> </pc>dehānāṃ dehinām avidagdhāḥ snehād gauravād
                             upalepitvāc ca śleṣmaṇas sañcayam āpādayanti | sa saṃcayo vasante
                                 'rka<pc> </pc>kiraṇa<pc> </pc>pravilāyitaḥ śleṣmikāṃ vyādhīṃ
-                            janayati | tā evauṣadhyau grīṣmaniḥsārā rūkṣā atimātralaghvyo bhavaty
+                            janayati | tā evauṣadhyau gr1.6īṣmaniḥsārā rūkṣā atimātralaghvyo bhavaty
                             āpaś ca tā upayujyamānāḥ | tatra śaraddhemantayor madhyasamam ahorātraṃ
                             yugapac cādhimāsakau bhavataḥ | viṃśatikāṣṭhāś caikanimeṣārdhaś ca
-                            dinaparivṛddhir uttarāyaṇe |<anchor xml:id="SS.1.6.11.1-n1"/>
+                            dinaparivṛddhir uttarāyaṇe |<!-- <anchor xml:id="SS.1.6.11.1-n1"/>-->
                             sūryapratāpopaśoṣitadehānāṃ dehināṃ raukṣyāl laghavāc ca vāyoḥ sañcayam
                             āpādayanti | sa sañcayaḥ prāvṛṣi cātyarthaṃñ jalopaklinnāyāṃ bhūmau
                             cātiklinnadehānāṃ dehināṃ śītavātavarṣerito vātikān vyādhīn janayati |
@@ -7590,10 +7590,10 @@
         <note xml:lang="en" target="#SS.1.4.7-n1">Parallel to the
                 <title>Kātyāyanasmṛtisāroddhāraḥ</title>, Rājaguṇāḥ v.66 (Kane 1933: 11).</note>
     </standOff>
-    <standOff corresp="#SS.1.6.11" type="Notes">
+   <!--  <standOff corresp="#SS.1.6.11" type="Notes">
         <note xml:lang="en" target="#SS.1.6.11-n1">A later hand has inserted coarse parentheses
             around the sentence <foreign>tatra ... uttarāyaṇe</foreign>.</note>
-    </standOff>
+    </standOff>--> 
     <standOff corresp="#SS.1.6.12" type="Notes">
         <note xml:lang="en" target="#SS.1.6.12-n1">In the 1931 ed. of the vulgate, the text
             numbering skips from 1.61.11 to 1.6.13, omitting the number 1.6.12. In the 1938 ed. the
