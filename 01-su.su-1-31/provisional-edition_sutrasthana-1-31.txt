@@ -1498,11 +1498,11 @@
                     </lg>
 
                     <lg xml:id="SS.1.6.10">
-                        <l> iha tu varṣāśaraddhemantavasantagrīṣmaprāvṛṣaḥ ṣaḍṛtavo bhavanti |
-                            doṣopacayaprakopapraśamanimittaṃ | te tu bhādrapadādyair dvimāsike
-                            naivaṃ vyākhyātāḥ | tadyathā | bhadrapadāśvayujau varṣāḥ
+                        <l> iha tu varṣāśaraddhemantavasantagrīṣmaprāvṛṣaḥ ṣaḍṛtavo bhavanti
+                            doṣopacayaprakopapraśamanimittam | te tu bhādrapadādyair dvimāsikenaivaṃ
+                            vyākhyātāḥ | tad yathā | bhadrapadāśvayujau varṣāḥ |
                             kārttikamārgaśīrṣau śarat | pauṣamāghau hemantaḥ | phālgunacaitrau
-                            vasantaḥ | vaiśākhajyeṣṭhau grīṣmaḥ | āṣāḍhaśrāvaṇau prāvṛḍ iti ||</l>
+                            vasantaḥ | vaiśākhajyeṣṭhau grīṣmaḥ | āṣāḍhaśrāvaṇau prāvṛḍ iti ||10||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.6.10]</trailer>
                     </lg>
 

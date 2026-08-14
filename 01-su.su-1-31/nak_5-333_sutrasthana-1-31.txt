@@ -1197,7 +1197,7 @@
                     <lg xml:id="SS.1.6.10"><l> iha tu
                             varṣāśaraddhemantavasantagrīṣmaprāvṛ<unclear extent="1" unit="char"/><cb/>ṣaḥ ṣaḍṛtavo bhavanti |
                             doṣopacayaprakopapraśa<unclear>ma</unclear>nimittaṃ | te tu
-                        bhādrapadādyair dvimāsike naivaṃ vyā<unclear extent="1" unit="char"/><lb n="5"/>khyātāḥ || tadyathā bhadrapadāśvayujau
+                        bhādrapadādyair dvimāsikenaivaṃ vyā<unclear extent="1" unit="char"/><lb n="5"/>khyātāḥ || tadyathā bhadrapadāśvayujau
                         varṣāḥ | kārttikamārggaśīrṣau śa<cb/>rat | pauṣamāghau hemantaḥ |
                         phālgunacaitrau vasantaḥ | vaiśākhajyeṣṭhau grīṣmaḥ |
                         āṣāḍhaśrāvaṇau prāvṛḍ i<lb n="6"/>ti || </l></lg>

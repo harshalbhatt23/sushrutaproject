@@ -932,7 +932,7 @@
                     <lg xml:id="SS.1.6.10"><l>iha tu
                         varṣāśaraddhema<cb/>ntavasantagrīṣmaprāvṛṣaḥ ṣaḍṛtavo bhavanti |
                         doṣopacayaprakopapraśamanimittaṃ | <unclear reason="torn">te tu
-                            bhādra</unclear><lb n="7"/>padādyair dvimāsike naivaṃ
+                            bhadra</unclear><lb n="7"/>padādyair dvimāsikenaivaṃ
                         vyākhyātāḥ | tadyathā | bhadrapadāśvayu<cb/>jau varṣāḥ
                         kārttikamārgaśīrṣau śarat | pauṣamāghau hemantaḥ | phālgunacaitrau
                         vasantaḥ | vaiśākhajyeṣṭhau grīṣmaḥ | <pb facs="12" n="6v"/><milestone facs="006v                             IMG_0142.JPG" unit="digital_image"/><lb n="1"/> āṣāḍhaśrāvaṇau prāvṛḍ iti<cb n="1"/> ||</l></lg>
