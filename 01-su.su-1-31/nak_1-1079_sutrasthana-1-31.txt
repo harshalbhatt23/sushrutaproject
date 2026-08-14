@@ -1076,10 +1076,11 @@
                     <lg xml:id="SS.1.6.10"><l> i<unclear>ha</unclear> tu
                         varṣāsaraddhema<cb/>ntavasantagrīṣmaprāvṛṣaḥ ṣaḍṛtavo bhavanti |
                         doṣopacayaprakopaprasamanimittaṃ te tu
-                            bhadrapadā<unclear>kṣmi</unclear> dvimāsikenaivaṃ
-                        <cb/>vyākhyātāḥ | tad yathā <unclear>ru</unclear>drapadās ca
-                            <unclear ana="maybe yu" cert="low">ṣu</unclear>je varṣāḥ |
-                        kārttikamārgaśīrṣau śarat | pauṣamāghau hemantaḥ phālgu<pb ana="A                             1267_11_06.jpg" facs="7" n="6r"/>ṇacaitrau vaiśākhajeṣṭav<gap n="7" reason="saut du même au même" unit="char"/></l></lg>
+                            bhadrapadādyai dvimāsikenaivaṃ
+                        <cb/>vyākhyātāḥ | tad yathā <unclear>bha</unclear>drapadās ca
+                            yujau varṣāḥ |
+                        kārttikamārgaśīrṣau śarat | pauṣamāghau hemantaḥ phālgu<pb ana="A           
+                            1267_11_06.jpg" facs="7" n="6r"/>ṇacaitrau vaiśākhajeṣṭhav<gap n="7" reason="saut du même au même" unit="char"/></l></lg>
 
                     <lg xml:id="SS.1.6.11"><l>
                         <gap n="5" reason="saut du même au même" unit="char"/>auṣadhyas
