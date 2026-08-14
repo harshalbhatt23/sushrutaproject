@@ -141,7 +141,7 @@
                     </div>
                     <div xml:id="NC.3.4.3" type="commentary-unit" style="stream1">
                         <lg xml:id="NC.3.4.3a" type="prose">
-                            <l><sic>tacca prāṇa/ na yeṣām eva bhāvānām anvayavyatirekābhyāṃ
+                            <l><sic>tac ca prāṇa/ na yeṣām eva bhāvānām anvayavyatirekābhyāṃ
                                     anvayavyatireki ca teṣv eva prīṇābhyāṃ paribhāṣayann āha</sic> –
                                 agnīṣoma ity ādi ||</l>
                         </lg>
@@ -150,6 +150,8 @@
             </div>
         </body>
     </text>
+    
+    
     <standOff corresp="#NC.3.4.1a" type="Emendation">
         <note target="#NC.3.4.1a-n1" xml:lang="en">The compound <foreign xml:lang="sa"
                 >garbhavyākaraṇaśārīrārambhaḥ</foreign> is supplied conjecturally, based on the
