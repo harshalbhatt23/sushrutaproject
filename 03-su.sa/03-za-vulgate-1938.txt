@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -1197,7 +1196,7 @@
                         <caesura/>
                          rājasāṃs tu nibodha me |
                         <caesura/>
-                         aiśvaryavantaṃ raudraṃ ca śūraṃ caṇḍamasūyakam ||88|| </l></lg>
+                         aiśvaryavantaṃ raudraṃ ca śūraṃ caṇḍam asūyakam ||88|| </l></lg>
 
                     <lg xml:id="SS.3.4.89"><l> ekāśinaṃ caudarikamāsuraṃ sattvam īdṛśam |
                         <caesura/>

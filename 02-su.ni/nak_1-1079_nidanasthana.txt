@@ -213,7 +213,7 @@
                     <!-- misplaced folio -->
 
                     <l xml:id="SS.2.1.19">pakvādhānālayo pānaḥ kāle karṣa<del>ya</del>ti
-                            <milestone facs="A 1267_11_52.jpg bottom" unit="jpeg"/>cāpy
+                            <pb facs="53" n="51r" ana="A 1267_11_52.jpg bottom"/> cāpy
                         adhaḥ |
                         <caesura/>
                          vātamūtrapurīṣāṇi śukragarbhārttavāni ca ||</l>

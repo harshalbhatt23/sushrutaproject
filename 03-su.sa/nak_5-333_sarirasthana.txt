@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
@@ -1086,19 +1085,19 @@ C) Special notes :
                     <lg xml:id="SS.3.4.85"><l> gandhamālyapriyatvañ ca nṛtyavāditrakāmatā |
                         vihāraśīlatā caiva gāndharvvaṅ kā<lb n="6"/>yalakṣaṇam || </l></lg>
 
-                    <lg xml:id="SS.3.4.86"><l> prāptakārī dṛḍhotthāno dhrtimān smṛtimāñ chuciḥ
+                    <lg xml:id="SS.3.4.86"><l> prāptakārī dṛḍhotthāno dhṛtimān smṛtimāñ chuciḥ
                         | rāgadveṣabhayājñānair vvirjjito yāmyasatvavān || </l></lg>
 
                     <lg xml:id="SS.3.4.87"><l> vrahmacaryavratajapaṃ homādhyayanasevinaṃ |
                             jñānavi<lb n="173r"/>jñānasampannam ṛṣisatvaṃ vidur naraṃ || </l></lg>
 
-                    <lg xml:id="SS.3.4.88"><l> saptaite sātvikāḥ kāyā rajasās tu nivodhame |
+                    <lg xml:id="SS.3.4.88"><l> saptaite sātvikāḥ kāyā rajasās tu nivodha me |
                         aiśvaryavantaṃ raudrañ ca śūraṃ caṇḍam asūyakaṃ | </l></lg>
 
-                    <lg xml:id="SS.3.4.89"><l> ekāśinaṃ tvaupadhikam āsuraṃ satva<lb n="2"/>mīdṛśaṃ || ekāntagrāhitā raudryam asūyādharmma
+                    <lg xml:id="SS.3.4.89"><l> ekāśinaṃ tv aupadhikam āsuraṃ satva<lb n="2"/>mīdṛśaṃ || ekāntagrāhitā raudryam asūyādharmma
                             vā<unclear>kya</unclear>tā | </l></lg>
 
-                    <lg xml:id="SS.3.4.92"><l> bhṛśa<cb/>mātmastavaś cāpi rākṣasaṃ
+                    <lg xml:id="SS.3.4.92"><l> bhṛśa<cb/>m ātmastavaś cāpi rākṣasaṃ
                         kāyalakṣaṇaṃ || utsṛṣṭācāratā raukṣṇyaṃ sāhasapriyatā tathā ||</l></lg>
 
                     <lg xml:id="SS.3.4.93"><l>strīlau<g ref="#broken-danda"/><lb n="3"/>lupatvaṃ nairllajjyaṃ paiśāco guṇasaṃgrahaḥ || tīkṣṇam
