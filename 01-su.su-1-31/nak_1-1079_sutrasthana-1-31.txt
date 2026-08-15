@@ -1086,15 +1086,15 @@
                         <gap n="5" reason="saut du même au même" unit="char"/>auṣadhyas
                         taruṇyo lpavīryā' āhāratvam upagatā vidahyante| āpaś cāpraśāntāḥ
                         kṣitimala<cb/>prāyās tās tūpayujyamānā nabhasi meghāvatate
-                        jalapraklinnāyāṃ bhūmau klinnadehānāṃ dehināṃ śīta<pc> </pc>vāta<pc> </pc>varṣa<pc> </pc>vi<unclear>staṃ</unclear>bhitāgnī|<cb/>nāṃ vidahyante | sa
-                        vidāhāt | pittasañcayam āpādayanti | sa sañcayaḥ śaradi
-                            praviralamegha<unclear>dipa</unclear>
-                        <lb n="2"/>ty upaśuśyati paṅke 'rka<pc> </pc>kiraṇa<pc> </pc>pravilāpitaḥ pittaikāṃ vyādhīṃ janayati | tā evauṣadhayaḥ
+                        jalapraklinnāyāṃ bhūmau klinnadehānāṃ dehināṃ śīta<pc> </pc>vāta<pc> </pc>varṣa<pc> </pc>vi<unclear>staṃ</unclear>bhitāgnī|<cb/>nāṃ vidahyante | savidāhāt | pittasañcayam āpādayanti | sa sañcayaḥ śaradi
+                            praviralameghe <unclear>viya</unclear>
+                        <lb n="2"/>ty upaśuśyati paṅke 'rka<pc> </pc>kiraṇa<pc> </pc>pravilāyitaḥ pittaikāṃ vyādhīṃ janayati | tā evauṣadhayaḥ
                             kālapariṇāmā<cb n="1"/>t pariṇatavīryā balavatyo hemante
                         bhavati | āpaś ca prasāntāḥ snigdhā atyarthaṃ guruvyas tā
-                        upayujyamānāḥ mandakiraṇatvād bhāno<cb/>s satuṣāropa<pc> </pc>ṣṭambhita<pc> </pc>dehānāṃ dehināṃm avidagdhāḥ sehād
+                        upayujyamānāḥ mandakiraṇatvād bhāno<cb/>s satuṣāropa<pc> </pc>ṣṭambhita<pc>
+                        </pc>dehānāṃ dehināṃm avidagdhāḥ <unclear>sn</unclear>ehād
                         gauravād upalepitvāc ca śleṣmaṇas sañcayam āpā<lb n="3"/>dayanti |
-                        sa sañcayo vasante rka<pc> </pc>kiraṇa<pc> </pc>pralāpitaḥ
+                        sa sañcayo vasante rka<pc> </pc>kiraṇa<pc> </pc>pralāyitaḥ
                         śleṣmikān vyādhīṃ janayati | tā evauṣadhyo grīṣmani<cb/>ḥsārā
                         rūkṣā atimātralaghvyo bhavanty āpaś ca upayujyamānāḥ |
                         sūryapratāpoyaśoṣitadehānāṃ dehinā <unclear>rokṣyā</unclear><cb/>

@@ -1205,15 +1205,15 @@
                     <lg xml:id="SS.1.6.11"><l> tatra varṣāsv auṣadhyas taruṇyo 'lpavīryā
                         āhāratvam upagatā vidahyante | āpaś cāpraśāntāḥ kṣitimalaprāyās
                         tās tūpayujyamānā nabhasi meghāvatate jalapraklinnāyāṃ bhūmau<pb facs="13" n="12r"/><lb n="1"/><gap n="7" unit="char"/><unclear extent="1" unit="char"/><gap n="1" unit="char"/> klinnadehānān
-                        dehināṃ śīta<pc> </pc>vāta<pc> </pc>varṣa<pc> </pc>viṣṭambhitāgnīnāṃ vidahyante | <unclear>sa</unclear>
-                        vidāhāt pittasañcayam āpādayanti | sa sañcayaḥ
-                            <unclear>śa</unclear>ra<del rend="erased" resp="scribe">i</del>di <unclear>pra</unclear>viralameṇa vi<lb n="2"/><unclear>la</unclear>yaty upaśuṣyati paṅkārka<pc> </pc>kiraṇa<pc> </pc>pravilāyitaḥ paittikān<cb/> vyādhīn
+                        dehināṃ śīta<pc> </pc>vāta<pc> </pc>varṣa<pc> </pc>viṣṭambhitāgnīnāṃ vidahyante | savidāhāt pittasañcayam āpādayanti | sa sañcayaḥ
+                            <unclear>śa</unclear>ra<del rend="erased" resp="scribe">i</del>di
+                            praviralameṇa vi<lb n="2"/>layaty upaśuṣyati paṅkārkka<pc> </pc>kiraṇa<pc> </pc>pravilāyitaḥ paittikān<cb/> vyādhīn
                         janayati | tā evauṣadhayaḥ kālapariṇāmāt pariṇatavīryā
                             balava<unclear>tyo</unclear> hemaṃte bhavanti | <lb n="3"/>
                         āpaś ca praśāntāḥ | snigdhā atyarthaṅ gurvvyas tā upayujyamānāḥ |
                         <cb/> mandakiraṇatvād bhānoḥ satuṣāropa<pc> </pc>ṣṭaṃbhita<pc> </pc>dehānān dehinām
                             avida<unclear>gdh</unclear>āḥ snehād gauravād upalepi<lb n="4"/>tvāc ca śleṣmaṇaḥ sañcayam āpādayanti | sa sañcayo vasante
-                            '<cb/>rkka<pc> </pc>kiraṇa<pc> </pc>pravilāpitaḥ śleṣmikān
+                            '<cb/>rkka<pc> </pc>kiraṇa<pc> </pc>pravilāyitaḥ śleṣmikān
                         vyādhīn janayati | tā evauṣadhyo grīṣmaniḥsārā rūkṣā<lb n="5"/>
                         atimātralaghvyo bhavaty āpaś ca tā upayujyamānāḥ |
                         sūryapratā<cb/>popaśoṣitadehānāṃ dehināṃ raukṣyāl lāghavāc ca
