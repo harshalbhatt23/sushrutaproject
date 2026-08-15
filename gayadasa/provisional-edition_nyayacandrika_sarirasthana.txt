@@ -130,7 +130,8 @@
 
                 <div n="4" type="adhyāya">
 
-                    <div xml:id="NC.3.4.1" type="commentary-unit" style="stream1">
+                    
+
                         <lg xml:id="NC.3.4.1a" type="prose">
                             <l>garbhāvakrāntiśārīrānantaraṃ garbhavyākaraṇasyocitatvād
                                 garbhavyākaraṇaśārīrārambhaḥ | vyākaraṇaṃ vivaraṇaṃ |<anchor
@@ -138,13 +139,15 @@
                                 <sic>tat</sic> śukraśoṇitaṃ garbhāśayagataṃ prāṇināṃ garbhaḥ
                                     ||<anchor xml:id="NC.3.4.1a-n2"/></l>
                         </lg>
-                    </div>
-                    <div xml:id="NC.3.4.3" type="commentary-unit" style="stream1">
+                    
+
+                    
                         <lg xml:id="NC.3.4.3a" type="prose">
-                            <l><sic>tac ca prāṇa/ na yeṣām eva bhāvānām anvayavyatirekābhyāṃ
+                            <l><sic>tac ca prāṇa | na yeṣām eva bhāvānām anvayavyatirekābhyāṃ
                                     anvayavyatireki ca teṣv eva prīṇābhyāṃ paribhāṣayann āha</sic> –
-                                agnīṣoma ity ādi ||</l>
+                                <hi>agnīṣoma ity ādi </hi>||</l>
                         </lg>
+
                         <lg xml:id="NC.3.4.3b">
                             <l>kutaḥ punar ādāv evāgniṣomādi<anchor xml:id="NC.3.4.3b-n1"/>
                                 prāṇavyākaraṇam ucyate | anantaroktād
@@ -152,17 +155,17 @@
                                 apy agnīṣomādīnāṃ dharmmādharmmābhyām eva saṃyogayoḥ kṛtatvāt
                                     |<anchor xml:id="NC.3.4.3b-n3"/> tad evaṃ
                                     pāribhāṣitukāmaś<anchor xml:id="NC.3.4.3b-n4"/> ca teṣu
-                                <sic>darśayituṃ śabdapurovarttinām</sic> ivaiteṣāṃ prāṇaśabdo prayoge
-                                varttayati | manas ceti cakāra eṣām api śarīraguṇadoṣāṇām iva
-                                dharmmādharmmanimittatvaṃ samuccayāya |</l>
+                                    <sic>darśayituṃ śabdapurovarttinām</sic> ivaiteṣāṃ prāṇaśabdo
+                                prayoge varttayati | manas ceti cakāra eṣām api śarīraguṇadoṣāṇām
+                                iva dharmmādharmmanimittatvaṃ samuccayāya |</l>
                         </lg>
-                    </div>
+                    
                 </div>
             </div>
         </body>
     </text>
-    
-    
+
+
     <standOff corresp="#NC.3.4.1a" type="Emendation">
         <note target="#NC.3.4.1a-n1" xml:lang="en">The compound <foreign xml:lang="sa"
                 >garbhavyākaraṇaśārīrārambhaḥ</foreign> is supplied conjecturally, based on the
@@ -177,25 +180,23 @@
                 >śukraśoṇitaṃ garbhāśayastham ātmaprakṛtivikārasaṃmūrcchitaṃ garbha ity ucyate
                 |</foreign></note>
     </standOff>
+
     <standOff corresp="#NC.3.4.3b" type="Emendation">
         <note target="#NC.3.4.3b-n1" xml:lang="en">C4 reads <foreign xml:lang="sa">agniḥ
                 somādi</foreign>, which we emend to <foreign xml:lang="sa">agniṣomādi</foreign>,
             following the presumed reading of the root text.</note>
-    </standOff>
-    <standOff corresp="#NC.3.4.3b" type="Emendation">
+  
         <note target="#NC.3.4.3b-n2" xml:lang="en">We emend C4’s reading <foreign xml:lang="sa"
                 >-guṇāgaṇavat</foreign> to <foreign xml:lang="sa">-guṇāguṇavat</foreign>. The
             emendation is supported by the text of SS 3.4.36.</note>
-    </standOff>
-    <standOff corresp="#NC.3.4.3b" type="Emendation">
-        <note target="#NC.3.4.3b-n3" xml:lang="en">Gayadāsa likely alludes here to the statement at
+  
+      <note target="#NC.3.4.3b-n3" xml:lang="en">Gayadāsa likely alludes here to the statement at
             the end of the preceding chapter, SS 3.4.36: <foreign xml:lang="sa"
                 >aṅgapratyaṅganirvṛttiḥ svabhāvād eva jāyate | aṅgapratyaṅganirvṛttau ye bhavanti
                 guṇāguṇāḥ | te te garbhasya vijñeyā dharmādharmanimittajāḥ ||</foreign>. The wording
             transmitted in the NE differs slightly from that of the vulgate quoted above, but
             expresses the same idea.</note>
-    </standOff>
-    <standOff corresp="#NC.3.4.3b" type="Emendation">
+
         <note target="#NC.3.4.3b-n4" xml:lang="en">The reading adopted here is a straightforward
             emendation of C4’s corrupt <foreign xml:lang="sa">praibhāṣikāmaś</foreign>.</note>
     </standOff>

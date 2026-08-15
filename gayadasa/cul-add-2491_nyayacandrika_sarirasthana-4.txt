@@ -84,7 +84,7 @@
 
                     <!--<milestone n="33r9" unit="folio" facs="MS-ADD-02491-000-00041.jpg"/>-->
 
-                    <lg xml:id="NC.3.4.1a">
+                          <lg xml:id="NC.3.4.1a">
                         <l><lb n="9"/>garbhāvakrāṃtiśārī<lb n="10"/>rānaṃtaraṃ
                             garbhavyākaraṇasyocitatvāt | vyākaraṇaṃ vi<subst><del>ka</del><add
                                     place="below">va</add></subst>raṇaṃ | tat śukraśoṇitaṃ
@@ -94,7 +94,7 @@
 
                     <lg xml:id="NC.3.4.3a">
                         <l>
-                            <pb ana="MS-ADD-02491-000-00042.jpg" n="33v"/><lb n="1"/>tacca prāṇa/ na
+                            <pb ana="MS-ADD-02491-000-00042.jpg" n="33v"/><lb n="1"/>tac ca prāṇa/ na
                             yeṣām eva bhāvānām anvayavyatirekābhyāṃ anvayavyatireki ca teṣv eva
                             prīṇābhyāṃ paribhāṣayann āha ||<lb n="2"/><subst><del
                                     rend="enclosed-in-square-brackets">agniroma ity ādi</del><add
