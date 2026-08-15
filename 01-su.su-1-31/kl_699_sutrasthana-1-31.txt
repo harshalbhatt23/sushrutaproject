@@ -940,7 +940,7 @@
                             <unclear>ā</unclear>hāratvam upagatā vidahyante | āpaś
                         cāpraśāntāḥ kṣitimalaprāyās tās tūpayu<cb n="2"/>jyamānā
                         nabhasi meghāvatate jalapraklinnāyāṃ bhūmau klinnadehānāṃ dehināṃ
-                            śīta<pc> </pc>vāta<pc> </pc>varṣa<pc> </pc><lb n="2"/>viṣṭambhitāgnīnāṃ vidahyante | sa vidāhāt pittasañcayam
+                            śīta<pc> </pc>vāta<pc> </pc>varṣa<pc> </pc><lb n="2"/>viṣṭambhitāgnīnāṃ vidahyante | savidāhāt pittasañcayam
                         āpādayanti | sa sañcayaḥ śaradi<cb n="1"/> praviralameghe viyaty
                         upaśuṣyati paṅke rka<pc> </pc>kiraṇa<pc> </pc>pravilāyitaḥ
                         paittikāṃ vyādhīṃ janayati | tā evauṣadhyaḥ kālapa<cb n="2"/>riṇāmāt pariṇatavīryā balavatyo hemante bhavanti | āpaś ca
@@ -948,8 +948,10 @@
                             gurvya</unclear><lb n="3"/>s tā upayujyamānāḥ mandakiraṇatvād
                         bhānos satuṣāraupa<pc> </pc>ṣṭambhita<pc> </pc>dehānāṃ dehinām
                             avidagdhāḥ<cb n="1"/> snehād gauravād upalepitvāc ca śleṣmaṇas
-                        sañcayam āpādayanti | sa saṃcayo vasante rka<pc> </pc>kiraṇa<pc> </pc>pravilāyitaḥ śleṣmikāṃ vyādhīṃ<cb n="2"/> janayati | tā evauṣadhyau grīṣmaniḥsārā rūkṣā atimātralaghvyo
-                        bhavaty āpaś ca tā upayujya<lb n="4"/>mānāḥ <add resp="m.                             sec.">(</add> tatra
+                        sañcayam āpādayanti | sa saṃcayo vasante rka<pc> </pc>kiraṇa<pc>
+                        </pc>pravilāyitaḥ śleṣmikāṃ vyādhīṃ<cb n="2"/> janayati | tā evauṣadhyo
+                            grīṣme niḥsārā rūkṣā atimātralaghvyo
+                        bhavanty āpaś ca tā upayujya<lb n="4"/>mānāḥ <add resp="m.                             sec.">(</add> tatra
                         śaraddhemantayor ma<unclear>dhyasama</unclear>m ahorātraṃ yugapac
                         cādhimāsakau bhavataḥ | viṃśatikāṣṭhā<cb n="1"/>ś caikanimeṣārdhaś
                         ca dinaparivṛddhir uttarāyaṇe <add resp="m. sec.">)</add> |
