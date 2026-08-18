@@ -1,0 +1,27 @@
+====== Suśruta Project manuscript transcriptions of MS London IOLR Taylor 1842 (Eggeling 2646). ======
+
+
+This is the repository for the manuscript transcriptions from MS IOLR Taylor 1842 (Eggeling 2646)
+created as part of the
+[[http://sushrutaproject.github.io|sushrutaproject.github.io]], q.v. for the full details.
+
+Although Eggeling identified this MS as supporting the Suśrutapāṭhaśuddhi of Candraṭa, in fact it does not.  It supports the commentary of Ḍalhaṇa.
+
+This repository is currently maintained by Dominik Wujastyk.
+
+===== Reading and collating manuscript transcriptions =====
+
+The manuscript collations and provisional edition are handled by [[https://github.com/chchch/upama|Saktumiva and Upama]].
+
+  * [[https://saktumiva.org/wiki/wujastyk/ms-iolr-taylor-1842/ms-iolr-taylor-1842-01|Sūtrasthāna]]
+  * [[https://saktumiva.org/wiki/wujastyk/ms-iolr-taylor-1842/ms-iolr-taylor-1842-02|Nidānasthāna]]
+  * [[https://saktumiva.org/wiki/wujastyk/ms-iolr-taylor-1842/ms-iolr-taylor-1842-03|Śārīrasthāna]]
+  * [[https://saktumiva.org/wiki/wujastyk/ms-iolr-taylor-1842/ms-iolr-taylor-1842-06|Uttaratantra]]
+
+
+Here are [[https://saktumiva.org/wiki/users|further instructions for readers]].
+
+===== Copyright and Licensing =====
+
+All files in this Github repository are copyrighted (C) Dominik Wujastyk 2021. They are distributed under a [[https://creativecommons.org/licenses/by-sa/4.0/|Creative Commons BY-SA]] licence.
+
