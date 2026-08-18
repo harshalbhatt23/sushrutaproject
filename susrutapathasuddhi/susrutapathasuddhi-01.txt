@@ -2,7 +2,7 @@
   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
     <fileDesc>
       <titleStmt>
-        <title>Suśrutapāthaśuddhi of Candraṭa: Sūtrasthāna</title>
+        <title>Transcription of MS London IOLR Taylor 1842 (Eggeling 2646) Ḍalhaṇa on the Suśrutasaṃhitā, Sūtrasthāna</title>
       </titleStmt>
       <publicationStmt>
         <p>Suśruta project, University of Alberta</p>
@@ -17,23 +17,21 @@
             </placeName>
             <institution>British Library</institution>
             <idno>IOLR Taylor 1842 (Eggeling 2646)</idno>
-            <idno type="siglum">L</idno>
+            <idno type="siglum">L1</idno>
           </msIdentifier>
 
           <msContents>
-            <summary>A manuscript identifying itself as Candraṭa's
-                <title>Pāṭhaśuddhi</title> but which seems mainly to be Ḍalhaṇa's
+            <summary>A manuscript with a final verse mentioning a 
+                <title>Pāṭhaśuddhi</title> by Candraṭa but which seems mainly to be Ḍalhaṇa's
               commentary, <title>Nibandhasaṅgraha</title>.</summary>
             <msItem defective="true" n="1">
               <!-- @defective: 'false' for complete, 'true' for incomplete -->
               <author role="author" xml:lang="sa">Suśruta</author>
-              <title xml:lang="sa">Suśrutapāṭhaśuddhi</title>
-              <author>Candraṭa</author>
-              <title type="commentary" xml:lang="sa">Suśrutapāṭhaśuddhi</title>
+              <title xml:lang="sa">Suśrutasaṃhitā</title>              
+              <title type="commentary" xml:lang="sa">Nibandhasaṅgraha</title>
               <author role="author" xml:lang="sa">Ḍalhaṇa</author>
-              <title>Nibandhasaṅgraha</title>
               <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
-              <textLang mainLang="sa-Dev">[Sanskrit in Devanagari script.]</textLang>
+              <textLang mainLang="sa-Deva">Sanskrit in Devanagari script.</textLang>
               <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
             </msItem>
           </msContents>
@@ -69,7 +67,8 @@
       <change when="2024-06-30" who="Dominik Wujastyk">General edits, word-breaks and
         formatting.</change>
 
-
+      <change when="2026-08-17" who="Dominik Wujastyk">Changed the title, since we now know this isn't a work of Candraṭa.</change>
+      <change when="2026-08-17" who="Dominik Wujastyk">Reformatted milestones as pagebreaks.</change>
 
     </revisionDesc>
   </teiHeader>
@@ -90,10 +89,10 @@
           
        
 
-          <milestone unit="folio" n="IOL San 2646 (Eggeling) - 139"/>
+          <pb ana="IOL San 2646 (Eggeling) - 139" type="jpeg"/>
 
           <l xml:id="SPS.1.12.1">
-            <label>Candraṭa on 1.12.1</label>
+            <label>Commentary on 1.12.1</label>
             <caesura/>
             <hi rend="bold"> || athāto 'gnikarmavidhim adhyāyaṃ vyākhyāsyāmaḥ ||</hi></l>
 
@@ -108,7 +107,7 @@
           <l xml:id="SPS.1.12.2"/>
 
           <l xml:id="SPS.1.12.3">
-            <label>Candraṭa on 1.12.3</label>
+            <label>Commentary on 1.12.3</label>
             <caesura/>
             <hi rend="bold">agnikarma<lb n="4"/>mahātmyam āha || kṣārād agnir garīyān
               kriyāsu vyākhyātaḥ ||</hi></l>
@@ -139,7 +138,7 @@
             /></p>
 
           <l xml:id="SPS.1.12.4">
-            <label>Candraṭa on 1.12.4</label>
+            <label>Commentary on 1.12.4</label>
             <caesura/>
             <hi rend="bold"><unclear>athai</unclear>māni dahanopakaraṇāni || tad yathā ||
               pippalyajāśakṛdgodaṃtaśaraśalākā
@@ -178,7 +177,7 @@
             />ṣmābhyām ity apavādaḥ || śaradgrīṣmayor apy avasthāyāṃ pravṛttim āha ||</p>
 
           <l xml:id="SPS.1.12.5">
-            <label>Candraṭa on 1.12.5</label>
+            <label>Commentary on 1.12.5</label>
             <caesura/>
             <hi rend="bold">tatrāpyātyayike 'gnikarmasā<lb n="5"/>dhye vyādhau
               tatpratyanīkaṃ vidhikṛtveti ||</hi></l>
@@ -194,7 +193,7 @@
               sarvā'gnikarmāṃga<lb n="9"/>vidhim āha ||</p>
 
           <l xml:id="SPS.1.12.6">
-            <label>Candraṭa on 1.12.6</label>
+            <label>Commentary on 1.12.6</label>
             <caesura/>
             <hi rend="bold">sarvavyādhiṣu ca pichalamannaṃ bhuktavataḥ ||</hi></l>
 
@@ -209,7 +208,7 @@
             mataṃ darśayann āha || ||</p>
 
           <l xml:id="SPS.1.12.7">
-            <label>Candraṭa on 1.12.7</label>
+            <label>Commentary on 1.12.7</label>
             <caesura/>
             <hi rend="bold">tatra dvidham agni<lb n="4"/>karmāhureke tvagdagdhaṃ
               māṃsadagdhaṃ ca || iha tu sirāsnāyusaṃdhyasthiṣva<lb n="5"/>pi na
@@ -224,7 +223,7 @@
             darśayan āha ||</p>
 
           <l xml:id="SPS.1.12.8">
-            <label>Candraṭa on 1.12.8</label>
+            <label>Commentary on 1.12.8</label>
             <caesura/>
             <hi rend="bold">tatra śabdaprādurbhāvā durgandhatā tvagsaṃkocaś ca tva<lb
                 n="8"/>gdagdhe || kapotavarṇatā alpaśvayathuvedanatā śuṣkasaṃkucitavraṇatā
@@ -240,7 +239,7 @@
             darśayann āha<lb n="2"/>||</p>
 
           <l xml:id="SPS.1.12.9">
-            <label>Candraṭa on 1.12.9</label>
+            <label>Commentary on 1.12.9</label>
             <caesura/>
             <hi rend="bold">tatra śirorogādhi akṣimaṃthayo
                 bhrūlalāṭaśaṃkhaprade<del>ṣe</del>śeṣu dahet ||</hi></l>
@@ -256,7 +255,7 @@
               n="6"/>dena darśayann āha ||</p>
 
           <l xml:id="SPS.1.12.10">
-            <label>Candraṭa on 1.12.10</label>
+            <label>Commentary on 1.12.10</label>
             <caesura/>
             <hi rend="bold"
               >tvagmāṃsaśirāsnāyusaṃdhyasthisthitetyugrarujivāyāvuchritakaṭhinasuptamāṃse
@@ -273,7 +272,7 @@
               praṇidhānā<pb n="142r"/>kāraviśeṣam āha ||</p>
 
           <l xml:id="SPS.1.12.11">
-            <label>Candraṭa on 1.12.11</label>
+            <label>Commentary on 1.12.11</label>
             <caesura/>
             <hi rend="bold">tatra valayabiṃduvilekhāpratisāraṇānīti dahanaviśeṣāḥ
             ||</hi></l>
@@ -291,12 +290,12 @@
               parihāryā<lb n="6"/>ṇi ca darśayitum āha ||</p>
 
           <l xml:id="SPS.1.12.12">
-            <label>Candraṭa on 1.12.12</label>
+            <label>Commentary on 1.12.12</label>
             <caesura/>
             <hi rend="bold">bhavati cātra ||</hi></l>
 
           <l xml:id="SPS.1.12.12ab">
-            <label>Candraṭa on 1.12.12ab</label>
+            <label>Commentary on 1.12.12ab</label>
             <caesura/>
             <hi rend="bold">rogasya saṃsthānam avekṣya samyak narmasya marmāṇi valāva<lb
                 n="7"/>laṃ ca ||
@@ -319,7 +318,7 @@
               n="5"/>dānīṃ samya<unclear>gdha</unclear>gdagdhaṃ cikitsann āha ||</p>
 
           <l xml:id="SPS.1.12.13">
-            <label>Candraṭa on 1.12.13</label>
+            <label>Commentary on 1.12.13</label>
             <caesura/>
             <hi rend="bold">tatra samyag dagdhe madhyusarppibhyāṃm abhyaṃgaḥ ||</hi></l>
 
@@ -330,7 +329,7 @@
             agninivṛttiviṣayaṃ darśayann āha ||</p>
 
           <l xml:id="SPS.1.12.14">
-            <label>Candraṭa on 1.12.14</label>
+            <label>Commentary on 1.12.14</label>
             <caesura/>
             <hi rend="bold">athemān agninā pa<lb n="7"/>riharet || pittaprakṛtimaṃtaḥ
               śoṇitaṃ bhinnakoṣṭham anuddhṛtaśalyaṃ bālaṃ vṛddhaṃ bhīrum anekavraṇa<lb
@@ -346,7 +345,7 @@
               n="2"/> agnidagdhalakṣaṇaṃ vaktum āha ||</p>
 
           <l xml:id="SPS.1.12.15">
-            <label>Candraṭa on 1.12.15</label>
+            <label>Commentary on 1.12.15</label>
             <caesura/>
             <hi rend="bold">ata ūrdhvam itarathādagdhaṃ vakṣyāmaḥ || || tatra snigdhaṃ
               rukṣaṃ vāśrity a dra<lb n="3"/>vyam agni dahaṃti || agnisaṃtapto hi snehaḥ
@@ -362,7 +361,7 @@
             tatra agnidagdhaṃ vaidyadoṣāt pramādād vā caturvidhaṃ darśayann āha ||</p>
 
           <l xml:id="SPS.1.12.16">
-            <label>Candraṭa on 1.12.16</label>
+            <label>Commentary on 1.12.16</label>
             <caesura/>
             <hi rend="bold">tatra pluṣṭaṃ durddagdhaṃ<lb n="7"/> samyag dagaddham
               atidagdhaṃ ceti caturvidham agnidagdhaṃ ||</hi></l>
@@ -398,12 +397,12 @@
             darśayann āha ||</p>
 
           <l xml:id="SPS.1.12.17">
-            <label>Candraṭa on 1.12.17</label>
+            <label>Commentary on 1.12.17</label>
             <caesura/>
             <hi rend="bold">bhavati cātra ||</hi></l>
 
           <l xml:id="SPS.1.12.17a">
-            <label>Candraṭa on 1.12.17a</label>
+            <label>Commentary on 1.12.17a</label>
             <caesura/>
             <hi rend="bold">agninā kopi<lb n="6"/>taṃ raktaṃ bhṛśaṃ jaṃtoḥ prakupyati ||
               <caesura/>
@@ -416,14 +415,14 @@
             punaḥ prādhānyenāgni <del>nā</del>dagdhepi pittam evodīryate || ity āha ||</p>
 
           <l xml:id="SPS.1.12.18">
-            <label>Candraṭa on 1.12.18</label>
+            <label>Commentary on 1.12.18</label>
             <caesura/>
             <hi rend="bold">tu<lb n="8"/>lyavīrye ubhe hyete rasato dravyatas tathā ||
               <caesura/>
                tenāsya vedanā tīvrā prakṛtyā ca vidahyate ||</hi></l>
 
           <l xml:id="SPS.1.12.19ab">
-            <label>Candraṭa on 1.12.19ab</label>
+            <label>Commentary on 1.12.19ab</label>
             <caesura/>
             <hi rend="bold">sphoṭāḥ śīghraṃ<lb n="9"/> prajāyaṃte jvaras tṛṣā ca bādhate
               ||</hi></l>
@@ -445,7 +444,7 @@
             ādhāraś ca dvayor api teja eveti ||</p>
 
           <l xml:id="SPS.1.12.19cd">
-            <label>Candraṭa on 1.12.19cd</label>
+            <label>Commentary on 1.12.19cd</label>
             <caesura/>
             <hi rend="bold">da<lb n="8"/>gdhasyopaśamārthāya cikitsā saṃprakṣyate ||
               <caesura/>
@@ -459,7 +458,7 @@
             nāgnikopitaṃ raktapittam ity āha ||</p>
 
           <l xml:id="SPS.1.12.20cd">
-            <label>Candraṭa on 1.12.20cd</label>
+            <label>Commentary on 1.12.20cd</label>
             <caesura/>
             <hi rend="bold">śarīre svinnabhūyiṣṭhe svinnaṃ bhavati śoṇitaṃ |</hi></l>
 
@@ -471,7 +470,7 @@
             utpādayatīti darśayann āha || </p>
 
           <l xml:id="SPS.1.12.21">
-            <label>Candraṭa on 1.12.21</label>
+            <label>Commentary on 1.12.21</label>
             <caesura/>
             <hi rend="bold">prakṛtyā hyudakaṃ śītaṃ skaṃdayatyatiśoṇitaṃ ||
               <caesura/>
@@ -488,7 +487,7 @@
             ||</p>
 
           <l xml:id="SPS.1.12.22">
-            <label>Candraṭa on 1.12.22</label>
+            <label>Commentary on 1.12.22</label>
             <caesura/>
             <hi rend="bold">śītām uṣṇāṃ ca durdda<lb n="8"/>gdhe kriyāṃ kuryāt bhiṣak
               punaḥ || ghṛtālepanasekāṃs tu śītām evāsya kārayet ||
@@ -507,14 +506,14 @@
             cikitsām āha || || </p>
 
           <l xml:id="SPS.1.12.23">
-            <label>Candraṭa on 1.12.23</label>
+            <label>Commentary on 1.12.23</label>
             <caesura/>
             <hi rend="bold">samyak dagdhe tugākṣīrīplakṣacaṃdanagairikaiḥ ||
               <caesura/>
                sāmṛtaiḥ<lb n="4"/> sarpiṣā snigdhair ālepaṃ kārayed bhiṣak ||</hi></l>
 
           <l xml:id="SPS.1.12.24">
-            <label>Candraṭa on 1.12.24</label>
+            <label>Commentary on 1.12.24</label>
             <caesura/>
             <hi rend="bold">grāmyānūpaudakaiś cainaṃ piṣṭair māsaiḥ
               pralepa<del>la</del>yet ||
@@ -535,7 +534,7 @@
             />dagdhe cikitsām āha || ||</p>
 
           <l xml:id="SPS.1.12.25">
-            <label>Candraṭa on 1.12.25</label>
+            <label>Commentary on 1.12.25</label>
             <caesura/>
             <hi rend="bold">atidagdhe viśīrṇāni māṃsānudhṛtya śītalāṃ ||
               <caesura/>
@@ -543,14 +542,14 @@
               />śāli<unclear>da</unclear>tuṃdulakaṃḍanaiḥ ||</hi></l>
 
           <l xml:id="SPS.1.12.26">
-            <label>Candraṭa on 1.12.26</label>
+            <label>Commentary on 1.12.26</label>
             <caesura/>
             <hi rend="bold">tiṃdukītvakkapālair vā ghṛtamiśraiḥ pralepayet ||
               <caesura/>
                vraṇaṃ gaḍūcīpatrair vā chādayed atha<lb n="3"/>vaidakaiḥ ||</hi></l>
 
           <l xml:id="SPS.1.12.27ab">
-            <label>Candraṭa on 1.12.27ab</label>
+            <label>Commentary on 1.12.27ab</label>
             <caesura/>
             <hi rend="bold">kriyāṃ ca kuryād akhilāṃ bhiṣak pittavisarppavat ||</hi></l>
 
@@ -570,12 +569,12 @@
             ropaṇārthaṃ ciki<pb n="146v"/> tsāṃ darśaryann āha || ||</p>
 
           <l xml:id="SPS.1.12.27cd">
-            <label>Candraṭa on 1.12.27cd</label>
+            <label>Commentary on 1.12.27cd</label>
             <caesura/>
             <hi rend="bold">madhuchiṣṭaṃ samadhukaṃ rodhraṃ sarjarasaṃ tathā ||</hi></l>
 
           <l xml:id="SPS.1.12.28">
-            <label>Candraṭa on 1.12.28</label>
+            <label>Commentary on 1.12.28</label>
             <caesura/>
              maṃjiṣṭhāṃ caṃdanaṃ mūrvāṃ piṣṭvā sarpir vi<lb n="2"/>pācayet ||
             <caesura/>
@@ -588,7 +587,7 @@
             iti || sopayogitvān mayāpi likhitaṃ || snehadagdhe cikitsām āha || ||</p>
 
           <l xml:id="SPS.1.12.29ab">
-            <label>Candraṭa on 1.12.29ab</label>
+            <label>Commentary on 1.12.29ab</label>
             <caesura/>
             <hi rend="bold">snehada<lb n="4"/>gdhe kriyāṃ rūkṣāṃ viśeṣeṇāvacārayet
             ||</hi></l>
@@ -601,26 +600,26 @@
             ||</p>
 
           <l xml:id="SPS.1.12.29cd">
-            <label>Candraṭa on 1.12.29cd</label>
+            <label>Commentary on 1.12.29cd</label>
             <caesura/>
             <hi>ata<lb n="6"/> urddhvaṃ pravakṣyāmi dhūmopahatalakṣaṇaṃ ||</hi></l>
 
           <l xml:id="SPS.1.12.30">
-            <label>Candraṭa on 1.12.30</label>
+            <label>Commentary on 1.12.30</label>
             <caesura/>
             <hi rend="bold">śvasiti kṣauti cātyarthaṃm apy ādhamatikāśata ||
               <caesura/>
                cakṣuṣoḥ<lb n="7"/> paridāhaś ca rāgaś caivopajāyate ||</hi></l>
 
           <l xml:id="SPS.1.12.31">
-            <label>Candraṭa on 1.12.31</label>
+            <label>Commentary on 1.12.31</label>
             <caesura/>
             <hi rend="bold">sadhūmakaṃ niḥśvasati ghreyam anyan na vetti ca ||
               <caesura/>
                tathaiva ca rasān<lb n="8"/>sarvān śrutiś cāsyopahanyate ||</hi></l>
 
           <l xml:id="SPS.1.12.32">
-            <label>Candraṭa on 1.12.32</label>
+            <label>Commentary on 1.12.32</label>
             <caesura/>
             <hi rend="bold">tṛṣṇā dāhajvarayutaḥ sīdaty atha ca mūrchati || ||
               <caesura/>
@@ -639,12 +638,12 @@
               bhavatītya<lb n="5"/>rthaḥ || ||</p>
 
           <l xml:id="SPS.1.12.32d">
-            <label>Candraṭa on 1.12.32d</label>
+            <label>Commentary on 1.12.32d</label>
             <caesura/>
             <hi rend="bold">śṛṇu tasya cikitsitaṃ |</hi></l>
 
           <l xml:id="SPS.1.12.33">
-            <label>Candraṭa on 1.12.33</label>
+            <label>Commentary on 1.12.33</label>
             <caesura/>
             <hi rend="bold">sarpir ikṣurasaṃ drākṣāṃ payo vā śarkkarāṃbu vā ||
               <caesura/>
@@ -652,28 +651,28 @@
             ||</hi></l>
 
           <l xml:id="SPS.1.12.34">
-            <label>Candraṭa on 1.12.34</label>
+            <label>Commentary on 1.12.34</label>
             <caesura/>
             <hi rend="bold">vamataḥ koṣṭhaśuddhiḥ syāt dhūmagaṃdhiś ca na śyati ||
               <caesura/>
                vidhinānena<lb n="7"/> śāmyaṃti sadanakṣavathujvarāḥ ||</hi></l>
 
           <l xml:id="SPS.1.12.35">
-            <label>Candraṭa on 1.12.35</label>
+            <label>Commentary on 1.12.35</label>
             <caesura/>
             <hi rend="bold">dāhamūrchātṛḍādhmānasvāsākāsāś ca dāruṇāḥ ||
               <caesura/>
                madhurair lava<lb n="8"/>ṇāmlaiś ca kaṭukaiḥ kvalagrahaiḥ ||</hi></l>
 
           <l xml:id="SPS.1.12.36">
-            <label>Candraṭa on 1.12.36</label>
+            <label>Commentary on 1.12.36</label>
             <caesura/>
             <hi rend="bold">samyag gṛhṇātīṃdriyārthān manaś cāsya prasīdati ||
               <caesura/>
                śirau<lb n="9"/>virecanaṃ cāsmai dadyād yogena śāstravit ||</hi></l>
 
           <l xml:id="SPS.1.12.37">
-            <label>Candraṭa on 1.12.37</label>
+            <label>Commentary on 1.12.37</label>
             <caesura/>
             <hi rend="bold">dṛṣṭi viśudhyate cāsya śirogrīvaṃ ca dehinaḥ a<pb n="147v"/>
               vidāhalaghusnigdham āhāraṃ cāsya kalpayet ||</hi></l>
@@ -687,7 +686,7 @@
             dagdhasadṛśasya cikitsāṃ darśayann āha || ||</p>
 
           <l xml:id="SPS.1.12.38ab">
-            <label>Candraṭa on 1.12.38ab</label>
+            <label>Commentary on 1.12.38ab</label>
             <caesura/>
             <hi rend="bold">uṣṇa vā<lb n="4"/>tātapair dagdhe śītaḥ kāryo vidhiḥ sadā
               ||</hi></l>
@@ -702,7 +701,7 @@
               n="7"/> || ||</p>
 
           <l xml:id="SPS.1.12.38cd">
-            <label>Candraṭa on 1.12.38cd</label>
+            <label>Commentary on 1.12.38cd</label>
             <caesura/>
             <hi rend="bold">śītavarṣānilairdagdhe snigdham uṣṇaś ca śasyate ||</hi></l>
 
@@ -715,7 +714,7 @@
             paṭhaṃti || || </p>
 
           <l xml:id="SPS.1.12.39ab">
-            <label>Candraṭa on 1.12.39ab</label>
+            <label>Commentary on 1.12.39ab</label>
             <caesura/>
              tathāpi tejasā da<pb n="148r"/>gdhe sidhir nāsti kathaṃcaneti ||</l>
 
