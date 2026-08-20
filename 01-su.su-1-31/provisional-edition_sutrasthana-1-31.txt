@@ -1520,13 +1520,11 @@
                             upalepitvāc ca śleṣmaṇas sañcayam āpādayanti | sa saṃcayo vasante
                                 'rka<pc> </pc>kiraṇa<pc> </pc>pravilāyitaḥ śleṣmikān vyādhīn
                             janayati | tā evauṣadhyau grīṣme niḥsārā rūkṣā atimātralaghvyo bhavanty
-                            āpaś ca tā upayujyamānās tatra śaraddhemantayor madhyasamam ahorātraṃ
-                            yugapac cādhimāsakau bhavataḥ | viṃśatikāṣṭhāś caikanimeṣārdhaś ca
-                            dinaparivṛddhir uttarāyaṇe |<!-- <anchor xml:id="SS.1.6.11.1-n1"/>-->
-                            sūryapratāpopaśoṣitadehānāṃ dehināṃ raukṣyāl laghavāc ca vāyoḥ sañcayam
-                            āpādayanti | sa sañcayaḥ prāvṛṣi cātyarthaṃñ jalopaklinnāyāṃ bhūmau
-                            cātiklinnadehānāṃ dehināṃ śītavātavarṣerito vātikān vyādhīn janayati |
-                            evam eṣāṃ doṣāṇāṃ sañcayaprakopahetur uktaḥ | </l>
+                            āpaś ca tā upayujyamānāḥ<anchor xml:id="SS.1.6.11.1-n1"/>
+                            sūryapratāpopaśoṣitadehānān dehināṃ raukṣyāl lāghavāc ca vāyoḥ sañcayam
+                            āpādayanti | sa sañcayaḥ prāvṛṣi cātyarthañ jalopaklinnāyāṃ bhūmau
+                            cātiklinnadehānāṃ dehināṃ śītavātavarṣerito vātikān vyādhīñ janayati |
+                            evam eṣāṃ doṣāṇāṃ sañcayaprakopahetur uktaḥ ||11|| </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.6.11]</trailer>
                     </lg>
 
@@ -1538,8 +1536,8 @@
 
                     <lg xml:id="SS.1.6.12">
                         <l>
-                            <anchor xml:id="SS.1.6.12-n1"/>tatra varṣāhemantagrīṣmeṣu sañcitānān
-                            doṣāṇāṃ śaradvasantaprāvṛṭsu ca prakupitānāṃ nirharaṇaṃ |</l>
+                            tatra varṣāhemantagrīṣmeṣu sañcitānān
+                            doṣāṇāṃ śaradvasantaprāvṛṭsu ca prakupitānāṃ nirharaṇam ||12||<anchor xml:id="SS.1.6.12-n1"/></l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.6.12]</trailer>
                     </lg>
 
@@ -1547,17 +1545,17 @@
 
 
                     <lg xml:id="SS.1.6.13">
-                        <l> tatra paittikānāṃ vyādhīnāṃ hemante vyupaśamaḥ | śleṣmikāṇāṃ nidāghe
-                            vātikānāṃ śaradi | svabhāvatas tv ete sañcayaprakopaśamā vyākhyātāḥ
-                            ||</l>
+                        <l> tatra paittikānāṃ vyādhīnāṃ hemante vyupaśamaḥ | ślaiṣmikāṇān nidāghe
+                            vātikānāṃ śaradi | svabhāvatas tv ete sañcayaprakopopaśamā vyākhyātāḥ
+                            ||13||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.6.13]</trailer>
                     </lg>
 
                     <lg xml:id="SS.1.6.14">
-                        <l> tatra divasapūrvāhṇe vasantaliṅgaṃ | madhyāhne grīṣmasya | aparāhṇe
-                            prāvṛḍliṅgaṃ | pradoṣe vārṣikaṃ | śāradam ardharātre | pratyuṣasi
+                        <l> tatra divasapūrvāhṇe vasantaliṅgaṃ madhyāhne grīṣmasya aparāhṇe
+                            prāvṛḍliṅgaṃ pradoṣe vārṣikaṃ śāradam ardharātre pratyuṣasi
                             haimanam upalakṣayet | evam ahorātram api varṣam iva
-                            śītoṣṇavarṣadoṣopacayaprakopopaśamair jānīyāt</l>
+                            śītoṣṇavarṣadoṣopacayaprakopopaśamair jānīyāt ||14||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.6.14]</trailer>
                     </lg>
 
@@ -7590,10 +7588,13 @@
         <note xml:lang="en" target="#SS.1.4.7-n1">Parallel to the
                 <title>Kātyāyanasmṛtisāroddhāraḥ</title>, Rājaguṇāḥ v.66 (Kane 1933: 11).</note>
     </standOff>
-   <!--  <standOff corresp="#SS.1.6.11" type="Notes">
-        <note xml:lang="en" target="#SS.1.6.11-n1">A later hand has inserted coarse parentheses
-            around the sentence <foreign>tatra ... uttarāyaṇe</foreign>.</note>
-    </standOff>--> 
+     <standOff corresp="#SS.1.6.11" type="Notes">
+        <note xml:lang="en" target="#SS.1.6.11-n1">At this point, K adds: <foreign>(tatra
+                            śaraddhemantayor madhye samam ahorātraṃ yugapac
+                            cādhimāsakau bhavataḥ viṃśatikāṣṭhāś caikanimeṣārdhaś
+                            ca dinaparivṛddhir uttarāyaṇe)</foreign>. The round brackets appear to
+                            have been added by another hand.</note>
+    </standOff>
     <standOff corresp="#SS.1.6.12" type="Notes">
         <note xml:lang="en" target="#SS.1.6.12-n1">In the 1931 ed. of the vulgate, the text
             numbering skips from 1.61.11 to 1.6.13, omitting the number 1.6.12. In the 1938 ed. the

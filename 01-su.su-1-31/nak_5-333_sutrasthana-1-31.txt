@@ -1214,29 +1214,29 @@
                         <cb/> mandakiraṇatvād bhānoḥ satuṣāropa<pc> </pc>ṣṭaṃbhita<pc> </pc>dehānān dehinām
                             avida<unclear>gdh</unclear>āḥ snehād gauravād upalepi<lb n="4"/>tvāc ca śleṣmaṇaḥ sañcayam āpādayanti | sa sañcayo vasante
                             '<cb/>rkka<pc> </pc>kiraṇa<pc> </pc>pravilāyitaḥ śleṣmikān
-                        vyādhīn janayati | tā evauṣadhyo grīṣmaniḥsārā rūkṣā<lb n="5"/>
+                        vyādhīn janayati | tā evauṣadhyo grīṣme niḥsārā rūkṣā<lb n="5"/>
                         atimātralaghvyo bhavaty āpaś ca tā upayujyamānāḥ |
                         sūryapratā<cb/>popaśoṣitadehānāṃ dehināṃ raukṣyāl lāghavāc ca
-                        vāyoḥ sañcayam āpādayanti | sa sañcayaḥ prāvṛṣi cā<lb n="6"/>tyarthañ jalopaklinnāyāṃ <unclear>bh</unclear>ūmau yāti
-                        klinnadehānān dehināṃ śītavātavarṣerito vātikān vyādhīn janayati |
+                        vāyoḥ sañcayam āpādayanti | sa sañcayaḥ prāvṛṣi cā<lb n="6"/>tyarthañ
+                            jalopaklinnāyāṃ <unclear>bh</unclear>ūmau cātiklinnadehānān dehināṃ śītavātavarṣerito vātikān vyādhīn janayati |
                         evam eṣan doṣāṇāṃ sañcayaprakopahetur uktāḥ ||</l></lg>
 
                     <!-- The number 12 is left out in the vulgate -->
 
 
-                    <lg xml:id="SS.1.6.12"><l> tatra varśāhemanta<pb ana="dscn2988 fol 012.jpg upper" facs="14" n="12v"/><lb n="1"/>grīṣmeṣu sañcitānāṃ doṣāṇāṃ
+                    <lg xml:id="SS.1.6.12"><l> tatra varṣāhemanta<pb ana="dscn2988 fol 012.jpg upper" facs="14" n="12v"/><lb n="1"/>grīṣmeṣu sañcitānāṃ doṣāṇāṃ
                             śaradvasantaprāvṛ<unclear>ṭsu</unclear> ca prakupitānāṃ
                         nirharaṇaṃ | </l></lg>
 
                     <lg xml:id="SS.1.6.13"><l> tatra paittikānāṃ vyādhīnāṃ hemante vyupaśamaḥ
                         | ślaiṣmikānāṃ nidāghe<unclear extent="1" unit="char"/> vātikānāṃ
-                        śaradi | svabhāvatas tv e<lb n="2"/><add place="left margin">ḍo</add><!-- did not find the place of addition -->te
-                        sañcayaprakopopaśamākhyātāḥ || </l></lg>
+                        śaradi | svabhāvatas tv e<lb n="2"/><!-- <add place="left margin">ḍo</add> did not find the place of addition -->te
+                        sañcayaprakopopaśam ākhyātāḥ || </l></lg>
 
-                    <lg xml:id="SS.1.6.14"><l> tatra divasa pūrvvāhṇe vasanta<cb/>sya liṅgaṃ |
-                        madhyāhne grīṣmasya | aparāhṇe prāvṛḍliṇgaṃ | pradoṣe vārṣikāṃ |
-                        śāradam ardharātre | pra<unclear>tyu</unclear>ṣa<lb n="3"/><add place="left margin">dvi</add><!-- place of addition not known --><del>mi</del><add>si</add>
-                        hemantam upalakṣayet | evam ahorātram api varṣam iva
+                    <lg xml:id="SS.1.6.14"><l> tatra divasapūrvvāhṇe vasanta<cb/>liṅgaṃ |
+                        madhyāhne grīṣmasya | aparāhṇe prāvṛḍliṇgaṃ | pradoṣe vārṣikaṃ |
+                        śāradam arddharātre | pratyuṣa<lb n="3"/><!--<add place="left
+                            margin">dvi</add> place of addition not known -->si hemantam upalakṣayet | evam ahorātram api varṣam iva
                         śīto<cb/>ṣṇavarṣadoṣopacayaprakopopaśamair jjānīyāt || </l></lg>
 
                     <lg xml:id="SS.1.6.15"><l> tatra vyāpanneṣv ṛtuṣv avyāpannā oṣadhayo
