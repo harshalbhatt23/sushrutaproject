@@ -1119,7 +1119,8 @@
                         śīto<unclear>ṣṇa</unclear>varṣadoṣopacayaprakopopaśamair
                             <unclear>ja</unclear>nīyāt || </l></lg>
 
-                    <lg xml:id="SS.1.6.15"><l> tatrāvyāpannesv ṛtuṣv avyāpannā oṣadha<lb n="6"/>yo bhavanty āpaś ca | tā <unclear>u</unclear>payujyamānāḥ
+                    <lg xml:id="SS.1.6.15"><l> tatrāvyāpanneṣv ṛtuṣv avyāpannā oṣadha<lb n="6"/>yo
+                            bhavanty āpaś ca | tās tūpayujyamānāḥ
                         prāṇāyubalavīryaujaskaryo bhavanti || </l></lg>
 
                     <lg xml:id="SS.1.6.16"><l> teṣāṃ punar vyāpado<cb/> dṛṣtakāritāni

@@ -979,8 +979,8 @@
                         upalakṣayet | evam ahorā<cb/>tram api varṣam iva
                         śītoṣṇavarṣadoṣopacayaprakopopaśamair jānīyāt</l></lg>
 
-                    <lg xml:id="SS.1.6.15"><l>tatrāvyāpane<unclear extent="3" unit="syllables"/><lb n="7"/>tuṣv avyāpannā oṣadhayo bhavanty āpaś ca | tās
-                        tūpayayujyamānāḥ <unclear reason="torn">prāṇāyu</unclear>rbalavīryaujaskaryo<cb/> bhavanti |</l></lg>
+                    <lg xml:id="SS.1.6.15"><l>tatrāvyāpanneṣv ṛ<lb n="7"/>tuṣv avyāpannā oṣadhayo bhavanty āpaś ca | tās
+                        tūpayujyamānāḥ <unclear reason="torn">prāṇāyu</unclear>rbalavīryaujaskaryo<cb/> bhavanti |</l></lg>
 
                     <lg xml:id="SS.1.6.16"><l>tāsām punar vyapado dṛṣṭakāritāni śītoṣṇa<add place="below">vāta</add>varṣāṇi | khalu viparītāny auṣadhīr
                         vyāpādayanty āpaś ca |</l></lg>

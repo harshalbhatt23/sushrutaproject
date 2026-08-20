@@ -1240,7 +1240,7 @@
                         śīto<cb/>ṣṇavarṣadoṣopacayaprakopopaśamair jjānīyāt || </l></lg>
 
                     <lg xml:id="SS.1.6.15"><l> tatra vyāpanneṣv ṛtuṣv avyāpannā oṣadhayo
-                            bhava<lb n="4"/>nty āpaś ca | tāṃ tūpayujyamānāḥ
+                            bhava<lb n="4"/>nty āpaś ca | tās tūpayujyamānāḥ
                         prāṇāyurbbalavīryaujaskaryo bhavanti<cb/> | </l></lg>
 
                     <lg xml:id="SS.1.6.16"><l> tā<del>mā</del><add>sā</add>ṃ punar vyāpado
