@@ -1103,18 +1103,18 @@
                         | evam eṣāṃ doṣāṇāṃ sañcayapra<cb/>kopahetur uktaḥ ||</l></lg>
 
 
-                    <lg xml:id="SS.1.6.12"><l> tatra varśāhemantagrīṣmeṣu sañcitānāṃ doṣāṇāṃ
+                    <lg xml:id="SS.1.6.12"><l> tatra varṣāhemantagrīṣmeṣu sañcitānāṃ doṣāṇāṃ
                         śaraddhemantaprāvṛṭsu ca prakupitānā nirharaṇaṃ || </l></lg>
 
                     <lg xml:id="SS.1.6.13"><l> ta<cb/>tra paitikānāṃ vyādhīnāṃ hemante
-                            <unclear>vyuṣesamaḥ</unclear> ślaiṣmikānāṃ nidāghe vātikānāṃ
-                        śaradi | svabhāva<lb n="5"/>ta <unclear>srve</unclear>te
+                            vyu<unclear reason="damaged">pa</unclear>samaḥ ślaiṣmikānāṃ nidāghe vātikānāṃ
+                        śaradi | svabhāva<lb n="5"/>tas tv ete
                         sañcayaprakopopaśamā vyākhyātāḥ || </l></lg>
 
                     <lg xml:id="SS.1.6.14"><l> tatra divasapūrvāhṇe vasantaliṅgaṃ | madhyāhne
                         grīṣmasya | <cb/> aparāhṇe prāvṛḍliṃga |
-                        ma<unclear>hau</unclear>ṣe vārṣikāṃ | sāradam ardharātre |
-                            pra<unclear>tyā</unclear>ṣasi hemanam upalakṣayet | evam
+                        ma<unclear>hau</unclear>ṣe vārṣikaṃ | sāradam ardharātre |
+                            pratyuṣasi hemanam upalakṣayet | evam
                         ahorātram api varṣa<cb/>m iva
                         śīto<unclear>ṣṇa</unclear>varṣadoṣopacayaprakopopaśamair
                             <unclear>ja</unclear>nīyāt || </l></lg>
