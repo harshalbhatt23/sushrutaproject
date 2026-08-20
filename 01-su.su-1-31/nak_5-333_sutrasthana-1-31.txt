@@ -1217,8 +1217,8 @@
                         vyādhīn janayati | tā evauṣadhyo grīṣme niḥsārā rūkṣā<lb n="5"/>
                         atimātralaghvyo bhavaty āpaś ca tā upayujyamānāḥ |
                         sūryapratā<cb/>popaśoṣitadehānāṃ dehināṃ raukṣyāl lāghavāc ca
-                        vāyoḥ sañcayam āpādayanti | sa sañcayaḥ prāvṛṣi cā<lb n="6"/>tyarthañ jalopaklinnāyāṃ <unclear>bh</unclear>ūmau yāti
-                        klinnadehānān dehināṃ śītavātavarṣerito vātikān vyādhīn janayati |
+                        vāyoḥ sañcayam āpādayanti | sa sañcayaḥ prāvṛṣi cā<lb n="6"/>tyarthañ
+                            jalopaklinnāyāṃ <unclear>bh</unclear>ūmau cātiklinnadehānān dehināṃ śītavātavarṣerito vātikān vyādhīn janayati |
                         evam eṣan doṣāṇāṃ sañcayaprakopahetur uktāḥ ||</l></lg>
 
                     <!-- The number 12 is left out in the vulgate -->
