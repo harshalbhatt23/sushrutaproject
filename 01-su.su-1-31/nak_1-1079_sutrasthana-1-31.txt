@@ -1140,16 +1140,18 @@
                     </l></lg>
 
                     <lg xml:id="SS.1.6.20"><l>
-                        jato '<cb n="3"/>tra || parityāga<pc> </pc>śānti<pc> </pc>prāyascitta<pc> </pc>vali<pc> </pc>maṅgala<pc> </pc>japa<pc> </pc><unclear>ho</unclear>mopahārejyāñjali<pc> </pc>namaskāra<pc> </pc>tapo<pc> </pc>niyama<pc> </pc><unclear>da</unclear>yā<pc> </pc><pb ana="A 1267_11_08.jpg upper" facs="8" n="7v"/>dāna<pc> </pc>dīkṣābhyupagama<pc> </pc>devatā<pc> </pc>brāhmaṇa<pc> </pc>guru<pc> </pc>parai bhavitavyam evaṃ
+                        jāto '<cb n="3"/>tra || parityāga<pc> </pc>śānti<pc> </pc>prāyascitta<pc>
+                        </pc>vali<pc> </pc>maṅgala<pc> </pc>japa<pc>
+                        </pc><unclear>ho</unclear>mopahārejyāñjali<pc> </pc>namaskāra<pc> </pc>tapo<pc> </pc>niyama<pc> </pc><unclear>da</unclear>yā<pc> </pc><pb ana="A 1267_11_07.jpg upper" facs="8" n="7v"/>dāna<pc> </pc>dīkṣābhyupagama<pc> </pc>devatā<pc> </pc>brāhmaṇa<pc> </pc>guru<pc> </pc>parair bhavitavyam evaṃ
                         sādhur bhavati | <unclear ana="a symbol?"/>
                     </l></lg>
 
 
 
                     <lg xml:id="SS.1.6.37"><l> svaguṇair api
-                        bhū<unclear>ta</unclear>vi<cb/>parīteṣu vā punaḥ ||
+                        bhū<unclear>te</unclear> vi<cb/>parīteṣu vā punaḥ ||
                         <caesura/>
-                         viṣaṃmeṣv api vā doṣā kupyanty ṛtuṣu dehinām iti|| </l></lg>
+                         viṣameṣv api vā doṣā kupyanty ṛtuṣu dehinām iti|| </l></lg>
 
                     <lg xml:id="SS.1.6.trailer"><l><unclear n="1" unit="char"/> || ❈ </l></lg>
 

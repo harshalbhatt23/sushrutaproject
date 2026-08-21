@@ -1063,9 +1063,10 @@
                         vā ||19|| </l></lg>
 
                     <lg xml:id="SS.1.6.20"><l> tatra,
-                        sthānaparityāgaśāntikarmaprāyaścittamaṅgalajapahomopahārejyāñjalinamaskārataponiyama-
-                        dayādānadīkṣābhyupagamadevatābrāhmaṇaguruparairbhavitavyam, evaṃ
-                        sādhu bhavati ||20|| </l></lg>
+                            sthāna<pc> </pc>parityāga<pc> </pc>śānti<pc> </pc>karma<pc>
+                            </pc>prāyaścitta<pc> </pc>maṅgala<pc> </pc>japa<pc>
+                            </pc>homopahārejyāñjali<pc> </pc>namaskāra<pc> </pc>tapo<pc>
+                            </pc>niyama<pc> </pc>dayā<pc> </pc>dāna<pc> </pc>dīkṣābhyupagama<pc> </pc>devatā<pc> </pc>brāhmaṇa<pc> </pc>guru<pc> </pc>parair bhavitavyam, evaṃ sādhu bhavati ||20|| </l></lg>
 
                     <lg xml:id="SS.1.6.21"><l> ata ūrdhvam avyāpannānāmṛtūnāṃ lakṣaṇāny
                         upadekṣyāmaḥ ||21|| </l></lg>

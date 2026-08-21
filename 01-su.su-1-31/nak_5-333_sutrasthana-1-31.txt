@@ -1259,7 +1259,8 @@
                             śayanā<del>ma</del><add>sa</add>nayānavāhanamaṇira<pb ana="dscn2988 fol                             012.jpg lower" facs="14" n="13r"/><lb n="1"/>tnopakaraṇagarhitalakṣaṇaprādur<unclear>bhā</unclear>vair
                         vvā </l></lg>
 
-                    <lg xml:id="SS.1.6.20"><l> jāto 'tra | parityāga<pc> </pc>śānti<pc> </pc>prāyaścitta<pc> </pc>bali<pc> </pc>maṅgala<pc> </pc>japa<pc> </pc>homopahārejyāñjali<pc> </pc>namaskāra<pc> </pc>tapo<pc> </pc>niyama<pc> </pc>dayā<pc> </pc>dāna<pc> </pc>dīkṣābhyupaga<lb n="2"/>ma<pc> </pc>devatā<pc> </pc>brāhmaṇa<pc> </pc>guru<pc> </pc>parair <unclear>bha</unclear>vitavyam e aṃ sādhur bhavati
+                    <lg xml:id="SS.1.6.20"><l> jāto 'tra | parityāga<pc> </pc>śānti<pc>
+                    </pc>prāyaścitta<pc> </pc>bali<pc> </pc>maṅgala<pc> </pc>japa<pc> </pc>homopahārejyāñjali<pc> </pc>namaskāra<pc> </pc>tapo<pc> </pc>niyama<pc> </pc>dayā<pc> </pc>dāna<pc> </pc>dīkṣābhyupaga<lb n="2"/>ma<pc> </pc>devatā<pc> </pc>brāhmaṇa<pc> </pc>guru<pc> </pc>parair <unclear>bha</unclear>vitavyam evaṃ sādhur bhavati
                         || </l></lg>
 
 

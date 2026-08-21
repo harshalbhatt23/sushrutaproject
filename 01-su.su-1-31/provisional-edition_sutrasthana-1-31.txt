@@ -1591,12 +1591,12 @@
                     </lg>
 
                     <lg xml:id="SS.1.6.20">
-                        <l> jāto 'tra | parityāga<pc> </pc>śānti<pc> </pc>prāyaścitta<pc
+                        <l> jāto 'tra parityāga<pc> </pc>śānti<pc> </pc>prāyaścitta<pc
                                 > </pc>bali<pc> </pc>maṅgala<pc> </pc>japa<pc
                                 > </pc>homopahārejyāñjali<pc> </pc>namaskāra<pc> </pc>tapo<pc
                                 > </pc>niyama<pc> </pc>dayā<pc> </pc>dāna<pc
                                 > </pc>dīkṣābhyupagama<pc> </pc>devatā<pc> </pc>brāhmaṇa<pc
-                                > </pc>guru<pc> </pc>parair bhavitavyam evaṃ sādhu bhavati ||</l>
+                                > </pc>guru<pc> </pc>parair bhavitavyam evaṃ sādhu bhavati ||19||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.6.20]</trailer>
                     </lg>
 
@@ -1651,11 +1651,11 @@
                     </lg>
 
                     <lg xml:id="SS.1.6.37">
-                        <l> bhavati cātra
+                        <l> bhavati cātra |
                             <caesura/>
                              svaguṇair api yukteṣu viparīteṣu vā punaḥ |
                             <caesura/>
-                             viṣameṣv api vā doṣāḥ kupyanty ṛtuṣu dehinām iti || || </l>
+                             viṣameṣv api vā doṣāḥ kupyanty ṛtuṣu dehinām | iti ||20|| </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.6.37]</trailer>
                     </lg>
 
