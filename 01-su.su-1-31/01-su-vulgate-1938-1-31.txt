@@ -1045,8 +1045,8 @@
                         bhavanty āpaś ca; tā upayujyamānāḥ prāṇāyurbalavīryaujaskaryo
                         bhavanti ||15|| </l></lg>
 
-                    <lg xml:id="SS.1.6.16"><l> teṣāṃ punarvyāpado 'dṛṣṭa<pb facs="114" n="26a"/>kāritāḥ, śītoṣṇavātavarṣāṇi khalu
-                        viparītānyoṣadhīrvyāpādayantyapaśca ||16|| </l></lg>
+                    <lg xml:id="SS.1.6.16"><l> teṣāṃ punar vyāpado 'dṛṣṭa<pb facs="114"
+                                n="26a"/>kāritāḥ, śītoṣṇavātavarṣāṇi khalu viparītāny oṣadhīr vyāpādayanty apaś ca ||16|| </l></lg>
 
                     <lg xml:id="SS.1.6.17"><l> tāsām upayogād vividharogaprādurbhāvo marako vā
                         bhaved iti ||17|| </l></lg>

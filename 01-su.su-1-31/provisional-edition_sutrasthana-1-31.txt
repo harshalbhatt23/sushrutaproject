@@ -1561,18 +1561,18 @@
 
                     <lg xml:id="SS.1.6.15">
                         <l> tatrāvyāpanneṣv ṛtuṣv avyāpannā oṣadhayo bhavanty āpaś ca | tās
-                            tūpayujyamānāḥ prāṇāyurbalavīryaujaskaryo bhavanti |</l>
+                            tūpayujyamānāḥ prāṇāyurbalavīryaujaskaryo bhavanti ||15||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.6.15]</trailer>
                     </lg>
 
                     <lg xml:id="SS.1.6.16">
                         <l> tāsām punar vyāpado 'dṛṣṭakāritāni śītoṣṇavātavarṣāṇi | khalu viparītāny
-                            auṣadhīr vyāpādayanty āpaś ca |</l>
+                            auṣadhīr vyāpādayanty āpaś ca ||16||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.6.16]</trailer>
                     </lg>
 
                     <lg xml:id="SS.1.6.17">
-                        <l> tāsām upayogād vividharogaprādurbhāvo marako vā bhavati |</l>
+                        <l> tāsām upayogād vividharogaprādurbhāvo marako vā bhavati ||17||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.6.17]</trailer>
                     </lg>
 
@@ -1581,11 +1581,12 @@
                     </lg>
 
                     <lg xml:id="SS.1.6.19">
-                        <l> kadācid avyāpanneṣv api kṛtyābhiśāparakṣaḥkrodhād adharmair uṣasyante
+                        <l> kadācid avyāpanneṣv api kṛtyābhiśāparakṣaḥkrodhād adharmair udhvasyante
                             janapadāḥ | viṣauṣadhipuṣpagandhena vā vāyunopanītena |
                             kāsaśvāsapratiśyāyaśirorogajvarair upatapyante prajāḥ
                             grahanakṣatracaritair vā |
-                            śayanāsanayānavāhanamaṇiratnopakaraṇagarhitalakṣaṇaprādurbhāvair vā</l>
+                            śayanāsanayānavāhanamaṇiratnopakaraṇagarhitalakṣaṇaprādurbhāvair vā
+                            ||18||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 1.6.19]</trailer>
                     </lg>
 
