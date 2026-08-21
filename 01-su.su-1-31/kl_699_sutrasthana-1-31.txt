@@ -951,10 +951,11 @@
                         sañcayam āpādayanti | sa saṃcayo vasante rka<pc> </pc>kiraṇa<pc>
                         </pc>pravilāyitaḥ śleṣmikāṃ vyādhīṃ<cb n="2"/> janayati | tā evauṣadhyo
                             grīṣme niḥsārā rūkṣā atimātralaghvyo
-                        bhavanty āpaś ca tā upayujya<lb n="4"/>mānāḥ <del rend="brackets"> (tatra
+                        bhavanty āpaś ca tā upayujya<lb n="4"/>mānāḥ <metamark rend="second hand"
+                            function="cancellation">(</metamark>tatra
                         śaraddhemantayor madhye samam ahorātraṃ yugapac
                         cādhimāsakau bhavataḥ viṃśatikāṣṭhā<cb n="1"/>ś caikanimeṣārdhaś
-                            ca dinaparivṛddhir uttarāyaṇe)</del> |
+                            ca dinaparivṛddhir uttarāyaṇe<metamark rend="second hand" function="cancellation">)</metamark> |
                         sūryapratāpopaśoṣitadehānān dehināṃ raukṣyāl
                             lā<unclear>gha</unclear>vāc ca vāyoḥ sañca<cb n="2"/>yam
                         āpādayanti | sa sañcayaḥ prāvṛṣi cātyarthaṃñ jalopaklinnāyāṃ
@@ -979,16 +980,17 @@
                         upalakṣayet | evam ahorā<cb/>tram api varṣam iva
                         śītoṣṇavarṣadoṣopacayaprakopopaśamair jānīyāt</l></lg>
 
-                    <lg xml:id="SS.1.6.15"><l>tatrāvyāpane<unclear extent="3" unit="syllables"/><lb n="7"/>tuṣv avyāpannā oṣadhayo bhavanty āpaś ca | tās
-                        tūpayayujyamānāḥ <unclear reason="torn">prāṇāyu</unclear>rbalavīryaujaskaryo<cb/> bhavanti |</l></lg>
+                    <lg xml:id="SS.1.6.15"><l>tatrāvyāpanneṣv ṛ<lb n="7"/>tuṣv avyāpannā oṣadhayo bhavanty āpaś ca | tās
+                        tūpayujyamānāḥ <unclear reason="torn">prāṇāyu</unclear>rbalavīryaujaskaryo<cb/> bhavanti |</l></lg>
 
-                    <lg xml:id="SS.1.6.16"><l>tāsām punar vyapado dṛṣṭakāritāni śītoṣṇa<add place="below">vāta</add>varṣāṇi | khalu viparītāny auṣadhīr
+                    <lg xml:id="SS.1.6.16"><l>tāsām punar vyāpado dṛṣṭakāritāni śītoṣṇa<add place="below">vāta</add>varṣāṇi | khalu viparītāny auṣadhīr
                         vyāpādayanty āpaś ca |</l></lg>
 
                     <lg xml:id="SS.1.6.17"><l>tāsā<cb/>m upayogād vividha<milestone facs="007r                             IMG_0143.JPG" n="7r" unit="digital_image"/><pb facs="13" n="7r"/><lb n="1"/>rogaprādurbhāvo marako vā bhavati |</l></lg>
 
 
-                    <lg xml:id="SS.1.6.19"><l><unclear extent="15" unit="syllables"/>śāparakṣaḥkrodhā<cb/>d adharmair uṣasyante janapadāḥ |
+                    <lg xml:id="SS.1.6.19"><l><gap extent="15" unit="syllables"
+                                reason="damaged"/>śāparakṣaḥkrodhā<cb/>d adharmair udhvaṃsyante janapadāḥ |
                         viṣauṣadhipuṣpagandhena vā vāyunopanītena |
                         kāsaśvāsapratiśyāyaśiroroga<cb/>jvarair upatapyante prajāḥ
                         grahanakṣatracaritair vā | śayanāsanayānavāhanama<unclear reason="torn">ṇiratnopa</unclear><lb n="2"/>karaṇagarhitalakṣaṇaprādurbhāvair vā</l></lg>

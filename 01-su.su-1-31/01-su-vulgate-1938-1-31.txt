@@ -1045,8 +1045,8 @@
                         bhavanty āpaś ca; tā upayujyamānāḥ prāṇāyurbalavīryaujaskaryo
                         bhavanti ||15|| </l></lg>
 
-                    <lg xml:id="SS.1.6.16"><l> teṣāṃ punarvyāpado 'dṛṣṭa<pb facs="114" n="26a"/>kāritāḥ, śītoṣṇavātavarṣāṇi khalu
-                        viparītānyoṣadhīrvyāpādayantyapaśca ||16|| </l></lg>
+                    <lg xml:id="SS.1.6.16"><l> teṣāṃ punar vyāpado 'dṛṣṭa<pb facs="114"
+                                n="26a"/>kāritāḥ, śītoṣṇavātavarṣāṇi khalu viparītāny oṣadhīr vyāpādayanty apaś ca ||16|| </l></lg>
 
                     <lg xml:id="SS.1.6.17"><l> tāsām upayogād vividharogaprādurbhāvo marako vā
                         bhaved iti ||17|| </l></lg>
@@ -1063,9 +1063,10 @@
                         vā ||19|| </l></lg>
 
                     <lg xml:id="SS.1.6.20"><l> tatra,
-                        sthānaparityāgaśāntikarmaprāyaścittamaṅgalajapahomopahārejyāñjalinamaskārataponiyama-
-                        dayādānadīkṣābhyupagamadevatābrāhmaṇaguruparairbhavitavyam, evaṃ
-                        sādhu bhavati ||20|| </l></lg>
+                            sthāna<pc> </pc>parityāga<pc> </pc>śānti<pc> </pc>karma<pc>
+                            </pc>prāyaścitta<pc> </pc>maṅgala<pc> </pc>japa<pc>
+                            </pc>homopahārejyāñjali<pc> </pc>namaskāra<pc> </pc>tapo<pc>
+                            </pc>niyama<pc> </pc>dayā<pc> </pc>dāna<pc> </pc>dīkṣābhyupagama<pc> </pc>devatā<pc> </pc>brāhmaṇa<pc> </pc>guru<pc> </pc>parair bhavitavyam, evaṃ sādhu bhavati ||20|| </l></lg>
 
                     <lg xml:id="SS.1.6.21"><l> ata ūrdhvam avyāpannānāmṛtūnāṃ lakṣaṇāny
                         upadekṣyāmaḥ ||21|| </l></lg>

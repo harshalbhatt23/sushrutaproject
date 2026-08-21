@@ -1240,26 +1240,27 @@
                         śīto<cb/>ṣṇavarṣadoṣopacayaprakopopaśamair jjānīyāt || </l></lg>
 
                     <lg xml:id="SS.1.6.15"><l> tatra vyāpanneṣv ṛtuṣv avyāpannā oṣadhayo
-                            bhava<lb n="4"/>nty āpaś ca | tāṃ tūpayujyamānāḥ
+                            bhava<lb n="4"/>nty āpaś ca | tās tūpayujyamānāḥ
                         prāṇāyurbbalavīryaujaskaryo bhavanti<cb/> | </l></lg>
 
-                    <lg xml:id="SS.1.6.16"><l> tā<del>mā</del><add>sā</add>ṃ punar vyāpado
-                        dṛṣṭakāritāni ṣītoṣṇavātavarṣāṇi | khalu viparītāny auṣadhīr
+                    <lg xml:id="SS.1.6.16"><l> tāsām punar vvyāpado
+                        dṛṣṭakāritāni śītoṣṇavātavarṣāṇi | khalu viparītāny auṣadhīr
                             vyāpāda<lb n="5"/>yanty āpaś ca || </l></lg>
 
-                    <lg xml:id="SS.1.6.17"><l> tā<del>mā</del><add>sā</add>m upayogād
-                            vividharogaprādur<unclear>bhā</unclear>vo marako<cb/> vā
+                    <lg xml:id="SS.1.6.17"><l> tāsām upayogād
+                            vividharogaprādurbbhāvo marako<cb/> vā
                         bhavati || </l></lg>
 
 
                     <lg xml:id="SS.1.6.19"><l> kadācid avyāpanneṣv api
-                        kṛtyābhiśāparakṣaḥkrodhād adharmair uṣasyante janapadāḥ | <lb n="6"/> viṣauṣadhipuṣpagandhena vā vāyunopanītena |
+                        kṛtyābhiśāparakṣaḥkrodhād adharmmair udhvasyante janapadāḥ | <lb n="6"/> viṣauṣadhipuṣpagandhena vā vāyunopanītena |
                         kāsaśvāsapratisyāyaśirorogajvarair upatapyante prajāḥ |
                         grahanakṣatracaritair vvā |
                             śayanā<del>ma</del><add>sa</add>nayānavāhanamaṇira<pb ana="dscn2988 fol                             012.jpg lower" facs="14" n="13r"/><lb n="1"/>tnopakaraṇagarhitalakṣaṇaprādur<unclear>bhā</unclear>vair
                         vvā </l></lg>
 
-                    <lg xml:id="SS.1.6.20"><l> jāto 'tra | parityāga<pc> </pc>śānti<pc> </pc>prāyaścitta<pc> </pc>bali<pc> </pc>maṅgala<pc> </pc>japa<pc> </pc>homopahārejyāñjali<pc> </pc>namaskāra<pc> </pc>tapo<pc> </pc>niyama<pc> </pc>dayā<pc> </pc>dāna<pc> </pc>dīkṣābhyupaga<lb n="2"/>ma<pc> </pc>devatā<pc> </pc>brāhmaṇa<pc> </pc>guru<pc> </pc>parair <unclear>bha</unclear>vitavyam e aṃ sādhur bhavati
+                    <lg xml:id="SS.1.6.20"><l> jāto 'tra | parityāga<pc> </pc>śānti<pc>
+                    </pc>prāyaścitta<pc> </pc>bali<pc> </pc>maṅgala<pc> </pc>japa<pc> </pc>homopahārejyāñjali<pc> </pc>namaskāra<pc> </pc>tapo<pc> </pc>niyama<pc> </pc>dayā<pc> </pc>dāna<pc> </pc>dīkṣābhyupaga<lb n="2"/>ma<pc> </pc>devatā<pc> </pc>brāhmaṇa<pc> </pc>guru<pc> </pc>parair <unclear>bha</unclear>vitavyam evaṃ sādhur bhavati
                         || </l></lg>
 
 
