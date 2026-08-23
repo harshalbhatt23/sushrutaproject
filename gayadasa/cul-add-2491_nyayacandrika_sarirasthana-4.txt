@@ -2,7 +2,7 @@
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
             <titleStmt>
-                <title>Transcription MS Cambridge CUL Add. 2491</title>
+                <title>Transcription MS Cambridge CUL Add.2491: 03 Śārīrasthānam 4</title>
             </titleStmt>
 
             <publicationStmt>
@@ -18,7 +18,7 @@
                         </placeName>
                         <institution>Cambridge University Library</institution>
                         <idno>Add. 2491</idno>
-                        <idno type="siglum">C4</idno>
+                        <idno type="siglum">C3.4</idno>
                     </msIdentifier>
                     <msContents>
                         <summary>A paper manuscript in Devanāgarī script.</summary>
