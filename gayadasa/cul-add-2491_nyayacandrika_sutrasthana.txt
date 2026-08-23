@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Transcription of MS Cambridge CUL Add. 2491: 01 Sūtrasthānam 6</title>
+            </titleStmt>
+
+            <publicationStmt>
+                <authority/>
+                <idno/>
+            </publicationStmt>
+            <sourceDesc>
+
+                <msDesc>
+                    <msIdentifier>
+                        <idno type="siglum">C1.6</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>A paper manuscript in Devanāgarī script.</summary>
+                        <msItem defective="true" n="1">
+                            <author role="author" xml:lang="sa">Gayadāsa</author>
+                            <title xml:lang="sa">Nyāyacandrikā</title>
+                            <!-- rubric, incipit, explicit, and finalRubric are given as examples -->
+                            <textLang mainLang="sa-Newa">Sanskrit in Devanagari script.</textLang>
+                            <!-- @mainLang can be "sa-Deva", "sa-Mlym", "sa-Telu", "sa-Newa", etc. See ISO 15924 for more details. -->
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+
+        </fileDesc>
+
+        <revisionDesc>
+            <change when="2026-08-23" who="Harshal Bhatt">Transcribed SS 1.6.</change>
+            <change when="2026-08-23" who="Dominik Wujastyk">Updated TEI header.</change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text xml:lang="Sa-Latn">
+
+        <body>
+            <div n="3" type="level1" subtype="sthāna">
+
+                <head>sūtrasthānam</head>
+
+                <div n="1" type="level6" subtype="adhyāyaḥ">
+
+
+                    <l xml:id="NC.1.6.1">
+                        <label>NC.1.6.1</label>
+                         athopaharaṇīyānaṃtaraṃ ṛtu- - - -<lb n="3"/> yato hemaṃtādiṣu vraṇasya
+                        tryahāt parimokṣaḥ . itareṣu dvyahā<unclear>t</unclear> . tatra na jñāyenne
+                        hemaṃṃtādayo varṣādayo<unclear>śca</unclear>tā <lb n="4"/>nyokartṛm āha .
+                        athāta <del>ṛ</del><add place="left-margin">ru</add>tucaryānāmetyādi . ṛtuṣu
+                        ṛtūnāṃ vā caryā ṛtucaryā śāstraniyamita ācā<lb n="5"/>raga
+                        ṛtucaryārthodhyāyaḥ dhātuvaryā<unclear>bhu</unclear>vati
+                        hitādarthyātāchabdyaṃ . pratipārthā mallikā pradīpaḥ . iṃdrārthā sthū<lb
+                            n="6"/>ṇa iṃdraḥ ṛtucaryā śāstraniyamita ācāraḥ ṛtuṣu ṛtunā vā caryā sā
+                            <unclear>srutighutiḥ</unclear> tanyācāraḥ ṛtu<lb n="7"/>
+                        caryārthodhyāyaḥ ṛtucaryā . tavati hitā<unclear>darvyātāchadhyāṃ</unclear>
+                        tadyathā . pratipārthā mallikā pradīpaḥ iṃdro vā sthūṇo<lb n="8"/>iṃdra
+                        ṛtacaryāsutta suvṛttepi vakṣati . anye tu ca<unclear>ryaṃ</unclear>niti
+                        paṭhati . tatra carater gatibhakṣaṇārthāt . gadanadava<lb n="9"/>retyādinā
+                        kyap āhāro vihāraś caraṇīyaḥ tāhaddānupūrvavat .</l>
+
+                    <l xml:id="NC.1.6.3">
+                        <label>NC.1.6.3</label>
+                         tatra yadaṃgabhūtā - - vasūmeva prathamaṃ<lb n="10"/>sva<add place="left"
+                                ><unclear>guṇa</unclear></add> karmmaniruktir varṣayannāha . kāl̤o
+                        hi nāmetyādi . hi śabda upadarśane . nāma prasiddhau kāl̤amatiprati - ṇai<lb
+                            n="11"/>upadarśyane<unclear>sva</unclear>yaṃbhūriti . bhavanaṃ bhūriti .
+                        bhavate saṃpadāditvād bhāve kvip . svayamātmanā bhūḥ sattā yasya sa
+                        svayaṃbhūḥ .<pb n="40"/>svaya<unclear>lacca</unclear>sattāka ityarthaḥ . na
+                        punarabhraṇaprādubhāve yotpannaḥ . ata eva dityatvamasya mahīpate . tadeva
+                        nityatvaṃ darśa<unclear>naṃ</unclear><lb n="2"/>nnāha . anādimadhyetyādi .
+                        nityaḥ pravāha nityatayā ādirūtpattiḥ . ādyaṃtayos tu lābhaya tayo eva
+                            <unclear>vvi</unclear>bhūto - - ne ma<lb n="3"/>dhyaḥ . nidhanaṃ vināśaḥ
+                        . tāny avidyamānāni yasya <unclear>sa</unclear> tathoktaḥ . sarvadharmeṇa
+                        bhūdyakāl̤aṃ karmmaṇā cikitsopayogitā ni<lb n="4"/>rdiṣṭānnāha . atra ye
+                            sachāpatsaṃ<unclear extent="2" cert="low">eta</unclear>jīvitamaraṇā ca
+                        manuṣyāṇām i |tyādi . atra kāl̤e rasasya madhurāne vyapihi<lb n="5"/>pannatā
+                        saṃpattiḥ saṃpannatā . adhīnaḥ atra vyāachabdasyālpācata- - - - - nipātaḥ .
+                        saṃpattigrahaṇam eva .<lb n="6"/>praśastatvātra .
+                        prā<unclear>+</unclear>prayogam arhatīti . athavā saṃkal̤analakṣaṇatvātra .
+                        kāl̤asya . vyāpadgrahaṇam eva pūrvaṃ kṛte jīti<lb n="7"/>- - -
+                            ṇārati<unclear>cakaśetrany</unclear> apakarṣati .
+                            jīvitasyo<del>pta</del>tpattiradhītatvāt . sāmarthyād utpattir api
+                        kāl̤ādhīnaiva . tasye<lb n="8"/>dānīṃ kāl̤asya niruktiṃ u - - - sa sūkṣma
+                            thāpītyā<del>i</del>ha . sa kāl̤aḥ sūkṣmāstokāṃn api kal̤ābhāga
+                        kal̤īyate saṃ<lb n="9"/>khyāya<unclear>nma</unclear> iti kāl̤aḥ . kal̤a
+                        śabda saṃkhyānayorityasmāc caurādikoṇi - . karmmaṇi lakṣmāraḥ . vyavasthita
+                            vi<lb n="10"/>bhāṣāgrahaṇānuvṛtteḥ . neranīṭiti nico lopo na bhavati .
+                        akṛtasārvadhātukayoriti . dīrghatvaṃ . sa sūkṣmā<lb n="11"/>m api kal̤i na
+                        līl̤ayattattatre paṭhati . gatimatvāt . śliṣṭo na bhavatīti tadārthaḥ .
+                        eṣodarāditvād varṇalopādi<lb n="12"/>sādhananiruktiḥ . pakṣāṃtaraṃ
+                        darśayannāha . saṃkal̤ayati kal̤ayati veti saṃharaṇāḥ - - lakṣati . ekarāśiṃ
+                        ka <pb n="41"/>roti . utpādanāt kal̤ayaṃti saṃkṣāti sati vastuni
+                            saṃkhyāsaṃbhavā<unclear>nna</unclear> . kāl̤asya karmmanirukti
+                        niruktasya nika<lb n="2"/>ṇā<unclear>pa</unclear>rihāśca
+                            <unclear>yū</unclear>ṇaṃ - - venyatastamanūdya
+                            bāhvopādhi<unclear>bhi</unclear>raupādhikaṃ saṃvatsara - - tvaṃ
+                            ciki<unclear>tra</unclear>m apayoginaḥ<lb n="3"/> maṃgīkṛtya da
+                        tadaṃgātṛn nnimeṣādyavinā bhāvino vyāci<unclear>khyā</unclear>surāha . </l>
+
+                    <l xml:id="NC.1.6.4">
+                        <label>NC.1.6.4</label>
+                         tasya saṃvatsarasya ityādi . tasya kāl̤a<lb n="4"/>sya nimeṣādīnāṃ
+                            va<unclear>kta</unclear>maśa lakṣaṇānāṃ pravibhāgaṃ prakṛṣṭabhāgaṃ
+                        bhagavānādityaḥ . karoti kiṃbhūtasya saṃva<lb n="5"/>tsarātmakasya - - -
+                        bhāvasya | bhavati vā <unclear>3</unclear> . kāl̤ameke vibhūtitvaṃ dravyam
+                        āhuḥ . svāpare yatra saṃparivartate sa<lb n="6"/>rve sthāvarajaṃgamāḥ
+                        nirūpādhiḥ svabhāvena kāl̤eno yāti hetu<unclear>hu</unclear> tasmādaupādhikā
+                        grāhyās tadviśeṣāḥ <lb n="7"/> kṣaṇādayaḥ kriyevātiprasiddhā hi kānnadādasya
+                        kāraṇe ṛte sūryagaticānyāt prasiddhatamā kriyā . na<lb n="8"/>nu saṃda - - -
+                        - na iti kimuktaṃ yena cāvṛttirdivamāvṛttirvā kāl̤aḥ . na tatvātmano hi
+                        mātmano veti vakta<lb n="9"/>vyaṃ . naitadasti . na hyekaviṃdre tau dine vā
+                        ṛtvaṃtarāṇāṃ divā - - ṇaṇādā sarveṣāṃ karmmāvarodhaḥ . śītoṣṇa<lb n="10"
+                        />terdenaṃdena teṣāṃ pratyannabhinnatvāt . saṃvatsareṣu narekasminneva
+                        sarveṣāṃ bhūtabhavyadbhaviṣyatāṃ saṃvatsarāṃtarāṇā<lb n="11"
+                        />dhapūrṇavaruvyata iti yathābhyāsaneva sādhīyaḥ . ativiśeṣeṇa materviśeṣo
+                        parasparaṃ bhidyate . tanodayā<pb n="42"/> dinā tatra la - kṣaroccāraṇamātro
+                        niṣedhaḥ . <unclear>chayukta</unclear> - - - sayā yadi tasyoccāraṇaṃ hāṃ -
+                        hādi vyāpāre no<lb n="2"/>dīraṇaṃ tatpramāṇo nimeṣaḥ . tat pramāṇe mātṛṭ
+                        pratyayaḥ . nanu <unclear extent="1" cert="low">vā</unclear>kadamādityau .
+                        nimeṣādīnāṃ vibhāgaṃ . karo<lb n="3"/>ti .</l>
+
+                    <l xml:id="NC.1.6.5">
+                        <label>NC.1.6.5</label>
+                         - - - laghvakṣaroccāraṇadina ca <unclear extent="4" cert="low"
+                            >vittaṣvaṃte</unclear> . naiṣa doṣaḥ . arkagatyāpiti meṣādayo vibhajyate
+                        . sā<lb n="4"/>tunoti sataṃjana prasiddheti nimeṣādīnām ahorātrāhānāṃ
+                        pravibhā - tu mevopādhim upāhitavān nanu<lb n="5"/>kavama<del>ṃ</del>gatyāpi
+                        nimeṣādayo vibhajyate . jyotiṣikāhīti . sapādi pravibhāge
+                            śakutchāvāmāvamo<lb n="6"/> ktaṃ - - - - - sā tu sarvajanaprasiddhe
+                        ācāryeṇa na nirdiṣṭāḥ . nirdiṣṭamanirdiśana nirdiṣṭānerdiśanne<lb n="7"
+                        />tadācaṣṭe - rvevajanaprasiddhā kriyā sātabhedo - - -ti . nāyaṃ
+                        kāl̤abhedopādhiḥ siddho bhavati madhya<lb n="8"/>yo sarve kāl̤e ca
+                            ne<unclear>ye</unclear>yātra pra<unclear>māṃ</unclear>nnaraḥ yo segre
+                        cārddharātre ca tathā madhyaṃdinepi ca pahā jago - - nāma ka <lb n="9"/>ścit
+                        kāl̤abhedopādhi rannikisarhisavāṃ nisargeṇa laktita saharmukhaṃ parigṛhāt
+                        iti . viṃśati kal̤āmuhū<lb n="10"/>rttaḥ kal̤āyā daśabhāgaś ca - lāyā daśamo
+                        bhāgas tisraḥ kā<unclear>thyā</unclear> nanu kal̤ānādiṣu
+                        triṃśatkal̤omuhūrtaḥ pa<lb n="11"/>ṭhitaḥ kṛṣṭapūtaḥ kāṣṭhā trayādhika
+                        triṃśati kal̤aḥ utyate triṃśat kal̤ādimuhūrttes <unclear>tīktrī</unclear>- -
+                        ṇaā . aṣṭā<pb n="43"/>daśasahasrāṇi saṃkhyāhāsmin samuccaye . kal̤ānāṃ
+                        navatiśceva svataṃtraparataṃtraḥ . ata śloke saṃkhyā nirdiṣṭā<lb n="2"/>
+                        saṃkhyātiricyate . - raṃ <unclear>ṣṭva</unclear>vaśāpetāmṛtaśatasahasrāṇi -
+                        - nyadhi<del>tmā</del>kā - gī karttavyā . - - - - -bhūtaṃ pramathataṃ<lb
+                            n="3"/>tragrahaṇaṃ . tataḥ kāṣṭā tatrayādhikaviṃśati kal̤ā eva
+                            muhūrto<unclear>bh</unclear>pādhya iti . - - - - - - - śceti . pakṣe
+                            dharmmadvayaṃ<lb n="4"/>vyavahartu pratimābhāti . janmakṛṣṇeṣṭamītyādiko
+                        vyavahāraḥ siddhyati . etābhir yuktā
+                            paurṇamāsīyasmi<unclear>nsabhoghaḥ</unclear><lb n="5"/>eva phālgunādiṣu
+                        rudita na tu ca nimeṣādis tatra krameṇa kramūyanayoḥ
+                        pravista<del>dhī</del>no yujyate . ta - - tsarasya<lb n="6"/>ucyate . yadi
+                        hi nimeṣādīn sūtrakrameṇa - - - - - - - tsaraḥ pravibhajyate . tadā sarveṣām
+                        eva nigamā<lb n="7"/> dināṃ tulyaṃ . saṃvatsarāṃ ca tvaprasajyeta .
+                        punadrātvayanayos tayo eva hi puna edhika - - - - - - -rmaṇāri<lb n="8"
+                        />ṣyate . tadanena sūtrārthakrame bhaṃgena pratipādayati . - - sikamṛtuṃ
+                        kṛtvā . dvābhyāṃ māsābhyāṃ nirvṛttaḥ hi mā<lb n="9"/>sikaḥ .</l>
+
+                    <l xml:id="NC.1.6.6">
+                        <label>NC.1.6.6</label>
+                         - - - - itivak tapo māghaḥ tapasya phālgunaḥ madhu caitraḥ mādhavo vaiśāṣaḥ
+                        śucir jyeṣṭhaḥ . śukra āṣāḍhaḥ<lb n="10"/> nabha śrāvaṇaḥ <add
+                            place="left-margin">nabhasya</add><del>śuci</del>bhādrapadaḥ iṣu āśvinaḥ
+                        ūrja kārtikaḥ saha mārgaśīrṣaḥ sahasya pauṣaḥ dhanu ca tribhireva ṛtubhir
+                            bha<lb n="11"/>vītavyaḥ .</l>
+
+                    <l xml:id="NC.1.6.7">
+                        <label>NC.1.6.7</label>
+                         śītoṣṇavarṣāṇāṃ tritvādityāha . trimāsika<unclear reason="illegible"
+                            >nūnaṃ</unclear> kṛtvā <del><unclear reason="illegible"
+                                >ṛtavaḥ</unclear>ṣa<unclear reason="faded" extent="2" unit="letters"
+                            /></del>ṛtavaḥ . śītādi tritaya rakṣa<lb n="12"/>ṇānām api
+                        sādhāraṇaviśiṣṭaśītādibhedāt ṣaḍtvaṃ tatra śītavātakṛtaṃ . uṣṇamādityena .
+                        varṣamiṃdutaḥ nṛyatedde<pb n="44"/> - - - - - - -nayo - - aparisaṃkhyāya - -
+                        tihyagatīnām ityāha . caṃdrādityayo kāl̤apratibhāga<lb n="2"/>karatvāt
+                        ekabhavanaṃ ca kāl̤apravibhāgayati - - - dakṣiṇayayata - - - - pyādhyāyate
+                        sona iti anye <lb n="3"/> suta - - kāl̤a pratibhāgayati . uttarāyaṇaṃ teṣu
+                        bhagavānāpyāyyatararkakṛti . tena viśiṣṭa - - - - -<lb n="4"
+                            /><unclear>ye</unclear>vā saha<unclear>caryā</unclear>- chedo dodhitā hi
+                        dvayāśraya - - - tayaṃ bhavati . tatra varṣā
+                            svościdadhī<unclear>śva</unclear>storasonuyujyate <lb n="5"/>pāṃ vidāhāt
+                        śaradi la<unclear>ya</unclear>ṇāt - - - - - - te madhuro
+                            rasa<unclear>o</unclear>ṣadhīṣvanu yujyate pātre ḍhātra ido - -<lb n="6"
+                        /> syādhisatvāt kāl̤asya śetyā ca . nanu kathaṃ varṣā śaradoramla <add
+                            place="right-margin">la 6</add>vaṇād anu - - - ā - - - idoravyā<lb n="7"
+                        />dhitatvāt . kāl̤asya śaityācca . - - - visargarasosya āgneyaṃ punarādānaṃ
+                        naitadasti . yosāvarkasya krame<lb n="8"/>ṇa ca <unclear>hra</unclear>bhūta
+                        - - - tinvastāvakṣati sāgneviṣutataṃ yavatra . ādānakuro varddhamāne
+                        nāṃpīduśaityena ca jīya<lb n="9"/>te ato visargepyaṃmlala<add
+                            place="left-margin">va</add>ṇā vā peyāvatuṣaṣvete - - viruddhe guṇopi .
+                        na trasmehosti tiṣṭhavṛttinuhattara<lb n="10"/>dakṣiṇāsya bhāvātaṣṭhavino
+                        sūryāḥ caṃdramasau<del>la</del>vata ita eva sasamahorātraṃ sādhāraṇaṃ
+                        śītoṣṇī - - -<lb n="11"/>- - himāsamekaṃ yārā<unclear>dga</unclear>ti
+                        durnātyadhika - - - yūtiṃ tayattal̤amativyapahātaghanapaṭal̤ā ca
+                            niravikiraṇā<pb n="45"/>nyastena kārtikepi lavaṇoṣonuṣajyate .. - - - -
+                        -myasya kaṣāyasyānuṣaṃgesya dviśiṣṭāḥ praṣṭavyāḥ hetaṃ<lb n="2"/>
+                        tenuvisargakāl̤astrastāvenaṃ durdalatadhāddurkkādval̤avaṃtamo himāṃśuriti
+                        hemaṃte śītasnigdho guru - madhuno<lb n="3"/>tatonuṣajyate . śiśiravasaṃ<add
+                            place="left-margin">ta</add> stayonupūrvanyāyena satyāmapi
+                        sūryaval̤avṛddhirikta kaṣāyo krītāveva niṣajyate . ā<lb n="4"
+                        />dānaprabhādātuḥ tayo raukṣaṃ . grīṣme tu ādāvakāl̤atvabhāvena
+                        mānādidotaṃlavatamaḥ svarāṃṣuriti . uṣṇo sū<unclear reason="faded"
+                            >kṣmā</unclear>kṣo<lb n="5"/>laghuśca kaṭuko<del>ḥ</del>raso na ṣajyate
+                        . ṣaṇāṃ tu rasānāṃ snehalāghavādiguṇo<unclear>ru</unclear> hetuḥ esa
+                            vijñānīyedyutpāda<lb n="6"/>yiṣyāmaḥ . uttarottaraṃ val̤asuparitathā
+                        uttarottarameva . somamyāpyājyamānasya snehena sthāvarajaṃgamānā<lb n="7"
+                        />māpyādhyayātatvāt . tena prāṇināṃ varṣāsu val̤amadhikaṃ
+                        darśābhyodhikataraśaradi . śarado hemaṃtedhikatama bha<lb n="8"/>vati .
+                        śiśiratiktaurasaḥ . raukṣāchautyā chiśirasyā vasaṃte kaṣāyaḥ . kāl̤asya
+                        śaityād raukṣātva grīṣme kaṭukā<lb n="9"/>l̤asya raukṣād āgneyatvācca .
+                        uttarottaraṃ bal̤amapacīyata iti .. - - - -mevārkkasyāpyāyanānatvāt <lb
+                            n="10"/>tena ca yāvadāpyāyanaṃ jagat snehasyāṃtatvāt . śiśire
+                        tāvadval̤am apacīyate tasmād adhikaṃ hīnaval̤atvaṃ<lb n="11"/>vasaṃte .
+                        tatopya - - ta val̤atva grīṣmo taduktaṃ carake ādāvaṃte ca daurbalyaṃ
+                        visargādānayornṛṇāṃ madhye madhye<lb n="12"/>valaṃ tvante . śreṣm agre
+                        vinirdiśet . tatra śaranmadhye tu sattamādhyepi - - gahorātraṃ
+                            vi<unclear>ṣṭha</unclear>variti . tavottarāyaṇe<pb n="46"/> viṃśati
+                        kāṣṭhā ekaṃ ca nimiṣārddhaṃ vijayaparivṛddhiḥ dakṣaṇāyane
+                        rātriparivṛddhirapy evaṃ .. tanu ca śiśiravasaṃtaḥ - - <lb n="2"/>-
+                            <unclear>sa</unclear> ṇadramattā iti uttarāyaṇaṃ prāk sūtritaṃ . bhāṣye
+                        tu dakṣiṇāyanaṃ prathamaṃ vyākhyātam iti kramahā<unclear reason="faded"
+                            >niḥ</unclear>. naiṣa do<lb n="3"/>ṣaḥ . dakṣiṇāyane kramabhedena
+                        vyācakṣāṇo vihiṣu uttarāyaṇā dakṣiṇāyanasya pratipādayati . viśiṣṭaṃ vida<lb
+                            n="4"/>kṣaṇāyanaṃ visaṃ<unclear>rgratvā yana</unclear> karatvā tu
+                        prāṇinām iti .</l>
+
+                    <l xml:id="NC.1.6.8">
+                        <label>NC.1.6.8</label>
+                         amum evārtham upasaṃharaṃnnāha . sāmaḥ - - -bhūtim ityā<lb n="5"/>di .
+                        tāvubhau saṃgritya vāyuḥ prajā rakṣati . somam āśrityāpyāyanaṃ jagataḥ
+                        karoti . sūryam āśritya śoṣa<del><unclear reason="faded"
+                        >naṃ</unclear></del>ṇaṃ ta<lb n="6"/>yo yathākāl̤aṃ . - - - - vṛttis tena
+                        prajāṃ varttayatīti .</l>
+
+                    <l xml:id="NC.1.6.9">
+                        <label>NC.1.6.9</label>
+                         pariśiṣṭaṃ pūrvasūtrādvyāsthātuṣāha . <del><unclear reason="faded"
+                                >a</unclear></del>avasvalpayane<lb n="7"/> dheyuyapadityādi .
+                        yugapadhekadhālamayanadvayaṃ saṃtahā - - pṛtha<add place="right"
+                        >k</add>dakṣaṇāyanam uttarāyaṇaṃ vā nanu ca māghā<lb n="8"/>da<del>e</del>yo
+                        dvādaśamāsā vatsara ityuktaṃ . tat kiṃ punarabhidhānena ucyate . pūrvodito
+                        hi māghādayo dvādaśa vyastāścā ka<lb n="9"/>maparipaṭhitāś ca saṃvatsara
+                        ityāśakyā syāt . asmin nirdeśe kriyamāṇo yena krameṇa
+                            <unclear>vadatu</unclear>vibhāge yana dvayaṃ pra<lb n="10"/>tipāditaṃ
+                        tenaiva <unclear>ved</unclear> ayanadvayaṃ yugas tadā mavatsara iti
+                        vāstānāmakramapaṭhitānāṃ ca māghādīnāṃ saṃvatsaratvaṃ<lb n="11"/>bhavati .
+                        idānīṃ yugapravibhāgaṃ darśayannāha . teṣu paṃcetyādi . saṃjñāgrahaṇaṃ tretu
+                        kalayati . saṃvatsarapaṃcakaṃ<pb n="47"/>yugamiti .. pramārthatastu kṛtvā
+                        yugaviśeṣā iti yugaprayojanaṃ tu ādya evādhyāyetidarśitaṃ . <del>kā</del><lb
+                            n="2"/>kāl̤a ca kramityucyate . ityavan parivarttanāmṛdupamāvaśā<del
+                            extent="1" unit="letter">cha</del>bdapravṛttirivarśāyati .
+                            pātaḥśāṣeteyekaśa<lb n="3"/>bdoyam anya paryāyaḥ . ata eva
+                        bahuvacanaviṣayatā </l>
+
+                    <l xml:id="NC.1.6.10">
+                        <label>NC.1.6.10</label>
+                         asya . saṃśodhanāśrayaṃ darśayannāha . ihatvityādi tuśa<lb n="4"/>bdaḥ
+                        punararthaḥ kimarthaṃ punarvarṣādava ṛtava pratyāhādau <add
+                            place="top-margin">do</add>ṣavadyādyarthaṃ . nanu veda seva darśanaṃ
+                        prāgabhidhātavyaṃ ..<lb n="5"/>idaṃ darśanaṃ
+                        vyādhihetudātānisaṃcayādyathatvād ātmīyaṃ . tataścedam eva prākkarttavyaḥ .
+                        naitadasti . tatra vā<lb n="6"/>tādikāraṇānāṃ rasānāṃ nivṛtteḥ tadeva
+                        prathamaṃ kṛtaṃ nirdoṣoṇedyotādapi . hemaṃte śiśire caiva vasaṃte <lb n="7"
+                        />cāpi mokṣayet . tryahādyahaccharadgrīṣma varṣāsvapi ca buddhimān api . etā
+                            chākopa<del>o</del>paghātād api vini<lb n="8"/>- didarśanaṃ ..
+                        prāgnirdiṣṭaṃ tatra prāvṛṣayor bhedaḥ prāvṛḍiti prathama pravṛṣṭaḥ
+                        praśabdoyamādikarmmaṇi . tasya<lb n="9"/>varṣasya bhūyasānubaṃdho
+                        varṣānvayāt prakopo balīyān . tasya cikitsā saṃśodhanam iti saṃśodhanam a<lb
+                            n="10"/>dhikṛtya varṣādayanuktā <del>ḥ</del> śiśirādaya<del>ḥ</del>stu
+                        rasabal̤aṃ cādhikṛtyeti . anye tu gaṃgāyā dakṣiṇe jane va<lb n="11"/>rṣādaya
+                        uttāranuśiśirādaya pratibhāṣaṃte paṭhati ca bhūyo varṣaṃ
+                            <unclear>uparyatyo</unclear>gaṃgāyā dakṣiṇe jana ityādi<lb n="12"
+                        />prayojanāṃdhatadotoreva darśanaṃta cā . - - ṇasya prayojanāṃ tatraṃ tu
+                        prāguktam asmābhiḥ . tathā carā<pb n="49"/> kepi tasyā
+                            <unclear>śarīdorasadal̤a</unclear> nirvatyartha śiśirādidarśanaṃ
+                        darpitaṃ - - - - - ṣajītiyatimāne saṃśodhana<lb n="2"/><unclear
+                            reason="faded">ma</unclear> dhikṛtya varṣādayaḥ . taduktaṃ ..
+                        hemaṃtagrīṣmavarṣāśceti . śītoṣṇalakṣaṇāstraya <unclear reason="faded"
+                            >ṛ</unclear>tavo bhavaṃti . teṣāmaṃtari<unclear reason="faded"
+                            >ṣvi</unclear> tā tasya - - - traya<unclear reason="faded"
+                            >tprā</unclear>vṛdraśaradvasaṃtā iti . tatra prāvṛḍiti prathamaḥ
+                        pravṛṣṭaḥ kāl̤aya tasyānubaṃdho<lb n="3"/>varṣāḥ eva <unclear>sete
+                            śedhe</unclear>nam adhikṛtya ṣaḍbhiḥ labdhata iti . tathaitarabhi - -
+                            ṇagraśiṣṭā<unclear>śatatrakāro dṛḍhabal̤aḥ</unclear><lb n="5"/>siddhiṣu
+                        . atyuṣṇavarṣaśītād hi grīṣmavarṣā himāgamāḥ . tadaṃtare prāvṛḍādyā jñeyāḥ
+                        sādhāraṇāstrayaḥ <unclear reason="faded">prā</unclear><lb n="6"/>vṛṭ
+                        śukranabhau jñeyo saradūrjasahau punaḥ . tapasyaśca madhuścai<del>ṣa</del>
+                        <unclear>va</unclear>vasaṃtaḥ śodhanaṃ prati . tadevaṃ prāmāṇikā tu <lb
+                            n="7"/>smṛteḥ svataṃtrepi tāvadayam artho la - - - dhanam adhikṛtya
+                        varṣādayaḥ . he<unclear reason="faded">maṃta</unclear><del>l̤a</del>m
+                        adhikṛtya ca śiśirā<lb n="8"/>daya iti . itaraṃ tu darśanam āgamamātraṃ
+                        paśyatā svataṃtraviru<unclear>dvṛsvenya</unclear> vicāraya tā - - -
+                        vadarśitaṃ nanu<lb n="9"/>ca doṣasaṃvayotra prakopamiti tathā
+                        varṣādidarśanasya kathaṃ śodhanārthaṃ varṣādayavatyabhidhīyate ..<lb n="10"
+                        />ucyate . tasya vidheyatvena prādhānyā - - - - dayorikā tadva lakṣamo naiva
+                        ni - ṣṭāte prāma<lb n="11"/>nuyāyepi vidhyatarā<del>dhaṃ</del>jagaṃnnāthaṃ
+                        nanu ca machavṛttoditam anyad apyāhāravihārāpyaṃvidhyetara ma<pb n="50"
+                        />ramaṃti tat kimartha varṇādayo nābhidhīyaṃte . naitadasti .. sarvoṣvateṣu
+                        svāsyavṛttikeṣu vidhiṣu saṃśodhanasyāmūl̤a<lb n="2"/>to doṣaharaṇena
+                        prādhānyāt . nānyasya viparyayāt . atapatopariṣṭadvekṣati . tatra
+                        varṣāhemaṃtagrīṣmeṣu saṃcitānāṃ<lb n="3"/>doṣāṇāṃ śaradvasataprāvṛkṣu ca
+                        kupitānāṃ nirharaṇaṃ kartavyaṃ . nānya svāsthyavṛttikaṃ vidhiṃ nirdiśya
+                        prādhānyāt . </l>
+
+                    <l xml:id="NC.1.6.11">
+                        <label>NC.1.6.11</label>
+                         ta<lb n="4"/>tra pittādīnāṃ saṃcayaprakopau varṣādiṣu yathā sahetukau
+                        bhavatas tathā nirdaśannāha . tatra varṣāsvoṣadhyastaruṇa ityādi . taru<lb
+                            n="5"/>ṇyābhinadāḥ śrutyavīryā asaṃpūrṇarasatvāt . atra vīryaśabdaḥ
+                        śītoṣṇalakṣaṇavīryaśabdaḥ śītoṣṇalakṣaṇavīryavacanaḥ<lb n="6"/>śaktivacano
+                        vā . abhiṣyaṇaśarīrāṇāṃ śītavātaviṣṭaṃbhitāgnīnāṃ . śītena kopito vātaḥ
+                        śākapārthivādi darśanā<lb n="7"/>n madhyapadalopīsamāsaḥ śītena hi
+                        vātakṣobho bhavati . taduktaṃ .. śītaśītena kupyatīti . tena viṣṭaṃbhito
+                            maṃdavegīkṛto<lb n="8"/>niruddhavegogniryeṣāṃ te tathoktāḥ . na punar
+                        bāhyena śītavāyunā tena hi vahnes tīkṣṇataiva bhavati .
+                            bahirlomakūparodheno<lb n="9"/>ṣmaṇo nirgamāt . aṃtaropavālabhavati .
+                        taduktaṃ carake . śīte śītonilasparśo<unclear reason="illegible"
+                            >saṃvurdhvo</unclear>bal̤ināṃ bal̤ī . <unclear reason="illegible">ya
+                            hatā bhavati</unclear>
+                        <lb n="10"/>hemaṃte mātrādravya<unclear reason="faded">guṇāśra</unclear>maḥ
+                        . videhya<del>maṃ</del>temlapākam upayāti . āpaścāpraśāṃtāḥ . apariṇatāḥ
+                        navatvāt . kṣi<lb n="11"/>ti mal̤aprāyā<unclear reason="faded">t
+                        </unclear>tpṛthivyā . tṛṇapastho - ca śavako<unclear reason="illegible"
+                            >vvā</unclear>ṇilakul̤āḥ savidāhomlapākaḥ paittikān vyādhī<lb n="12"/>n
+                        . aṃtikā pipāsā paridāhādīn taduktaṃ vraṇapraśne teśāṃ tu prakopāt . konva
+                        todasaṃcaraṇā <unclear reason="illegible">clikṣā</unclear>
+                        <pb n="51"/>pipāsāparidāhānna dveṣa<del>hṛ</del>hṛdayo kledā iti liṃgāni
+                        bhavaṃti . atra paitikā avlakodayo grāhyāḥ sa tuṣāro<lb n="2"
+                        />pastaṃbhitadehānām iti . saha tuṣāreṇa <unclear reason="illegible"
+                            >pva</unclear>rtaṃte satuṣāraścaṃdramāḥ . visageṃti
+                        hibhṛṣamāpyāitacaṃdramāḥ . tena satuṣā<lb n="3"/>reṇa staṃbhitānyāāpyā
+                        dhitāni śarīrāṇi yeṣāṃ te tathoktāḥ avidagdhā madhurapākam upāgatāḥ .
+                        upalepitvāt pai<lb n="4"/>chi<unclear reason="illegible">hapācata
+                            picchi</unclear>yama lopayati . arkakiraṇapravilopitaḥ sūtana
+                        ghṛtādhānam iva vil̤āpitaḥ . tāni khara<lb n="5"/>tvād arkasya vasaṃtekaḥ
+                        pāvil̤ayamātraṃ sādhayati . na tūpaśoṣaṇākhyaṃ praśamam iti . śleṣmikān
+                            śleṣmanimittān<lb n="6"/>vyādhīn vraṇapraśleprakopaliṃgaṃ paṭhitān
+                        annadveṣahṛdayotkledādīn . tā evauṣadhetatimārā nirgatasārāḥ sā<lb n="7"/>ro
+                        gauravaṃ sneho vātanirgataṃ yā - - - paktāḥ . oṣadhīnāṃ
+                        punaravayavapariṇāmān kāl̤asvabhāvasomārkā<lb n="8"/>nil̤akāl̤aritādguṇānām
+                        utkarṣāpakarṣaḥ . vātikān vyādhikān koṣṭhatorasaṃcaraṇādīn vraṇapraśne vāta
+                            <lb n="9"/>prakopaliṃgagaṇapaṭhitān kathaṃ punaḥ śītasya vāyoruṣṇe
+                        grīṣme saṃcayaḥ . śītatvaṃ punarasya vyādhini<del>ī</del><lb n="10"/>dāne
+                        sādhayiṣyāmaḥ . vātaguṇeṣu rau<unclear reason="faded">kṣa</unclear>sya
+                        prādhānyād iha hi ye kecid vātamu<unclear reason="faded">pā</unclear>s teṣu
+                        rau <unclear reason="faded">kṣa</unclear>m eva pradhānaṃ . tad grī<lb n="11"
+                        />ṣme oṣadhīnām atimātreṇa raukṣeṇa rūkṣasya vāyo grīṣmasaṃcayaḥ kathaṃ
+                        punar eta ta<unclear reason="faded"><del>sī</del>cī</unclear>yate .
+                            kaṭurasena<pb n="52"/>vātakopāt . praśamāc ca madhureṇa yadi hi
+                        vātaguṇeṣu saityasya prādhānyaṃ syāt tadā kaṭukenoplena vāyo praśamaḥ syā<lb
+                            n="2"/>t nanu prakopaḥ - - - - - ṣu raukṣaśaityatulyasyātāṃ tadā
+                        kaṭurasenoṣṇarūkṣeṇa vāyo na praśa<del>ga</del> mo nā<unclear reason="faded"
+                            >ti</unclear>kopaḥ<lb n="3"/>syāt . kopas tu dṛśyate .. tathā madhureṇa
+                        snigdhaṃśaḥ - - - - rūkṣaśītasya praśamādavaśīyate vātaguṇeṣu raukṣa<lb
+                            n="4"/>pradhānam ityevaṃ pittakaphayoḥ - ṣṇyaṃ sneho prādhānyena
+                        nidarśanīyāviti . evabhidhā - doṣopacayādi<lb n="5"/>nimittam iti
+                        pratijñātam arthaṃ sādhitaṃ nigamāyan āha evam eṣa ityādi . evam anena
+                        prakāreṇa saṃcayaprakopahe<lb n="6"/>turuṣṇa . - - - kāl̤asvabhāvāhita
+                        oṣadhītāruṇyādi . yāvachītavātavarṣai - raukṣatikān vyādhīn jana<lb n="7"
+                        />yati . nanu ca doṣa saṃcayaprakopapraśamananimittam iti . trayāṇāṃ
+                        cayaprakopapraśamānāṃ pratijñā u<add place="right">kta</add> tvāt . ka<lb
+                            n="8"/>rṣasaṃcayaprakopo vyākhyāyopasaṃhāraḥ . naiya doṣaḥ . prakopo hi
+                        saṃśodhanaṃ vidheyaṃtatayā - - pratijñaṃ trīta pra<lb n="9"/>śamasahitān
+                        vyākhyāyate tadā praśamāṃtaritaḥ prakopaprakramavidhi syāt . tasmāt
+                        saṃcayaprakopāvet .<lb n="10"/>tāvat pṛthag ākhyāyati prakṣopeya - - -
+                        śodhayati na vidheṣasaṃjanārthaṃ tathetavidhiṃ vaktum āha . </l>
+
+                    <l xml:id="NC.1.6.12">
+                        <label>NC.1.6.12</label>
+                         ta<lb n="11"/>tra varṣāhemaṃtagrīṣmeṣu saṃcitānāṃ<unclear reason="faded"
+                            >do</unclear> ṣāṇāṃ śaratvasaṃtaprāvṛṭ<del>yuva</del>prakupitānāṃ
+                        nirharaṇaṃ karttavyaṃ .. - -<pb n="53"/>- - ṇadhā karṣaṇaṃ . prakupitānām
+                        iti . praśabdo bahudoṣāṇām eva saṃśodhanam iti darśayaṃti . prabhūta śle<lb
+                            n="2"/>ṣmavittāsrānil̤āḥ śodhanīyā iti carakavacanāt . - - - -tvaṃ tu
+                        vipākarudhiṣṭyolpādi liṃgajñeya<lb n="3"/>m eva madhyadoṣeṣu mupācamādi .
+                            a<del>lva</del><add place="top-margin">lpa 3</add>doṣeṣu
+                        punarlaṃghanapipāsānigrahādi evaṃ tu vidhiḥ . kuśa ca - <lb n="4"/>ti cakāro
+                        darśayati. nanu ca prakupitānāṃ nirharaṇaṃ karttavyam ityevavaktavyaṃ na
+                        punas tatra varṣāhemaṃtagrī<lb n="5"/>ṣmeṣu saṃcitānāṃ doṣāṇāṃ śarat - -
+                        prāvṛṭyuvaprakupitānām iti . patteṣvevātraṃrataṃ doṣasaṃcaya prako<lb n="6"
+                        />pāyāruṣṭatvāt . naitadasti . śaradādi . ṣveva prakupitānāṃ nirharaṇaṃ
+                        pradāsyād anyatra mā bhūd iti niya<lb n="7"/>mārthaṃ punaḥ śaradādigrahaṇaṃ
+                        . anyathā hi yadāpyete hetu<del>dhā</del>bāhulyād grīṣmādiṣu doṣāḥ
+                        prakuṣṭoyuḥ ta<lb n="8"/>dā catrāpreṇa vamanādadhaḥ . prasaṃṣṭeran .
+                            tatra<del>u</del> neśyate . doṣāṇām atipravṛtyām anarthaṃ karatvāt .
+                        kathaṃ pu<lb n="9"/>nareṣu vamanādibhirapravṛttipravṛttī . grīṣme
+                        vātatyuṣṇavātā - japādibhiriti śithilībhūtaśroto<lb n="10"/>sukhaśarīraṃ .
+                        oṣadhaṃ saṃśodhanīyam uṣṇavīryaṃ vikāśi ca . tat pul̤akolasyauṣṇenānugatam
+                            ativikā<pb n="54"/>śivāmāpakamatiyotāya kalpate .
+                            mavaśvavamanavireca<del>nna</del>nā triyogopamṛtāmaraṇaṃ <unclear
+                            reason="illegible">śala</unclear>ati.varṣāsu<lb n="2"/>punarviyati .
+                        śabdāvaśatajal̤aklinnāyāṃ bhūmau klinnaṃ śarīraṃ prāṇināṃ . gurūprakopā
+                        doṣāḥ vihṛta svabhā<lb n="3"/>vonyoṣadhāni jal̤aplutarasavīryāṇā yonāya
+                        bhaveyuḥ hemaṃtepyatiśītasparśasaṃvṛttāyanaṃ śarīraṃstyāni<lb n="4"/>
+                        bhūtāni caṃdradoṣasaṃcayanyoṣadhamuṣṇasvabhāvakāl̤aśaityopahataṃ
+                        maṃdavīryatām āpannaḥ yogāya kalpate . ca<lb n="5"/>nitāyu doṣā
+                        agnihriyamāṇā vyādhiparivṛddhimasādhyatāṃ vā kuryuriti . prāvṛṭsu ca
+                        kupitānām iti cakā<lb n="6"/>raḥ punarvarṣādiṣv api śodhanasādhyeṣu nivṛttaṃ
+                        śodhanam eva samuccijoti . atipātiṣu - - - - - -<lb n="7"/>na sādhyeṣu
+                        varṣādiṣv api śarīrabheṣajayoḥ kṛtrimaguṇopadhānena
+                        bhaiṣajyasaṃskāramātrāvikalpena prāṇavīrya<lb n=" 8"/>samaṃ kṛtvā doṣāṇi
+                        harttavyā . haritakaḥ . - samuccinoti . tatra varṣāhemaṃtagrīṣmeṣu
+                        saṃcitānām iti . eteṣv eva<lb n="9"/><unclear>saṃcayokte</unclear> varṣādi
+                        punarvacanam eteṣv api vidhiṃ sūcayati . - - - . saṃcayepadūtā doṣā labhaṃte
+                        notarā ca prī<lb n="10"/>ti<unclear reason="illegible">sthira</unclear>natu
+                        śaradādi punarvacananimamenāny atra saṃśodhanasya nivṛttatvāt . kaṃ vidhiṃ
+                        sūcayati . ucyate . - - -<lb n="11"/>tvādi ta<unclear reason="illegible"
+                            >cadhāśva</unclear> mṛtuvihita - kuṇacārāsyam iti . anyathā hi
+                        svasthavṛṛttoditam ṛtuvidhānam utsūtraṃ syāt ..<pb n="55"/>nanu ca
+                        śaradādīnāṃ dvimāsika<add place="top">m ṛtuṃ kṛ</add> tvā kasmi<add
+                            place="top">n</add> punarmāse saṃśodhanaṃ ce - - kāl̤āpekṣitvācca . - -
+                            kāl̤avibhā<lb n="2"/>gā<unclear reason="illegible">śeṣa</unclear>
+                        prakṣopakāl̤āpekṣaṇā dvitīyamāsa itye<del>ā</del>ke tatra pittaṃ
+                        mārgaśīrṣāraṃbhe sādhāraṇavarṣāṇāṃ - - tvātra<lb n="3"/>tabdākapā - ha - ṇa
+                        caitreyo tasya śrāvaṇe . evaṃ hi sādhāraṇa kāl̤aḥ . trimāsāṃtaritāśca doṣā
+                        bhavaṃti . doṣasya<lb n="4"/>kopakāṣṭhā ca bhavati . taduktaṃ ..
+                            carake<del>ā</del>mādhava prathame māsi<add place="top">na</add>
+                        <unclear reason="faded">vā</unclear>sya prathame punaḥ . sahasya prathame
+                        caiva vāhayed doṣasaṃ<lb n="5"/>cayam iti . atra sahasyaḥ pauṣaḥ . tasya
+                        prathamo mārgaśīrṣaḥ . taduktaṃ .. kapiladattena maghau sahe nabhasi ca māsi
+                            doṣā<lb n="6"/>n . pravāhayet . vamanaiśca virekaiśca niruhaiḥ
+                        sānivāsavaiḥ . bhaṭṭārakaha<add place="right">ri</add> caṃdrastu sahasya
+                        prathama ityatra ca <del><unclear reason="faded">hasa</unclear></del>ca <add
+                            place="right">saha</add>ha śabde<lb n="7"/> nākārāṃtena
+                        mārgaśīrṣamācaṣṭe . tasya prathamaḥ kārtikaḥ iti vyākhyānayaṃti . taduktaṃ
+                        .. śrāvaṇe kārtike caitre<lb n="8"/>māsi <add place="left">sā</add>dhāraṇe
+                        kramāt . grīṣmādi<del><unclear reason="faded">svaddhi</unclear></del>tān
+                        doṣās tri<del>ṣā</del>māsāṃtaritān haret iti . nanu ca yadā vāyo prāvṛṣi
+                            kupiṃ<lb n="9"/> tasyādi haraṇaṃ na kriyetāvarākṣitasya varṣāsu
+                            kopa<del>pavā</del>praśamo vā snuhetvanubaṃdhāt prakopa iti
+                            drumapraśamo<lb n="10"/>hi pratyanīkena bhavati . na ca
+                            varṣā<del>nu</del> kiṃcid vā yo pratyanīkama<unclear>śvi</unclear> . - -
+                        - na tītaraukṣādirasti . tenāṣvava<lb n="11"/>rṣāśvapi kopa eva .
+                        pratijñātam upaśamaṃ vyācikhyāsurāha .</l>
+
+                    <l xml:id="NC.1.6.13">
+                        <label>NC.1.6.13</label>
+                         tatra paittikānām ityādi . svabhāvataḥ svalakṣaṇataḥ<pb n="56"
+                        />lakṣaṇetvevāṃ śītoṣṇavarṣāṇi . yaduktaṃ .
+                            śītoṣṇavarṣalakṣaṇa-<unclear>tyudvṛ</unclear>tavo bhavaṃti . uktam
+                        arthaṃmupasaṃharan āha . eta<lb n="2"/>ityādi .</l>
+
+
+                    <l xml:id="NC.1.6.14">
+                        <label>NC.1.6.14</label>
+                         sāṃvatsarikaṃ vidhiṃ divasepyati . daṣṭum āha . tatra pūrvāhne
+                        vasaṃtaliṃgam ityādi . ahorātram ityavarṣam i<lb n="3"/> ty avarṣamiva .
+                        teṣāṃ dhāpikatuṣṭivāharavayaveṣu taddoṣakopaneṣu tat tat
+                        śodhanaśamanavidhānaṃ . ta - - - saṃjñe<lb n="4"/>vasaṃta iva vamanaṃ .
+                        tathāṃ svasthavṛttaśamanaṃ vidhivamanāgatāvādhavidhividhāḥ . evaṃ recanena
+                        pittaharaṇaṃ . madhyā<lb n="5"/>hne tathānāgatāvādharitavidhānam api eva
+                        prāvṛṭ vāyuvidhānaṃ . sāyāhne tu vāsanaṃ tathā . anāgatātā<lb n="6"/>tra
+                        vidhānaṃ ca . atra madhyāhnātve nirūhadāne tu asmatviti - - praṣṭavyā ityeke
+                        . anyeṣu mevanāvṛttamārga<lb n="7"/>sya vāyoḥ praśa<add place="left"
+                            >ma</add>natvādi <unclear reason="faded">ni</unclear> rūhasya tadāhi
+                        sphuṭaśroto mukhaṃ śarīramato nirūhadānam ityā<del>di</del>huḥ . praśa<add
+                            place="right">ma</add>he<lb n="8"/>- - - - - -vṛttavad anāgatāṃ .
+                        bādhavidhividhāḥ . śāradam arddharātre . arddharātre hi āhārasya vidāhe ma
+                            pi<lb n="9"/>ttakopaḥ tatra ca svacchavṛttavadanā - tā vā . - - -
+                        -vidāho hi pittakopavidhi <unclear>taduktaḥ</unclear> taduktaṃ vraṇa <lb
+                            n="10"/>praśne pittakopanahetugaṇanāyāṃ krodhaśokopavāsabhuyāyā
+                        siddhitanyahūti . etauṣadhato - śādhividā<unclear>ṅkā</unclear><pb n="11"
+                        />ya pittakopānīti . bhavati cātra . āhnikenāgatābādhā ca svasthavṛttāt
+                        kriyārttave . doṣakopetayosvāsthya<pb n="57"/>- - - - - - - - nanu caivaṃ
+                        pratyahameva doṣāṇāṃ saṃcayaprakopapraśameṣu kathamārttavāḥ saṃcayādayo
+                        bhaveyuḥ <lb n="2"/> divasairevārabdhatvāt . dhātūnām āhnikacayakopayoś ca
+                            pratyahapravapra<unclear reason="illegible">cānvatvāt</unclear> .
+                        naiṣṭadoṣaḥ ścāhniko hi cayādi<lb n="3"/>rahorātramātrāśrita
+                        sūryasomānil̤ātāmuṣṇādiguṇamātra sāpekṣo jāyate . tathāha .
+                            rāmatāvidāhajī<lb n="4"/>rṇatāpakṣa-tyalpahetvapekṣolpaśceti . bhavati
+                        cātra . āhnikaścakravannityaṃ cayādiḥ parivartate . ahorātrā<lb n="5"/> śca
+                        yārkkā dviguṇamātrālpakāl̤aṇaḥ ṛtubhavaḥ punarmagniviraṭāvasūryasomāni
+                        kakṛte dravyarasaguṇavīryavi<lb n="6"
+                                />pākaprabhāvai<unclear>rati<del>ai</del></unclear>kāl̤āṃtareṇa
+                        niraṃtaropacitatvād vipul̤ena ho<del>mā</del>rātrāśritārkādi guṇā hatyaṃta
+                            bhinevata<lb n="7"/>bhyamāṇaścayādirgarīyānabhipralakṣaṇaśceti . bhavati
+                        cātra . mārgāṃtaraḥ tārkādikṛtadravyarasādijaḥ yāhikā<lb n="8"/> d
+                        bahuranyaṣvavahnaśrotyana ārtavaḥ māyaṃ yathokta . </l>
+
+                    <l xml:id="NC.1.6.15">
+                        <label>NC.1.6.15</label>
+                         doṣacaryādiṣṭavyāpatteṣu ṛtuṣu bhavatīti darśayannāha . a<lb n="9"
+                        />vyāpatteṣṭatuṣvityādi - - ta utsāhalakṣaṇaṃ . vīryaśaktiḥ
+                        sadhātusnehaüjaḥ</l>
+
+                    <l xml:id="NC.1.6.16">
+                        <label>NC.1.6.16</label>
+                         kutaḥ punarauṣadhīnām eva<lb n="10"/>vyāpada ityāha . tāsā punarvyāpa
+                        ityādi . adṛṣṭena sarvajanasāmānyenādharmmeṇa kāritāḥ . kartuṃ prayojitā
+                            iti<lb n="11"/>ṇijaṃtaḥ . adharmastāvad vyāpadāṃ saṃbhave
+                        prayojakakarttā . kaḥ punastāsāṃ svataṃtraḥ karttetyāha . śītoṣṇavarṣāṇāni
+                            i<pb n="58"/>tyādi .<del>sī</del> śītoṣṇavarṣāṇām eva - sa<unclear
+                            reason="illegible">tva</unclear>lāvatvā pa - vaiparītyamṛduvyāpat . ādye
+                        tu śītoṣṇavarṣāṇīti<lb n="2"/>paṭhaṃti viparītāniti hīnam <unclear
+                            reason="faded">tyā</unclear>di yuktāni . </l>
+
+                    <l xml:id="NC.1.6.17"/>
+
+                    <l xml:id="NC.1.6.18"/>
+
+                    <l xml:id="NC.1.6.19">
+                        <label>NC.1.6.19</label>
+                         mṛduvyāpā - - - - pi hetubhiḥ - - - -vadarśayannāha ka<lb n="3"/>dācid
+                        avyāpatteṣvapītyādi . kadācid iti na sarvakāl̤aṃ kṛtyā rākṣasīviśeṣaḥ .
+                        abhiśāpo gurusiddhādī<lb n="4"/>nāṃ kujña - - oṣadhī puṣpagaṃdhena
+                        vāyunopanītenocikṛtenaiva vāyunā voṣadhī puṣpagaṃdhavāhiya . oṣa<lb n="5"
+                        />dhyo muciliṃdavṛkṣādayaḥ tatra nāsā raṃdhrānugatena
+                            dāṃpāṃḍurākāraśvāśapratiśyāyamaṃdhājñānabhramaśi<lb n="6"/>rorujaḥ
+                        tvamiṃdrayagatena <unclear>jñaca</unclear>mamū<del>yū</del>rī<unclear
+                            reason="faded">katraḥ</unclear>kādayaḥ . grahanakṣatracaritairveti .
+                            grahāśa<del>ai</del>naiścarādayaḥ rā<lb n="7"/>śyaiyaṃtaracāriṇa - - -
+                        ḍayatti . nakṣatrāśvinyādini teṣāṃ caritaṃ yuddhādi
+                            śayanadīnamārhitalakṣaṇaprā<lb n="8"/>durbhāvaiḥ śayanādiṣvapi hi
+                        gārhatādhiniditāni lakṣaṇāni āvarttachāyādibhiḥ kākasukhādīni ta<lb n="9"/>t
+                        prabhāvenāpi pīḍāśārī<unclear>rī</unclear>mānasītva bhavati .</l>
+
+                    <l xml:id="NC.1.6.20">
+                        <label>NC.1.6.20</label>
+                         idāniṃ mṛtutyāpadādikṛto - śeyāṇāṃ sāprātyena ciki<lb n="9"/>sā darśayan
+                        āha . tatra parityāga ityādi . ṛtukopasyādharmā kāritvāt
+                        tatra<del>ai</del>daivavyapāśrayameva bheṣajaṃ<lb n="10"/>parityāga <unclear
+                            reason="illegible">itubhaya</unclear>tādīnāṃ garhitalakṣaṇānām
+                        auṣadhyādi - salilānāṃ ca . anyāsāṃ prākjanapado<lb n="11"
+                        />ccaitsādupakṛtānām auṣadhīnāyuyā copayogaḥ śāṃtiriṃdriyavijayaḥ
+                        prāyaścittaṃ prāktanakarṣopaśamā<pb n="59"/>- - - - - - - - - -dhita - - do
+                        devādiṣu gavāśvaprabhṛtīnāṃ dhupānayanaṃ ajanīrbhaktyākāra<lb n="2"
+                        />saṃpuṭavidhānaṃ . tapastāpanālakṣaṇa - - vāsavidi . - - - svādito
+                        dvitrirṣānādi . - - - - parvapūrva<lb n="3"/>kaṃ <unclear reason="faded"
+                            >na</unclear> trādigrahaṇaṃ . akāpagamo gurūvākyādīnāmaṃgīkāraḥ </l>
+
+                    <l xml:id="NC.1.6.21-36"/>
+
+                    <l xml:id="NC.1.6.37">
+                        <label>NC.1.6.37</label>
+                         idānīmṛtuvyāpadevaśītoṣṇavarṣe viśeṣā<lb n="4"
+                        />pūraproṣṇeṃtriprakāra-datīti darśayitum āha . śvaguṇairatiyukteṣvityādi
+                        prakārāṃtareṇa ṛtuvyāpat darśanama<lb n="5"/>pi .
+                            śītoṣṇavarṣātiyogānatiyogavaiṣamya<unclear reason="background_noise"
+                            >tā</unclear>tayo <unclear reason="illegible"
+                            >rhi.ṣe</unclear>saṃcayaprakopā<add place="right">ra</add>yor
+                            hetvaṃ<unclear reason="faded">su</unclear>rupeṇa
+                            <del>śva</del>svasthavṛ<lb n="6"/>tti tridhānāthīśodhanārtham apīti
+                        yathoditasya ślokasyāraṃbhaḥ . svaguṇairatiyukteṣu viparīteṣviti pra - -<lb
+                            n="7"/>iti yogāt dvipadīsthātiyogaḥ hīnayogaḥ na keval̤am eteṣu viṣu
+                        teṣv api doṣāḥ kupyaṃti vaiṣamyaṃ puna ṛ<lb n="8"/>tūnām anyatrānyaliṃga - -
+                        - - gha - varṣāliṃgaṃ śaradi . śītaliṃgaṃ hemaṃte evam anulomādhilomābhyām ṛ
+                            <lb n="9"/>tuvaiṣamyaṃ . śeṣam udāhāryaṃ etena prakāreṇa ṛtavo
+                        vyāpadyaṃte . - - detvanurūpaṃ doṣā saṃcīyate kupya<lb n="10"/>ti vā .
+                        doṣasaṃcaye yathā<del>.</del> hetudoṣapratyanīkaṃ svasthavṛttavidhānaṃ
+                        prakope ca yathādoṣaṃ saṃśodhanam iti .<lb n="11"/>bhavati cātra .
+                        viparyasāti . hīnasya yathāyogam ṛto nṛṇāṃ viparyastātihīnā syurapi .
+                        doṣavayādayaḥ ..<pb n="60"/></l>
+
+                    <l xml:id="NC.1.6.38"/>
+
+                    <trailer>sauśrute nyāyacaṃdrikāyāṃ paṃjikāyām ṛtucaryādhyāyaḥ ..6..</trailer>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
