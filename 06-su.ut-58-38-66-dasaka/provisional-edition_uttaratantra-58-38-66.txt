@@ -2757,7 +2757,7 @@
                     <lg xml:id="SS.6.64.25ab.add">
                         <l>
                             <!--  <label xml:lang="en">cf. 1938 ed. 6.64.25.add1</label>-->
-                            saśiraskaṃ tathābhyaṃgaṃ vyāyāmañ cācared bhṛśam |
+                            saśiraskaṃ tathābhyaṅgaṃ vyāyāmañ cācared bhṛśam |
                             <caesura/>
                             <!-- <label xml:lang="en">cf. 1938 ed. 6.64.25.add2</label>-->
                             sukhodakāvagāhaṃ vā śaucam uṣṇāmbum eva ca ||29|| </l>
@@ -2765,7 +2765,7 @@
                     </lg>
 
                     <lg xml:id="SS.6.64.25cd">
-                        <l> sāṃgārayāne mahati dhūpāmodamadotkaṭau | </l>
+                        <l> sāṅgārayāne mahati dhūpāmodamadotkaṭau | </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 6.64.25cd]</trailer>
                     </lg>
 
