@@ -1825,7 +1825,7 @@ Special Note:
                             sahācandanamūrvvāpiyālaśatāvarīkaśerukāsahadevāpadmakamadhu<lb n="5"/>kaśatapuṣpākuṣṭhāni śaileyakāṭarūṣakabalātibalājīva<g ref="#newa-gap-filler"/><cb/>ntīkalko vā kṣīrayuktaḥ |
                         kāśmaryamadhukatarppaṇakalko vā ghṛtamaṇḍayuktaḥ |
                             madhūcchiṣṭaśārivā<lb n="6"/>sarjjarasamadhukamadhuravarggakṣīrasiddham vā piṇḍatailam iti ||
-                        purāṇaghṛtam āmalakasaralavipakva<add place="bottom margin">śarkkarāmadhumadhuraṃ</add>m pānārthe | jīvanī<sic ana="seems                             overwritten on a syllable that seems attempted to be erased.">ya</sic>siddhaṃ pariṣekārthe || suṣavīkvāthasiddhaṃ<g ref="#newa-gap-filler"/>
+                            purāṇaghṛtam āmalakasarala<pc> </pc>vipakva <add place="bottom margin">śarkkarāmadhumadhuraṃ</add>m pānārthe | jīvanī<sic ana="seems overwritten on a syllable that seems attempted to be erased.">ya</sic>siddhaṃ pariṣekārthe || suṣavīkvāthasiddhaṃ<g ref="#newa-gap-filler"/>
                         <pb n="220r" facs="223"/><lb n="1"/>vā | balātailaṃ siddhaṃ
                         pariṣekāvagāhabastibhojanārtham iti | śāliṣaṣṭikayavagodhūmānnam
                         upaseveta | payasā jāṅgalarasena mudgayūṣeṇa vānamlena śoṇitamo<lb n="2"/>kṣaṇañ cocchritadoṣagrahaṇena
