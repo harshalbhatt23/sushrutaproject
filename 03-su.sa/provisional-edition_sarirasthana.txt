@@ -2051,7 +2051,7 @@
                     </lg>
 
                     <lg xml:id="SS.3.4.93">
-                        <l> strīlaulupatvaṃ nairllajjyaṃ paiśāco guṇasaṅgrahaḥ ||
+                        <l> strīlolupatvaṃ nairllajjyaṃ paiśāco guṇasaṅgrahaḥ ||
                             <caesura/>
                              tīkṣṇam āyāsavakulaṃ krodhanaṃ satvabhīrukaṃ | </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.93]</trailer>

@@ -1521,7 +1521,7 @@ C) Special notes :
                     </lg>
 
                     <lg xml:id="SS.3.4.92">
-                        <l> bhṛśa<cb/>m ātmastavaś cāpi rākṣasaṃ kāyalakṣaṇaṃ || utsṛṣṭācāratā
+                        <l> bhṛśa<cb/>m ātmastavaś cāpi rākṣasaṃ kāyalakṣaṇaṃ || utsṛṣṭhācāratā
                             raukṣṇyaṃ sāhasapriyatā tathā ||</l>
                     </lg>
 
