@@ -2391,7 +2391,7 @@ iii) 19ef is placed after 18ab     -->
                     </lg>
 
                     <lg xml:id="SS.6.64.27.add4">
-                        <l> sevyamā<cb/>no mṛduśparśair nirdayair upagūhanaiḥ | </l>
+                        <l> sevyamā<cb/>no mṛdusparśair nirdayair upagūhanaiḥ | </l>
                     </lg>
 
                     <lg xml:id="SS.6.64.27.add5">
