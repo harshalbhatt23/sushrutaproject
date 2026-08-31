@@ -2800,7 +2800,7 @@
                         <l>
                             <!--  <label xml:lang="en">cf. 1938 ed. 6.64.27d</label>-->
                             <caesura/>
-                             sevyamānaṃ mṛduśparśair nirdayair upagūhanaiḥ | </l>
+                             sevyamānaṃ mṛdusparśair nirdayair upagūhanaiḥ | </l>
                     </lg>
 
                     <lg xml:id="SS.6.64.27.add5">
