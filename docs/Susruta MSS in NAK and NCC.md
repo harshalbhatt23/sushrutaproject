@@ -73,6 +73,14 @@ Descriptive entries at [NGMCP Wiki](http://ngmcp.fdm.uni-hamburg.de/mediawiki/in
 7. America 5318. 
 
 8. Amer, Jaipur p. 147.
+   ![image-20260830102650737](media/image-20260830102650737.png)
+   Biswas 0427.
+
+   Which says: 
+   ![image-20260830105241941](media/image-20260830105241941.png)
+
+   Just the Kalpasthāna, 21 folios, copied in VS 1702
+   Location: Mozamabad, Rajasthan 303009 [https://maps.app.goo.gl/BoLp4F4zjy9ZpB3j9](https://maps.app.goo.gl/BoLp4F4zjy9ZpB3j9)
 
 9. Anandasrama 572 (Sarira). 972 (Sarira). 2586 (Sarira). 5268. 5781. 
 
@@ -123,6 +131,22 @@ Descriptive entries at [NGMCP Wiki](http://ngmcp.fdm.uni-hamburg.de/mediawiki/in
 32. H. 349 (Sarira) 10. 2644. 2645 (Sarira). 2646 (full text). 6223.
 
 33. Jaipur Mus. Ser. 2. p. 125 (4 mss.). 
+
+    ![image-20260829175409489](media/image-20260829175409489.png)
+
+    I.e., 
+
+    1. no.1 Biswas 0431 (1971 vol.), 
+
+    2. **no. 2 Biswas 0432 (1976 vol.),** 
+       SS listed sa numbers 2094, 2101, 2102, 2296; no extract given
+       Nibandasaṅgraha / Ḍalhaṇa: 2313 to 2318 (1706 VS)
+    3. no. 7 Biswas 0433 (1984 Dharmaśāstra)
+    4. no. 8 Biswas 0434 (1987 stotras)
+
+    "2. POTHIKHANA It is the oldest workshop, established in Amber (1584 - 1614 AD) prior to the foundation of Jaipur. In this section books, documents and manuscripts were collected and kept for references. And this continued as a tradition in form of libraries in Maharaja Library, Chaura Rasta; City Palace Library and Library in Ramchandraji ka Mandir. "
+    
+    https://www.indiainch.org/museum/maharaja-sawai-man-singh-ji-museum/
 
 34. JBhP. I .3021. 
 
@@ -180,6 +204,8 @@ Descriptive entries at [NGMCP Wiki](http://ngmcp.fdm.uni-hamburg.de/mediawiki/in
 
 61. Rajasthan Jain Pt. II. p.269 (2 mss.; inc.). 
 
+    Biswas 0891.  Item no. 1635, bundle 2137.  Folios 220-232.  No further details.![image-20260830120959025](media/image-20260830120959025.png)
+
 62. RASB. 4389. 4642. 4694 (Cikitsa). 5251 (inc.). 5275 (inc.).  **144**
 
 63. Rep. Raj &, C. I. p. 46. 
@@ -211,6 +237,7 @@ Descriptive entries at [NGMCP Wiki](http://ngmcp.fdm.uni-hamburg.de/mediawiki/in
     XXVI . 1351-52 (inc.; Sarira) **170** 
 
     XXIII 1401-1404 (probably what’s meant by XXII. 2 above). 1401 is Śā only (VS 1736)
+
 66. Saurashtra p. 23 (2 mss.). 
 
 67. SB. 284-85. 
