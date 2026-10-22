@@ -1,3 +1,4 @@
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
 
@@ -2807,7 +2808,7 @@
                             vidārigandhādikvāthekṣurasakṣīradadhivipakvaṃ sarppir accham
                             pāyayet | tathā nātimātram vāyuḥ prasarati | tato
                             bhadradārvādīni vātaghnāny anyāni cāṅgāny āhṛtya
-                            yavakolakulatthāṃś ca sānūpodakamāṃsāny ekataḥ kvāthyam ādāya
+                            yavakolakulatthāṃś ca sānūpodakamāṃsāny ekataḥ kvātham<anchor xml:id="SS.4.5.18-n1"/> ādāya
                             kaṣāyam amlakṣīraiḥ sahonmiśrya sarppistailavasāmajjābhiḥ saha
                             pacet madhurakapratīvāpaṃ | tad etat traivṛtam apatānakinām
                             pariṣekābhyaṅgapānabhojanānuvāsananasyeṣu vidadhyād yathoktaiś
@@ -7724,6 +7725,9 @@
         <note xml:lang="en" target="#SS.4.5.10-n1">A scribe recorded a reading <foreign
                 xml:lang="sa">yavāgū</foreign> in the top margin, apparently wanting to
             replace one of the terms in this line, but it is unclear which.</note>
+    </standOff>
+    <standOff corresp="#SS.4.5.18" type="Emendation">
+        <note xml:lang="en" target="#SS.4.5.18-n1">We emend minimally from <foreign xml:lang="sa">kvāthya</foreign> for sense.</note>
     </standOff>
     <standOff corresp="#SS.4.9.12" type="Testimonia">
         <note xml:lang="en" target="#SS.4.9.12-n1">Aṣṭāṅgahṛdaya Ci.19.85: <foreign>lākṣā

@@ -1,3 +1,4 @@
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
         <fileDesc>
@@ -7547,6 +7548,7 @@
                 <foreign>dhanvantari</foreign> in the margin; the scribe of N did not have the name;
             the scribe of H included it in the text.</note>
     </standOff>
+  
     <standOff corresp="#SS.1.1.10" type="Notes">
         <note xml:lang="en" target="#SS.1.1.10-n1">We follow the reading of MSS H and N, pace
             Harimoto 2013, in spite of the fact that <foreign>alaṃkṛ[tvā]</foreign> is a marginal
